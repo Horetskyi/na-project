@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "countryCode": "ru",
+    "name": {
+      "ru": "Ксения Кириллова",
+      "uk": "Ксенія Кіріллова"
+    },
+    "bio": {
+      "ru": "юристка",
+      "uk": "юристка"
+    },
+    "relatedUrls": [
+      "https://iriney.ru/okkultnyie/novyij-akropol/%C2%ABnovyij-akropol%C2%BB-legendyi-i-mifyi.html"
+    ]
+  },
+  {
+    "id": 2,
+    "countryCode": "ru",
+    "name": {
+      "ru": "Елена Сикирич",
+      "uk": "Олена Сікірич"
+    },
+    "bio": {
+      "ru": "Президент Культурной ассоциации «Новый Акрополь» в России, философ и психолог.",
+      "uk": "Президент Культурної асоціації «Новий Акрополь» в Росії, філософ і психолог."
+    },
+    "relatedUrls": [
+      "https://www.newacropol.ru/na/russia/biogr_es/"
+    ],
+    "tags": ["na_country_instructor"]
+  }
+]

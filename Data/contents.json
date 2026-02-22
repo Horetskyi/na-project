@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "authorId": 1,
+    "type": "article",
+    "title": {
+      "ru": "«Новый Акрополь»: легенды и мифы",
+      "uk": "«Новий Акрополь»: легенди та міфи"
+    },
+    "city": {
+      "ru": "Екатеринбург",
+      "uk": "Єкатеринбург"
+    },
+    "year": 2007,
+    "countryCode": "ru",
+    "url": "https://iriney.ru/okkultnyie/novyij-akropol/%C2%ABnovyij-akropol%C2%BB-legendyi-i-mifyi.html",
+    "authority": 8,
+    "wordsCount": 9245,
+    "charactersCount": 65835
+  },
+  {
+    "id": 2,
+    "authorId": 2,
+    "type": "inner_material",
+    "title": {
+      "ru": "«Проявление 7 законов в работе инструктора»",
+      "uk": "«Проявлення 7 законів у роботі інструктора»"
+    },
+    "subTitle": {
+      "ru": "Занятие Елены Сикирич с инструкторами. 2 февраля 1997 года. Из архива «Нового Акрополя»",
+      "uk": "Заняття Олени Сікірич з інструкторами. 2 лютого 1997 року. З архіву «Нового Акрополя»"
+    },
+    "year": 1997,
+    "countryCode": "ru",
+    "url": "https://web.archive.org/web/20140701100444/http://no-acropol.info/archive/7zakonov.htm",
+    "authority": 10,
+    "sourceId": 1
+  }
+]
