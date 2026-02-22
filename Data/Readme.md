@@ -7,7 +7,7 @@ Countries Codes are ISO 639-1 https://en.wikipedia.org/wiki/List_of_ISO_639_lang
 
 - contents.json - file with contents metadata
 - Contents authorities are score from 1 to 10 based on number and quality of links/sources
-- Contents text saved in files: Data/Articles/<id>/<lang>.md (en.md, de.md, pl.md, …)
+- Contents text saved in files: Data/ContentsTexts/<id>/<lang>.md (en.md, de.md, pl.md, …)
 - Contents types:
   - "article" - це статті написані поза Новим Акрополем
   - "inner_material" - це внутрішні матеріали Нового Акрополю
