@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "novyij-akropol-legendyi-i-mifyi",
     "authorId": 1,
     "type": "article",
     "title": {
@@ -20,7 +20,7 @@
     "charactersCount": 65835
   },
   {
-    "id": 2,
+    "id": "7zakonov",
     "authorId": 2,
     "type": "inner_material",
     "title": {
@@ -39,7 +39,7 @@
     "sourceId": 1
   },
   {
-    "id": 3,
+    "id": "ob-ezotericheskih-istokah-i-zadachah-novogo-akropolya",
     "authorId": 2,
     "type": "inner_material",
     "title": {
@@ -58,7 +58,7 @@
     "sourceId": 1
   },
   {
-    "id": 4,
+    "id": "ob-ispytaniyah-nakanune-2000-goda",
     "authorId": 2,
     "type": "inner_material",
     "title": {
@@ -77,7 +77,7 @@
     "sourceId": 1
   },
   {
-    "id": 5,
+    "id": "pochemu-my-ne-uchim-ezoterike-v-bolshej-stepeni",
     "authorId": 3,
     "type": "inner_material",
     "title": {
@@ -95,7 +95,7 @@
     "sourceId": 1
   },
   {
-    "id": 6,
+    "id": "o-scholastike",
     "authorId": 3,
     "type": "inner_material",
     "title": {
@@ -114,7 +114,7 @@
     "sourceId": 1
   },
   {
-    "id": 7,
+    "id": "zhivoe-slovo",
     "authorId": 2,
     "type": "inner_material",
     "title": {
@@ -133,7 +133,7 @@
     "sourceId": 1
   },
   {
-    "id": 8,
+    "id": "molitwa-uchenika-uchitelyu",
     "authorId": 3,
     "type": "inner_material",
     "title": {
@@ -149,13 +149,15 @@
     "sourceId": 1
   },
   {
-    "id": 9,
+    "id": "proposition-de-commission-d-enquete-parlementaire-sur-les-sectes",
     "authority": 10,
     "langCode": "fr",
     "countryCode": "be",
     "type": "legislative_initiative",
     "title": {
-      "fr": "Proposition de commission d’enquête parlementaire sur les sectes (ex. « Nouvelle Acropole / Новий Акрополь »)"
+      "fr": "Proposition de commission d’enquête parlementaire sur les sectes (ex. «Nouvelle Acropole»)",
+      "uk": "Пропозиція щодо створення коміссії парламентського розслідування щодо сект (наприклад, «Новий Акрополь»)",
+      "ru": "Предложение о создании парламентской комиссии по расследованию сект (например, «Новый Акрополь»)"
     },
     "authorIds": [4,5]
   }

@@ -8,5 +8,14 @@
   "Footer": {
     "description": "Diese Website widmet sich dem Kampf gegen Manipulation, Täuschung und Intoleranz. Interne Dokumente und Zeugnisse ehemaliger Mitglieder der Neuen Akropolis bestätigen den destruktiven Charakter ihrer Lehre und die Tatsache, dass eingeweihte Mitglieder der Neuen Akropolis destruktive Theorie in destruktive Praxis umsetzen und aktiv neue Mitglieder rekrutieren.",
     "contactUs": "Kontaktieren Sie uns"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "das sind Artikel, die außerhalb der Neuen Akropolis geschrieben wurden",
+      "inner_material": "das sind interne Materialien der Neuen Akropolis",
+      "legislative_initiative": "das sind gesetzgeberische Initiativen gegen die Neue Akropolis"
+    },
+    "originalLanguage": "Originalsprache: {language}",
+    "downloadPdf": "Quelle herunterladen (PDF)"
   }
 }

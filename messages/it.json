@@ -8,5 +8,9 @@
   "Footer": {
     "description": "Questo sito è dedicato alla lotta contro la manipolazione, l'inganno e l'intolleranza. Documenti interni e testimonianze di ex membri della Nuova Acropoli confermano la natura distruttiva del loro Insegnamento e il fatto che i membri iniziati della Nuova Acropoli incarnano la teoria distruttiva nella pratica distruttiva e reclutano attivamente nuove persone.",
     "contactUs": "Contattaci"
+  },
+  "Shared": {
+    "originalLanguage": "Lingua originale: {language}",
+    "downloadPdf": "Scarica sorgente (PDF)"
   }
 }

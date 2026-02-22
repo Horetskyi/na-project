@@ -1,5 +1,16 @@
 {
-  "Header": { "title": "Apie Naująją Akropolį" },
-  "HomePage": { "heading": "Organizacija «Naujoji Akropolis» – destruktyvi sekta" },
-  "Footer": { "description": "Ši svetainė skirta kovai su manipuliacija, apgaule ir netolerancija. Vidiniai dokumentai ir buvusių Naujosios Akropolio narių parodymai patvirtina jų Mokymo destruktyvumą ir tai, kad inicijuoti Naujosios Akropolio nariai įkūnija destruktyvią teoriją destruktyvia praktika ir aktyviai verbuoja naujus žmones.", "contactUs": "Susisiekite su mumis" }
+  "Header": {
+    "title": "Apie Naująją Akropolį"
+  },
+  "HomePage": {
+    "heading": "Organizacija «Naujoji Akropolis» – destruktyvi sekta"
+  },
+  "Footer": {
+    "description": "Ši svetainė skirta kovai su manipuliacija, apgaule ir netolerancija. Vidiniai dokumentai ir buvusių Naujosios Akropolio narių parodymai patvirtina jų Mokymo destruktyvumą ir tai, kad inicijuoti Naujosios Akropolio nariai įkūnija destruktyvią teoriją destruktyvia praktika ir aktyviai verbuoja naujus žmones.",
+    "contactUs": "Susisiekite su mumis"
+  },
+  "Shared": {
+    "originalLanguage": "Originalo kalba: {language}",
+    "downloadPdf": "Atsisiųsti šaltinį (PDF)"
+  }
 }

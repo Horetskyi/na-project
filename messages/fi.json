@@ -1,5 +1,21 @@
 {
-  "Header": { "title": "Uudesta Akropoliksesta" },
-  "HomePage": { "heading": "Organisaatio «Uusi Akropolis» – tuhoisa kultti" },
-  "Footer": { "description": "Tämä sivusto on omistettu taistelulle manipulaatiota, petosta ja suvaitsemattomuutta vastaan. Uuden Akropoliksen entisten jäsenten sisäiset asiakirjat ja todistukset vahvistavat heidän Opetuksensa tuhoisuuden ja sen tosiasian, että Uuden Akropoliksen vihkiytyneet jäsenet toteuttavat tuhoavaa teoriaa tuhoavana käytäntönä ja rekrytoivat aktiivisesti uusia ihmisiä.", "contactUs": "Ota yhteyttä" }
+  "Header": {
+    "title": "Uudesta Akropoliksesta"
+  },
+  "HomePage": {
+    "heading": "Organisaatio «Uusi Akropolis» – tuhoisa kultti"
+  },
+  "Footer": {
+    "description": "Tämä sivusto on omistettu taistelulle manipulaatiota, petosta ja suvaitsemattomuutta vastaan. Uuden Akropoliksen entisten jäsenten sisäiset asiakirjat ja todistukset vahvistavat heidän Opetuksensa tuhoisuuden ja sen tosiasian, että Uuden Akropoliksen vihkiytyneet jäsenet toteuttavat tuhoavaa teoriaa tuhoavana käytäntönä ja rekrytoivat aktiivisesti uusia ihmisiä.",
+    "contactUs": "Ota yhteyttä"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "nämä ovat artikkeleita, jotka on kirjoitettu Uuden Akropoliksen ulkopuolella",
+      "inner_material": "nämä ovat Uuden Akropoliksen sisäisiä materiaaleja",
+      "legislative_initiative": "nämä ovat lainsäädäntöaloitteita Uutta Akropolista vastaan"
+    },
+    "originalLanguage": "Alkuperäinen kieli: {language}",
+    "downloadPdf": "Lataa lähde (PDF)"
+  }
 }

@@ -1,5 +1,16 @@
 {
-  "Header": { "title": "Về Acropolis Mới" },
-  "HomePage": { "heading": "Tổ chức «Acropolis Mới» – giáo phái phá hoại" },
-  "Footer": { "description": "Trang web này dành riêng để đấu tranh chống lại sự thao túng, lừa dối và không khoan nhượng. Các tài liệu nội bộ và lời khai của các cựu thành viên của Acropolis Mới xác nhận tính chất phá hoại của Giáo lý của họ và thực tế là các thành viên đã được khai tâm của Acropolis Mới thể hiện lý thuyết phá hoại thành thực tiễn phá hoại và tích cực tuyển dụng người mới.", "contactUs": "Liên hệ chúng tôi" }
+  "Header": {
+    "title": "Về Acropolis Mới"
+  },
+  "HomePage": {
+    "heading": "Tổ chức «Acropolis Mới» – giáo phái phá hoại"
+  },
+  "Footer": {
+    "description": "Trang web này dành riêng để đấu tranh chống lại sự thao túng, lừa dối và không khoan nhượng. Các tài liệu nội bộ và lời khai của các cựu thành viên của Acropolis Mới xác nhận tính chất phá hoại của Giáo lý của họ và thực tế là các thành viên đã được khai tâm của Acropolis Mới thể hiện lý thuyết phá hoại thành thực tiễn phá hoại và tích cực tuyển dụng người mới.",
+    "contactUs": "Liên hệ chúng tôi"
+  },
+  "Shared": {
+    "originalLanguage": "Ngôn ngữ gốc: {language}",
+    "downloadPdf": "Tải xuống nguồn (PDF)"
+  }
 }

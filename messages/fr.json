@@ -8,5 +8,14 @@
   "Footer": {
     "description": "Ce site est consacré à la lutte contre la manipulation, la tromperie et l'intolérance. Des documents internes et des témoignages d'anciens membres du Nouvel Acropolis confirment le caractère destructeur de leur Enseignement et le fait que les membres initiés du Nouvel Acropolis transforment la théorie destructrice en pratique destructrice et recrutent activement de nouvelles personnes.",
     "contactUs": "Nous contacter"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "ce sont des articles écrits en dehors du Nouvel Acropolis",
+      "inner_material": "ce sont des documents internes du Nouvel Acropolis",
+      "legislative_initiative": "ce sont des initiatives législatives contre le Nouvel Acropolis"
+    },
+    "originalLanguage": "Langue originale : {language}",
+    "downloadPdf": "Télécharger la source (PDF)"
   }
 }

@@ -1,5 +1,16 @@
 {
-  "Header": { "title": "Yeni Akropolis Hakkında" },
-  "HomePage": { "heading": "«Yeni Akropolis» Örgütü – yıkıcı bir kült" },
-  "Footer": { "description": "Bu site manipülasyon, aldatmaca ve hoşgörüsüzlükle mücadeleye adanmıştır. Yeni Akropolis'in eski üyelerinin iç belgeleri ve tanıklıkları, Öğretilerinin yıkıcı niteliğini ve Yeni Akropolis'in başlatılmış üyelerinin yıkıcı teoriyi yıkıcı uygulamaya dönüştürdüğü ve aktif olarak yeni insanları topladığı gerçeğini doğrulamaktadır.", "contactUs": "Bizimle iletişime geçin" }
+  "Header": {
+    "title": "Yeni Akropolis Hakkında"
+  },
+  "HomePage": {
+    "heading": "«Yeni Akropolis» Örgütü – yıkıcı bir kült"
+  },
+  "Footer": {
+    "description": "Bu site manipülasyon, aldatmaca ve hoşgörüsüzlükle mücadeleye adanmıştır. Yeni Akropolis'in eski üyelerinin iç belgeleri ve tanıklıkları, Öğretilerinin yıkıcı niteliğini ve Yeni Akropolis'in başlatılmış üyelerinin yıkıcı teoriyi yıkıcı uygulamaya dönüştürdüğü ve aktif olarak yeni insanları topladığı gerçeğini doğrulamaktadır.",
+    "contactUs": "Bizimle iletişime geçin"
+  },
+  "Shared": {
+    "originalLanguage": "Orijinal dil: {language}",
+    "downloadPdf": "Kaynağı indir (PDF)"
+  }
 }

@@ -8,5 +8,14 @@
   "Footer": {
     "description": "Deze site is gewijd aan de strijd tegen manipulatie, misleiding en onverdraagzaamheid. Interne documenten en getuigenissen van voormalige leden van de Nieuwe Akropolis bevestigen het destructieve karakter van hun Leer en het feit dat ingewijde leden van de Nieuwe Akropolis destructieve theorie omzetten in destructieve praktijk en actief nieuwe mensen werven.",
     "contactUs": "Neem contact met ons op"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "dit zijn artikelen die buiten de Nieuwe Akropolis zijn geschreven",
+      "inner_material": "dit zijn interne materialen van de Nieuwe Akropolis",
+      "legislative_initiative": "dit zijn wetgevende initiatieven tegen de Nieuwe Akropolis"
+    },
+    "originalLanguage": "Oorspronkelijke taal: {language}",
+    "downloadPdf": "Bron downloaden (PDF)"
   }
 }

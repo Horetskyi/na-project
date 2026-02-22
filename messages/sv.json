@@ -1,5 +1,21 @@
 {
-  "Header": { "title": "Om Nya Akropolis" },
-  "HomePage": { "heading": "Organisation «Nya Akropolis» – en destruktiv kult" },
-  "Footer": { "description": "Denna webbplats ägnas åt kampen mot manipulation, bedrägeri och intolerans. Interna dokument och vittnesmål från tidigare medlemmar i Nya Akropolis bekräftar det destruktiva i deras Lära och det faktum att invigda medlemmar i Nya Akropolis omsätter destruktiv teori i destruktiv praktik och aktivt rekryterar nya människor.", "contactUs": "Kontakta oss" }
+  "Header": {
+    "title": "Om Nya Akropolis"
+  },
+  "HomePage": {
+    "heading": "Organisation «Nya Akropolis» – en destruktiv kult"
+  },
+  "Footer": {
+    "description": "Denna webbplats ägnas åt kampen mot manipulation, bedrägeri och intolerans. Interna dokument och vittnesmål från tidigare medlemmar i Nya Akropolis bekräftar det destruktiva i deras Lära och det faktum att invigda medlemmar i Nya Akropolis omsätter destruktiv teori i destruktiv praktik och aktivt rekryterar nya människor.",
+    "contactUs": "Kontakta oss"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "detta är artiklar skrivna utanför Nya Akropolis",
+      "inner_material": "detta är interna material från Nya Akropolis",
+      "legislative_initiative": "detta är lagstiftningsinitiativ mot Nya Akropolis"
+    },
+    "originalLanguage": "Originalspråk: {language}",
+    "downloadPdf": "Ladda ner källa (PDF)"
+  }
 }

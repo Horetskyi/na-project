@@ -8,5 +8,14 @@
   "Footer": {
     "description": "Este site é dedicado ao combate à manipulação, engano e intolerância. Documentos internos e depoimentos de ex-membros da Nova Acrópole confirmam a natureza destrutiva de seus Ensinamentos e o fato de que membros iniciados da Nova Acrópole incorporam teoria destrutiva em prática destrutiva e recrutam ativamente novas pessoas.",
     "contactUs": "Contate-nos"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "são artigos escritos fora da Nova Acrópole",
+      "inner_material": "são materiais internos da Nova Acrópole",
+      "legislative_initiative": "são iniciativas legislativas contra a Nova Acrópole"
+    },
+    "originalLanguage": "Idioma original: {language}",
+    "downloadPdf": "Baixar fonte (PDF)"
   }
 }

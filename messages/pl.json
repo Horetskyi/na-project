@@ -8,5 +8,14 @@
   "Footer": {
     "description": "Ta strona poświęcona jest walce z manipulacją, oszustwem i nietolerancją. Wewnętrzne dokumenty i świadectwa byłych członków Nowego Akropolu potwierdzają destrukcyjny charakter ich Nauki i fakt, że wtajemniczeni członkowie Nowego Akropolu wcielają destrukcyjną teorię w destrukcyjną praktykę i aktywnie rekrutują nowych ludzi.",
     "contactUs": "Skontaktuj się z nami"
+  },
+  "Shared": {
+    "ContentsTypesDescription": {
+      "article": "to są artykuły napisane poza Nowym Akropolem",
+      "inner_material": "to są wewnętrzne materiały Nowego Akropolu",
+      "legislative_initiative": "to są inicjatywy ustawodawcze przeciwko Nowemu Akropolowi"
+    },
+    "originalLanguage": "Język oryginału: {language}",
+    "downloadPdf": "Pobierz źródło (PDF)"
   }
 }
