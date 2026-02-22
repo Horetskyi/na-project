@@ -12,6 +12,7 @@
       "uk": "Єкатеринбург"
     },
     "year": 2007,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://iriney.ru/okkultnyie/novyij-akropol/%C2%ABnovyij-akropol%C2%BB-legendyi-i-mifyi.html",
     "authority": 8,
@@ -31,6 +32,7 @@
       "uk": "Заняття Олени Сікірич з інструкторами. 2 лютого 1997 року. З архіву «Нового Акрополя»"
     },
     "year": 1997,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140701100444/http://no-acropol.info/archive/7zakonov.htm",
     "authority": 10,
@@ -49,6 +51,7 @@
       "uk": "Лекція Олени Сікірич для членів «Живих сил» (заняття на виїзному «стажі» ЖС). Літо 1999 року. Фрагменти розшифровки аудіозапису."
     },
     "year": 1999,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140625075101/http://no-acropol.info/archive/stage.htm",
     "authority": 10,
@@ -67,6 +70,7 @@
       "uk": "Заняття Олени Сікірич з членами «Живих сил». 25 вересня 1999 року. Розшифровка аудіозапису."
     },
     "year": 1999,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140625075101/http://no-acropol.info/archive/sept25.htm",
     "authority": 10,
@@ -84,6 +88,7 @@
       "ru": "Статья Хорхе Анхеля Ливраги из бюллетеня «Бастион» № 81. Перевод с испанского выполнен в «Новом Акрополе».",
       "uk": "Стаття Хорхе Анхеля Лівраги з бюлетеня «Бастіон» № 81. Переклад з іспанської виконано в «Новому Акрополі»."
     },
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140625075101/http://no-acropol.info/archive/esotheric.htm",
     "authority": 10,
@@ -102,6 +107,7 @@
       "uk": "Стаття Хорхе Анхеля Лівраги з бюлетеня «Бастіон», вересень 1981 року. Переклад з іспанської виконано в «Новому Акрополі»."
     },
     "year": 1981,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140625075101/http://no-acropol.info/archive/sholastica.htm",
     "authority": 10,
@@ -120,6 +126,7 @@
       "uk": "Заняття Олени Сікірич з керівниками. 17 лютого 1996 року. З архіву «Нового Акрополя»."
     },
     "year": 1996,
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140625075101/http://no-acropol.info/archive/jslovo.htm",
     "authority": 10,
@@ -135,9 +142,21 @@
     "subTitle": {
       "ru": "Читается во время ритуальных «дежурств» в храме и ряда церемоний."
     },
+    "langCode": "ru",
     "countryCode": "ru",
     "url": "https://web.archive.org/web/20140701023626/http://no-acropol.info/archive/payer.htm",
     "authority": 10,
     "sourceId": 1
+  },
+  {
+    "id": 9,
+    "authority": 10,
+    "langCode": "fr",
+    "countryCode": "be",
+    "type": "legislative_initiative",
+    "title": {
+      "fr": "Proposition de commission d’enquête parlementaire sur les sectes (ex. « Nouvelle Acropole / Новий Акрополь »)"
+    },
+    "authorIds": [4,5]
   }
 ]

@@ -13,7 +13,8 @@
     "relatedUrls": [
       "https://iriney.ru/okkultnyie/novyij-akropol/%C2%ABnovyij-akropol%C2%BB-legendyi-i-mifyi.html"
     ],
-    "tags": ["external_author"]
+    "tags": ["external_author"],
+    "authority": 5
   },
   {
     "id": 2,
@@ -29,7 +30,8 @@
     "relatedUrls": [
       "https://www.newacropol.ru/na/russia/biogr_es/"
     ],
-    "tags": ["na_country_instructor"]
+    "tags": ["na_country_instructor"],
+    "authority": 10
   },
   {
     "id": 3,
@@ -47,6 +49,39 @@
     "relatedUrls": [
       "https://es.wikipedia.org/wiki/Jorge_%C3%81ngel_Livraga_Rizzi"
     ],
-    "tags": ["na_creator"]
+    "tags": ["na_creator"],
+    "authority": 10
+  },
+  {
+    "id": 4,
+    "countryCode": "be",
+    "name": {
+      "fr": "Didier Reynders",
+      "uk": "Дідьє Рейндерс"
+    },
+    "bio": {
+      "en": "Former European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection",
+      "fr": "Ancien commissaire européen à la démocratie, à la justice, à l'État de droit et à la protection des consommateurs",
+      "uk": "Колишній європейський комісар з питань демократії, юстиції, верховенства права та захисту прав споживачів"
+    },
+    "relatedUrls": ["https://en.wikipedia.org/wiki/Didier_Reynders"],
+    "tags": ["parliament"],
+    "authority": 10
+  },
+  {
+    "id": 5,
+    "countryCode": "be",
+    "name": {
+      "fr": "Jacques Simonet",
+      "uk": "Жак Сімоне"
+    },
+    "bio": {
+      "en": "Former Minister-President of the Brussels-Capital Region",
+      "fr": "Ancien ministre-président de la Région de Bruxelles-Capitale",
+      "uk": "Колишній міністр-президент Брюссельського столичного регіону"
+    },
+    "relatedUrls": ["https://en.wikipedia.org/wiki/Jacques_Simonet"],
+    "tags": ["parliament"],
+    "authority": 10
   }
 ]

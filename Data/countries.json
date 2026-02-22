@@ -1,202 +1,207 @@
 [
   {
-    "name": "Arabic",
-    "originalName": "العربية",
+    "name": "Saudi Arabia",
+    "originalName": "المملكة العربية السعودية",
     "code": "ar"
   },
   {
-    "name": "Bengali",
-    "originalName": "বাংলা",
+    "name": "Belgium",
+    "originalName": "België",
+    "code": "be"
+  },
+  {
+    "name": "Bangladesh",
+    "originalName": "বাংলাদেশ",
     "code": "bn"
   },
   {
-    "name": "Bulgarian",
-    "originalName": "Български",
+    "name": "Bulgaria",
+    "originalName": "България",
     "code": "bg"
   },
   {
-    "name": "Burmese",
-    "originalName": "မြန်မာစာ",
+    "name": "Myanmar",
+    "originalName": "မြန်မာ",
     "code": "my"
   },
   {
-    "name": "Chinese",
-    "originalName": "中文",
+    "name": "China",
+    "originalName": "中国",
     "code": "zh"
   },
   {
-    "name": "Croatian",
-    "originalName": "Hrvatski",
+    "name": "Croatia",
+    "originalName": "Hrvatska",
     "code": "hr"
   },
   {
-    "name": "Czech",
-    "originalName": "Čeština",
+    "name": "Czechia",
+    "originalName": "Česko",
     "code": "cs"
   },
   {
-    "name": "Danish",
-    "originalName": "Dansk",
+    "name": "Denmark",
+    "originalName": "Danmark",
     "code": "da"
   },
   {
-    "name": "Dutch",
-    "originalName": "Nederlands",
+    "name": "Netherlands",
+    "originalName": "Nederland",
     "code": "nl"
   },
   {
-    "name": "English",
-    "originalName": "English",
+    "name": "United Kingdom",
+    "originalName": "United Kingdom",
     "code": "en"
   },
   {
-    "name": "Finnish",
+    "name": "Finland",
     "originalName": "Suomi",
     "code": "fi"
   },
   {
-    "name": "French",
-    "originalName": "Français",
+    "name": "France",
+    "originalName": "France",
     "code": "fr"
   },
   {
-    "name": "German",
-    "originalName": "Deutsch",
+    "name": "Germany",
+    "originalName": "Deutschland",
     "code": "de"
   },
   {
-    "name": "Greek",
-    "originalName": "Ελληνικά",
+    "name": "Greece",
+    "originalName": "Ελλάδα",
     "code": "el"
   },
   {
-    "name": "Hebrew",
-    "originalName": "עברית",
+    "name": "Israel",
+    "originalName": "ישראל",
     "code": "he"
   },
   {
-    "name": "Hindi",
-    "originalName": "हिन्दी",
+    "name": "India",
+    "originalName": "भारत",
     "code": "hi"
   },
   {
-    "name": "Hungarian",
-    "originalName": "Magyar",
+    "name": "Hungary",
+    "originalName": "Magyarország",
     "code": "hu"
   },
   {
-    "name": "Indonesian",
-    "originalName": "Bahasa Indonesia",
+    "name": "Indonesia",
+    "originalName": "Indonesia",
     "code": "id"
   },
   {
-    "name": "Italian",
-    "originalName": "Italiano",
+    "name": "Italy",
+    "originalName": "Italia",
     "code": "it"
   },
   {
-    "name": "Japanese",
-    "originalName": "日本語",
+    "name": "Japan",
+    "originalName": "日本",
     "code": "ja"
   },
   {
-    "name": "Korean",
-    "originalName": "한국어",
+    "name": "South Korea",
+    "originalName": "대한민국",
     "code": "ko"
   },
   {
-    "name": "Latvian",
-    "originalName": "Latviešu",
+    "name": "Latvia",
+    "originalName": "Latvija",
     "code": "lv"
   },
   {
-    "name": "Lithuanian",
-    "originalName": "Lietuvių",
+    "name": "Lithuania",
+    "originalName": "Lietuva",
     "code": "lt"
   },
   {
-    "name": "Malay",
-    "originalName": "Bahasa Melayu",
+    "name": "Malaysia",
+    "originalName": "Malaysia",
     "code": "ms"
   },
   {
-    "name": "Norwegian",
-    "originalName": "Norsk",
+    "name": "Norway",
+    "originalName": "Norge",
     "code": "no"
   },
   {
-    "name": "Persian",
-    "originalName": "فارسی",
+    "name": "Iran",
+    "originalName": "ایران",
     "code": "fa"
   },
   {
-    "name": "Polish",
-    "originalName": "Polski",
+    "name": "Poland",
+    "originalName": "Polska",
     "code": "pl"
   },
   {
-    "name": "Portuguese",
-    "originalName": "Português",
+    "name": "Portugal",
+    "originalName": "Portugal",
     "code": "pt"
   },
   {
-    "name": "Romanian",
-    "originalName": "Română",
+    "name": "Romania",
+    "originalName": "România",
     "code": "ro"
   },
   {
-    "name": "Russian",
-    "originalName": "Русский",
+    "name": "Russia",
+    "originalName": "Россия",
     "code": "ru"
   },
   {
-    "name": "Serbian",
-    "originalName": "Српски",
+    "name": "Serbia",
+    "originalName": "Србија",
     "code": "sr"
   },
   {
-    "name": "Slovak",
-    "originalName": "Slovenčina",
+    "name": "Slovakia",
+    "originalName": "Slovensko",
     "code": "sk"
   },
   {
-    "name": "Spanish",
-    "originalName": "Español",
+    "name": "Spain",
+    "originalName": "España",
     "code": "es"
   },
   {
-    "name": "Swahili",
-    "originalName": "Kiswahili",
+    "name": "Kenya",
+    "originalName": "Kenya",
     "code": "sw"
   },
   {
-    "name": "Swedish",
-    "originalName": "Svenska",
+    "name": "Sweden",
+    "originalName": "Sverige",
     "code": "sv"
   },
   {
-    "name": "Tamil",
-    "originalName": "தமிழ்",
+    "name": "India",
+    "originalName": "இந்தியா",
     "code": "ta"
   },
   {
-    "name": "Thai",
-    "originalName": "ภาษาไทย",
+    "name": "Thailand",
+    "originalName": "ประเทศไทย",
     "code": "th"
   },
   {
-    "name": "Turkish",
-    "originalName": "Türkçe",
+    "name": "Turkey",
+    "originalName": "Türkiye",
     "code": "tr"
   },
   {
-    "name": "Ukrainian",
-    "originalName": "Українська",
+    "name": "Ukraine",
+    "originalName": "Україна",
     "code": "uk"
   },
   {
-    "name": "Vietnamese",
-    "originalName": "Tiếng Việt",
+    "name": "Vietnam",
+    "originalName": "Việt Nam",
     "code": "vi"
   }
 ]
