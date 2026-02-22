@@ -12,7 +12,8 @@
     },
     "relatedUrls": [
       "https://iriney.ru/okkultnyie/novyij-akropol/%C2%ABnovyij-akropol%C2%BB-legendyi-i-mifyi.html"
-    ]
+    ],
+    "tags": ["external_author"]
   },
   {
     "id": 2,
@@ -22,12 +23,30 @@
       "uk": "Олена Сікірич"
     },
     "bio": {
-      "ru": "Президент Культурной ассоциации «Новый Акрополь» в России, философ и психолог.",
-      "uk": "Президент Культурної асоціації «Новий Акрополь» в Росії, філософ і психолог."
+      "ru": "президент Культурной ассоциации «Новый Акрополь» в России, философ и психолог",
+      "uk": "президент Культурної асоціації «Новий Акрополь» в Росії, філософ і психолог"
     },
     "relatedUrls": [
       "https://www.newacropol.ru/na/russia/biogr_es/"
     ],
     "tags": ["na_country_instructor"]
+  },
+  {
+    "id": 3,
+    "countryCode": "es",
+    "name": {
+      "es": "Jorge Ángel Livraga Rizzi",
+      "ru": "Хорхе Анхель Ливрага",
+      "uk": "Хорхе Анхель Ліврага"
+    },
+    "bio": {
+      "es": "fundador del movimiento «Nuevo Acropolis»",
+      "ru": "основатель движения «Новый Акрополь»",
+      "uk": "засновник руху «Новий Акрополь»"
+    },
+    "relatedUrls": [
+      "https://es.wikipedia.org/wiki/Jorge_%C3%81ngel_Livraga_Rizzi"
+    ],
+    "tags": ["na_creator"]
   }
 ]

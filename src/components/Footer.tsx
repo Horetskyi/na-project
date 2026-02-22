@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 
 export default function Footer() {
@@ -7,22 +8,24 @@ export default function Footer() {
     <footer className="bg-gray-900 text-gray-300 mt-auto">
       <div className="container mx-auto px-4 py-10 max-w-6xl">
         <div className="flex flex-col md:flex-row items-start md:items-center gap-6 mb-6">
-          {/* Official Acropolis logo placeholder */}
-          <div
-            className="w-12 h-12 bg-gray-700 rounded flex items-center justify-center text-gray-400 shrink-0"
-            title="Official Acropolis Logo"
-            aria-label="Official Acropolis Logo"
-          >
-            🏛️
-          </div>
+          {/* Official Acropolis logo */}
+          <Image
+            src="/na-logo-official-letters-only-full-size-white.webp"
+            alt="Official Acropolis Logo"
+            width={48}
+            height={48}
+            className="w-12 h-12 object-contain shrink-0"
+          />
 
-          {/* Symbolic Acropolis eagle logo placeholder */}
-          <div
-            className="w-12 h-12 bg-gray-700 rounded flex items-center justify-center text-gray-400 shrink-0"
-            title="Acropolis Eagle Logo"
-            aria-label="Acropolis Eagle Logo"
-          >
-            🦅
+          {/* Symbolic Acropolis eagle logo */}
+          <div className="w-12 h-12 rounded flex items-center justify-center shrink-0" style={{ backgroundColor: '#00015D' }}>
+            <Image
+              src="/eagle_na_symbol.jpg"
+              alt="Acropolis Eagle Logo"
+              width={40}
+              height={40}
+              className="w-10 h-10 object-contain"
+            />
           </div>
 
           {/* Contact email */}

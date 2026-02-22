@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "next/navigation";
 import { useState } from "react";
@@ -28,10 +29,8 @@ const LOCALE_META: Record<Locale, { flag: string; name: string }> = {
   bg: { flag: "🇧🇬", name: "Български" },
   hr: { flag: "🇭🇷", name: "Hrvatski" },
   sr: { flag: "🇷🇸", name: "Српски" },
-  sl: { flag: "🇸🇮", name: "Slovenščina" },
   lt: { flag: "🇱🇹", name: "Lietuvių" },
   lv: { flag: "🇱🇻", name: "Latviešu" },
-  et: { flag: "🇪🇪", name: "Eesti" },
   el: { flag: "🇬🇷", name: "Ελληνικά" },
   tr: { flag: "🇹🇷", name: "Türkçe" },
   ar: { flag: "🇸🇦", name: "العربية" },
@@ -45,8 +44,10 @@ const LOCALE_META: Record<Locale, { flag: string; name: string }> = {
   id: { flag: "🇮🇩", name: "Bahasa Indonesia" },
   ms: { flag: "🇲🇾", name: "Bahasa Melayu" },
   fa: { flag: "🇮🇷", name: "فارسی" },
-  ur: { flag: "🇵🇰", name: "اردو" },
   bn: { flag: "🇧🇩", name: "বাংলা" },
+  my: { flag: "🇲🇲", name: "မြန်မာစာ" },
+  sw: { flag: "🇰🇪", name: "Kiswahili" },
+  ta: { flag: "🇮🇳", name: "தமிழ்" },
 };
 
 export default function Header() {
@@ -72,22 +73,24 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Left side: logos and title */}
           <div className="flex items-center gap-3">
-            {/* Official Acropolis logo placeholder */}
-            <div
-              className="w-10 h-10 bg-gray-200 rounded flex items-center justify-center text-xs text-gray-500 font-medium shrink-0"
-              title="Official Acropolis Logo"
-              aria-label="Official Acropolis Logo"
-            >
-              🏛️
-            </div>
+            {/* Official Acropolis logo */}
+            <Image
+              src="/na-logo-official-letters-only-full-size.webp"
+              alt="Official Acropolis Logo"
+              width={40}
+              height={40}
+              className="w-10 h-10 object-contain shrink-0"
+            />
 
-            {/* Symbolic Acropolis eagle logo placeholder */}
-            <div
-              className="w-10 h-10 bg-gray-200 rounded flex items-center justify-center text-xs text-gray-500 font-medium shrink-0"
-              title="Acropolis Eagle Logo"
-              aria-label="Acropolis Eagle Logo"
-            >
-              🦅
+            {/* Symbolic Acropolis eagle logo */}
+            <div className="w-10 h-10 rounded flex items-center justify-center shrink-0" style={{ backgroundColor: '#00015D' }}>
+              <Image
+                src="/eagle_na_symbol.jpg"
+                alt="Acropolis Eagle Logo"
+                width={32}
+                height={32}
+                className="w-8 h-8 object-contain"
+              />
             </div>
 
             {/* Bold link to homepage */}
@@ -107,7 +110,7 @@ export default function Header() {
               aria-haspopup="listbox"
               aria-expanded={open}
             >
-              <span className="text-lg leading-none">{current.flag}</span>
+              <Image src={`/flags/${locale}.webp`} alt={current.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
               <span className="hidden sm:inline text-gray-700">{current.name}</span>
               <svg
                 className={`w-4 h-4 text-gray-500 transition-transform ${open ? "rotate-180" : ""}`}
@@ -142,7 +145,7 @@ export default function Header() {
                               loc === locale ? "bg-blue-50 font-medium text-blue-700" : "text-gray-700"
                             }`}
                           >
-                            <span className="text-lg leading-none">{meta.flag}</span>
+                            <Image src={`/flags/${loc}.webp`} alt={meta.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
                             <span>{meta.name}</span>
                           </button>
                         </li>
