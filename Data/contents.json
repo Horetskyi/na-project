@@ -159,6 +159,21 @@
       "uk": "Пропозиція щодо створення коміссії парламентського розслідування щодо сект (наприклад, «Новий Акрополь»)",
       "ru": "Предложение о создании парламентской комиссии по расследованию сект (например, «Новый Акрополь»)"
     },
+    "year": 1995,
     "authorIds": [4,5]
+  },
+  {
+    "id": "enquete-parlementaire-belgique-sectes-rapport-duquesne-willems-1998",
+    "authority": 10,
+    "langCode": "fr",
+    "countryCode": "be",
+    "year": 1998,
+    "type": "legislative_initiative",
+    "title": {
+      "fr": "Enquête parlementaire (Belgique) sur les sectes et leurs pratiques illégales — rapport (ex. «Nouvelle Acropole»)",
+      "uk": "Парламентське розслідування (Бельгія) щодо сект і їхніх незаконних практик — звіт (напр. «Новий Акрополь»)",
+      "ru": "Парламентское расследование (Бельгия) о сектах и их незаконных практиках — доклад (напр. «Новый Акрополь»)"
+    },
+    "authorIds": [6, 7]
   }
 ]

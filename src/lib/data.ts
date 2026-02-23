@@ -91,14 +91,37 @@ export function getContentMarkdown(
   locale: string,
   fallbackLangCode: string,
 ): string | null {
+  const result = getContentMarkdownWithLanguage(
+    contentId,
+    locale,
+    fallbackLangCode,
+  );
+  return result?.markdown ?? null;
+}
+
+/**
+ * Return markdown text and language code that was actually used.
+ * First tries the current locale, then falls back to the content's own langCode.
+ */
+export function getContentMarkdownWithLanguage(
+  contentId: string,
+  locale: string,
+  fallbackLangCode: string,
+): { markdown: string; languageCode: string } | null {
   const dir = path.join(DATA_DIR, "ContentsTexts", contentId);
   const localePath = path.join(dir, `${locale}.md`);
   if (fs.existsSync(localePath)) {
-    return fs.readFileSync(localePath, "utf-8");
+    return {
+      markdown: fs.readFileSync(localePath, "utf-8"),
+      languageCode: locale,
+    };
   }
   const fallbackPath = path.join(dir, `${fallbackLangCode}.md`);
   if (fs.existsSync(fallbackPath)) {
-    return fs.readFileSync(fallbackPath, "utf-8");
+    return {
+      markdown: fs.readFileSync(fallbackPath, "utf-8"),
+      languageCode: fallbackLangCode,
+    };
   }
   return null;
 }
@@ -134,6 +157,12 @@ export function t(
 
 /* ───────────── Grouping ───────────── */
 
+const CONTENT_TYPE_ORDER = [
+  "legislative_initiative",
+  "inner_material",
+  "article",
+];
+
 export function groupContentsByType(
   contents: Content[],
 ): Record<string, Content[]> {
@@ -141,5 +170,13 @@ export function groupContentsByType(
   for (const c of contents) {
     (grouped[c.type] ??= []).push(c);
   }
-  return grouped;
+  // Return in defined order, then any remaining types
+  const ordered: Record<string, Content[]> = {};
+  for (const type of CONTENT_TYPE_ORDER) {
+    if (grouped[type]) ordered[type] = grouped[type];
+  }
+  for (const type of Object.keys(grouped)) {
+    if (!ordered[type]) ordered[type] = grouped[type];
+  }
+  return ordered;
 }

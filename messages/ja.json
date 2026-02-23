@@ -10,7 +10,13 @@
     "contactUs": "お問い合わせ"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "ニューアクロポリス外で書かれた記事",
+      "inner_material": "ニューアクロポリスの内部資料",
+      "legislative_initiative": "ニューアクロポリスに反対する立法イニシアチブ"
+    },
     "originalLanguage": "原語: {language}",
+    "author": "著者:",
     "downloadPdf": "ソースをダウンロード（PDF）"
   }
 }

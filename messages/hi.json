@@ -10,7 +10,13 @@
     "contactUs": "संपर्क करें"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "न्यू एक्रोपोलिस के बाहर लिखे गए लेख",
+      "inner_material": "न्यू एक्रोपोलिस की आंतरिक सामग्री",
+      "legislative_initiative": "न्यू एक्रोपोलिस के खिलाफ विधायी पहल"
+    },
     "originalLanguage": "मूल भाषा: {language}",
+    "author": "लेखक:",
     "downloadPdf": "स्रोत डाउनलोड करें (PDF)"
   }
 }

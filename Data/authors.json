@@ -83,5 +83,35 @@
     "relatedUrls": ["https://en.wikipedia.org/wiki/Jacques_Simonet"],
     "tags": ["parliament"],
     "authority": 10
+  },
+  {
+    "id": 6,
+    "countryCode": "be",
+    "name": {
+      "fr": "Antoine Duquesne",
+      "uk": "Антуан Дюкен",
+      "ru": "Антуан Дюкэн"
+    },
+    "bio": {
+      "en": "a Belgian politician and Member of the European Parliament for the French Community of Belgium with the MR/MCC/PRL, Member of the Bureau of the Alliance of Liberals and Democrats for Europe.",
+      "fr": "Un homme politique belge et membre du Parlement européen pour la Communauté française de Belgique avec le MR/MCC/PRL, membre du Bureau de l'Alliance des libéraux et démocrates pour l'Europe.",
+      "uk": "Бельгійський політик і член Європейського парламенту від Французької спільноти Бельгії з MR/MCC/PRL, член Бюро Альянсу лібералів і демократів за Європу.",
+      "ru": "Бельгийский политик и член Европейского парламента от Французского сообщества Бельгии с MR/MCC/PRL, член Бюро Альянса либералов и демократов за Европу."
+    },
+    "relatedUrls": ["https://en.wikipedia.org/wiki/Antoine_Duquesne"],
+    "tags": ["parliament"],
+    "authority": 10
+  },
+  {
+    "id": 7,
+    "countryCode": "be",
+    "name": {
+      "fr": "Paul Willems",
+      "uk": "Пол Віллемс",
+      "ru": "Пол Виллемс"
+    },
+    "relatedUrls": [],
+    "tags": ["parliament"],
+    "authority": 9
   }
 ]

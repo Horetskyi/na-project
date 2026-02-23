@@ -10,7 +10,13 @@
     "contactUs": "আমাদের সাথে যোগাযোগ করুন"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "নিউ অ্যাক্রোপলিসের বাইরে লেখা নিবন্ধসমূহ",
+      "inner_material": "নিউ অ্যাক্রোপলিসের অভ্যন্তরীণ উপকরণসমূহ",
+      "legislative_initiative": "নিউ অ্যাক্রোপলিসের বিরুদ্ধে আইনগত উদ্যোগসমূহ"
+    },
     "originalLanguage": "মূল ভাষা: {language}",
+    "author": "লেখক:",
     "downloadPdf": "উৎস ডাউনলোড করুন (PDF)"
   }
 }

@@ -10,7 +10,13 @@
     "contactUs": "எங்களை தொடர்பு கொள்ள"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "புதிய அக்ரோபொலிஸிற்கு வெளியே எழுதப்பட்ட கட்டுரைகள்",
+      "inner_material": "புதிய அக்ரோபொலிஸின் உள்துறை ஆவணங்கள்",
+      "legislative_initiative": "புதிய அக்ரோபொலிஸுக்கு எதிரான சட்டமன்ற முயற்சிகள்"
+    },
     "originalLanguage": "அசல் மொழி: {language}",
+    "author": "ஆசிரியர்:",
     "downloadPdf": "மூலத்தைப் பதிவிறக்கு (PDF)"
   }
 }

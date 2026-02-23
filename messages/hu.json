@@ -10,7 +10,13 @@
     "contactUs": "Kapcsolat"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "a New Acropolison kívül írt cikkek",
+      "inner_material": "a New Acropolis belső anyagai",
+      "legislative_initiative": "jogalkotási kezdeményezések a New Acropolis ellen"
+    },
     "originalLanguage": "Eredeti nyelv: {language}",
+    "author": "Szerző:",
     "downloadPdf": "Forrás letöltése (PDF)"
   }
 }

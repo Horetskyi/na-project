@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "são artigos escritos fora da Nova Acrópole",
-      "inner_material": "são materiais internos da Nova Acrópole",
-      "legislative_initiative": "são iniciativas legislativas contra a Nova Acrópole"
+      "article": "artigos escritos fora da Nova Acrópole",
+      "inner_material": "materiais internos da Nova Acrópole",
+      "legislative_initiative": "iniciativas legislativas contra a Nova Acrópole"
     },
     "originalLanguage": "Idioma original: {language}",
+    "author": "Autor:",
     "downloadPdf": "Baixar fonte (PDF)"
   }
 }

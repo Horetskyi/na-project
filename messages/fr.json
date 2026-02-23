@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "ce sont des articles écrits en dehors du Nouvel Acropolis",
-      "inner_material": "ce sont des documents internes du Nouvel Acropolis",
-      "legislative_initiative": "ce sont des initiatives législatives contre le Nouvel Acropolis"
+      "article": "articles écrits en dehors du Nouvel Acropolis",
+      "inner_material": "documents internes du Nouvel Acropolis",
+      "legislative_initiative": "initiatives législatives contre le Nouvel Acropolis"
     },
     "originalLanguage": "Langue originale : {language}",
+    "author": "Auteur :",
     "downloadPdf": "Télécharger la source (PDF)"
   }
 }

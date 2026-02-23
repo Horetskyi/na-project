@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "це статті написані поза Новим Акрополем",
-      "inner_material": "це внутрішні матеріали Нового Акрополю",
-      "legislative_initiative": "це законодавчі ініціативи проти Нового Акрополю"
+      "article": "статті написані поза Новим Акрополем",
+      "inner_material": "внутрішні матеріали Нового Акрополю",
+      "legislative_initiative": "законодавчі ініціативи проти Нового Акрополю"
     },
     "originalLanguage": "Оригінальна мова: {language}",
-    "downloadPdf": "Завантажити джерело (PDF)"
+    "author": "Автор:",
+    "downloadPdf": "Завантажити оригінальний файл (PDF)"
   }
 }

@@ -30,7 +30,7 @@ export async function GET(
   return new NextResponse(buffer, {
     headers: {
       "Content-Type": "application/pdf",
-      "Content-Disposition": `attachment; filename="${contentId}-source.pdf"`,
+      "Content-Disposition": `attachment; filename="source.pdf"`,
     },
   });
 }

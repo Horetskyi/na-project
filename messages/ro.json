@@ -10,7 +10,13 @@
     "contactUs": "Contactați-ne"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "articole scrise în afara Noii Acropole",
+      "inner_material": "materiale interne ale Noii Acropole",
+      "legislative_initiative": "inițiative legislative împotriva Noii Acropole"
+    },
     "originalLanguage": "Limba originală: {language}",
+    "author": "Autor:",
     "downloadPdf": "Descărcați sursa (PDF)"
   }
 }

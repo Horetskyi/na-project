@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "dette er artikler skrevet utenfor Ny Akropolis",
-      "inner_material": "dette er interne materialer fra Ny Akropolis",
-      "legislative_initiative": "dette er lovgivningsinitiativer mot Ny Akropolis"
+      "article": "artikler skrevet utenfor Ny Akropolis",
+      "inner_material": "interne materialer fra Ny Akropolis",
+      "legislative_initiative": "lovgivningsinitiativer mot Ny Akropolis"
     },
     "originalLanguage": "Originalspråk: {language}",
+    "author": "Forfatter:",
     "downloadPdf": "Last ned kilde (PDF)"
   }
 }

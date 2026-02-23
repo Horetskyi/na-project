@@ -10,7 +10,13 @@
     "contactUs": "Contattaci"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "articoli scritti al di fuori di Nuova Acropoli",
+      "inner_material": "materiali interni di Nuova Acropoli",
+      "legislative_initiative": "iniziative legislative contro Nuova Acropoli"
+    },
     "originalLanguage": "Lingua originale: {language}",
+    "author": "Autore:",
     "downloadPdf": "Scarica sorgente (PDF)"
   }
 }

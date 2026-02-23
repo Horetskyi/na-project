@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "these are articles written outside New Acropolis",
-      "inner_material": "these are internal materials of New Acropolis",
-      "legislative_initiative": "these are legislative initiatives against New Acropolis"
+      "article": "articles written outside New Acropolis",
+      "inner_material": "internal materials of New Acropolis",
+      "legislative_initiative": "legislative initiatives against New Acropolis"
     },
     "originalLanguage": "Original language: {language}",
-    "downloadPdf": "Download source (PDF)"
+    "author": "Author:",
+    "downloadPdf": "Download original file (PDF)"
   }
 }

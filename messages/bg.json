@@ -10,7 +10,13 @@
     "contactUs": "Свържете се с нас"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "статии, написани извън Новия Акропол",
+      "inner_material": "вътрешни материали на Новия Акропол",
+      "legislative_initiative": "законодателни инициативи срещу Новия Акропол"
+    },
     "originalLanguage": "Оригинален език: {language}",
+    "author": "Автор:",
     "downloadPdf": "Изтеглете източника (PDF)"
   }
 }

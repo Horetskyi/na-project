@@ -10,7 +10,13 @@
     "contactUs": "Kontaktirajte nas"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "članci napisani izvan Novog Akropolisa",
+      "inner_material": "interni materijali Novog Akropolisa",
+      "legislative_initiative": "zakonodavne inicijative protiv Novog Akropolisa"
+    },
     "originalLanguage": "Izvorni jezik: {language}",
+    "author": "Autor:",
     "downloadPdf": "Preuzmi izvor (PDF)"
   }
 }

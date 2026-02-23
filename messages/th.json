@@ -10,7 +10,13 @@
     "contactUs": "ติดต่อเรา"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "บทความที่เขียนนอกนิวอะโครโพลิส",
+      "inner_material": "เอกสารภายในของนิวอะโครโพลิส",
+      "legislative_initiative": "ข้อริเริ่มด้านกฎหมายต่อต้านนิวอะโครโพลิส"
+    },
     "originalLanguage": "ภาษาต้นฉบับ: {language}",
+    "author": "ผู้เขียน:",
     "downloadPdf": "ดาวน์โหลดแหล่งที่มา (PDF)"
   }
 }

@@ -10,7 +10,13 @@
     "contactUs": "联系我们"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "在新卫城之外撰写的文章",
+      "inner_material": "新卫城的内部资料",
+      "legislative_initiative": "针对新卫城的立法倡议"
+    },
     "originalLanguage": "原始语言：{language}",
+    "author": "作者:",
     "downloadPdf": "下载来源（PDF）"
   }
 }

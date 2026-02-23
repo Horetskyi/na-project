@@ -11,11 +11,12 @@
   },
   "Shared": {
     "ContentsTypesDescription": {
-      "article": "dit zijn artikelen die buiten de Nieuwe Akropolis zijn geschreven",
-      "inner_material": "dit zijn interne materialen van de Nieuwe Akropolis",
-      "legislative_initiative": "dit zijn wetgevende initiatieven tegen de Nieuwe Akropolis"
+      "article": "artikelen die buiten de Nieuwe Akropolis zijn geschreven",
+      "inner_material": "interne materialen van de Nieuwe Akropolis",
+      "legislative_initiative": "wetgevende initiatieven tegen de Nieuwe Akropolis"
     },
     "originalLanguage": "Oorspronkelijke taal: {language}",
+    "author": "Auteur:",
     "downloadPdf": "Bron downloaden (PDF)"
   }
 }

@@ -10,7 +10,13 @@
     "contactUs": "Hubungi kami"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "artikel yang ditulis di luar New Acropolis",
+      "inner_material": "bahan dalaman New Acropolis",
+      "legislative_initiative": "inisiatif perundangan menentang New Acropolis"
+    },
     "originalLanguage": "Bahasa asal: {language}",
+    "author": "Penulis:",
     "downloadPdf": "Muat turun sumber (PDF)"
   }
 }

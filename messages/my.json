@@ -10,7 +10,13 @@
     "contactUs": "ဆက်သွယ်ရန်"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "နယူး အက်ခရိုပေါလစ်ပြင်ပတွင်ရေးသားထားသော ဆောင်းပါးများ",
+      "inner_material": "နယူး အက်ခရိုပေါလစ်၏ အတွင်းရေးရာ အကြောင်းအရာများ",
+      "legislative_initiative": "နယူး အက်ခရိုပေါလစ်ကို ဆန့်ကျင်သော ဥပဒေပြု အစပြုချက်များ"
+    },
     "originalLanguage": "မူရင်းဘာသာစကား: {language}",
+    "author": "စာရေးသူ:",
     "downloadPdf": "အရင်းအမြစ် ဒေါင်းလုတ် (PDF)"
   }
 }

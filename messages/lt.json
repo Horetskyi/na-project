@@ -10,7 +10,13 @@
     "contactUs": "Susisiekite su mumis"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "straipsniai, parašyti už Naujojo Akropolio ribų",
+      "inner_material": "Naujojo Akropolio vidinė medžiaga",
+      "legislative_initiative": "įstatymų leidybos iniciatyvos prieš Naująjį Akropolį"
+    },
     "originalLanguage": "Originalo kalba: {language}",
+    "author": "Autorius:",
     "downloadPdf": "Atsisiųsti šaltinį (PDF)"
   }
 }

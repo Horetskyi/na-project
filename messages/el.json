@@ -10,7 +10,13 @@
     "contactUs": "Επικοινωνήστε μαζί μας"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "άρθρα γραμμένα εκτός της Νέας Ακρόπολης",
+      "inner_material": "εσωτερικό υλικό της Νέας Ακρόπολης",
+      "legislative_initiative": "νομοθετικές πρωτοβουλίες κατά της Νέας Ακρόπολης"
+    },
     "originalLanguage": "Αρχική γλώσσα: {language}",
+    "author": "Συγγραφέας:",
     "downloadPdf": "Λήψη πηγής (PDF)"
   }
 }

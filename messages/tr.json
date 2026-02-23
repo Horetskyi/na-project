@@ -10,7 +10,13 @@
     "contactUs": "Bizimle iletişime geçin"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "Yeni Akropolis dışında yazılmış makaleler",
+      "inner_material": "Yeni Akropolis'in iç materyalleri",
+      "legislative_initiative": "Yeni Akropolis'e karşı yasal girişimler"
+    },
     "originalLanguage": "Orijinal dil: {language}",
+    "author": "Yazar:",
     "downloadPdf": "Kaynağı indir (PDF)"
   }
 }

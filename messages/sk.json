@@ -10,7 +10,13 @@
     "contactUs": "Kontaktujte nás"
   },
   "Shared": {
+    "ContentsTypesDescription": {
+      "article": "články napísané mimo Nového Akropolu",
+      "inner_material": "interné materiály Nového Akropolu",
+      "legislative_initiative": "legislatívne iniciatívy proti Novému Akropolu"
+    },
     "originalLanguage": "Pôvodný jazyk: {language}",
+    "author": "Autor:",
     "downloadPdf": "Stiahnuť zdroj (PDF)"
   }
 }
