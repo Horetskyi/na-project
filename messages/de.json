@@ -16,6 +16,7 @@
       "legislative_initiative": "das sind gesetzgeberische Initiativen gegen die Neue Akropolis"
     },
     "originalLanguage": "Originalsprache: {language}",
+    "source": "Quelle",
     "author": "Autor:",
     "downloadPdf": "Quelle herunterladen (PDF)"
   }

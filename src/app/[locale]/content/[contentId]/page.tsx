@@ -7,6 +7,7 @@ import {
   getContents,
   getAuthors,
   getLanguages,
+  getSources,
   getContentMarkdownWithLanguage,
   hasSourcePdf,
   hasCountryFlag,
@@ -72,6 +73,7 @@ export default async function ContentPage({ params }: Props) {
 
   const authors = getAuthors();
   const languages = getLanguages();
+  const sources = getSources();
 
   const title = loc(content.title, locale, content.langCode);
   const markdownResult = getContentMarkdownWithLanguage(
@@ -89,6 +91,10 @@ export default async function ContentPage({ params }: Props) {
   const contentTypeLabel = tShared(
     `ContentsTypesDescription.${content.type}`,
   );
+  const source = content.sourceId
+    ? sources.find((s) => s.id === content.sourceId)
+    : null;
+  const sourceLabel = tShared("source");
 
   const contentAuthors: Author[] = (
     content.authorIds ?? (content.authorId != null ? [content.authorId] : [])
@@ -191,17 +197,31 @@ export default async function ContentPage({ params }: Props) {
       {markdown ? (
         <>
           <div className="mb-4 flex items-center gap-2 flex-wrap">
-            <span
+            <span 
               className={`inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold ${isOriginalContentLanguage ? "bg-green-100 text-green-800" : "bg-yellow-100 text-yellow-800"}`}
             >
               {isOriginalContentLanguage
                 ? chipLabels.original
                 : chipLabels.machine}
             </span>
-            <span className="inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold bg-blue-100 text-blue-800">
+            <span style={{ textTransform: "capitalize" }} className="inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold bg-blue-100 text-blue-800">
               {contentTypeLabel}
             </span>
           </div>
+          {content.url && (
+            <p className="mb-4">
+              <a
+                href={content.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-gray-400 hover:text-gray-600 underline"
+              >
+                {source
+                  ? `${sourceLabel}: ${source.name}`
+                  : sourceLabel}
+              </a>
+            </p>
+          )}
           <article className="prose prose-gray max-w-none">
             <ReactMarkdown>{markdown}</ReactMarkdown>
           </article>

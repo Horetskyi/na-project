@@ -54,6 +54,13 @@ export interface Country {
   code: string;
 }
 
+export interface Source {
+  id: number;
+  url: string;
+  name: string;
+  countryCode: string;
+}
+
 /* ───────────── Data loaders ───────────── */
 
 export function getContents(): Content[] {
@@ -77,6 +84,12 @@ export function getLanguages(): Language[] {
 export function getCountries(): Country[] {
   return JSON.parse(
     fs.readFileSync(path.join(DATA_DIR, "countries.json"), "utf-8"),
+  );
+}
+
+export function getSources(): Source[] {
+  return JSON.parse(
+    fs.readFileSync(path.join(DATA_DIR, "sources.json"), "utf-8"),
   );
 }
 
