@@ -1,5 +1,6 @@
 /**
  * LibreTranslate API client with rate-limiting and retry logic.
+ * Implements the TranslationEngine interface.
  */
 
 import {
@@ -9,21 +10,14 @@ import {
   MAX_RETRIES,
   RETRY_DELAY_MS,
 } from "./config.js";
+import type { TranslateOptions, TranslationEngine } from "./engine.js";
+
+// Re-export for backward compatibility
+export type { TranslateOptions } from "./engine.js";
 
 /* ------------------------------------------------------------------ */
 /*  Types                                                             */
 /* ------------------------------------------------------------------ */
-
-export interface TranslateOptions {
-  /** Text to translate. */
-  q: string;
-  /** Source language (project locale such as "uk"). */
-  source: string;
-  /** Target language (project locale such as "en"). */
-  target: string;
-  /** "text" (default) or "html". */
-  format?: "text" | "html";
-}
 
 interface TranslateResponse {
   translatedText: string;
@@ -40,7 +34,9 @@ interface LTLanguage {
 /*  Client                                                            */
 /* ------------------------------------------------------------------ */
 
-export class LibreTranslateClient {
+export class LibreTranslateClient implements TranslationEngine {
+  readonly name = "LibreTranslate";
+
   private apiUrl: string;
   private apiKey?: string;
   private supportedCodes: Set<string> | null = null;

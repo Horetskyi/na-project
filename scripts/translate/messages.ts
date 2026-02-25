@@ -10,7 +10,7 @@
 
 import path from "path";
 import { MESSAGES_DIR } from "./config.js";
-import { LibreTranslateClient } from "./client.js";
+import type { TranslationEngine } from "./engine.js";
 import {
   readJsonFile,
   writeJsonFile,
@@ -80,7 +80,7 @@ function setByPath(obj: MessageTree, path: string[], value: string): void {
 /* ------------------------------------------------------------------ */
 
 export interface TranslateMessagesOptions {
-  client: LibreTranslateClient;
+  engine: TranslationEngine;
   baseLang: string;
   targetLangs: string[];
   dryRun?: boolean;
@@ -89,7 +89,7 @@ export interface TranslateMessagesOptions {
 export async function translateMessages(
   opts: TranslateMessagesOptions
 ): Promise<void> {
-  const { client, baseLang, targetLangs, dryRun } = opts;
+  const { engine, baseLang, targetLangs, dryRun } = opts;
 
   // 1. Load base language file
   const baseFile = path.join(MESSAGES_DIR, `${baseLang}.json`);
@@ -141,7 +141,7 @@ export async function translateMessages(
       const batch = missing.slice(i, i + BATCH);
       const texts = batch.map((m) => m.value);
 
-      const translated = await client.translateBatch(
+      const translated = await engine.translateBatch(
         texts,
         baseLang,
         lang

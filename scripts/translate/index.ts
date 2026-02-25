@@ -1,21 +1,26 @@
 #!/usr/bin/env node
 /**
- * Translator CLI — add/refresh missing translations using LibreTranslate.
+ * Translator CLI — add/refresh missing translations.
+ *
+ * Supports multiple translation engines:
+ *   - libretranslate  (default) — self-hosted LibreTranslate instance
+ *   - nllb200         — Meta NLLB-200 via FastAPI (HuggingFace Spaces)
  *
  * Usage:
  *   npx tsx scripts/translate/index.ts [options]
  *
  * Options:
+ *   --engine <name>       libretranslate | nllb200                (default: libretranslate)
  *   --mode <mode>         messages | contents | json-data | all   (default: all)
  *   --base-lang <code>    Base language to translate FROM          (default: uk)
  *   --target-langs <csv>  Comma-separated target language codes   (default: all from languages.json)
- *   --api-url <url>       LibreTranslate instance URL             (default: http://localhost:5000)
- *   --api-key <key>       LibreTranslate API key (optional)
+ *   --api-url <url>       Translation engine URL                  (default: depends on engine)
+ *   --api-key <key>       API key (LibreTranslate only, optional)
  *   --dry-run             Show what would be translated without making changes
  *   --help                Show this help message
  *
  * Examples:
- *   # Translate everything from Ukrainian to all languages
+ *   # Translate everything from Ukrainian to all languages (LibreTranslate)
  *   npx tsx scripts/translate/index.ts
  *
  *   # Translate only messages, dry run
@@ -24,11 +29,17 @@
  *   # Translate from English to French and German only
  *   npx tsx scripts/translate/index.ts --base-lang en --target-langs fr,de
  *
+ *   # Use NLLB-200 engine
+ *   npx tsx scripts/translate/index.ts --engine nllb200
+ *
  *   # Use a remote LibreTranslate instance with API key
  *   npx tsx scripts/translate/index.ts --api-url https://libretranslate.com --api-key YOUR_KEY
  */
 
 import { LibreTranslateClient } from "./client.js";
+import { Nllb200Client } from "./nllb200-client.js";
+import type { TranslationEngine, EngineName } from "./engine.js";
+import { ENGINE_NAMES } from "./engine.js";
 import { translateMessages } from "./messages.js";
 import { translateContentsTexts } from "./contents-texts.js";
 import { translateJsonData } from "./json-data.js";
@@ -42,10 +53,11 @@ import { CONTENTS_JSON, AUTHORS_JSON, DEFAULT_API_URL } from "./config.js";
 type Mode = "messages" | "contents" | "json-data" | "all";
 
 interface CliArgs {
+  engine: EngineName;
   mode: Mode;
   baseLang: string;
   targetLangs: string[] | null; // null = all
-  apiUrl: string;
+  apiUrl: string | null; // null = use engine default
   apiKey?: string;
   contentId?: string;
   dryRun: boolean;
@@ -54,10 +66,11 @@ interface CliArgs {
 
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
+    engine: "libretranslate",
     mode: "all",
     baseLang: "uk",
     targetLangs: null,
-    apiUrl: DEFAULT_API_URL,
+    apiUrl: null,
     dryRun: false,
     help: false,
   };
@@ -65,6 +78,13 @@ function parseArgs(argv: string[]): CliArgs {
   for (let i = 2; i < argv.length; i++) {
     const arg = argv[i];
     switch (arg) {
+      case "--engine":
+        args.engine = argv[++i] as EngineName;
+        if (!ENGINE_NAMES.includes(args.engine)) {
+          log.error(`Unknown engine: ${args.engine}. Supported: ${ENGINE_NAMES.join(", ")}`);
+          process.exit(1);
+        }
+        break;
       case "--mode":
         args.mode = argv[++i] as Mode;
         break;
@@ -102,11 +122,14 @@ function printHelp(): void {
   console.log(`
 ╔══════════════════════════════════════════════════════════════════╗
 ║               na-project Translation Utility                    ║
-║            Powered by LibreTranslate (self-hosted)              ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 Usage:
   npx tsx scripts/translate/index.ts [options]
+
+Engines:
+  libretranslate  Self-hosted LibreTranslate instance (default)
+  nllb200         Meta NLLB-200 model via FastAPI (HuggingFace Spaces)
 
 Modes:
   messages      Translate messages/*.json UI string files
@@ -115,26 +138,33 @@ Modes:
   all           Run all of the above (default)
 
 Options:
+  --engine <name>       ${ENGINE_NAMES.join(" | ")}   (default: libretranslate)
   --mode <mode>         messages | contents | json-data | all   (default: all)
   --base-lang <code>    Base language to translate FROM          (default: uk)
   --target-langs <csv>  Comma-separated target codes            (default: all from languages.json)
-  --api-url <url>       LibreTranslate URL                      (default: http://localhost:5000)
-  --api-key <key>       API key for the LibreTranslate instance (optional)
+  --api-url <url>       Translation engine URL                  (default: engine-specific)
+  --api-key <key>       API key (LibreTranslate only, optional)
   --content-id <id>     Only translate a specific content folder (contents mode)
   --dry-run             Preview changes without writing files
   --help                Show this help message
 
-Prerequisites:
+Prerequisites (LibreTranslate):
   1. Install and run LibreTranslate locally:
        pip install libretranslate
        libretranslate
   2. Or use a managed instance with --api-url and --api-key
 
+Prerequisites (NLLB-200):
+  Uses the public HuggingFace Spaces API by default.
+  Or host your own with --api-url.
+
 Examples:
   npx tsx scripts/translate/index.ts
+  npx tsx scripts/translate/index.ts --engine nllb200
   npx tsx scripts/translate/index.ts --mode messages --dry-run
   npx tsx scripts/translate/index.ts --base-lang en --target-langs fr,de
   npx tsx scripts/translate/index.ts --mode contents --content-id disclaimer --base-lang en
+  npx tsx scripts/translate/index.ts --engine nllb200 --mode contents --base-lang en
   npx tsx scripts/translate/index.ts --api-url https://libretranslate.com --api-key KEY
 `);
 }
@@ -155,36 +185,38 @@ async function main(): Promise<void> {
   const targetLangs =
     args.targetLangs ?? (await getAllLanguageCodes());
 
+  log.info(`Engine: ${args.engine}`);
   log.info(`Mode: ${args.mode}`);
   log.info(`Base language: ${args.baseLang}`);
   log.info(`Target languages: ${targetLangs.length} language(s)`);
-  log.info(`API URL: ${args.apiUrl}`);
+
+  // Create the translation engine
+  const engine = createEngine(args);
+
+  log.info(`API URL: ${(engine as any).apiUrl ?? "(built-in)"}`);
   if (args.dryRun) log.warn("DRY RUN — no files will be modified");
   console.log();
 
-  // Create API client & verify connectivity
-  const client = new LibreTranslateClient(args.apiUrl, args.apiKey);
-  const healthy = await client.healthCheck();
+  // Verify connectivity
+  const healthy = await engine.healthCheck();
   if (!healthy) {
     if (args.dryRun) {
       log.warn(
-        `Cannot connect to LibreTranslate at ${args.apiUrl} (dry-run continues without API)`
+        `Cannot connect to ${engine.name} (dry-run continues without API)`
       );
     } else {
       log.error(
-        `Cannot connect to LibreTranslate at ${args.apiUrl}.\n` +
-          `  Make sure the server is running:\n` +
-          `    pip install libretranslate\n` +
-          `    libretranslate`
+        `Cannot connect to ${engine.name}.\n` +
+          `  Make sure the server is running or reachable.`
       );
       process.exit(1);
     }
   }
 
   if (healthy) {
-    const supported = await client.getSupportedLanguages();
+    const supported = await engine.getSupportedLanguages();
     log.success(
-      `Connected to LibreTranslate (${supported.size} languages supported)`
+      `Connected to ${engine.name} (${supported.size} languages supported)`
     );
   }
   console.log();
@@ -201,7 +233,7 @@ async function main(): Promise<void> {
     switch (mode) {
       case "messages":
         await translateMessages({
-          client,
+          engine,
           baseLang: args.baseLang,
           targetLangs,
           dryRun: args.dryRun,
@@ -210,7 +242,7 @@ async function main(): Promise<void> {
 
       case "contents":
         await translateContentsTexts({
-          client,
+          engine,
           baseLang: args.baseLang,
           targetLangs,
           contentId: args.contentId,
@@ -220,7 +252,7 @@ async function main(): Promise<void> {
 
       case "json-data":
         await translateJsonData({
-          client,
+          engine,
           baseLang: args.baseLang,
           targetLangs,
           filePaths: [CONTENTS_JSON, AUTHORS_JSON],
@@ -233,6 +265,25 @@ async function main(): Promise<void> {
   }
 
   log.success("Translation complete!");
+}
+
+/* ------------------------------------------------------------------ */
+/*  Engine factory                                                     */
+/* ------------------------------------------------------------------ */
+
+function createEngine(args: CliArgs): TranslationEngine {
+  switch (args.engine) {
+    case "libretranslate":
+      return new LibreTranslateClient(
+        args.apiUrl ?? DEFAULT_API_URL,
+        args.apiKey
+      );
+    case "nllb200":
+      return new Nllb200Client(args.apiUrl ?? undefined);
+    default:
+      log.error(`Unknown engine: ${args.engine}`);
+      process.exit(1);
+  }
 }
 
 main().catch((err) => {

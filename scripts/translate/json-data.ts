@@ -14,7 +14,7 @@
  *   5. Write updated file.
  */
 
-import { LibreTranslateClient } from "./client.js";
+import type { TranslationEngine } from "./engine.js";
 import {
   readJsonFile,
   writeJsonFile,
@@ -74,7 +74,7 @@ function findLocaleMaps(
 /* ------------------------------------------------------------------ */
 
 export interface TranslateJsonDataOptions {
-  client: LibreTranslateClient;
+  engine: TranslationEngine;
   baseLang: string;
   targetLangs: string[];
   filePaths: string[];
@@ -84,7 +84,7 @@ export interface TranslateJsonDataOptions {
 export async function translateJsonData(
   opts: TranslateJsonDataOptions
 ): Promise<void> {
-  const { client, baseLang, targetLangs, filePaths, dryRun } = opts;
+  const { engine, baseLang, targetLangs, filePaths, dryRun } = opts;
 
   const allCodes = new Set(await getAllLanguageCodes());
 
@@ -136,7 +136,7 @@ export async function translateJsonData(
 
       // Translate each missing language
       for (const lang of missingLangs) {
-        const result = await client.translate({
+        const result = await engine.translate({
           q: sourceText,
           source: sourceLang,
           target: lang,

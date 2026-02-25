@@ -4,21 +4,46 @@
  * Strategy:
  *   1. For each content directory, list existing .md files.
  *   2. Pick the base-language file (or first available) as source.
- *   3. For every target language without a .md file → translate & create.
+ *   3. Convert markdown → HTML, translate via LibreTranslate (format=html),
+ *      convert translated HTML → markdown, and save as .md file.
  */
 
 import fs from "fs/promises";
 import path from "path";
+import { marked } from "marked";
+import TurndownService from "turndown";
 import { CONTENTS_TEXTS_DIR } from "./config.js";
-import { LibreTranslateClient } from "./client.js";
+import type { TranslationEngine } from "./engine.js";
 import { listDirs, listFiles, fileExists, log } from "./utils.js";
+
+/* ------------------------------------------------------------------ */
+/*  Markdown ↔ HTML converters                                        */
+/* ------------------------------------------------------------------ */
+
+/** Convert markdown source to HTML for translation. */
+async function mdToHtml(md: string): Promise<string> {
+  return await marked.parse(md, { async: true });
+}
+
+/** Convert translated HTML back to markdown. */
+function htmlToMd(html: string): string {
+  const td = new TurndownService({
+    headingStyle: "atx",        // # style headings
+    hr: "---",
+    bulletListMarker: "-",
+    codeBlockStyle: "fenced",
+    emDelimiter: "*",
+    strongDelimiter: "**",
+  });
+  return td.turndown(html);
+}
 
 /* ------------------------------------------------------------------ */
 /*  Public API                                                         */
 /* ------------------------------------------------------------------ */
 
 export interface TranslateContentsTextsOptions {
-  client: LibreTranslateClient;
+  engine: TranslationEngine;
   baseLang: string;
   targetLangs: string[];
   contentId?: string;
@@ -28,7 +53,7 @@ export interface TranslateContentsTextsOptions {
 export async function translateContentsTexts(
   opts: TranslateContentsTextsOptions
 ): Promise<void> {
-  const { client, baseLang, targetLangs, contentId, dryRun } = opts;
+  const { engine, baseLang, targetLangs, contentId, dryRun } = opts;
 
   const allDirs = await listDirs(CONTENTS_TEXTS_DIR);
   const contentDirs = contentId
@@ -66,6 +91,9 @@ export async function translateContentsTexts(
     const sourceFile = path.join(dirPath, `${sourceLang}.md`);
     const sourceText = await fs.readFile(sourceFile, "utf-8");
 
+    // Convert source markdown to HTML once (reused for every target lang)
+    const sourceHtml = await mdToHtml(sourceText);
+
     // Find missing target languages
     const missingLangs = targetLangs.filter(
       (lang) => lang !== sourceLang && !existingLangs.includes(lang)
@@ -87,22 +115,21 @@ export async function translateContentsTexts(
       continue;
     }
 
-    // Translate the entire markdown content for each missing language.
-    // We use format "html" so LibreTranslate preserves markdown structure.
+    // Pipeline: markdown → HTML → translate (format=html) → HTML → markdown
     for (const lang of missingLangs) {
       const targetFile = path.join(dirPath, `${lang}.md`);
 
-      // Skip very large texts — translate in chunks of ~4000 chars
-      const chunks = splitTextForTranslation(sourceText, 4000);
+      // Split HTML into chunks for large texts
+      const chunks = splitTextForTranslation(sourceHtml, 4000);
       const translatedChunks: string[] = [];
       let failed = false;
 
       for (const chunk of chunks) {
-        const result = await client.translate({
+        const result = await engine.translate({
           q: chunk,
           source: sourceLang,
           target: lang,
-          format: "html", // preserves markdown formatting better
+          format: "html",
         });
 
         if (result === null) {
@@ -117,7 +144,11 @@ export async function translateContentsTexts(
 
       if (failed) continue;
 
-      await fs.writeFile(targetFile, translatedChunks.join("\n"), "utf-8");
+      // Convert translated HTML back to markdown
+      const translatedHtml = translatedChunks.join("");
+      const translatedMd = htmlToMd(translatedHtml);
+
+      await fs.writeFile(targetFile, translatedMd + "\n", "utf-8");
       log.success(`    ${lang}: created ${targetFile}`);
     }
   }

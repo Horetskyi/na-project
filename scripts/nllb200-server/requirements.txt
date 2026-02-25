@@ -1,0 +1,9 @@
+transformers
+torch
+sentencepiece
+protobuf
+fastapi
+uvicorn[standard]
+langid
+python-dotenv
+pydantic
