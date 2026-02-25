@@ -68,7 +68,7 @@ export default function Header() {
   const current = LOCALE_META[locale];
 
   return (
-    <header className="bg-white border-b border-gray-200 shadow-sm">
+    <header className="bg-special text-special border-b border-gray-200 shadow-sm">
       <div className="container mx-auto px-4 max-w-6xl">
         <div className="flex items-center justify-between h-16">
           {/* Left side: logos and title */}
@@ -96,7 +96,7 @@ export default function Header() {
             {/* Bold link to homepage */}
             <Link
               href={`/${locale}`}
-              className="font-bold text-gray-900 hover:text-gray-700 transition-colors text-sm sm:text-base"
+              className="font-bold text-special-hover transition-colors text-sm sm:text-base"
             >
               {t("title")}
             </Link>
@@ -111,7 +111,7 @@ export default function Header() {
               aria-expanded={open}
             >
               <Image src={`/flags/${locale}.webp`} alt={current.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
-              <span className="hidden sm:inline text-gray-700">{current.name}</span>
+              <span className="hidden sm:inline text-gray-700 font-bold">{current.name}</span>
               <svg
                 className={`w-4 h-4 text-gray-500 transition-transform ${open ? "rotate-180" : ""}`}
                 fill="none"

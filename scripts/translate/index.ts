@@ -47,6 +47,7 @@ interface CliArgs {
   targetLangs: string[] | null; // null = all
   apiUrl: string;
   apiKey?: string;
+  contentId?: string;
   dryRun: boolean;
   help: boolean;
 }
@@ -78,6 +79,9 @@ function parseArgs(argv: string[]): CliArgs {
         break;
       case "--api-key":
         args.apiKey = argv[++i];
+        break;
+      case "--content-id":
+        args.contentId = argv[++i];
         break;
       case "--dry-run":
         args.dryRun = true;
@@ -116,6 +120,7 @@ Options:
   --target-langs <csv>  Comma-separated target codes            (default: all from languages.json)
   --api-url <url>       LibreTranslate URL                      (default: http://localhost:5000)
   --api-key <key>       API key for the LibreTranslate instance (optional)
+  --content-id <id>     Only translate a specific content folder (contents mode)
   --dry-run             Preview changes without writing files
   --help                Show this help message
 
@@ -129,6 +134,7 @@ Examples:
   npx tsx scripts/translate/index.ts
   npx tsx scripts/translate/index.ts --mode messages --dry-run
   npx tsx scripts/translate/index.ts --base-lang en --target-langs fr,de
+  npx tsx scripts/translate/index.ts --mode contents --content-id disclaimer --base-lang en
   npx tsx scripts/translate/index.ts --api-url https://libretranslate.com --api-key KEY
 `);
 }
@@ -207,6 +213,7 @@ async function main(): Promise<void> {
           client,
           baseLang: args.baseLang,
           targetLangs,
+          contentId: args.contentId,
           dryRun: args.dryRun,
         });
         break;

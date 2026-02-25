@@ -21,15 +21,24 @@ export interface TranslateContentsTextsOptions {
   client: LibreTranslateClient;
   baseLang: string;
   targetLangs: string[];
+  contentId?: string;
   dryRun?: boolean;
 }
 
 export async function translateContentsTexts(
   opts: TranslateContentsTextsOptions
 ): Promise<void> {
-  const { client, baseLang, targetLangs, dryRun } = opts;
+  const { client, baseLang, targetLangs, contentId, dryRun } = opts;
 
-  const contentDirs = await listDirs(CONTENTS_TEXTS_DIR);
+  const allDirs = await listDirs(CONTENTS_TEXTS_DIR);
+  const contentDirs = contentId
+    ? allDirs.filter((d) => d === contentId)
+    : allDirs;
+
+  if (contentId && contentDirs.length === 0) {
+    log.warn(`ContentsTexts: content folder "${contentId}" not found`);
+    return;
+  }
 
   log.info(
     `ContentsTexts: ${contentDirs.length} content director(ies) found`

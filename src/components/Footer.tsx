@@ -32,7 +32,7 @@ export default function Footer() {
 
           {/* Contact email and Disclaimer link */}
           <div className="text-sm">
-            <span className="text-gray-400">{t("contactUs")}: </span>
+            <span className="text-gray-300">{t("contactUs")}: </span>
             <a
               href="mailto:againstmanipulations@gmail.com"
               className="text-blue-400 hover:text-blue-300 transition-colors"
@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
 
         {/* Description */}
-        <p className="text-sm text-gray-400 leading-relaxed border-t border-gray-700 pt-6">
+        <p className="text-sm text-gray-300 leading-relaxed border-t border-gray-700 pt-6">
           {t("description")}
         </p>
       </div>
