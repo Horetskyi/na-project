@@ -1,8 +1,10 @@
 import Image from "next/image";
-import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { useLocale, useTranslations } from "next-intl";
 
 export default function Footer() {
   const t = useTranslations("Footer");
+  const locale = useLocale();
 
   return (
     <footer className="bg-gray-900 text-gray-300 mt-auto">
@@ -28,7 +30,7 @@ export default function Footer() {
             />
           </div>
 
-          {/* Contact email */}
+          {/* Contact email and Disclaimer link */}
           <div className="text-sm">
             <span className="text-gray-400">{t("contactUs")}: </span>
             <a
@@ -37,6 +39,13 @@ export default function Footer() {
             >
               againstmanipulations@gmail.com
             </a>
+            <span className="text-gray-600 mx-2">|</span>
+            <Link
+              href={`/${locale}/disclaimer-legal`}
+              className="text-blue-400 hover:text-blue-300 transition-colors"
+            >
+              {t("disclaimerLegal")}
+            </Link>
           </div>
         </div>
 

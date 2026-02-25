@@ -11,7 +11,8 @@
   },
   "Footer": {
     "description": "Ez az oldal a manipuláció, a megtévesztés és az intolerancia elleni harcnak van szentelve. Az Új Akropolisz volt tagjainak belső dokumentumai és tanúvallomásai megerősítik Tanításuk romboló jellegét, és azt a tényt, hogy az Új Akropolisz beavatott tagjai a romboló elméletet romboló gyakorlattá alakítják, és aktívan toboroznak új embereket.",
-    "contactUs": "Kapcsolat"
+    "contactUs": "Kapcsolat",
+    "disclaimerLegal": "Jogi nyilatkozat"
   },
   "Shared": {
     "ContentsTypesDescription": {
