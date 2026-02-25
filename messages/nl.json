@@ -23,6 +23,7 @@
     "originalLanguage": "Oorspronkelijke taal: {language}",
     "source": "Bron",
     "author": "Auteur:",
-    "downloadPdf": "Bron downloaden (PDF)"
+    "downloadPdf": "Bron downloaden (PDF)",
+    "readInOriginal": "Lees in de originele taal"
   }
 }

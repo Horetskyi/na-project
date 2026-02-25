@@ -23,6 +23,7 @@
     "originalLanguage": "Orijinal dil: {language}",
     "source": "Kaynak",
     "author": "Yazar:",
-    "downloadPdf": "Kaynağı indir (PDF)"
+    "downloadPdf": "Kaynağı indir (PDF)",
+    "readInOriginal": "Orijinal dilde oku"
   }
 }

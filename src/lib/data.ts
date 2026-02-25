@@ -64,9 +64,17 @@ export interface Source {
 /* ───────────── Data loaders ───────────── */
 
 export function getContents(): Content[] {
-  return JSON.parse(
-    fs.readFileSync(path.join(DATA_DIR, "contents.json"), "utf-8"),
-  );
+  const files = fs.readdirSync(DATA_DIR)
+    .filter((f) => /^contents\d*\.json$/.test(f))
+    .sort();
+  const all: Content[] = [];
+  for (const file of files) {
+    const items: Content[] = JSON.parse(
+      fs.readFileSync(path.join(DATA_DIR, file), "utf-8"),
+    );
+    all.push(...items);
+  }
+  return all;
 }
 
 export function getAuthors(): Author[] {

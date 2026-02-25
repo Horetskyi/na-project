@@ -4,8 +4,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "next/navigation";
-import { useState } from "react";
+import { useState, useRef, useEffect, useMemo } from "react";
 import { locales, type Locale } from "@/i18n/routing";
+import { LANGUAGE_SEARCH_TERMS } from "@/lib/languageSearchTerms";
 
 const LOCALE_META: Record<Locale, { flag: string; name: string }> = {
   uk: { flag: "🇺🇦", name: "Українська" },
@@ -56,6 +57,29 @@ export default function Header() {
   const router = useRouter();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const [search, setSearch] = useState("");
+  const searchInputRef = useRef<HTMLInputElement>(null);
+
+  // Focus the search input when dropdown opens
+  useEffect(() => {
+    if (open) {
+      // Small delay to let the dropdown render
+      requestAnimationFrame(() => searchInputRef.current?.focus());
+    } else {
+      setSearch("");
+    }
+  }, [open]);
+
+  // Filter locales based on search query matching any name variant
+  const filteredLocales = useMemo(() => {
+    const q = search.trim().toLowerCase();
+    if (!q) return locales;
+    return locales.filter((loc) => {
+      const terms = LANGUAGE_SEARCH_TERMS[loc];
+      if (!terms) return false;
+      return terms.some((term) => term.toLowerCase().includes(q));
+    });
+  }, [search]);
 
   const handleLocaleChange = (newLocale: Locale) => {
     setOpen(false);
@@ -131,26 +155,43 @@ export default function Header() {
                   onClick={() => setOpen(false)}
                 />
                 {/* Dropdown */}
-                <div className="absolute right-0 mt-1 z-20 bg-white border border-gray-200 rounded-md shadow-lg max-h-80 overflow-y-auto min-w-[180px]">
-                  <ul role="listbox">
-                    {locales.map((loc) => {
-                      const meta = LOCALE_META[loc];
-                      return (
-                        <li key={loc}>
-                          <button
-                            role="option"
-                            aria-selected={loc === locale}
-                            onClick={() => handleLocaleChange(loc)}
-                            className={`w-full flex items-center gap-2 px-3 py-2 text-sm hover:bg-gray-50 transition-colors text-left ${
-                              loc === locale ? "bg-blue-50 font-medium text-blue-700" : "text-gray-700"
-                            }`}
-                          >
-                            <Image src={`/flags/${loc}.webp`} alt={meta.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
-                            <span>{meta.name}</span>
-                          </button>
-                        </li>
-                      );
-                    })}
+                <div className="absolute right-0 mt-1 z-20 bg-white border border-gray-200 rounded-md shadow-lg max-h-80 overflow-hidden min-w-[220px] flex flex-col">
+                  {/* Search box */}
+                  <div className="p-2 border-b border-gray-100">
+                    <input
+                      ref={searchInputRef}
+                      type="text"
+                      value={search}
+                      onChange={(e) => setSearch(e.target.value)}
+                      placeholder="🔍"
+                      className="w-full px-2 py-1.5 text-sm border border-gray-200 rounded focus:outline-none focus:border-blue-400 text-gray-700"
+                      autoComplete="off"
+                    />
+                  </div>
+                  {/* List */}
+                  <ul role="listbox" className="overflow-y-auto flex-1">
+                    {filteredLocales.length > 0 ? (
+                      filteredLocales.map((loc) => {
+                        const meta = LOCALE_META[loc];
+                        return (
+                          <li key={loc}>
+                            <button
+                              role="option"
+                              aria-selected={loc === locale}
+                              onClick={() => handleLocaleChange(loc)}
+                              className={`w-full flex items-center gap-2 px-3 py-2 text-sm hover:bg-gray-50 transition-colors text-left ${
+                                loc === locale ? "bg-blue-50 font-medium text-blue-700" : "text-gray-700"
+                              }`}
+                            >
+                              <Image src={`/flags/${loc}.webp`} alt={meta.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
+                              <span>{meta.name}</span>
+                            </button>
+                          </li>
+                        );
+                      })
+                    ) : (
+                      <li className="px-3 py-2 text-sm text-gray-400 text-center">—</li>
+                    )}
                   </ul>
                 </div>
               </>

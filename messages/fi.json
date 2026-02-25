@@ -23,6 +23,7 @@
     "originalLanguage": "Alkuperäinen kieli: {language}",
     "source": "Lähde",
     "author": "Kirjoittaja:",
-    "downloadPdf": "Lataa lähde (PDF)"
+    "downloadPdf": "Lataa lähde (PDF)",
+    "readInOriginal": "Lue alkuperäiskielellä"
   }
 }

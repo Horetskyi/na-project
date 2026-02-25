@@ -23,6 +23,7 @@
     "originalLanguage": "Оригинален език: {language}",
     "source": "Източник",
     "author": "Автор:",
-    "downloadPdf": "Изтеглете източника (PDF)"
+    "downloadPdf": "Изтеглете източника (PDF)",
+    "readInOriginal": "Прочетете на оригиналния език"
   }
 }

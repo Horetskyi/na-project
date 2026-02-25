@@ -23,6 +23,7 @@
     "originalLanguage": "Eredeti nyelv: {language}",
     "source": "Forrás",
     "author": "Szerző:",
-    "downloadPdf": "Forrás letöltése (PDF)"
+    "downloadPdf": "Forrás letöltése (PDF)",
+    "readInOriginal": "Olvasás az eredeti nyelven"
   }
 }

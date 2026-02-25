@@ -23,6 +23,7 @@
     "originalLanguage": "मूल भाषा: {language}",
     "source": "स्रोत",
     "author": "लेखक:",
-    "downloadPdf": "स्रोत डाउनलोड करें (PDF)"
+    "downloadPdf": "स्रोत डाउनलोड करें (PDF)",
+    "readInOriginal": "मूल भाषा में पढ़ें"
   }
 }

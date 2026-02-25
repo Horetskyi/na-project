@@ -23,6 +23,7 @@
     "originalLanguage": "Oriģinālvaloda: {language}",
     "source": "Avots",
     "author": "Autors:",
-    "downloadPdf": "Lejupielādēt avotu (PDF)"
+    "downloadPdf": "Lejupielādēt avotu (PDF)",
+    "readInOriginal": "Lasīt oriģinālvalodā"
   }
 }

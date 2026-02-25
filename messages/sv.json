@@ -23,6 +23,7 @@
     "originalLanguage": "Originalspråk: {language}",
     "source": "Källa",
     "author": "Författare:",
-    "downloadPdf": "Ladda ner källa (PDF)"
+    "downloadPdf": "Ladda ner källa (PDF)",
+    "readInOriginal": "Läs på originalspråket"
   }
 }

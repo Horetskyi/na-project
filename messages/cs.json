@@ -23,6 +23,7 @@
     "originalLanguage": "Původní jazyk: {language}",
     "source": "Zdroj",
     "author": "Autor:",
-    "downloadPdf": "Stáhnout zdroj (PDF)"
+    "downloadPdf": "Stáhnout zdroj (PDF)",
+    "readInOriginal": "Číst v původním jazyce"
   }
 }

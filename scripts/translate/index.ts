@@ -44,7 +44,7 @@ import { translateMessages } from "./messages.js";
 import { translateContentsTexts } from "./contents-texts.js";
 import { translateJsonData } from "./json-data.js";
 import { getAllLanguageCodes, log } from "./utils.js";
-import { CONTENTS_JSON, AUTHORS_JSON, DEFAULT_API_URL } from "./config.js";
+import { getAllContentsJsonPaths, AUTHORS_JSON, DEFAULT_API_URL } from "./config.js";
 
 /* ------------------------------------------------------------------ */
 /*  Argument parsing                                                   */
@@ -255,7 +255,7 @@ async function main(): Promise<void> {
           engine,
           baseLang: args.baseLang,
           targetLangs,
-          filePaths: [CONTENTS_JSON, AUTHORS_JSON],
+          filePaths: [...getAllContentsJsonPaths(), AUTHORS_JSON],
           dryRun: args.dryRun,
         });
         break;

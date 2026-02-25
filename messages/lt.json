@@ -23,6 +23,7 @@
     "originalLanguage": "Originalo kalba: {language}",
     "source": "Šaltinis",
     "author": "Autorius:",
-    "downloadPdf": "Atsisiųsti šaltinį (PDF)"
+    "downloadPdf": "Atsisiųsti šaltinį (PDF)",
+    "readInOriginal": "Skaityti originalo kalba"
   }
 }

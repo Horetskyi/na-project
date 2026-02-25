@@ -2,6 +2,7 @@
  * Configuration for the translator utility.
  */
 
+import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -29,6 +30,17 @@ export const LANGUAGES_JSON = path.join(
 );
 
 export const CONTENTS_JSON = path.join(PROJECT_ROOT, "Data", "contents.json");
+
+/**
+ * Return all contents JSON file paths (contents.json, contents2.json, …).
+ */
+export function getAllContentsJsonPaths(): string[] {
+  const dataDir = path.join(PROJECT_ROOT, "Data");
+  return fs.readdirSync(dataDir)
+    .filter((f) => /^contents\d*\.json$/.test(f))
+    .sort()
+    .map((f) => path.join(dataDir, f));
+}
 
 export const AUTHORS_JSON = path.join(PROJECT_ROOT, "Data", "authors.json");
 

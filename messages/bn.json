@@ -23,6 +23,7 @@
     "originalLanguage": "মূল ভাষা: {language}",
     "source": "উৎস",
     "author": "লেখক:",
-    "downloadPdf": "উৎস ডাউনলোড করুন (PDF)"
+    "downloadPdf": "উৎস ডাউনলোড করুন (PDF)",
+    "readInOriginal": "মূল ভাষায় পড়ুন"
   }
 }

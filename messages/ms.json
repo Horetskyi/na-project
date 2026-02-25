@@ -23,6 +23,7 @@
     "originalLanguage": "Bahasa asal: {language}",
     "source": "Sumber",
     "author": "Penulis:",
-    "downloadPdf": "Muat turun sumber (PDF)"
+    "downloadPdf": "Muat turun sumber (PDF)",
+    "readInOriginal": "Baca dalam bahasa asal"
   }
 }

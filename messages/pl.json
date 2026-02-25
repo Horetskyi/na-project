@@ -23,6 +23,7 @@
     "originalLanguage": "Język oryginału: {language}",
     "source": "Źródło",
     "author": "Autor:",
-    "downloadPdf": "Pobierz źródło (PDF)"
+    "downloadPdf": "Pobierz źródło (PDF)",
+    "readInOriginal": "Czytaj w języku oryginału"
   }
 }

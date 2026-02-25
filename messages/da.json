@@ -23,6 +23,7 @@
     "originalLanguage": "Originalsprog: {language}",
     "source": "Kilde",
     "author": "Forfatter:",
-    "downloadPdf": "Download kilde (PDF)"
+    "downloadPdf": "Download kilde (PDF)",
+    "readInOriginal": "Læs på originalsproget"
   }
 }

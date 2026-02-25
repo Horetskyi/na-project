@@ -23,6 +23,7 @@
     "originalLanguage": "שפה מקורית: {language}",
     "source": "מקור",
     "author": "מחבר:",
-    "downloadPdf": "הורדת מקור (PDF)"
+    "downloadPdf": "הורדת מקור (PDF)",
+    "readInOriginal": "קרא בשפת המקור"
   }
 }

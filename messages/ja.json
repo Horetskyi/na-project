@@ -23,6 +23,7 @@
     "originalLanguage": "原語: {language}",
     "source": "出典",
     "author": "著者:",
-    "downloadPdf": "ソースをダウンロード（PDF）"
+    "downloadPdf": "ソースをダウンロード（PDF）",
+    "readInOriginal": "原文で読む"
   }
 }

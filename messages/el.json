@@ -23,6 +23,7 @@
     "originalLanguage": "Αρχική γλώσσα: {language}",
     "source": "Πηγή",
     "author": "Συγγραφέας:",
-    "downloadPdf": "Λήψη πηγής (PDF)"
+    "downloadPdf": "Λήψη πηγής (PDF)",
+    "readInOriginal": "Διαβάστε στην αρχική γλώσσα"
   }
 }

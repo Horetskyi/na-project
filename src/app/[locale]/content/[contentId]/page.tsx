@@ -167,6 +167,14 @@ export default async function ContentPage({ params }: Props) {
                 })}
               </span>
             )}
+            {language && locale !== content.langCode && (
+              <Link
+                href={`/${content.langCode}/content/${contentId}`}
+                className="text-sm text-gray-400 hover:text-gray-600 underline"
+              >
+                {tShared("readInOriginal")}
+              </Link>
+            )}
           </div>
         )}
         {contentAuthors.length > 0 && (
