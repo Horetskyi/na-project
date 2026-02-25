@@ -74,13 +74,13 @@ export default function Header() {
           {/* Left side: logos and title */}
           <div className="flex items-center gap-3">
             {/* Official Acropolis logo */}
-            <Image
+            {/* <Image
               src="/na-logo-official-letters-only-full-size.webp"
               alt="Official Acropolis Logo"
               width={40}
               height={40}
               className="w-10 h-10 object-contain shrink-0"
-            />
+            /> */}
 
             {/* Symbolic Acropolis eagle logo */}
             <div className="w-10 h-10 rounded flex items-center justify-center shrink-0" style={{ backgroundColor: '#00015D' }}>

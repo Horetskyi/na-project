@@ -6,7 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "translate": "tsx scripts/translate/index.ts",
+    "translate:messages": "tsx scripts/translate/index.ts --mode messages",
+    "translate:contents": "tsx scripts/translate/index.ts --mode contents",
+    "translate:json-data": "tsx scripts/translate/index.ts --mode json-data",
+    "translate:dry": "tsx scripts/translate/index.ts --dry-run",
+    "translate:help": "tsx scripts/translate/index.ts --help"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -24,6 +30,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

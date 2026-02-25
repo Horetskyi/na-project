@@ -9,13 +9,13 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-10 max-w-6xl">
         <div className="flex flex-col md:flex-row items-start md:items-center gap-6 mb-6">
           {/* Official Acropolis logo */}
-          <Image
+          {/* <Image
             src="/na-logo-official-letters-only-full-size-white.webp"
             alt="Official Acropolis Logo"
             width={48}
             height={48}
             className="w-12 h-12 object-contain shrink-0"
-          />
+          /> */}
 
           {/* Symbolic Acropolis eagle logo */}
           <div className="w-12 h-12 rounded flex items-center justify-center shrink-0" style={{ backgroundColor: '#00015D' }}>

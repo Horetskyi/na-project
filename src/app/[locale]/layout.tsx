@@ -4,6 +4,7 @@ import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import Header from "@/components/Header";
+import DisclaimerBanner from "@/components/DisclaimerBanner";
 import Footer from "@/components/Footer";
 import "../globals.css";
 
@@ -32,6 +33,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       <body className="antialiased min-h-screen flex flex-col font-sans">
         <NextIntlClientProvider messages={messages}>
           <Header />
+          <DisclaimerBanner />
           <main className="flex-1">{children}</main>
           <Footer />
         </NextIntlClientProvider>

@@ -1,4 +1,8 @@
 {
+  "Disclaimer": {
+    "line1": "Bağımsız bilgi web sitesi. Resmi bir web sitesi değildir ve \"Yeni Akropolis\" örgütüyle bağlantılı değildir.",
+    "line2": "\"Yeni Akropolis\" adı ve ilgili tanımlamalar yalnızca eleştiri/analiz ve yorum konusunun belirlenmesi amacıyla kullanılmaktadır."
+  },
   "Header": {
     "title": "Yeni Akropolis Hakkında"
   },
