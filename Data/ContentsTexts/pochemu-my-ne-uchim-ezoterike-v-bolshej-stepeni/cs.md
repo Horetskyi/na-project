@@ -1,0 +1,31 @@
+Proč neučíme esotericky víc?
+
+Jorge Angel Livraga
+
+Článek z Bastion Bulletin č. 81, přeložen ze španělštiny v New Acropolis
+
+Tato otázka je často slyšet, zejména od našich nových členů. A skutečnost, že jsme velmi opatrní ve třídách prvního, přípravného, cyklu, mnozí jsou zmatení a odrazují.
+
+Takže v pořádku. Přípravná fáze je navržena tak, aby poskytla nejobecnější informace o tom, co je New Acropolis, a zároveň tak, aby nás posluchači cítili a zažili, a my se na ně zase můžeme podívat, abychom určili, jak hluboký a vážný je jejich zájem o určitý rozsah problémů a zda jsou schopni vyšplhat po schodech vedoucích k moudrosti, ctěný cíl každého filozofa.
+
+Jsem si dobře vědom toho, že bychom mohli přilákat mnohem více mladých lidí tím, že bychom jim představili původní témata přednášek způsobem, který je více v souladu s jejich touhou po tajemné. Ale nebezpečí, které by vzniklo, by bylo příliš velké. Ve většině případů, taková touha je spletitost spontánních, nevědomých tužeb, a proto přímá prezentace esoterické části bez předchozí známý s nezbytnými exoterické znalosti by mohla proměnit mnoho mladých lidí v sektáře a fanatiky, místo aby je skutečné filozofy-Acropolis. Proto v první fázi potřebujete jen nějaké filtry. Bez nich by se začátečníci příliš oddělili od světa každodenního života, a proto by pro některé z nich návrat do tohoto světa bez nezbytné ideologické podpory a duchovního impulsu byl obzvláště bolestivý. Dějiny nás učí, že je nezbytné, aniž bychom upadli do směšného elitismu, vytvořit určitý druh duchovního filtrování, ukázat schopnost rozlišovat pravdu od nepravdivého, s cílem přinést pořádek a harmonii do života těch, kteří nám dávají své naděje.
+
+Platón nám zanechal prohlášení, které bylo velmi špatně pochopeno a je stále mylně vykládáno téměř všemi, kteří ho oslovují, včetně univerzitních výzkumných pracovníků. Slovy jedné z postav jeho dialogů Sokrates filozof řekl: "Dav se nikdy nestane filozofem." Vzhledem k nepřesnosti řeckého překladu a zvláštnostem naší kulturní a společenské zkušenosti se na první pohled zdá, že je to neopodstatněně kruté prohlášení hodné tyrana. Mistr ve skutečnosti chtěl přestat být mafián, aby se stal filozofem. Jinými slovy, Platón tvrdil, že filosofické schopnosti jsou vlastní každému člověku od narození, a aby se mohli projevit, je nezbytné napravit vady vzdělání, pomoci člověku zbavit se špatných návyků a sklonů, a podporovat nezbytné změny v každém, obrat k ctnosti a ke všemu, co je vyžadováno pravým Hledačem pravdy. Nechť tedy představa, že každý, kdo se zajímá pouze o New Akropolis, získá praktickou možnost okamžitého kontaktu s esencí věcí, s tajemstvím, které je mysticismem v akci, zůstane v říši bezplodných utopií. Ani plakáty, brožury, ani přednášky a čtení samotné neotevřou takovou příležitost.
+
+Pokud jde o otázku, proč esoterismus neučíme více, a to nejen těm, kteří se k nám teprve nedávno přidali, ale také těm, kteří byli již několik let členy našeho hnutí, jsme vedeni úvahami podobnými těm, které jsou již zmíněny. Je-li nádoba naplněna nečistotami a kanalizací, pak před nalitím čisté pitné vody do ní, je třeba ji vyprázdnit a důkladně umýt. Lidská osobnost je stejné plavidlo. Žádný člověk nemůže za pár let cvičit jednou nebo dvakrát týdně, získat vnitřní čistotu dostatečnou k tomu, aby získal moudrost, která se po tisíce let, stejně jako kapky ranní rosy, nahromadila v posvátném poháru Květina bílého lotosu esoterických znalostí. Perla v lotosové květině, o níž jste všichni slyšeli, nemůže být pořízena nečistými rukama, ani viděna pohledem skrytým tělesnými obrazy a vizemi. Perzistentní práce a výuka jsou jako voňavé mýdlo a čistá voda. Jen oni mohou očistit své ruce od lepkavého doteku chamtivosti a pozemských vášní, a jejich oči od závoje, který je kryje.
+
+Potřebujeme očistu.
+
+Je nezbytné zbavit se zvířete a dostat co nejvíce lidí, jak je to možné, tváří v tvář Božství.
+
+Únava a rozum musí zkrotit tělo a aktivní účast na realizaci ideálu musí zkrotit vášně. Je nezbytné, aby mysl opustila fantazie a neuskutečnitelné touhy, stala se úplnější. Zničte ničitele všeho, co je skutečné!
+
+Jste příliš malý, jste docela dítě, a proto, podle tisíce let starého zvyku, měříme vám pokles silný prostředky - Esoterické znalosti. Přejeme vám jen to nejlepší, a proto je pro nás lepší, abyste nás opustili, než abyste zahynuli příliš mnoho. My se neodvažujeme zatěžovat naše svědomí tím, že bychom vás nechali zahynout fyzicky, duševně i duševně.
+
+Žádná improvizace. Víme přesně, co potřebujete, kdy, jak a v jakém množství.
+
+Nová Akropolis si nedovolí dilettantismus tak obyčejný a obvyklý v mnoha centrech, která se prohlašují za "esoterické", což činí jejich členy iluzionisty, což je přivádí do stavu fantazie, že jsou připraveni vidět duchy všude, dokonce i v talíři polévky. Považují se za "Avatary", praktikují interní a externí meditační techniky, které nesouvisejí s pravdou a realitou, "vychovávají" Kundalini, vybírají si jako základ pro tyto podivné formy pohlavního styku a pošetile a bezděčně kopírují symbolické obrazy tibetských mandalů. Tyto chyby jsou nevinnými oběťmi lidské hlouposti a marnivosti.
+
+Všichni odborníci a znalci esoterismu (ne intelektuálové, kteří se šíří o esotericismu, ale kteří se s ním skutečně zabývají a praktikují ho), od H.P. Blavatského po Eliphase Leviho, poukazují na potřebu pochopit tajemství postupně, aby se země, na kterou šlápnete, nezdála otupělá, a přesně věděli, kde udělat další krok. Zároveň se musíte zbavit sobeckých tužeb, lenosti, smyslnosti a obžerství. Realizace velkých záhad vyžaduje čas, práci, kompletní oddanost a nesobeckost. Je třeba se plně věnovat službě ideálu, osvobodit se od všech deformací a deformací vnějšího světa, od předsudků a iracionálních obav. A dopad biologického robota z kostí a masa, zvaného "tělo", by neměl být přehnaný.
+
+Esoterismus tedy neučíme jednodušším způsobem, protože nemůžeme a neměli bychom. Správný rytmus je jednou z podmínek nezbytných pro dosažení Harmony, ve které je to, co se nazývá "esoterický" a "exoterický" jsou mnohem blíže, než se běžně věří. Šťastní jsou ti z nás, kteří mají plány, zásady a cíle, kteří znají rytmus a možnosti. Kdo má učitele a stoupence? Ten, kdo slouží ideálním, starodávným jako hvězdy. Nebo možná ještě předtím... Ideál, který bude zářit, až ty hvězdy vyjdou ven.
