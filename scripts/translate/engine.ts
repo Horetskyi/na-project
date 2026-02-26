@@ -29,6 +29,14 @@ export interface TranslationEngine {
   readonly name: string;
 
   /**
+   * When `true`, the engine produces better results translating
+   * individual lines / sentences rather than large blocks of text.
+   * The content translators will split source text line-by-line before
+   * calling `translateBatch`, instead of sending big HTML chunks.
+   */
+  readonly prefersLineByLine?: boolean;
+
+  /**
    * Translate a single text string.
    * Returns `null` if the language pair is unsupported.
    */

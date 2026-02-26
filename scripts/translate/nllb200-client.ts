@@ -84,11 +84,17 @@ interface NllbTranslateResponse {
   message?: string;
 }
 
+interface NllbBatchResponse {
+  success: boolean;
+  translated_lines?: string[];
+  message?: string;
+}
+
 /* ------------------------------------------------------------------ */
 /*  Default URL                                                       */
 /* ------------------------------------------------------------------ */
 
-const DEFAULT_NLLB_URL = "https://som11-language-translator.hf.space";
+const DEFAULT_NLLB_URL = "http://localhost:5001";
 
 /* ------------------------------------------------------------------ */
 /*  Client                                                            */
@@ -96,6 +102,7 @@ const DEFAULT_NLLB_URL = "https://som11-language-translator.hf.space";
 
 export class Nllb200Client implements TranslationEngine {
   readonly name = "NLLB-200";
+  readonly prefersLineByLine = true;
 
   private apiUrl: string;
   private supportedCodes: Set<string> | null = null;
@@ -148,10 +155,59 @@ export class Nllb200Client implements TranslationEngine {
   }
 
   /**
-   * Translate a batch of texts sequentially.
-   * NLLB API doesn't support batch natively.
+   * Translate a batch of texts via the `/translate/batch` endpoint.
+   *
+   * Sends all lines in a single HTTP request. The server translates
+   * each line individually (sentence-level) for best NLLB-200 quality.
+   *
+   * Falls back to sequential single-translate calls on error.
    */
   async translateBatch(
+    texts: string[],
+    source: string,
+    target: string,
+    format: "text" | "html" = "text"
+  ): Promise<(string | null)[]> {
+    const srcCode = toNllbCode(source);
+    const tgtCode = toNllbCode(target);
+
+    if (!srcCode || !tgtCode) {
+      return texts.map(() => null);
+    }
+
+    // Strip HTML tags when format is "html" (NLLB doesn't handle HTML)
+    const linesToSend =
+      format === "html" ? texts.map(stripHtmlTags) : texts;
+
+    try {
+      await this.rateLimit();
+
+      const data = await this.post<NllbBatchResponse>("/translate/batch", {
+        lines: linesToSend,
+        sourceLanguageCode: srcCode,
+        targetLanguageCode: tgtCode,
+      });
+
+      if (
+        !data.success ||
+        !data.translated_lines ||
+        data.translated_lines.length !== texts.length
+      ) {
+        // Fallback to sequential
+        return this.translateBatchSequential(texts, source, target, format);
+      }
+
+      return data.translated_lines;
+    } catch {
+      // Fallback to sequential if batch endpoint is unavailable
+      return this.translateBatchSequential(texts, source, target, format);
+    }
+  }
+
+  /**
+   * Fallback: translate texts one-by-one via `/translate`.
+   */
+  private async translateBatchSequential(
     texts: string[],
     source: string,
     target: string,

@@ -155,8 +155,11 @@ Prerequisites (LibreTranslate):
   2. Or use a managed instance with --api-url and --api-key
 
 Prerequisites (NLLB-200):
-  Uses the public HuggingFace Spaces API by default.
-  Or host your own with --api-url.
+  1. Install dependencies:
+       pip install -r scripts/nllb200-server/requirements.txt
+  2. Start the server (port 5001 by default):
+       python scripts/nllb200-server/app.py
+  3. Or use a custom URL with --api-url.
 
 Examples:
   npx tsx scripts/translate/index.ts

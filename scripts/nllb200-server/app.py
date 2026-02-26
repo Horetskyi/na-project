@@ -2,14 +2,20 @@
 Self-hosted NLLB-200 translation server.
 
 Based on: https://github.com/somenath203/next-nllb200-language-translator
-Model:    facebook/nllb-200-distilled-600M
+Model:    facebook/nllb-200-3.3B (configurable via NLLB_MODEL env var)
 
 POST /translate
   Body: { languageText, sourceLanguageCode, targetLanguageCode }
   Response: { success, translated_text } | { success, message }
 
+POST /translate/batch
+  Body: { lines, sourceLanguageCode, targetLanguageCode }
+  Response: { success, translated_lines } | { success, message }
+
 GET /
   Health check.
+
+Default port: 5001 (to avoid conflicts with LibreTranslate on 5000).
 """
 
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
@@ -35,7 +41,7 @@ app.add_middleware(
 )
 
 # ---------- Load model at startup ----------
-MODEL_NAME = "facebook/nllb-200-distilled-600M"
+MODEL_NAME = os.environ.get("NLLB_MODEL", "facebook/nllb-200-3.3B")
 
 print(f"[NLLB-200] Loading model {MODEL_NAME} …")
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
@@ -110,6 +116,30 @@ class LanguageTextModel(BaseModel):
     targetLanguageCode: str
 
 
+class BatchTranslateModel(BaseModel):
+    """Request body for batch (line-by-line) translation."""
+    lines: list[str]
+    sourceLanguageCode: str
+    targetLanguageCode: str
+
+
+def _translate_single(text: str, src: str, tgt: str) -> str:
+    """Translate a single string. Empty/whitespace-only strings are returned as-is."""
+    if not text.strip():
+        return text
+
+    tokenizer.src_lang = src
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+    tgt_lang_id = tokenizer.convert_tokens_to_ids(tgt)
+
+    translated_tokens = model.generate(
+        **inputs,
+        forced_bos_token_id=tgt_lang_id,
+        max_new_tokens=512,
+    )
+    return tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
+
+
 @app.get("/")
 def welcome():
     return {
@@ -130,21 +160,7 @@ async def translate_text(req: LanguageTextModel):
         if tgt not in nllb_code_set:
             return {"success": False, "message": f"Unsupported target language code: {tgt}"}
 
-        # Tokenize with source language set
-        tokenizer.src_lang = src
-        inputs = tokenizer(req.languageText, return_tensors="pt", truncation=True, max_length=1024)
-
-        # Get the target language token id
-        tgt_lang_id = tokenizer.convert_tokens_to_ids(tgt)
-
-        # Generate translation
-        translated_tokens = model.generate(
-            **inputs,
-            forced_bos_token_id=tgt_lang_id,
-            max_new_tokens=1024,
-        )
-
-        translated_text = tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
+        translated_text = _translate_single(req.languageText, src, tgt)
 
         return {
             "success": True,
@@ -157,3 +173,49 @@ async def translate_text(req: LanguageTextModel):
             "success": False,
             "message": "Something went wrong. Please try again later.",
         }
+
+
+@app.post("/translate/batch")
+async def translate_batch(req: BatchTranslateModel):
+    """
+    Translate an array of lines individually (sentence-level).
+
+    NLLB-200 produces the best results when given one sentence at a time.
+    This endpoint accepts many lines in a single HTTP request to reduce
+    network overhead while still translating each line independently.
+
+    Empty / whitespace-only lines are returned unchanged.
+    """
+    try:
+        src = req.sourceLanguageCode
+        tgt = req.targetLanguageCode
+
+        if src not in nllb_code_set:
+            return {"success": False, "message": f"Unsupported source language code: {src}"}
+        if tgt not in nllb_code_set:
+            return {"success": False, "message": f"Unsupported target language code: {tgt}"}
+
+        translated_lines: list[str] = []
+        for line in req.lines:
+            translated_lines.append(_translate_single(line, src, tgt))
+
+        return {
+            "success": True,
+            "translated_lines": translated_lines,
+        }
+
+    except Exception as e:
+        print(f"Error: {e}")
+        return {
+            "success": False,
+            "message": "Something went wrong. Please try again later.",
+        }
+
+
+# ---------- Run with: python app.py ----------
+if __name__ == "__main__":
+    import uvicorn
+
+    port = int(os.environ.get("NLLB_PORT", "5001"))
+    print(f"[NLLB-200] Starting server on http://localhost:{port}")
+    uvicorn.run(app, host="0.0.0.0", port=port)

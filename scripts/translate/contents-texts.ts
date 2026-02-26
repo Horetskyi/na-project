@@ -115,38 +115,60 @@ export async function translateContentsTexts(
       continue;
     }
 
-    // Pipeline: markdown → HTML → translate (format=html) → HTML → markdown
+    // Pipeline depends on whether the engine prefers line-by-line mode
     for (const lang of missingLangs) {
       const targetFile = path.join(dirPath, `${lang}.md`);
 
-      // Split HTML into chunks for large texts
-      const chunks = splitTextForTranslation(sourceHtml, 4000);
-      const translatedChunks: string[] = [];
-      let failed = false;
+      let translatedMd: string;
 
-      for (const chunk of chunks) {
-        const result = await engine.translate({
-          q: chunk,
-          source: sourceLang,
-          target: lang,
-          format: "html",
-        });
-
+      if (engine.prefersLineByLine) {
+        // ── Line-by-line strategy (best for NLLB-200) ──────────────
+        // Split the markdown source into lines, translate each text
+        // line individually, and reassemble.  Structural / empty lines
+        // are passed through unchanged.
+        const result = await translateMarkdownLineByLine(
+          sourceText,
+          engine,
+          sourceLang,
+          lang
+        );
         if (result === null) {
           log.warn(
             `    ${lang}: unsupported language pair ${sourceLang}→${lang}, skipping`
           );
-          failed = true;
-          break;
+          continue;
         }
-        translatedChunks.push(result);
+        translatedMd = result;
+      } else {
+        // ── Chunk strategy (LibreTranslate / HTML-aware engines) ───
+        // markdown → HTML → translate (format=html) → HTML → markdown
+        const chunks = splitTextForTranslation(sourceHtml, 4000);
+        const translatedChunks: string[] = [];
+        let failed = false;
+
+        for (const chunk of chunks) {
+          const result = await engine.translate({
+            q: chunk,
+            source: sourceLang,
+            target: lang,
+            format: "html",
+          });
+
+          if (result === null) {
+            log.warn(
+              `    ${lang}: unsupported language pair ${sourceLang}→${lang}, skipping`
+            );
+            failed = true;
+            break;
+          }
+          translatedChunks.push(result);
+        }
+
+        if (failed) continue;
+
+        const translatedHtml = translatedChunks.join("");
+        translatedMd = htmlToMd(translatedHtml);
       }
-
-      if (failed) continue;
-
-      // Convert translated HTML back to markdown
-      const translatedHtml = translatedChunks.join("");
-      const translatedMd = htmlToMd(translatedHtml);
 
       await fs.writeFile(targetFile, translatedMd + "\n", "utf-8");
       log.success(`    ${lang}: created ${targetFile}`);
@@ -157,6 +179,111 @@ export async function translateContentsTexts(
 /* ------------------------------------------------------------------ */
 /*  Internal helpers                                                   */
 /* ------------------------------------------------------------------ */
+
+/**
+ * Returns `true` if a markdown line is purely structural / syntactic
+ * and should NOT be sent to a translation engine.
+ *
+ * Examples: empty lines, thematic breaks (`---`), image/link-only lines,
+ * code fence markers, HTML comments, etc.
+ */
+function isMarkdownStructural(line: string): boolean {
+  const trimmed = line.trim();
+
+  if (trimmed === "") return true;                        // blank line
+  if (/^---+$/.test(trimmed)) return true;                // thematic break / front-matter delim
+  if (/^===+$/.test(trimmed)) return true;                // setext heading underline
+  if (/^```/.test(trimmed)) return true;                  // code fence
+  if (/^~~~/.test(trimmed)) return true;                  // code fence (alt)
+  if (/^!\[.*\]\(.*\)$/.test(trimmed)) return true;       // image-only line
+  if (/^\[.*\]:\s/.test(trimmed)) return true;            // link reference definition
+  if (/^<!--.*-->$/.test(trimmed)) return true;           // HTML comment (single line)
+
+  return false;
+}
+
+/**
+ * Line-by-line markdown translation.
+ *
+ * 1. Splits by `\n`.
+ * 2. Structural / empty lines are kept as-is.
+ * 3. Text lines are collected in order.
+ * 4. All text lines are sent as a batch via `engine.translateBatch`.
+ * 5. Translated lines are placed back in their original positions.
+ *
+ * Returns `null` if the language pair is unsupported.
+ */
+async function translateMarkdownLineByLine(
+  markdown: string,
+  engine: TranslationEngine,
+  sourceLang: string,
+  targetLang: string
+): Promise<string | null> {
+  const lines = markdown.split("\n");
+
+  // Track which indices need translation
+  const textIndices: number[] = [];
+  const textLines: string[] = [];
+  let insideCodeBlock = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    const trimmed = lines[i].trim();
+
+    // Toggle code-block state on fences
+    if (/^```/.test(trimmed) || /^~~~/.test(trimmed)) {
+      insideCodeBlock = !insideCodeBlock;
+      continue; // fence line itself is structural
+    }
+
+    // Lines inside code blocks are never translated
+    if (insideCodeBlock) continue;
+
+    if (isMarkdownStructural(lines[i])) continue;
+
+    // This line has translatable text
+    textIndices.push(i);
+
+    // Strip leading markdown heading markers (# / ## / …) so the model
+    // receives only the text.  We'll prepend the markers back after.
+    const headingMatch = lines[i].match(/^(#{1,6}\s+)/);
+    textLines.push(headingMatch ? lines[i].slice(headingMatch[0].length) : lines[i]);
+  }
+
+  if (textLines.length === 0) {
+    // Nothing to translate — return file as-is
+    return markdown;
+  }
+
+  // Batch translate all text lines in one call
+  const translated = await engine.translateBatch(
+    textLines,
+    sourceLang,
+    targetLang
+  );
+
+  // Check if the engine returned null for every line (unsupported pair)
+  if (translated.every((t) => t === null)) {
+    return null;
+  }
+
+  // Place translated text back
+  const output = [...lines];
+  for (let j = 0; j < textIndices.length; j++) {
+    const idx = textIndices[j];
+    const tResult = translated[j];
+
+    if (tResult === null) {
+      // Keep original if individual line failed
+      continue;
+    }
+
+    // Re-attach heading prefix if the original line had one
+    const headingMatch = lines[idx].match(/^(#{1,6}\s+)/);
+    output[idx] = headingMatch ? headingMatch[0] + tResult : tResult;
+  }
+
+  return output.join("\n");
+}
 
 /**
  * Split text into chunks, breaking at paragraph boundaries (double newlines).
