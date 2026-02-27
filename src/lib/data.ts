@@ -61,6 +61,18 @@ export interface Source {
   countryCode: string;
 }
 
+export interface NaIssueExample {
+  text: Record<string, string>;
+  contentId?: string;
+  textReference?: Record<string, string>;
+}
+
+export interface NaIssue {
+  title: Record<string, string>;
+  description?: Record<string, string>;
+  examples: NaIssueExample[];
+}
+
 /* ───────────── Data loaders ───────────── */
 
 export function getContents(): Content[] {
@@ -98,6 +110,12 @@ export function getCountries(): Country[] {
 export function getSources(): Source[] {
   return JSON.parse(
     fs.readFileSync(path.join(DATA_DIR, "sources.json"), "utf-8"),
+  );
+}
+
+export function getNaIssues(): NaIssue[] {
+  return JSON.parse(
+    fs.readFileSync(path.join(DATA_DIR, "na-issues.json"), "utf-8"),
   );
 }
 

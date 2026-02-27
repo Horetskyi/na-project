@@ -5,6 +5,7 @@ import {
   getContents,
   getAuthors,
   getLanguages,
+  getNaIssues,
   groupContentsByType,
   hasCountryFlag,
   getLanguageName,
@@ -24,7 +25,11 @@ export default async function HomePage({
   const contents = getContents();
   const authors = getAuthors();
   const languages = getLanguages();
+  const naIssues = getNaIssues();
   const grouped = groupContentsByType(contents);
+
+  /** Map of content id → content for quick lookup. */
+  const contentsMap = new Map(contents.map((c) => [c.id, c]));
 
   /** Resolve author(s) for a content item. */
   function resolveAuthors(
@@ -42,6 +47,7 @@ export default async function HomePage({
       <h1 className="text-3xl font-bold text-gray-900 leading-tight mb-10">
         {tHome("heading")}
       </h1>
+
 
       {/* Dashboard */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-14">
@@ -107,6 +113,105 @@ export default async function HomePage({
           );
         })}
       </div>
+      
+      {/* NA Issues – numbered table of contents */}
+      <section className="mb-14">
+        <h2 className="text-2xl font-bold text-gray-900 mb-6">
+          Деструктивні теорії та практики Нового Акрополю
+        </h2>
+        <ol className="list-decimal list-inside space-y-1">
+          {naIssues.map((issue, idx) => {
+            const title = loc(issue.title, locale, "uk");
+            return (
+              <li key={idx}>
+                <a
+                  href={`#na-issue-${idx}`}
+                  className="text-blue-700 underline hover:text-blue-900"
+                >
+                  {title}
+                </a>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+
+      {/* NA Issues – detail sections */}
+      {naIssues.map((issue, idx) => {
+        const title = loc(issue.title, locale, "uk");
+        const description = issue.description
+          ? loc(issue.description, locale, "uk")
+          : null;
+
+        return (
+          <section
+            key={idx}
+            id={`na-issue-${idx}`}
+            className="mb-14 scroll-mt-6"
+          >
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">
+              {idx + 1}. {title}
+            </h2>
+
+            {description && (
+              <p className="text-gray-700 mb-4">{description}</p>
+            )}
+
+            {issue.examples.length > 0 && (
+              <ul className="space-y-4 list-disc list-outside ml-5">
+                {issue.examples.map((ex, exIdx) => {
+                  const exText = loc(ex.text, locale, "uk");
+                  const exRef = ex.textReference
+                    ? loc(ex.textReference, locale, "uk")
+                    : null;
+                  const sourceContent = ex.contentId
+                    ? contentsMap.get(ex.contentId)
+                    : undefined;
+                  const sourceTitle = sourceContent
+                    ? loc(sourceContent.title, locale, sourceContent.langCode)
+                    : null;
+                  const flagCode = sourceContent?.countryCode;
+                  const flagExists = flagCode
+                    ? hasCountryFlag(flagCode)
+                    : false;
+
+                  return (
+                    <li key={exIdx} className="text-gray-800">
+                      <p className="italic">&laquo;{exText}&raquo;</p>
+
+                      {exRef && (
+                        <p className="text-sm text-gray-500 mt-1">{exRef}</p>
+                      )}
+
+                      {(sourceTitle || flagExists) && (
+                        <div className="flex items-center gap-1.5 mt-1 flex-wrap">
+                          {flagExists && flagCode && (
+                            <Image
+                              src={`/flags/${flagCode}.webp`}
+                              alt={flagCode}
+                              width={24}
+                              height={16}
+                              className="inline-block rounded-sm"
+                            />
+                          )}
+                          {sourceTitle && sourceContent && (
+                            <Link
+                              href={`/${locale}/content/${sourceContent.id}`}
+                              className="text-sm text-blue-700 underline hover:text-blue-900"
+                            >
+                              Source: {sourceTitle}
+                            </Link>
+                          )}
+                        </div>
+                      )}
+                    </li>
+                  );
+                })}
+              </ul>
+            )}
+          </section>
+        );
+      })}
 
       {Object.entries(grouped).map(([type, items]) => {
         const description = tShared(`ContentsTypesDescription.${type}`);
@@ -220,6 +325,7 @@ export default async function HomePage({
           </section>
         );
       })}
+
     </div>
   );
 }
