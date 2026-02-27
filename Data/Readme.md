@@ -12,6 +12,7 @@ Countries Codes are ISO 639-1 https://en.wikipedia.org/wiki/List_of_ISO_639_lang
   - "article" - це статті написані поза Новим Акрополем
   - "inner_material" - це внутрішні матеріали Нового Акрополю
   - "legislative_initiative" - законодавчі ініціативи проти Нового Акрополю
+  - "testimony" - свідчення проти Нового Акрополю
   - ...
 
 ## Translation

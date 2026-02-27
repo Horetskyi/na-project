@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "在新卫城之外撰写的文章",
       "inner_material": "新卫城的内部资料",
-      "legislative_initiative": "针对新卫城的立法倡议"
+      "legislative_initiative": "针对新卫城的立法倡议",
+      "testimony": "针对新卫城的证词"
     },
     "originalLanguage": "原始语言：{language}",
     "source": "来源",

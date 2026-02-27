@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "detta är artiklar skrivna utanför Nya Akropolis",
       "inner_material": "detta är interna material från Nya Akropolis",
-      "legislative_initiative": "detta är lagstiftningsinitiativ mot Nya Akropolis"
+      "legislative_initiative": "detta är lagstiftningsinitiativ mot Nya Akropolis",
+      "testimony": "vittnesmål mot Nya Akropolis"
     },
     "originalLanguage": "Originalspråk: {language}",
     "source": "Källa",

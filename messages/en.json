@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "articles written outside New Acropolis",
       "inner_material": "internal materials of New Acropolis",
-      "legislative_initiative": "legislative initiatives against New Acropolis"
+      "legislative_initiative": "legislative initiatives against New Acropolis",
+      "testimony": "testimonies against New Acropolis"
     },
     "originalLanguage": "Original language: {language}",
     "source": "Source",

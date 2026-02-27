@@ -528,5 +528,19 @@
     ],
     "tags": ["parliament"],
     "authority": 10
+  },
+  {
+    "id": 10,
+    "name": {
+      "es": "Sebastián Cabrera"
+    },
+    "bio": {
+      "es": "Editor de la sección Qué Pasa y conductor del podcast La semana explicada"
+    },
+    "countryCode": "es",
+    "relatedUrls": [
+      "https://www.elpais.com.uy/autor/sebastian-cabrera"
+    ],
+    "authority": 8
   }
 ]

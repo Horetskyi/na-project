@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "das sind Artikel, die außerhalb der Neuen Akropolis geschrieben wurden",
       "inner_material": "das sind interne Materialien der Neuen Akropolis",
-      "legislative_initiative": "das sind gesetzgeberische Initiativen gegen die Neue Akropolis"
+      "legislative_initiative": "das sind gesetzgeberische Initiativen gegen die Neue Akropolis",
+      "testimony": "Zeugenaussagen gegen die Neue Akropolis"
     },
     "originalLanguage": "Originalsprache: {language}",
     "source": "Quelle",

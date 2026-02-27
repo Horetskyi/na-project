@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "to są artykuły napisane poza Nowym Akropolem",
       "inner_material": "to są wewnętrzne materiały Nowego Akropolu",
-      "legislative_initiative": "to są inicjatywy ustawodawcze przeciwko Nowemu Akropolowi"
+      "legislative_initiative": "to są inicjatywy ustawodawcze przeciwko Nowemu Akropolowi",
+      "testimony": "świadectwa przeciwko Nowemu Akropolowi"
     },
     "originalLanguage": "Język oryginału: {language}",
     "source": "Źródło",

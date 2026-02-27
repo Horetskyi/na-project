@@ -100,5 +100,34 @@
       "ta": "தேசிய பேரவை (பிரான்ஸ்). பிரிவுகளின் நிதி, சொத்து மற்றும் வரி நிலை, மேலும் அவற்றின் பொருளாதார நடவடிக்கைகள் மற்றும் பொருளாதார-நிதி வட்டாரங்களுடனான உறவுகள் குறித்து விசாரணைக் குழுவின் சார்பில் சமர்ப்பிக்கப்பட்ட அறிக்கை. அறிக்கை எண் 1687, 11-வது சட்டமன்றம், 10 ஜூன் 1999 அன்று பதிவு செய்யப்பட்டது."
     },
     "authorIds": [8, 9]
+  },
+  {
+    "id": "denounce-paramilitary-esoteric-sect-pocitos",
+    "url": "https://www.elpais.com.uy/que-pasa/denuncian-secta-paramilitar-y-esoterica-en-pocitos-pero-sus-directores-dicen-que-es-escuela-de-filosofia#google_vignette",
+    "type": "testimony",
+    "title": {
+      "es": "Denuncian “secta paramilitar y esotérica” en Pocitos pero sus directores dicen que es escuela de filosofía"
+    },
+    "subTitle": {
+      "es": "Exmiembros de Nueva Acrópolis hablan de manipulación psicológica y violencia física en las pruebas de ingreso a las Fuerzas Vivas. Los directores de esta organización niegan todo."
+    },
+    "year": 2022,
+    "langCode": "es",
+    "countryCode": "es",
+    "authority": 10,
+    "authorId": 10
+  },
+  {
+    "id": "desestimulo-del-analisis-racional",
+    "url": "https://nuevaacropolissecta.blogspot.com/2021/07/desestimulo-del-analisis-racional.html",
+    "type": "article",
+    "title": {
+      "es": "Desestímulo del análisis racional"
+    },
+    "year": 2021,
+    "langCode": "es",
+    "countryCode": "es",
+    "authority": 4,
+    "sourceId": 2
   }
 ]

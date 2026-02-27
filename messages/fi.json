@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "nämä ovat artikkeleita, jotka on kirjoitettu Uuden Akropoliksen ulkopuolella",
       "inner_material": "nämä ovat Uuden Akropoliksen sisäisiä materiaaleja",
-      "legislative_initiative": "nämä ovat lainsäädäntöaloitteita Uutta Akropolista vastaan"
+      "legislative_initiative": "nämä ovat lainsäädäntöaloitteita Uutta Akropolista vastaan",
+      "testimony": "todistajanlausuntoja Uutta Akropolista vastaan"
     },
     "originalLanguage": "Alkuperäinen kieli: {language}",
     "source": "Lähde",

@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "son artículos escritos fuera de la Nueva Acrópolis",
       "inner_material": "son materiales internos de la Nueva Acrópolis",
-      "legislative_initiative": "son iniciativas legislativas contra la Nueva Acrópolis"
+      "legislative_initiative": "son iniciativas legislativas contra la Nueva Acrópolis",
+      "testimony": "testimonios contra la Nueva Acrópolis"
     },
     "originalLanguage": "Idioma original: {language}",
     "source": "Fuente",

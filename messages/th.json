@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "บทความที่เขียนนอกนิวอะโครโพลิส",
       "inner_material": "เอกสารภายในของนิวอะโครโพลิส",
-      "legislative_initiative": "ข้อริเริ่มด้านกฎหมายต่อต้านนิวอะโครโพลิส"
+      "legislative_initiative": "ข้อริเริ่มด้านกฎหมายต่อต้านนิวอะโครโพลิส",
+      "testimony": "คำให้การต่อต้านนิวอะโครโพลิส"
     },
     "originalLanguage": "ภาษาต้นฉบับ: {language}",
     "source": "แหล่งที่มา",

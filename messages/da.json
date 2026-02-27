@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "det er artikler skrevet uden for Ny Akropolis",
       "inner_material": "det er interne materialer fra Ny Akropolis",
-      "legislative_initiative": "det er lovgivningsinitiativer mod Ny Akropolis"
+      "legislative_initiative": "det er lovgivningsinitiativer mod Ny Akropolis",
+      "testimony": "vidnesbyrd mod Ny Akropolis"
     },
     "originalLanguage": "Originalsprog: {language}",
     "source": "Kilde",

@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "jsou to články napsané mimo Novou Akropoli",
       "inner_material": "jsou to interní materiály Nové Akropole",
-      "legislative_initiative": "jsou to legislativní iniciativy proti Nové Akropoli"
+      "legislative_initiative": "jsou to legislativní iniciativy proti Nové Akropoli",
+      "testimony": "svědectví proti Nové Akropoli"
     },
     "originalLanguage": "Původní jazyk: {language}",
     "source": "Zdroj",

@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "ニューアクロポリス外で書かれた記事",
       "inner_material": "ニューアクロポリスの内部資料",
-      "legislative_initiative": "ニューアクロポリスに反対する立法イニシアチブ"
+      "legislative_initiative": "ニューアクロポリスに反対する立法イニシアチブ",
+      "testimony": "ニューアクロポリスに対する証言"
     },
     "originalLanguage": "原語: {language}",
     "source": "出典",

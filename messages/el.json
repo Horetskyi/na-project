@@ -19,7 +19,8 @@
     "ContentsTypesDescription": {
       "article": "άρθρα γραμμένα εκτός της Νέας Ακρόπολης",
       "inner_material": "εσωτερικό υλικό της Νέας Ακρόπολης",
-      "legislative_initiative": "νομοθετικές πρωτοβουλίες κατά της Νέας Ακρόπολης"
+      "legislative_initiative": "νομοθετικές πρωτοβουλίες κατά της Νέας Ακρόπολης",
+      "testimony": "μαρτυρίες κατά της Νέας Ακρόπολης"
     },
     "originalLanguage": "Αρχική γλώσσα: {language}",
     "source": "Πηγή",

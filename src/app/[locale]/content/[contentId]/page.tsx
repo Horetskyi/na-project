@@ -231,7 +231,30 @@ export default async function ContentPage({ params }: Props) {
             </p>
           )}
           <article className="prose prose-gray max-w-none">
-            <ReactMarkdown>{markdown}</ReactMarkdown>
+            <ReactMarkdown
+              components={{
+                img: ({ src, alt, ...props }) => {
+                  // Rewrite relative image paths to the content-image API route
+                  const srcStr = typeof src === "string" ? src : undefined;
+                  const resolvedSrc =
+                    srcStr && !srcStr.startsWith("http") && !srcStr.startsWith("/")
+                      ? `/api/content-image/${contentId}/${srcStr}`
+                      : srcStr;
+                  return (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={resolvedSrc}
+                      alt={alt ?? ""}
+                      className="rounded-lg my-6 max-w-full h-auto"
+                      loading="lazy"
+                      {...props}
+                    />
+                  );
+                },
+              }}
+            >
+              {markdown}
+            </ReactMarkdown>
           </article>
         </>
       ) : (
