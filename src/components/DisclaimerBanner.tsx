@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 
 export default function DisclaimerBanner() {
   const t = useTranslations("Disclaimer");
+  const th = useTranslations("Header");
 
   return (
     <div className="w-full bg-gray-100 border-b border-gray-200">
@@ -12,6 +13,8 @@ export default function DisclaimerBanner() {
           {t("line1")}
           <br />
           {t("line2")}
+          <br />
+          <b>{th("underDevelopment")}</b>
         </p>
       </div>
     </div>
