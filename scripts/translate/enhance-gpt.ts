@@ -11,6 +11,7 @@ type TranslationStatus =
   | "ORIGINAL"
   | "ENHANCED_BY_GPT"
   | "ENHANCED_BY_HUMAN"
+  | "MACHINE_TRANSLATED_SKIP_VERIFICATION"
   | "MACHINE_TRANSLATED";
 
 interface CliArgs {
