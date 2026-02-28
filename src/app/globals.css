@@ -45,12 +45,12 @@ body {
   display: block;
   width: 100%;
   height: 120px;
-  margin-bottom: 60px;
+  margin-bottom: 90px;
   margin-top: 60px;
   background: linear-gradient(0deg, #5E5F99, #00015D);
   border-radius: 24px;
 }
-.custom-sections-divider-1::after {
+.custom-sections-divider-1::before, .custom-sections-divider-2::before {
   background-image: url('/Images.png');
   background-size: contain;
   background-repeat: repeat-x;
@@ -60,19 +60,15 @@ body {
   height: 120px;
   top: 0;
   left: 0;
+  transition: all 0.5s ease;
+}
+.custom-sections-divider-1::before, 
+.custom-sections-divider-2:hover::before {
   filter: drop-shadow(2px 4px 6px #221A17);
 }
-.custom-sections-divider-2::after {
-  background-image: url('/Images.png');
-  background-size: contain;
-  background-repeat: repeat-x;
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 120px;
-  top: 0;
-  left: 0;
-  filter: drop-shadow(2px 4px 6px #221A17) invert(1);
+.custom-sections-divider-2::before, 
+.custom-sections-divider-1:hover::before {
+  filter: drop-shadow(2px 4px 6px #221A17) invert(1); 
 }
 .custom-sections-divider-small {
   position: relative;
@@ -85,7 +81,7 @@ body {
   border-radius: 24px;
 }
 
-.custom-sections-divider-small::after {
+.custom-sections-divider-small::before {
   background-image: url('/ImagesSmall.png');
   background-size: contain;
   background-repeat: repeat-x;
@@ -96,4 +92,8 @@ body {
   top: 0;
   left: 0;
   filter: drop-shadow(2px 4px 6px #101828) brightness(2);
+  transition: all 0.5s ease;
+}
+.custom-sections-divider-small:hover::before {
+  filter: drop-shadow(2px 4px 6px #101828) brightness(2) invert(1); 
 }

@@ -1,31 +1,31 @@
-# De oprichter en zijn contact met de Witte Hiërarchie
+# De oprichter en zijn contact met de "Witte Hiërarchie"
 
-> Zoals aangekondigd in nr. 1 van "ALMENA," ben ik van plan om het thema van onze relatie met Hierarchie te ontwikkelen en hoe we 24 jaar geleden naar de wereld zijn gekomen. Als oprichter zullen deze eenvoudige pagina's historische documentwaarde verwerven wanneer de tijd verstrijkt. Tegenover dit bewijs ben ik gedwongen om iets te schrijven dat mijn Persoonlijkheid sterk afwijst, maar dat noodzakelijk is voor het begrijpen van gebeurtenissen en voor geen belangrijke vervormingen van de kennis van mijn eigen Leven in de toekomst, die een invloed kunnen hebben op een vervorming van het hele Werk.
-> 
-> \- *Almena nee. 2: Inleiding. Jorge Ángel Lidraga*
+> Zoals aangekondigd in nr. 1 van "ALMENA", ben ik voornemens het thema van onze relatie met de Hiërarchie en hoe wij 24 jaar geleden naar de wereld kwamen uit te diepen. Aangezien Ik de Oprichter ben, zullen deze eenvoudige bladzijden historische waarde krijgen na verloop van tijd. Geconfronteerd met dit gegeven voel ik mij gedwongen iets te schrijven dat mijn Persoonlijkheid krachtig afwijst, maar dat noodzakelijk is voor het begrip van de gebeurtenissen en opdat er in de toekomst geen belangrijke vervormingen zouden ontstaan van de kennis van mijn eigen Leven, wat zou kunnen leiden tot een vervorming van het gehele Werk.
+>
+> — *Almena nr. 2: Inleiding. Jorge Ángel Livraga*
 
-> Met een frequentie naderend de tweemaandelijkse bleef hij brieven ontvangen van Adyar, met advies over mijn lezingen en met enkele oefeningen. Gezien de suggestie dat ik een zeer privé plek nodig zou hebben voor mijn studies en reflecties, bedacht ik om de kelder van mijn huis in Amenabar 863 om te zetten in een vorm van "Crypta." Het project werd goedgekeurd en ik wijdde me aan de krachtige taak van het krijgen van de oude resten van wijntonels en andere dingen die waren verzameld. Ik zag met verbazing dat de ijzeren balken van het plafond het in 7 delen verdeelden, dat zijn rechthoekige plant zeer dicht bij de "aurische" verhoudingen was en dat het was gericht volgens de 4 kardinaal punten. Ik beken dat mijn verrassing weinig duurde, want op dat moment had ik de interne zekerheid om te werken voor "Hierarchie," de "Meesters van Wijsheid" of hoe het ook wordt genoemd.
-> 
-> \- *Almena nr. 12: Mijn jeugd VI. Jorge Ángel Lidraga*
+> Met een frequentie die bijna tweemaandelijks was, bleef ik brieven uit Adyar ontvangen, met adviezen over mijn lectuur en met enkele oefeningen. Naar aanleiding van de suggestie dat ik een zeer privéplek nodig zou hebben voor mijn studies en reflecties, besloot ik de kelder van mijn huis aan Amenábar 863 om te vormen tot een soort «Crypte». Het project werd goedgekeurd en ik wijdde mij aan de zware taak de oude resten van wijntonels en andere verzamelde rommel te verwijderen. Tot mijn verbazing zag ik dat de ijzeren balken van het plafond het in 7 delen verdeelden, dat de rechthoekige plattegrond sterk neigde naar «aurische» verhoudingen en dat het was georiënteerd volgens de vier windrichtingen. Ik beken dat mijn verbazing van korte duur was, want toen had ik reeds de innerlijke zekerheid dat ik werkte voor «De Hiërarchie», de «Meesters van Wijsheid» of hoe men die ook zou noemen.
+>
+> — *Almena nr. 12: Mijn jeugd VI. Jorge Ángel Livraga*
 
-> De Vrijmetselarij in haar verschillende facties en het Traditional Roscrucism (niet dat van AMORC opgericht in het begin van de 20e eeuw) waren pogingen van de Hiërarchie om een aantal elementen van Initiatoire snit in de 19e eeuw te redden en waarin het voorafging; maar deze pogingen ontaardden in sterk gepolitiseerde en geneutraliseerde vormen door het Illuministische Positivisme en Marxisme, geboren uit een theoretisch intellect van het Leven, de antithese van ware Traditionele Ethermale Kennis.
-> 
-> (...) De figuur van HPB verschijnt dan omringd door een pleidooi van "Oude" Zielen die resoneren voordat de claim van Hiërarchie en de Theosofische S. is opgericht. Ondanks het aanvankelijke succes combineert deze Beweging zich ook gevaarlijk met de chaotische anarchie van het Donkere Gezicht van het Restauratieproces.
-> 
-> (...) De la Rama Dorada zal de vorm "Logia Thule" aan het Europese continent doorgeven, waarvan er veel informatie is, althans exoterisch, en dat zou een impuls en rechtvaardiging geven aan de politieke beweging die we meestal opnemen in de naam van het "Nazisme," met zijn prelogos en zijn epitlogos.
-> 
-> (...) Ik, meer dan 20 jaar oud (toen ik begon met het schrijven van ANKOR), begon mijn werk in de Amenabar kelder veranderde in Egyptische Rituele Crypta en bleef ontvangen, nu van Sri Ram, enkele brieven van Adyar en blijkbaar zeer oude koolzuurhoudende fotokopieën en kopieën die altijd werden gedragen als afzender "Madras 20th." (...) Hij bezocht de Crypta en keurde het goed, maar het leek me met weinig enthousiasme. Maar een interne Will, die me gelukkig niet in mijn hele leven achterliet, liet me volgen met mijn eigen motor, zonder goedkeuring dat mijn jeugd zou willen dat ze enthousiaster waren. De eerste twee jaar van Cripta leidden me tot het ontwikkelen van de mogelijkheid om direct contact op te nemen met mijn onbekende Masters.
-> 
-> \- *Almena no 16: Mijn jeugd X. Jorge Ángel Livraga*
+> De Vrijmetselarij in haar verschillende facties en het traditionele Rozenkruiserschap (niet dat van AMORC, gesticht aan het begin van de 20e eeuw) waren pogingen van de Hiërarchie om enkele elementen van initiatische strekking te behouden in de 19e eeuw en de voorafgaande eeuw; maar deze pogingen ontaardden in sterk gepolitiseerde en geneutraliseerde vormen door het Verlichtingspositivisme en door het marxisme, voortgekomen uit een theoretische intellectualisering van het Leven, de antithese van ware traditionele esoterische Kennis.
+>
+> (...) Dan verschijnt de figuur van HPB, omringd door een plejade van "Oude" Zielen die resoneren bij de oproep van de Hiërarchie, en wordt de Theosofische Vereniging opgericht. Ondanks het aanvankelijke succes mengt ook deze Beweging zich gevaarlijk met de chaotische anarchie die voortvloeit uit het Donkere Gezicht van het Restauratieproces.
+>
+> (...) Van de Gouden Tak zal naar het Europese continent de vorm genaamd "Logia Thule" overgaan, waarvan er vrij veel informatie bestaat, althans exoterisch, en die impulsen en rechtvaardiging zou geven aan de politieke beweging die wij gewoonlijk samenvatten onder de benaming "Nazisme", met haar prologen en epilogen.
+>
+> (...) Ik, ouder dan 20 jaar (leeftijd waarop ik begon ANKOR te schrijven), begon mijn werkzaamheden in de kelder van Amenábar, omgevormd tot Crypte voor Egyptisch Ritueel, en bleef nu van Sri Ram enkele brieven uit Adyar ontvangen en schijnbaar zeer oude fotokopieën en koolstofkopieën die altijd als afzender "Madras 20 th" droegen. (...) Hij bezocht de Crypte en keurde deze goed, maar het viel mij op dat het met weinig enthousiasme gebeurde. Doch een innerlijke Wil, die mij gelukkig mijn hele leven niet verliet, deed mij voortgaan met eigen aandrijving, voorbij goedkeuringen die mijn jeugd graag enthousiaster had gezien. De eerste twee jaren in de Crypte brachten mij de ontwikkeling van de mogelijkheid om meer direct contact te leggen met mijn onbekende Meesters.
+>
+> — *Almena nr. 16: Mijn jeugd X. Jorge Ángel Livraga*
 
-> Van Meester A. Ik leerde de harmonische relaties van alles wat zich harmonisch manifesteert. Van Meester A. tot duik in vroegere incarnaties met een minimum aan vervorming door superpositie van beelden en ervaringen. Van Meester M. (indirect) om de waarheid te zoeken zonder zinloos te worden en de wil op te leggen aan de hartstochten. Van Meester K.H. (indirect) om de missie van de Nieuwe Man en de 6e Subraza te begrijpen.
-> 
-> \- *Almena no 16: Mijn jeugd XIII. Jorge Ángel Lidraga*
+> Van Meester A. leerde ik de harmonische verhoudingen van alles wat zich harmonisch wil manifesteren. Van Meester Aa. leerde ik te duiken in vorige incarnaties met een minimum aan vervorming door superpositie van beelden en belevenissen. Van Meester M. (indirect) leerde ik de waarheid te zoeken zonder nutteloze omwegen en de wil boven de hartstochten te stellen. Van Meester K.H. (indirect) leerde ik de missie van de Nieuwe Mens en het 6e onderras te begrijpen.
+>
+> — *Almena nr. 16: Mijn jeugd XIII. Jorge Ángel Livraga*
 
-> Ik wil allereerst duidelijk maken dat er decreten zijn die alle nationale structuren tot een minimale groei dwingen... maar JAMIS heeft een maximale groei bepaald. (...). Ik heb meerdere malen verwezen naar het feit dat, binnen wat we kunnen weten, de Hiërarchie probeert een vorm van Beweging die niet brandt in een paar jaar of bewegen of transformeren en dat het kan doorgaan met dezelfde tonic voorbij het fysieke leven van zijn Stichter.
-> 
-> \- *Commando nr. 8: Groei. Jorge Ángel Lidraga*
+> Ik wil allereerst duidelijk maken dat er Decreten bestaan die alle Nationale Structuren dwingen tot een minimale groei... maar NOOIT is een maximale groei vastgesteld. (...). Ik heb herhaaldelijk aangegeven dat, binnen wat wij kunnen weten, de Hiërarchie streeft naar een vorm van Beweging die zich niet in enkele jaren opbrandt, noch muteert of transformeert, en die met dezelfde tucht kan doorgaan voorbij het fysieke leven van haar Oprichter.
+>
+> — *Mando nr. 8: Groei. Jorge Ángel Livraga*
 
-> Meer hier dan wat dan ook metafysisch en ontologisch, is er in de Natuur een mechanica van bestaan die wordt weerspiegeld in gebeurtenissen en bestaan-in-ja. Hij die deze wetten van de historische mechanica kent, hoeft niet te "profeteren" om de nieuwe paden te ontdekken voorafgaand aan verschillende lusten en zelfs eeuwen (...). Het is ook goed om een mechaniek van emoties en gevoelens te overwegen die de start-up motoren van de Hiërarchie Plannen zullen vormen... zodat het pre-doordachte programma in een levenscyclus zal gaan.
-> 
-> \- *Commando nr. 54: Tegenover de situatie in Europa en de wereld. Jorge Ángel Lidraga*
+> Meer dan al het metafysische en ontologische is er in de Natuur een mechanica van het bestaan die zich weerspiegelt in de gebeurtenissen en in het bestaan-op-zichzelf. Degene die deze wetten van de historische mechanica kent, behoeft niet te "profeteren" om de nieuwe wegen met een voorsprong van verscheidene decennia en zelfs eeuwen te ontdekken (...). Het is ook goed rekening te houden met een mechanica van emoties en gevoelens die de aandrijfmotoren zullen vormen voor het opstarten van de Plannen van de Hiërarchie... zodat het vooraf bedachte programma in een levenscyclus treedt.
+>
+> — *Mando nr. 54: Tegenover de situatie in Europa en de Wereld. Jorge Ángel Livraga*

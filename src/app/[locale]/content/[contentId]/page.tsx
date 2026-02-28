@@ -143,8 +143,8 @@ export default async function ContentPage({ params }: Props) {
         <img
           src={`/api/content-image/${contentId}/${content.thumbnail}`}
           alt={title}
-          style={{ maxHeight: "200px", width: "auto", float: "right", marginLeft: "1.5rem", marginBottom: "1rem" }}
-          className="rounded-lg shadow-sm"
+          style={{ width: "auto", float: "right", marginLeft: "1.5rem", marginBottom: "1rem" }}
+          className="rounded-md shadow-sm w-auto max-h-[100px] md:max-h-[200px]"
           loading="lazy"
         />
       )}

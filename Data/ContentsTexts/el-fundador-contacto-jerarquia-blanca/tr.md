@@ -1,31 +1,31 @@
-# Kurucu ve "Beyaz Hierarchy" ile temas
+# Kurucu ve "Beyaz Hiyerarşi" ile temas
 
-> No. 1'de "ALMENA" olarak ilan edildiği gibi, Hierarchy ile olan ilişkimizin temasını geliştirmek ve 24 yıl önce dünyaya nasıl geldik. Kurucu olmak, bu basit sayfalar zaman geçtikçe tarihsel belge değeri elde edecektir. Bu kanıtların karşısında, kişiselliğimin güçlü bir şekilde reddettiği bir şey yazmak zorunda kaldım, ancak olayların anlaşılması için gerekli olan ve gelecekte kendi hayatımın bilgisinin önemli bir deformasyonları olmaması için orada.
-> 
-> \- *Almena hayır. 2: Giriş. Jorge Ángel Livraga*
+> Duyurulduğu gibi "ALMENA"nın 1. sayısında, Hiyerarşi ile ilişkimizin ve 24 yıl önce dünyaya nasıl geldiğimiz konusunu geliştirmeyi amaçlıyorum. Ben Kurucu olduğum için, bu yalın sayfalar zamanla tarihsel bir belge değeri kazanacaktır. Bu gerçek karşısında kişiliğimin şiddetle reddettiği bir şeyi yazmaya zorlanıyorum; ancak bu, olayların anlaşılması ve gelecekte kendi Yaşamıma ilişkin bilginin önemli çarpıtmalarının olmaması için gereklidir; bu durum tüm Eser'in çarpılmasına yol açabilir.
+>
+> — *Almena nº 2: Giriş. Jorge Ángel Livraga*
 
-> Bir frekansla birlikte, Adyar'dan mektup almaya devam etti, okumalarım ve bazı egzersizler ile. Çalışmalarım ve yansımalarım için çok özel bir yere ihtiyacım olacağının önerisine göre, Amenabar 863'teki evimin bodrumunu "Crypta" şeklinde dönüştürmek istedim. Proje onaylandı ve kendimi bir araya getiren eski şarap tonelleri ve diğer şeyleri almaya adamış oldum. Tavanın demir kirişlerinin 7 parçaya bölündüğü sürprizle gördüm, dikdörtgen bitkisinin “ya dalı” oranlara çok yakın olduğunu ve 4 kartinal noktaya göre odaklandığını gördüm. Sürprizimin küçük olduğunu itiraf ediyorum, çünkü o zamanlar “Hierarchy” için çalışmak için iç güvenceye sahiptim ya da ne denirse.
-> 
-> \- *Almena hayır. 12: Gençlik VI. Jorge Ángel Livraga*
+> Aylık iki aylık periyoda yakın bir sıklıkla Adyar'dan okumalarıma ilişkin öğütler ve bazı egzersizler içeren mektuplar almaya devam ediyordum. Çalışmalarım ve düşüncelerim için çok özel bir yere ihtiyacım olacağı önerisi üzerine, Amenábar 863'teki evimin bodrumunu bir tür «Cripta»ya dönüştürmeyi tasarladım. Proje onaylandı ve biriken eski şarap fıçılarının ve diğer hurdaların içinden çıkarılması gibi zor işe koyuldum. Tavanın demir kirişlerinin onu 7 parçaya böldüğünü, dikdörtgen planının «áuricas» oranlara çok yakın olduğunu ve dört ana yöne göre yönlendirildiğini şaşkınlıkla gördüm. İtiraf ediyorum ki şaşkınlığım uzun sürmedi, çünkü o zamanlar zaten «Hiyerarşi», «Bilgelik Üstatları» veya nasıl adlandırılacaksa onlar için çalıştığıma dair içsel bir güvene sahiptim.
+>
+> — *Almena nº 12: Mi Juventud VI. Jorge Ángel Livraga*
 
-> Masonlar ve Geleneksel Rosacrucizm (20. yüzyılın başlarında kurulmuş olan AMORC’nin) Hierarchy’nin 19. yüzyılda bazı Initivist kesimlerini kurtarmasına yardımcı oldu ve bundan sonra ortaya çıktı.
-> 
-> (...) HPB'nin figürü daha sonra Hierarchy ve Theosophical S iddiasından önce yeniden ortaya çıkan "Yaşlı" Ruhlar tarafından çevrili görünüyor. İlk başarıya rağmen, bu hareket aynı zamanda Restorasyon Sürecinin Karanlık Yüzünden gelen kaotik anarşiyle de tehlikeli bir şekilde karışır.
-> 
-> (...) De la Rama Dorada, Avrupa kıtasına “Logia Thule” adı verilen forma çok fazla bilgi, en azından exoteric ve bu, genellikle "Nazilerm" adına dahil ettiğimiz siyasi hareket için engel ve gerekçe verecektir.
-> 
-> (...) Ben, 20 yaşından beri (ApolR yazmaya başladığım zaman), Amenabar bodrumunda çalışmamı Mısır Ritual Crypta'ya dönüştürdüm ve şimdi Sri Ram'dan bazı mektuplar Adyar ve görünüşe göre her zaman gönderen çok eski karbonik fotocopies ve kopyalar ile devam etti. (...) Crypta'yı ziyaret etti ve onayladı, ama biraz coşkuyla görünüyordu. Ama şanslı bir şekilde tüm hayatımda beni terk etmemiş olan bir iç Will, kendi motorumla takip etmemi sağladı, gençlikimin daha coşkulu olmasını istediğinin ötesinde. Cripta'nın ilk iki yılı beni daha doğrudan bilinmeyen efendilerle iletişim kurma olasılığını geliştirmemi sağladı.
-> 
-> \- *Almena 16: Gençlik X. Jorge Ángel Livraga*
+> Masonluk farklı cepheleriyle ve Geleneksel Gülhaççılık (20. yüzyılın başlarında kurulan AMORC'unkini kastetmiyorum) Hiyerarşi'nin 19. yüzyılda ve onu izleyen dönemde İnisiyatik nitelikte bazı Unsurları kurtarma girişimleriydi; ancak bu girişimler Aydınlanmacı Pozitivizm ve Hayata yönelik teorileştirmenin ürünü olan Marksizm tarafından yüksek derecede politize edilip etkisizleştirildi; bu, gerçek Geleneksel Ezoterik Bilginin antitezidir.
+>
+> (...) O zaman HPB figürü ortaya çıkar; Hiyerarşi'nin çağrısına yanıt veren bir dizi "Eski" Ruh tarafından çevrilidir ve S. Teosófica kurulur. İlk başarıya rağmen, bu Hareket de Restorasyon Sürecinin Karanlık Yüzü'nden kaynaklanan kaotik anarşiyle tehlikeli biçimde karışır.
+>
+> (...) Rama Dorada'dan Avrupa kıtasına "Logia Thule" adı verilen biçim geçecek; bunun en azından egzoterik düzeyde epey bilgi vardır ve bu, genellikle "Nazizm" adı altında topladığımız siyasi Harekete önsözler ve gerekçeler sağlayacaktır.
+>
+> (...) Ben, yirmi yaşımı geçtikten sonra (ANKOR yazmaya başladığım yaş), Amenábar bodrumunda Mısır Ritüeli Kriptası'na dönüştürdüğüm çalışmalarımı başlattım ve artık Sri Ram'dan gelen bazı Adyar mektupları ile her zaman gönderici olarak "Madras 20 th" yazan görünüşte çok eski fotokopi ve karbon kopyalar almaya devam ettim. (...) Kriptayı ziyaret etti ve onayladı, ama bana az bir coşkuyla onayladığı izlenimini verdi. Ne var ki, tüm yaşamım boyunca beni terk etmeyen içsel bir İrade sayesinde, gençliğimin daha coşkulu olmasını istediği onayların ötesinde kendi motorumla devam ettim. Kripta'nın ilk iki yılı, bilinmeyen Üstatlarımla daha doğrudan temas kurma olanağını geliştirmeme yol açtı.
+>
+> — *Almena nº 16: Mi Juventud X. Jorge Ángel Livraga*
 
-> Master A.'dan, tüm bunların harmonik ilişkilerini öğrendim ki, harmonik olarak ortaya çıkmaktadır. Master A.'den geçmiş incarnations'da, görüntülerin ve deneyimlerin süperpozisyonu tarafından minimum bir bozulma ile atlatmak. Master M. (inyönetmen)'den, futile'i çevirmeden gerçeği aramak ve tutkulara dayatmak. Master K.H. (indirect) Yeni Adam ve 6. Subraza'nın görevini anlamak için.
-> 
-> \- *Almena 16: Benim Gençlik XIII. Jorge Ángel Livraga*
+> Üstat A.'dan, armonik olarak tezahür etmek isteyen her şeyin uyumlu ilişkilerini öğrendim. Üstat Aa.'dan, görüntülerin ve yaşantıların üst üste binmesinin yol açtığı bozulmayı en aza indirerek geçmiş enkarnasyonlara dalmayı öğrendim. Üstat M.'den (dolaylı yoldan) gereksiz dolanışlara girmeden gerçeği aramayı ve tutkular üzerinde iradeyi egemen kılmayı; Üstat K.H.'den (dolaylı yoldan) Yeni İnsan'ın misyonunu ve 6. Altırasa'yı anlamayı öğrendim.
+>
+> — *Almena nº 16: Mi Juventud XIII. Jorge Ángel Livraga*
 
-> Bunu netleştirmek istiyorum, her şeyden önce, tüm Ulusal Yapıları minimum bir büyümeye zorlayan Decrees var ... ama JAMIS maksimum bir büyüme karar verdi. (...) Aslında birkaç kez, bildiğimiz şey içinde, Hierarchy birkaç yıl içinde yanmayan veya dönüştürmeyen bir hareket biçimine çalışır ve kurucunun fiziksel yaşamının ötesinde aynı tonikle devam edebilir.
-> 
-> \- *Komut No. 8: Büyüme. Jorge Ángel Livraga*
+> Öncelikle açıklamak isterim ki, tüm Ulusal Yapıları asgari bir büyümeye zorlayan Dekretler vardır... ama ASLA azami bir büyüme emredilmemiştir. (...). Bildiğimiz çerçeve içinde birkaç kez değindim ki, Hiyerarşi birkaç yıl içinde tükenmeyen, değişime uğramayan veya dönüşmeyen bir Hareket biçimi denemektedir ve Kurucusunun fiziksel yaşamının ötesinde aynı tonda devam edebilir.
+>
+> — *Komut nº 8: Büyüme. Jorge Ángel Livraga*
 
-> Burada metafizik ve ontolojik bir şeyden daha, olayların ve varoluşun-in-yes'e yansıyan bir varoluşun mekanikleri vardır. Bu tarihsel mekanik yasalarını kim bilir, birkaç şehvet ve hatta yüzyıllar boyunca yeni yolları keşfetmek için "uygun" gerekmez. Ayrıca, Hierarchy Planlarının başlangıç motorlarını oluşturacak duygular ve duygular mekaniğini düşünmek de iyidir... bu yüzden ön değerlendirme programı bir yaşam döngüsüne girecektir.
-> 
-> \- *Komut No. 54: Avrupa ve Dünyadaki durumun karşısında. Jorge Ángel Livraga*
+> Metafiziksel ve ontolojik olandan daha aşağıda, Doğa'da olaylara ve kendinde varoluşa yansıyan bir varoluş mekaniği vardır. Bu tarihsel mekanik yasalarını bilen kişi, yeni yönelimleri birkaç on yıl hatta yüzyıllar öncesinden keşfetmek için "kahinlik" yapmaya ihtiyaç duymaz (...). Ayrıca Hiyerarşi Planlarını yürürlüğe koyacak motorları oluşturacak duygular ve hislerin bir mekaniğini de düşünmek iyidir... böylece önceden tasarlanmış program yaşam döngüsüne girer.
+>
+> — *Komut nº 54: Avrupa ve Dünyanın Durumu Karşısında. Jorge Ángel Livraga*

@@ -1,31 +1,31 @@
 # Pendiri dan kontaknya dengan "Hierarki Putih"
 
-> Seperti yang diumumkan di No. 1 dari "ALMENA", saya berniat untuk mengembangkan tema hubungan kita dengan Hierarki dan bagaimana kita datang ke dunia 24 tahun yang lalu. Menjadi Pendiri, halaman sederhana ini akan memperoleh nilai dokumen sejarah ketika waktu berlalu. Dalam menghadapi bukti ini, saya terpaksa menulis sesuatu yang sangat ditolak oleh kepribadian saya, namun yang diperlukan untuk memahami peristiwa dan tidak ada perubahan penting dari pengetahuan Kehidupan saya sendiri di masa depan, yang dapat berdampak pada perubahan seluruh karya.
-> 
-> \- *Almena no. Perkenalan. Jorge Ángel Livraga*
+> Seperti yang diumumkan pada Nº 1 dari "ALMENA", saya bermaksud mengembangkan tema hubungan kita dengan Hierarki dan tentang bagaimana kami datang ke dunia 24 tahun yang lalu. Sebagai Aku sang Pendiri, halaman-halaman sederhana ini akan memperoleh nilai sebagai dokumen sejarah seiring berlalunya waktu. Menghadapi bukti ini saya merasa terdorong untuk menulis sesuatu yang sangat ditolak oleh Kepribadian saya, tetapi yang diperlukan untuk pemahaman peristiwa-peristiwa dan agar di masa depan tidak terjadi distorsi penting terhadap pengetahuan tentang Kehidupan saya sendiri, yang dapat berdampak pada distorsi seluruh La Obra.
+>
+> — *Almena nº 2: Pendahuluan. Jorge Ángel Livraga*
 
-> Dengan frekuensi yang mendekati dua bulanan ia terus menerima surat dari Adyar, dengan saran pada bacaan saya dan dengan beberapa latihan. Mengingat saran bahwa saya akan membutuhkan tempat yang sangat pribadi untuk studi dan refleksi, saya dipahami untuk mengubah ruang bawah tanah rumah saya di Amenabar 863 menjadi bentuk "Crypta". Proyek ini disetujui dan saya mendedikasikan diri untuk tugas kuat mendapatkan sisa-sisa lama dari tonel anggur dan hal-hal lain yang telah akumulasi. Saya melihat dengan mengejutkan bahwa balok besi langit-langit dibagi menjadi 7 bagian, bahwa itu persegi panjang tanaman sangat dekat dengan proporsi "auric" dan bahwa itu berorientasi menurut 4 poin kardinal. Saya mengakui bahwa mengejutkan saya berlangsung sedikit, untuk saat itu saya memiliki jaminan internal bekerja untuk "Hierarchy", "Master of Wise" atau apa pun itu disebut.
-> 
-> \- *Almena no. Jorge Ángel Livraga*
+> Dengan frekuensi yang mendekati dua bulanan saya terus menerima surat dari Adyar, dengan saran mengenai bacaan saya dan beberapa latihan. Atas saran bahwa saya akan memerlukan tempat yang sangat pribadi untuk studi dan refleksi, saya bertekad mengubah ruang bawah tanah rumah saya di Amenábar 863 menjadi semacam "Cripta". Proyek itu disetujui dan saya mendedikasikan diri pada tugas berat mengeluarkan sisa-sisa tong anggur tua dan barang-barang lain yang telah menumpuk. Saya terkejut melihat bahwa balok-balok besi langit-langit membaginya menjadi 7 bagian, bahwa denahnya yang persegi panjang sangat mendekati proporsi "aurea" dan bahwa ia terorientasi menurut keempat titik mata angin. Saya mengakui bahwa rasa heran saya tak bertahan lama, karena pada waktu itu saya sudah memiliki keyakinan batin bahwa saya sedang bekerja untuk "la Jerarquía", para "Maestros de Sabiduría" atau apa pun sebutannya.
+>
+> — *Almena nº 12: Mi Juventud VI. Jorge Ángel Livraga*
 
-> Masonry dalam faksi yang berbeda dan Rosacuism Tradisional (bukan karena AMORC didirikan pada awal abad ke-20) adalah upaya dari Hierarki untuk menyelamatkan beberapa Elemen Awal dipotong pada abad ke-19 dan di mana itu mendahului itu, tetapi upaya degenerasi dalam sangat politisasi dan dinetralkan bentuk oleh Illuminis Posisisme dan Marxisme, lahir dari teori kecerdasan Kehidupan, antitesis pengetahuan Etermal benar.
-> 
-> (...) Sosok HPB muncul kemudian dikelilingi oleh plead dari "Old" Jiwa yang beresonansi sebelum klaim Hierarki dan Theosophical S. didirikan. Meskipun keberhasilan awal, Gerakan ini juga berbahaya bercampur dengan kekacauan yang berasal dari Dark Face of the Restoration Process.
-> 
-> (...) De la Rama Dorada akan lulus ke benua Eropa bentuk yang disebut "Logia Thule" di mana ada banyak informasi, setidaknya exoterik, dan yang akan memberikan dorongan dan pembenaran untuk pergerakan politik yang biasanya kita masukkan dalam nama "Nazia", dengan prologo dan epitlogos nya.
-> 
-> (...) Saya, lebih dari 20 tahun (ketika saya mulai menulis ANKOR), mulai pekerjaan saya di basemen Amenabar berubah menjadi Crypta ritual Mesir dan terus menerima, sekarang dari Sri Ram, beberapa huruf dari Adyar dan rupanya sangat tua fotokopi karbonik dan salinan yang selalu dibawa sebagai pengirim "Madras 20". (...) Dia mengunjungi Crypta dan menyetujuinya, tapi sepertinya dengan sedikit antusiasme. Tapi surat wasiat internal, yang untungnya tidak meninggalkan saya sepanjang hidup saya, membuat saya mengikuti dengan mesin saya sendiri, di luar persetujuan bahwa pemuda saya ingin mereka menjadi lebih antusias. Dua tahun pertama Cripta memimpin saya untuk mengembangkan kemungkinan menghubungi lebih langsung Masters saya tidak diketahui.
-> 
-> \- *My Youth X. Jorge Ángel Livraga*
+> Masonería dalam faksi-faksi berbeda dan Rosacrucismo Tradicional (bukan yang didirikan AMORC pada awal abad XX) merupakan upaya Hierarki untuk menyelamatkan beberapa unsur berwatak Inisiatik pada abad XIX dan pada abad sebelumnya; tetapi upaya-upaya ini mengalami degenerasi menjadi bentuk-bentuk yang sangat terpolitisasi dan dinetralisir oleh Positivismo Iluminista dan oleh Marxismo, yang lahir dari intelektualisasi teoritis tentang Kehidupan, antitesis dari Pengetahuan Esotérico Tradicional.
+>
+> (...) Muncullah kemudian sosok HPB dikelilingi oleh pleiade Jiwa-Jiwa "Viejas" yang beresonansi di hadapan panggilan Hierarki dan didirikanlah S. Teosófica. Meskipun keberhasilan awal, Gerakan ini juga berbahaya tercampur dengan anarki kacau yang memancar dari Faz Oscura del Proceso de Restauración.
+>
+> (...) Dari Rama Dorada akan beralih ke benua Eropa bentuk yang disebut "Logia Thule" yang terdapat cukup banyak informasi tentangnya, setidaknya secara ekzoterik, dan yang akan memberi dorongan dan pembenaran bagi Gerakan politik yang biasa kita masukkan dalam penamaan "Nazismo", dengan prolog dan epilognya.
+>
+> (...) Aku, setelah melewati usia 20 tahun (umur ketika aku mulai menulis ANKOR), memulai karya-karyaku di ruang bawah tanah Amenábar yang diubah menjadi Cripta de Ritual Egipcio dan terus menerima, kini dari Sri Ram, beberapa surat dari Adyar serta fotokopi dan salinan karbon yang tampaknya sangat tua yang selalu memuat sebagai pengirim "Madras 20 th". (...) Ia mengunjungi Cripta dan menyetujuinya, tetapi bagiku nampak dengan antusiasme yang kurang. Namun sebuah Kehendak batin, yang untungnya tidak pernah meninggalkanku sepanjang hidup, mendorongku melanjutkan dengan mesin sendiri, melampaui persetujuan yang aku, sebagai pemuda, ingin agar lebih antusias. Dua tahun pertama Cripta membawa aku mengembangkan kemungkinan untuk menghubungi lebih langsung dengan Mastersku yang tak dikenal.
+>
+> — *Almena nº 16: Mi Juventud X. Jorge Ángel Livraga*
 
-> Dari Master A. Aku belajar hubungan harmonik dari semua yang harus diwujudkan secara harmonis. Dari Master A. untuk menyelam di inkarnasi masa lalu dengan sedikit distorsi oleh superposisi gambar dan pengalaman. Dari Master M. (tidak langsung) untuk mencari kebenaran tanpa berubah sia-sia dan memaksakan keinginan pada gairah. Dari Master K.H. (tidak langsung) untuk memahami misi dari Manusia Baru dan Subraza 6.
-> 
-> \- *My Youth XIII. Jorge Ángel Livraga*
+> Dari Maestro A. aku belajar hubungan-hubungan harmonis dari segala sesuatu yang hendak termanifestasi secara harmonis. Dari Maestro Aa. aku belajar menyelami inkarnasi-inkarnasi masa lalu dengan sedikit distorsi akibat tumpang tindih gambar dan pengalaman. Dari Maestro M. (melalui perantaraan) aku belajar mencari kebenaran tanpa berputar-putar sia-sia dan menegakkan kehendak atas nafsu-nafsu. Dari Maestro K.H. (melalui perantaraan) aku belajar memahami misi Manusia Baru dan Subras ke-6.
+>
+> — *Almena nº 16: Mi Juventud XIII. Jorge Ángel Livraga*
 
-> Aku ingin memperjelas, pertama-tama, bahwa ada Decer yang memaksa semua National Structures untuk pertumbuhan minimum... tetapi JAIS telah memutuskan pertumbuhan maksimum. (...). Saya telah menyebutkan beberapa kali fakta bahwa, dalam apa yang kita ketahui, Hierarki mencoba bentuk Gerakan yang tidak membakar dalam beberapa tahun atau bergerak atau mengubah dan bahwa dapat melanjutkan dengan tonik yang sama di luar kehidupan fisik pemandunya.
-> 
-> \- *Perintah No. 8: Pertumbuhan. Jorge Ángel Livraga*
+> Aku ingin menjelaskan, terlebih dahulu, bahwa ada Dekrit yang memaksa semua Estructuras Nacionales untuk pertumbuhan minimum... tetapi PERNAH ditetapkan suatu pertumbuhan maksimum. (...). Aku telah beberapa kali menyebutkan bahwa, menurut apa yang bisa kita ketahui, Hierarki mencoba suatu bentuk Gerakan yang tidak terbakar dalam beberapa tahun atau berubah bentuk dan yang bisa terus berjalan dengan nada yang sama melampaui kehidupan fisik Pendirinya.
+>
+> — *Perintah nº 8: Pertumbuhan. Jorge Ángel Livraga*
 
-> Lebih di sini daripada apa metafisik dan ontologi, ada di Alam Sebuah mekanik eksistensi yang tercermin pada peristiwa dan eksis - in- ya. Dia yang tahu hukum-hukum sejarah mekanik tidak perlu "bernubuat" untuk menemukan jalan baru sebelum beberapa nafsu dan bahkan berabad-abad (...). Hal ini juga baik untuk mempertimbangkan mekanisme emosi dan perasaan yang akan membentuk mesin starter-up dari Plan Hierarchy... sehingga program pemikiran pertama akan masuk ke dalam siklus kehidupan.
-> 
-> \- *Perintah No. 54: dalam menghadapi situasi di Eropa dan Dunia. Jorge Ángel Livraga*
+> Lebih dekat dari semua yang metafisik dan ontologis, ada dalam Alam semacam mekanika keberadaan yang tercermin dalam peristiwa-peristiwa dan dalam keberadaan-dalam-diri. Orang yang mengetahui hukum-hukum mekanika historis ini, tidak perlu "meramalkan" untuk menemukan jalan-jalan baru dengan beberapa dekade bahkan berabad-abad terlebih dahulu (...). Juga baik untuk mempertimbangkan mekanika emosi dan perasaan yang akan menjadi penggerak dimulainya Rencana-Rencana Hierarki... agar program yang telah dipikirkan sebelumnya itu dapat memasuki siklus kehidupan.
+>
+> — *Perintah nº 54: Menghadapi situasi di Eropa dan Dunia. Jorge Ángel Livraga*

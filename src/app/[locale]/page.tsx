@@ -121,14 +121,15 @@ export default async function HomePage({
         <h2 className="text-2xl font-bold text-gray-900 mb-6">
           Деструктивні теорії та практики Нового Акрополю
         </h2>
-        <ol className="list-decimal list-inside space-y-1">
+        <ol className="list-decimal list-inside space-y-2">
           {naIssues.map((issue, idx) => {
             const title = loc(issue.title, locale, "uk");
             return (
-              <li key={idx}>
+              <li key={idx} className="marker:font-bold marker:text-lg">
                 <a
                   href={`#na-issue-${idx}`}
                   className="text-lg text-blue-800 underline hover:text-blue-900"
+                  style={{ letterSpacing: "0.03rem", fontWeight: 600 }}
                 >
                   {title}
                 </a>
@@ -335,8 +336,7 @@ export default async function HomePage({
                           <img
                             src={`/api/content-image/${content.id}/${content.thumbnail}`}
                             alt={title}
-                            style={{ maxHeight: "200px", width: "auto" }}
-                            className="rounded-md shadow-sm"
+                            className="rounded-md shadow-sm w-auto max-h-[100px] md:max-h-[200px]"
                             loading="lazy"
                           />
                         </Link>
