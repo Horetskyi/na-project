@@ -138,6 +138,17 @@ export default async function ContentPage({ params }: Props) {
         </div>
       )}
 
+      {content.thumbnail && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={`/api/content-image/${contentId}/${content.thumbnail}`}
+          alt={title}
+          style={{ maxHeight: "200px", width: "auto", float: "right", marginLeft: "1.5rem", marginBottom: "1rem" }}
+          className="rounded-lg shadow-sm"
+          loading="lazy"
+        />
+      )}
+
       <h1 className="text-3xl font-bold text-gray-900 leading-tight mb-6">
         {title}
       </h1>
@@ -152,7 +163,7 @@ export default async function ContentPage({ params }: Props) {
                 alt={content.countryCode}
                 width={24}
                 height={16}
-                className="inline-block rounded-sm"
+                className="inline-block rounded-sm flag-img"
               />
             )}
             {content.year && (

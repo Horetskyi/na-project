@@ -111,6 +111,12 @@
     "id": "denounce-paramilitary-esoteric-sect-pocitos",
     "url": "https://www.elpais.com.uy/que-pasa/denuncian-secta-paramilitar-y-esoterica-en-pocitos-pero-sus-directores-dicen-que-es-escuela-de-filosofia#google_vignette",
     "type": "testimony",
+    "langCode": "es",
+    "countryCode": "uy",
+    "year": 2022,
+    "authority": 10,
+    "authorId": 10,
+    "order": 1,
     "title": {
       "es": "Denuncian una «secta paramilitar y esotérica» en Pocitos, pero sus directores dicen que es una escuela de filosofía",
       "uk": "У Посітосі заявляють про «воєнізовану й езотеричну секту», але керівники кажуть, що це школа філософії",
@@ -194,12 +200,7 @@
       "my": "New Acropolis အဖွဲ့၏ အဖွဲ့ဝင်ဟောင်းများက “Living Forces” သို့ ဝင်ရောက်ရန် စမ်းသပ်မှုများတွင် စိတ်ပိုင်းဆိုင်ရာ ထိန်းချုပ်မှုနှင့် ကိုယ်ခန္ဓာအကြမ်းဖက်မှု ရှိခဲ့ကြောင်း ပြောကြသည်။ အဖွဲ့၏ ခေါင်းဆောင်များက အားလုံးကို ငြင်းဆိုသည်။",
       "sw": "Wanachama wa zamani wa New Acropolis wanasema kulikuwa na udanganyifu wa kisaikolojia na vurugu za kimwili kwenye vipimo vya kuingia “Living Forces”. Uongozi wa taasisi unakanusha yote.",
       "ta": "New Acropolis-இன் முன்னாள் உறுப்பினர்கள் “Living Forces” சேர்க்கைத் தேர்வுகளில் உளவியல் கையாளுதலும் உடல் வன்முறையும் இருந்ததாக கூறுகின்றனர். அமைப்பின் தலைமை அனைத்தையும் மறுக்கிறது."
-    },
-    "year": 2022,
-    "langCode": "es",
-    "countryCode": "uy",
-    "authority": 10,
-    "authorId": 10
+    }
   },
   {
     "id": "desestimulo-del-analisis-racional",
@@ -252,5 +253,20 @@
     "countryCode": "es",
     "authority": 4,
     "sourceId": 2
+  },
+  {
+    "id": "na-managers-guide",
+    "countryCode": "es",
+    "langCode": "es",
+    "type": "inner_material",
+    "year": 1976,
+    "authority": 10,
+    "order": 1,
+    "authorId": 3,
+    "thumbnail": "1.jpg",
+    "title": {
+      "uk": "Посібник керівника Нового Акрополя",
+      "es": "Manual del Dirigente Nueva Acrópolis"
+    }
   }
 ]

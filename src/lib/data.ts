@@ -21,6 +21,8 @@ export interface Content {
   sourceId?: number;
   wordsCount?: number;
   charactersCount?: number;
+  thumbnail?: string;
+  order?: number;
 }
 
 export interface Author {
@@ -208,6 +210,17 @@ export function groupContentsByType(
   const grouped: Record<string, Content[]> = {};
   for (const c of contents) {
     (grouped[c.type] ??= []).push(c);
+  }
+  // Sort items within each group: items with order first (ascending), then the rest in original order
+  for (const type of Object.keys(grouped)) {
+    grouped[type] = grouped[type].sort((a, b) => {
+      const aHas = a.order != null;
+      const bHas = b.order != null;
+      if (aHas && bHas) return a.order! - b.order!;
+      if (aHas) return -1;
+      if (bHas) return 1;
+      return 0;
+    });
   }
   // Return in defined order, then any remaining types
   const ordered: Record<string, Content[]> = {};

@@ -134,7 +134,7 @@ export default function Header() {
               aria-haspopup="listbox"
               aria-expanded={open}
             >
-              <Image src={`/flags/${locale}.webp`} alt={current.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
+              <Image src={`/flags/${locale}.webp`} alt={current.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm flag-img" />
               <span className="hidden sm:inline text-gray-700 font-bold">{current.name}</span>
               <svg
                 className={`w-4 h-4 text-gray-500 transition-transform ${open ? "rotate-180" : ""}`}
@@ -183,7 +183,7 @@ export default function Header() {
                                 loc === locale ? "bg-blue-50 font-medium text-blue-700" : "text-gray-700"
                               }`}
                             >
-                              <Image src={`/flags/${loc}.webp`} alt={meta.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm" />
+                              <Image src={`/flags/${loc}.webp`} alt={meta.name} width={24} height={16} className="w-6 h-4 object-cover rounded-sm flag-img" />
                               <span>{meta.name}</span>
                             </button>
                           </li>

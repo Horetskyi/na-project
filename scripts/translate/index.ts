@@ -12,7 +12,7 @@
  * Options:
  *   --engine <name>       libretranslate | nllb200                (default: libretranslate)
  *   --mode <mode>         messages | contents | json-data | all   (default: all)
- *   --base-lang <code>    Base language to translate FROM          (default: uk)
+ *   --base-lang <code>    Base language to translate FROM          (default: es)
  *   --target-langs <csv>  Comma-separated target language codes   (default: all from languages.json)
  *   --api-url <url>       Translation engine URL                  (default: depends on engine)
  *   --api-key <key>       API key (LibreTranslate only, optional)
@@ -20,7 +20,7 @@
  *   --help                Show this help message
  *
  * Examples:
- *   # Translate everything from Ukrainian to all languages (LibreTranslate)
+ *   # Translate everything from Spanish to all languages (LibreTranslate)
  *   npx tsx scripts/translate/index.ts
  *
  *   # Translate only messages, dry run
@@ -68,7 +68,7 @@ function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
     engine: "libretranslate",
     mode: "all",
-    baseLang: "uk",
+    baseLang: "es",
     targetLangs: null,
     apiUrl: null,
     dryRun: false,

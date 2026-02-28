@@ -80,7 +80,7 @@ export default async function HomePage({
               className="group block rounded-xl border border-gray-200 bg-white p-5 shadow-sm hover:shadow-md hover:border-blue-300 transition-all"
             >
               {/* Type label */}
-              <h3 className="text-sm font-semibold text-blue-700 group-hover:text-blue-900 uppercase tracking-wide leading-snug">
+              <h3 className="text-md font-semibold text-blue-800 group-hover:text-blue-900 uppercase tracking-wide leading-snug">
                 {label}
               </h3>
 
@@ -104,7 +104,7 @@ export default async function HomePage({
                       alt={code}
                       width={24}
                       height={16}
-                      className="rounded-sm"
+                      className="rounded-sm flag-img"
                     />
                   ))}
                 </div>
@@ -113,7 +113,9 @@ export default async function HomePage({
           );
         })}
       </div>
-      
+
+      <div className="custom-sections-divider"></div>
+
       {/* NA Issues – numbered table of contents */}
       <section className="mb-14">
         <h2 className="text-2xl font-bold text-gray-900 mb-6">
@@ -147,11 +149,11 @@ export default async function HomePage({
           <section
             key={idx}
             id={`na-issue-${idx}`}
-            className="mb-14 scroll-mt-6"
+            className="mb-14 mt-14 scroll-mt-6"
           >
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">
               {idx + 1}. {title}
-            </h2>
+            </h3>
 
             {description && (
               <p className="text-gray-700 mb-4">{description}</p>
@@ -191,7 +193,7 @@ export default async function HomePage({
                               alt={flagCode}
                               width={24}
                               height={16}
-                              className="inline-block rounded-sm"
+                              className="inline-block rounded-sm flag-img"
                             />
                           )}
                           {sourceTitle && sourceContent && (
@@ -213,7 +215,9 @@ export default async function HomePage({
         );
       })}
 
-      {Object.entries(grouped).map(([type, items]) => {
+      <div className="custom-sections-divider"></div>
+
+      {Object.entries(grouped).map(([type, items], index, array) => {
         const description = tShared(`ContentsTypesDescription.${type}`);
         const heading = description.replace(/\.\s*$/, "").toUpperCase();
 
@@ -243,85 +247,110 @@ export default async function HomePage({
                     key={content.id}
                     className={`-mx-4 px-4 ${isGray ? "bg-gray-100" : ""}`}
                   >
-                    <div className="py-5 px-2">
-                      {/* Number + Title */}
-                      <div className="flex items-baseline gap-2">
-                        <span className="text-lg font-bold text-black shrink-0">
-                          {index + 1}.
-                        </span>
-                        <Link
-                          href={`/${locale}/content/${content.id}`}
-                          className="text-lg font-bold text-black underline decoration-black decoration-1"
-                        >
-                          {title}
-                        </Link>
+                    <div className="py-5 px-2 flex gap-4">
+                      {/* Text content */}
+                      <div className="flex-1 min-w-0">
+                        {/* Number + Title */}
+                        <div className="flex items-baseline gap-2">
+                          <span className="text-lg font-bold text-black shrink-0">
+                            {index + 1}.
+                          </span>
+                          <Link
+                            href={`/${locale}/content/${content.id}`}
+                            className="text-lg font-bold text-black underline decoration-black decoration-1"
+                          >
+                            {title}
+                          </Link>
+                        </div>
+
+                        {/* Subtitle */}
+                        {subTitle && (
+                          <p className="text-gray-600 mt-1">{subTitle}</p>
+                        )}
+
+                        {/* Flag + Year + Original Language on one line */}
+                        {(flagExists || content.year || language) && (
+                          <div className="flex items-center gap-1.5 mt-2 flex-wrap">
+                            {flagExists && (
+                              <Image
+                                src={`/flags/${content.countryCode}.webp`}
+                                alt={content.countryCode}
+                                width={24}
+                                height={16}
+                                className="inline-block rounded-sm flag-img"
+                              />
+                            )}
+                            {content.year && (
+                              <span className="text-gray-800">
+                                {content.year}{language ? "," : ""}
+                              </span>
+                            )}
+                            {language && (
+                              <span className="text-gray-700">
+                                {tShared("originalLanguage", {
+                                  language: getLanguageName(language, locale),
+                                })}
+                              </span>
+                            )}
+                          </div>
+                        )}
+
+                        {/* City */}
+                        {city && (
+                          <p className="text-gray-700 mt-1">{city}</p>
+                        )}
+
+                        {/* Author(s) */}
+                        {contentAuthors.length > 0 && (
+                          <div className="mt-2">
+                            {contentAuthors.map((author) => (
+                              <div key={author.id}>
+                                <span className="text-gray-500 text-sm">
+                                  {tShared("author")}
+                                </span>{" "}
+                                <span className="text-black font-bold">
+                                  {loc(author.name, locale, content.langCode)}
+                                </span>
+                                {loc(author.bio, locale, content.langCode) && (
+                                  <>
+                                    {" \u2014 "}
+                                    <span className="text-gray-600">
+                                      {loc(author.bio, locale, content.langCode)}
+                                    </span>
+                                  </>
+                                )}
+                              </div>
+                            ))}
+                          </div>
+                        )}
                       </div>
 
-                      {/* Subtitle */}
-                      {subTitle && (
-                        <p className="text-gray-600 mt-1">{subTitle}</p>
-                      )}
-
-                      {/* Flag + Year + Original Language on one line */}
-                      {(flagExists || content.year || language) && (
-                        <div className="flex items-center gap-1.5 mt-2 flex-wrap">
-                          {flagExists && (
-                            <Image
-                              src={`/flags/${content.countryCode}.webp`}
-                              alt={content.countryCode}
-                              width={24}
-                              height={16}
-                              className="inline-block rounded-sm"
-                            />
-                          )}
-                          {content.year && (
-                            <span className="text-gray-800">
-                              {content.year}{language ? "," : ""}
-                            </span>
-                          )}
-                          {language && (
-                            <span className="text-gray-700">
-                              {tShared("originalLanguage", {
-                                language: getLanguageName(language, locale),
-                              })}
-                            </span>
-                          )}
-                        </div>
-                      )}
-
-                      {/* City */}
-                      {city && (
-                        <p className="text-gray-700 mt-1">{city}</p>
-                      )}
-
-                      {/* Author(s) */}
-                      {contentAuthors.length > 0 && (
-                        <div className="mt-2">
-                          {contentAuthors.map((author) => (
-                            <div key={author.id}>
-                              <span className="text-gray-500 text-sm">
-                                {tShared("author")}
-                              </span>{" "}
-                              <span className="text-black font-bold">
-                                {loc(author.name, locale, content.langCode)}
-                              </span>
-                              {loc(author.bio, locale, content.langCode) && (
-                                <>
-                                  {" \u2014 "}
-                                  <span className="text-gray-600">
-                                    {loc(author.bio, locale, content.langCode)}
-                                  </span>
-                                </>
-                              )}
-                            </div>
-                          ))}
-                        </div>
+                      {/* Thumbnail */}
+                      {content.thumbnail && (
+                        <Link
+                          href={`/${locale}/content/${content.id}`}
+                          className="shrink-0 self-start"
+                        >
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
+                          <img
+                            src={`/api/content-image/${content.id}/${content.thumbnail}`}
+                            alt={title}
+                            style={{ maxHeight: "200px", width: "auto" }}
+                            className="rounded-md shadow-sm"
+                            loading="lazy"
+                          />
+                        </Link>
                       )}
                     </div>
                   </div>
                 );
               })}
             </div>
+
+            {index !== array.length - 1 && (
+              <div className="custom-sections-divider-small"></div>
+            )}
+
           </section>
         );
       })}
