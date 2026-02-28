@@ -1,19 +1,21 @@
-## Notera från bloggadministratörer:
+## Meddelande från bloggadministratörerna: 
 
-Termen Kama-manas hänvisar till det "rationella sinnet". Det är sinnet att du spårar och analyserar saker på ett konkret sätt. Sedan skulle det finnas en annan typ av sinne som kallas "Manas", som motsvarar det "andliga sinnet", som kan fånga saker mer intuitivt. Kunskap tillhör "Kama-Manas", medan visdom tillhör "Manas".
+Termen Kama-manas avser det "rationella sinnet". Det är sinnet som resonerar och analyserar saker på ett konkret sätt. Sedan skulle det finnas en annan typ av sinne som kallas "Manas", vilket motsvarar det "andliga sinnet", som är kapabelt att uppfatta saker mer intuitivt. Kunskapen tillhör "Kama-Manas", medan Visdomen tillhör "Manas". 
 
-## RESOLUTION AV CITAS:
+## SAMMANSTÄLLNING AV CITAT:
 
-Akropolitan måste veta hur man tystar hans Kama-människor och rengör sig från de feminoida elementen (i ordets värsta bemärkelse) som utlöser honom i armarna av undermedveten djuritet; av andan av flykt, att vända ryggen på livet och att kidnappas av de mörka krafterna. Du måste undvika den typen av psykisk våldtäkt så att de inte är födda, då, inom din astrala och mentala kropp, den elementära larver som kommer att lösa själen.
+Akropolisten måste kunna tysta sitt Kama-manas och rena sig från dessa feminoida element (i ordets allra värsta bemärkelse) som kastar honom i armarna på undermedveten animalitet; från flyktens anda, att vända ryggen åt livet och att låta sig bli bortrövad av de Mörka Krafterna. Han måste undvika denna form av psykisk våldtäkt så att inte elementarlarver föds senare inom hans astrala och mentala kropp och torkar ut hans Själ.
 
-Bastion 61-3. Om den psykologiska bräckligheten hos vissa akropoliter. Jorge Ángel Livraga
+Bastión nr 61-3. Om den psykologiska bräckligheten hos vissa akropolister. Jorge Ángel Livraga
 
-Upprätthåll och återhämta sig, om de förloras, den grundläggande disciplinnivån. Upprätthåll aktiviteter som främjar styrka i hjärtan och offra kapacitet. Dialogen med Kamamanas är inte densamma som damer eller herrar.
+Bibehålla och återfå, om det har förlorats, den grundläggande nivån av disciplin. Bibehålla aktiviteter som främjar styrka i hjärtan och förmåga till uppoffring. Dialogen med Kamamanas hör inte hemma hos varken damer eller herrar. 
 
-Kommando nr 59. Det är viktigt att upprätthålla sammanhållning. Jorge Ángel Livraga
+Mando nr 59. Det är väsentligt att upprätthålla sammanhållningen. Jorge Ángel Livraga
 
-Vi måste undvika den psykologiska fällan av "Kama-manas" för att känna tiden tillägnad New Acropolis som något "slitna bort" i våra liv. Sanningen är tvärtom; de enda användbara timmarna av vår nuvarande inkarnation är de som är dedikerade till idealet. Allt annat är damm som livets vind ansvarar för att sprida sig.
+Vi måste undvika den psykologiska fälla som lagts av "Kama-manas" att uppfatta den tid som ägnas åt Nya Akropolis som något "rivits bort" från våra liv. Sanningen är precis tvärtom; de enda användbara timmarna i vår nuvarande inkarnation är de som är ägnade åt Idealet. Allt annat är damm som livets vind ansvarar för att sprida. 
 
-Bastion nr 63-3: Hur man använder tid. maj 1982. Jorge Ángel Livraga För hundrade gången upprepar vi: ett dåligt teologiskt koncept är bättre än de mest utarbetade materialistiska lärorna. På lång sikt kommer en man som tror på Gud, som uppfattar honom som han vill, att vara starkare och mer motståndskraftig än tusen män som förnekar honom. Således kommer New Akropolis att leva så länge det är andligt och åtminstone kommer att fortsätta leva en gnista av Mysteriernas mystiska flamma.
+Bastión Nr 63-3: Om hur man utnyttjar tiden. Maj 1982. Jorge Ángel Livraga
 
-Ledarskapshandbok (1976). Jorge Ángel Livraga
+För n:te gången upprepar vi: ett fattigt teologiskt begrepp är bättre än den mest utarbetade av de materialistiska doktrinerna. På sikt kommer en man som tror på Gud, som föreställer sig honom som han vill, att vara starkare och mer motståndskraftig än tusen män som förnekar honom. Så kommer Nya Akropolis att leva så länge den är andlig och åtminstone hålla vid liv en gnista av den Mystiska Lågan hos Mysterierna.
+
+Handbok för ledare (1976). Jorge Ángel Livraga

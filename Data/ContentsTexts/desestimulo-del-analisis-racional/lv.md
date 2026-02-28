@@ -1,19 +1,21 @@
-## emuāru administratoru piezīme:
+## Emuāra administratoru piezīme: 
 
-Termins Kama- manas attiecas uz "racionālo prātu". Tas ir prāts, ka jūs izsekot un analizēt lietas konkrētā veidā. Tad būtu cits prāta veids, ko sauc par "Manas", kas atbilst "garīgajam prātam", kurš spēj lietas uztvert intuitīvāk. Zināšanas pieder "Kama-Manas", kamēr Gudrība pieder "Manas".
+Termins "Kama-manas" attiecas uz "racionālo prātu". Tas ir prāts, kas spriež un analizē lietas konkrētā veidā. Tad būtu vēl cits prāta veids, ko sauc par "Manas", kas atbilst "garīgajam prātam", kas spēj uztvert lietas intuitīvāk. Zināšanas pieder "Kama-Manas", kamēr Gudrība pieder "Manas". 
 
-## CITU ATCELŠANA
+## CITU APKOPĒ:
 
-Akropolitānam ir jāzina, kā apklusināt savu kama manus un attīrīt sevi no tiem feminoīdiem elementiem (sliktākajā vārda nozīmē), kas viņu iedzen zemapziņas zvēru rokās; no bēgšanas gara, no muguras pagriešanas uz dzīvību un no tumsas spēku nolaupīšanas. Jums ir jāizvairās no šāda veida psihisko izvarošanu, lai tie nav dzimuši, tad, jūsu astrālā un psihiskā organismā, elementāras kāpurus, kas skanēs Dvēsele.
+Akropolietam jāprot klusināt savu "Kama-manas" un attīrīt sevi no tiem feminoīdajiem elementiem (sliktākajā vārda nozīmē), kas viņu iemet apakšapziņas dzīvniecības apskāvienos; no bēgšanas gara, no atgriešanās ar muguru pret dzīvi un no ļaušanās, lai viņu nolaupa Tumšie spēki. Viņam jāizvairās no šāda veida psihiskas izvarošanas, lai pēc tam viņa astrālajā un mentālajā ķermenī nerastos elementārās kāpuri, kas izžāvēs viņa Dvēseli.
 
-Bastion number 61-3. Par dažu akropolītu psiholoģisko trauslumu. Jorge Ángel Livraga
+Bastions nr. 61-3. Par dažu akropolietu psiholoģisko trauslumu. Jorge Ángel Livraga
 
-Saglabāt un atgūt, ja zaudējis, pamata līmeni disciplīnas. Uzturēt darbības, kas veicina spēku sirdī un upurēt spējas. Dialogs ar Kamamanām nav tas pats, kas dāmas vai kungi.
+Saglabāt un atgūt, ja tas ir zaudēts, disciplīnas pamatlīmeni. Veikt darbības, kas veicina spēku sirdīs un upurēšanās spēju. Sarunas ar "Kama-manas" nav dāmām vai kungiem piemērotas. 
 
-59\. komanda. Ir būtiski saglabāt kohēziju. Jorge Ángel Livraga
+Rīkojums nr. 59. Ir būtiski saglabāt kohēziju. Jorge Ángel Livraga
 
-Mums ir jāizvairās no psiholoģiskā slazda "Kama- manas" sajust laiku veltīts New Akropolis kā kaut ko "nozagt prom" mūsu dzīvēs. Patiesība ir tieši pretēja; mūsu pašreizējās inkarnācijas vienīgās lietderīgās stundas ir tās, kas veltītas ideāliem. Viss pārējais ir putekļi, ko dzīvības vējš ir atbildīgs par izplatīšanos.
+Mums jāizvairās no psiholoģiskā slazda, ko liek "Kama-manas", sajūtot laiku, kas veltīts Jaunajai Akropolei, kā kaut ko "atrautu" no mūsu dzīves. Patiesība ir tieši pretēja; vienīgās noderīgās stundas mūsu pašreizējā inkarnācijā ir tās, kas veltītas Ideālam. Viss pārējais ir putekļi, ko izplata dzīves vējš. 
 
-Bastion No 63-3: Kā izmantot laiku. 1982. gada maijs. Jorge Ángel Livraga Simto reizi mēs atkārtojam: slikts teoloģiskais jēdziens ir labāks nekā vissarežģītākās materiālisma doktrīnas. Ilgtermiņā cilvēks, kas tic Dievam, kurš viņu ieņem pēc viņa vēlēšanās, būs spēcīgāks un izturīgāks par tūkstoti vīru, kas viņu noliedz. Tādējādi Jaunā Akropole dzīvos tik ilgi, cik tā būs garīga un vismaz uzturēs dzīvu mistisko noslēpumu liesmu.
+Bastions nr. 63-3: Par to, kā izmantot laiku. 1982. gada maijs. Jorge Ángel Livraga
 
-Vadības rokasgrāmata (1976). Jorge Ángel Livraga
+Vēl un vēlreiz atkārtojam: labāks ir nabadzīgs teoloģisks jēdziens nekā visizstrādātākā materiālisma doktrīna. Laika gaitā cilvēks, kas tic Dievam un uztver Viņu pēc savas gribas, būs stiprāks un izturīgāks par tūkstotiem cilvēku, kas Viņu noliedz. Tādējādi Jaunā Akropole dzīvos, kamēr tā būs garīga, un vismaz uzturēs dzīvu Mistēriju mistiskās liesmas dzirksti.
+
+Vadītāja rokasgrāmata (1976). Jorge Ángel Livraga

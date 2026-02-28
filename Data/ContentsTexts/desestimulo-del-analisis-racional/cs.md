@@ -1,19 +1,21 @@
-## Poznámka od správců blogu:
+## Poznámka správců blogu: 
 
-Termín Kama- manas odkazuje na "racionální mysl". Je to mysl, kterou sledujete a analyzujete věci konkrétním způsobem. Pak by existoval jiný druh mysli zvaný "Manas", který by odpovídal "duchovní mysli", která je schopná zachytit věci více intuitivně. Znalosti patří "Kama- Manasovi", zatímco moudrost patří "Manasovi".
+Termín Kama-manas odkazuje na "racionální mysl". Je to mysl, která rozumuje a analyzuje věci konkrétním způsobem. Poté by existoval jiný druh mysli zvaný "Manas", který odpovídá "duchovní mysli", jež je schopna vnímat věci více intuitivně. Poznání patří "Kama-Manas", zatímco Moudrost patří "Manas". 
 
-## UZNÁNÍ CITAS:
+## SHRNUTÍ CITÁTŮ:
 
-Akropolitan musí vědět, jak umlčet své Kamamány a očistit se od těch feminoidních prvků (v nejhorším slova smyslu), které ho přivedou do náruče podvědomé animace; ducha útěku, obracení se zády k životu a unášení temnými silami. Musíte se vyhnout tomuto druhu psychického znásilnění, aby se nenarodili, pak, ve vašem astrálním a duševním těle, elementární larvy, které budou zpívat duši.
+Akropolista musí umět utlumit svůj Kama-manas a očistit se od těch feminoidních prvků (v tom nejhorším slova smyslu), které ho vrhají do náruče podvědomé zvířecnosti; od ducha útěku, obracení se zády k životu a nechávání se unést Temnými silami. Musí se vyvarovat tohoto druhu psychického znásilnění, aby se později v jeho astrálním a mentálním těle nenarodily elementární larvy, které mu vysuší Duši.
 
-Bastion číslo 61-3. O psychologické křehkosti některých akropolitanů. Jorge Ángel Livraga
+Bastión nº 61-3. Sobre la fragilidad psicológica de algunos acropolitanos. Jorge Ángel Livraga
 
-Udržujte a obnovte, pokud ztratíte, základní úroveň disciplíny. Udržovat aktivity, které podporují sílu v srdcích a schopnost obětovat. Dialog s Kamamany není stejný jako dámy a pánové.
+Uchovat a obnovit, pokud byl ztracen, základní stupeň disciplíny. Udržovat činnosti, které podporují sílu v srdcích a schopnost obětavosti. Dialog s Kamamanas není vhodný pro Dámy ani pro Rytíře.
 
-Velitelství číslo 59. Je nezbytné zachovat soudržnost. Jorge Ángel Livraga
+Mando nº 59. Es esencial mantener la cohesión. Jorge Ángel Livraga
 
-Musíme se vyhnout psychologické pasti "Kamamány", abychom cítili čas věnovaný Nové Akropolis jako něco "odtrženého" v našich životech. Pravda je pravý opak; jediné užitečné hodiny naší současné inkarnace jsou ty, které jsou zasvěcené ideálu. Všechno ostatní je prach, který vítr života má na starosti šíření.
+Musíme se vyvarovat psychologické pasti nastražené "Kama-manas", která vede k pocitu, že čas věnovaný Nová Akropolis je něčím "odtrženým" od našich životů. Pravda je přesně opačná; jediné užitečné hodiny naší současné inkarnace jsou ty, které jsou věnovány Ideálu. Všechno ostatní je prach, který vítr života rozptyluje. 
 
-Bastion č. 63-3: Jak používat čas. Květen 1982. Jorge Ángel Livraga Po sté opakujeme: chabý teologický koncept je lepší než nejpropracovanější materialistické doktríny. Z dlouhodobého hlediska bude muž, který věří v Boha, který si ho myslí, jak chce, silnější a odolnější než tisíc mužů, kteří ho popírají. Tak bude New Akropolis žít tak dlouho, dokud bude duchovní a alespoň udrží naživu jiskru záhadného plamene záhad.
+Bastión Nº 63-3: De cómo aprovechar el tiempo. Mayo de 1982. Jorge Ángel Livraga
 
-Příručka vedení (1976). Jorge Ángel Livraga
+Znovu a znovu opakujeme: lepší je chudý teologický pojem než ta nejpropracovanější z materialistických doktrín. Nakonec bude muž, který věří v Boha a představuje si Ho podle svého, silnější a odolnější než tisíc mužů, kteří Ho popírají. Tak Nová Akropolis bude žít, dokud bude duchovní, a alespoň udrží živou jiskru Mystického plamene Tajemství.
+
+Příručka vedoucího (1976). Jorge Ángel Livraga

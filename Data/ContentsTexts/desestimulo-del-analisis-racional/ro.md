@@ -1,19 +1,21 @@
-## Notă de la administratorii de blog:
+## Notă a administratorilor blogului: 
 
-Termenul Kama-Manas se referă la "mintea raţională." E mintea pe care o urmăreşti şi o analizezi într-un mod concret. Apoi ar exista un alt fel de minte numită "Manas," care corespunde "minții spirituale," care este capabilă să capteze lucrurile mai intuitiv. Cunoaşterea aparţine "Kama-Manas," în timp ce înţelepciunea aparţine "Manas."
+Termenul Kama-manas face referire la "mintea rațională". Este mintea care raționează și analizează lucrurile într-un mod concret. Apoi ar exista un alt tip de minte numită "Manas", care corespunde "minții spirituale", care este capabilă să perceapă lucrurile într-un mod mai intuitiv. Cunoașterea aparține "Kama-Manas", în timp ce Înțelepciunea aparține "Manas". 
 
-## RECOMANDAREA CITELOR:
+## RECOPILARE DE CITATE:
 
-Acropolitanul trebuie să știe cum să-și reducă la tăcere Kama-manele și să se curețe de acele elemente feminoide (în cel mai rău sens al cuvântului) care îl precipită în brațele animalității subconștiente; de spiritul evadării, de a-și întoarce spatele la viață și de a fi răpit de forțele întunecate. Trebuie să evitați acest tip de viol psihic astfel încât acestea să nu se nască, atunci, în corpul astral și mental, larvele elementare care vor resound Sufletul.
+Acropolistul trebuie să știe să-și reducă la tăcere Kama-manas și să se curețe de acele elemente feminoide (în cel mai rău sens al cuvântului) care îl aruncă în brațele animalității subconștiente; de spiritul de fugă, de întoarcerea spatelui față de viață și de a se lăsa răpit de Forțele Tenebroase. Trebuie să evite acel fel de viol psihic pentru ca să nu se nască, apoi, în corpul său astral și mental, larvele elementare care îi vor usca Sufletul.
 
-Bastionul 61-3. Despre fragilitatea psihologică a unor acropolitani. Jorge Ángel Livraga
+Bastion nr. 61-3. Despre fragilitatea psihologică a unor acropoliști. Jorge Ángel Livraga
 
-Menţineţi şi recuperaţi, dacă aţi pierdut, nivelul de bază al disciplinei. Menținerea activităților care promovează puterea în inimă și capacitatea de sacrificiu. Dialogul cu Kamamanas nu este la fel ca doamnelor sau domnilor.
+Mențineți și recuperați, dacă s-a pierdut, nivelul de bază al disciplinei. Mențineți activități care promovează tăria în inimile și capacitatea de sacrificiu. Dialogul cu Kama-manas nu este potrivit nici doamnelor, nici domnilor. 
 
 Comanda nr. 59. Este esențial să se mențină coeziunea. Jorge Ángel Livraga
 
-Trebuie să evităm capcana psihologică a "Kama-Manas" pentru a simți timpul dedicat New Acropolis ca ceva "alungat" în viața noastră. Adevărul este exact opusul; singurele ore utile ale actualei noastre încarnări sunt cele dedicate Idealului. Orice altceva este praf că vântul vieții este responsabil de răspândirea.
+Trebuie să evităm capcana psihologică întinsă de „Kama-manas” de a simți timpul dedicat Noua Acropolă ca ceva „smuls” din viețile noastre. Adevărul este exact opusul; singurele ore utile ale actualei noastre încarnări sunt cele dedicate Idealului. Tot restul este praf pe care vântul vieții îl împrăștie. 
 
-Bastionul nr. 63-3: Cum se utilizează timpul. Mai 1982. Jorge Ángel Livraga Pentru a suta oară, repetăm: un concept teologic sărac este mai bun decât cel mai elaborat de doctrine materialiste. Pe termen lung, un om care crede în Dumnezeu, care îl concepe aşa cum vrea, va fi mai puternic şi mai rezistent decât o mie de oameni care îl neagă. Astfel, New Acropolis va trăi atâta timp cât este spiritual și cel puțin va menține în viață o scânteie a flăcării mistice a misterelor.
+Bastion nr. 63-3: Despre cum să valorifici timpul. Mai 1982. Jorge Ángel Livraga
 
-Manualul de conducere (1976). Jorge Ángel Livraga
+Pentru a mia oară, repetăm: este mai bun un concept teologic sărac decât cea mai elaborată dintre doctrinele materialiste. Pe termen lung, un om care crede în Dumnezeu, care îl concepe așa cum vrea, va fi mai puternic și mai rezistent decât o mie de oameni care îl neagă. Astfel, Noua Acropolă va trăi atât timp cât este spirituală și cel puțin va menține vie o scânteie a flăcării mistice a Misteriilor.
+
+Manualul Dirigintelui (1976). Jorge Ángel Livraga

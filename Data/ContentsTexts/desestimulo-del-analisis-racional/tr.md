@@ -1,19 +1,21 @@
-## Blog yöneticilerinden Not:
+## Blog yöneticilerinin notu: 
 
-Kama- manas terimi "rasyonel zihin" anlamına gelir. Bu, şeyleri somut bir şekilde takip ettiğiniz ve analiz ettiğiniz zihin. Sonra "Manas" olarak adlandırılan başka bir tür zihin olurdu, bu da "spiritual mind"e karşılık geliyor, bu da işleri daha sezgisel bir şekilde yakalayabilir. Bilgi "Kama-Manas"a aittir, oysa Bilgelik "Manas"a aittir.
+Kama-manas terimi "rasyonel zihin"e işaret eder. Bu, şeyleri somut bir şekilde akleden ve analiz eden zindir. Daha sonra "Manas" adlı başka bir zihin türü vardır; bu "ruhsal zihin"e karşılık gelir ve şeyleri daha sezgisel bir biçimde kavrama yeteneğine sahiptir. Bilgi "Kama-Manas"a aittir, oysa Bilgelik "Manas"a aittir. 
 
-## CITAS'nın RECOPILATION:
+## ALINTILARIN DERLEMESİ:
 
-Akropolitan, Kama-insanlarını nasıl susturacağını ve kendisini bu feminoid elementlerden temizleyeceğini bilmelidir (sözdeki en kötü anlamda) onu hayvan bilinçaltının kollarına sokmak; kaçış ruhunun, karanlık güçler tarafından kaçırılması. Bu tür psişik tecavüzden kaçınmalısınız, böylece doğmazlar, o zaman astral ve zihinsel bedeninizde, Ruhu yeniden açacak olan element Larale.
+Akropolist, Kama-manas'ını susturmasını ve onu bilinçaltının hayvansallığının kollarına sürükleyen o feminoid öğelerden (kelimenin en kötü anlamıyla) arınmasını bilmelidir; kaçış ruhundan, hayata sırtını dönmekten ve Karanlık Güçler tarafından kaçırılmaya izin vermekten. Bu tür bir psişik tecavüzden kaçınmalıdır, böylece sonra astral ve zihinsel bedeninin içinde, Ruhu kurutacak elemental larvalar doğmaz.
 
-Bastion number 61-3. Bazı akropolitanların psikolojik kırılganlığı hakkında. Jorge Ángel Livraga
+Bastión nº 61-3. Bazı akropolistlerin psikolojik kırılganlığı üzerine. Jorge Ángel Livraga
 
-Koruma ve kurtar, eğer kaybolursa, temel disiplin seviyesi. Kalplerde gücü teşvik eden faaliyetleri ve fedakarlık kapasitesi. Kamamanas ile diyalog, bayanlar veya baylar olarak aynı değildir.
+Temel disiplin düzeyini korumak ve eğer kaybolduysa geri kazanmak. Kalplerde güç ve fedakârlık kapasitesini teşvik eden etkinlikleri sürdürmek. Kamamanas ile diyalog Hanımların ya da Beylerin işi değildir. 
 
-59\. Komut. Kohesion korumak önemlidir. Jorge Ángel Livraga
+Emir nº 59. Birliğin korunması esastır. Jorge Ángel Livraga
 
-Yeni Acropolis'e hayatımızda "torn away" bir şey olarak adanmış zamanı hissetmek için "Kama- manas" psikolojik tuzağından kaçınmalıyız. Gerçek sadece tam tersidir; şimdiki incarnasyonımızın tek kullanışlı saatleri ideale adanmıştır. Her şey yaşamın rüzgarının yayılmadan sorumlu olduğu tozdur.
+Kama-manas'ın, Yeni Akropolis'e adanan zamanı hayatlarımızdan "koparılmış" bir şey olarak hissetme tuzağını kurmasına engel olmalıyız. Gerçek ise tam tersidir; güncel bedenlenmemizin tek yararlı saatleri İdeal'e adanmış olanlardır. Geri kalan her şey, hayatın rüzgârının yayıp dağıtmakla yükümlü olduğu tozdur. 
 
-Bastion No. 63-3: Zaman nasıl kullanılır. 1982 Mayıs. Jorge Ángel Livraga Yüzüncü kez tekrarlıyoruz: Kötü teolojik bir kavram materyalist doktrinlerin en ayrıntılılarından daha iyidir. Uzun vadede, Tanrı'ya inanan bir adam, onu istediği gibi gören, onu inkar eden binlerce insandan daha güçlü ve daha dirençli olacaktır. Böylece, New Acropolis manevi olduğu sürece yaşayacak ve en azından Mysteries'in Mystic alevinin bir kıvılcımını yaşayacak.
+Bastión Nº 63-3: Zamanı nasıl değerlendirmek üzerine. Mayıs 1982. Jorge Ángel Livraga
 
-Liderlik Tartışması. Jorge Ángel Livraga
+Defalarca tekrar ediyoruz: en ayrıntılı materyalist doktrinlerden daha yoksul bir teolojik kavram daha iyidir. Uzun vadede, Tanrı'ya inanan ve onu istediği gibi tasavvur eden bir insan, onu reddeden bin insanınkinden daha güçlü ve daha dayanıklı olacaktır. Böylece, Yeni Akropolis manevi olduğu sürece yaşayacak ve en azından Gizemlerin Mistisizminin Mistik Alevi'nin bir kıvılcımını canlı tutacaktır.
+
+Yönetici El Kitabı (1976). Jorge Ángel Livraga

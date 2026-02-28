@@ -1,19 +1,21 @@
-## Megjegyzés blog adminisztrátorok:
+## Megjegyzés a blog adminisztrátoraitól: 
 
-A Kama- manas kifejezés a racionális gondolkodásra utal. Az elme az, amit konkrét módon nyomon követünk és elemezünk. Akkor lenne egy másik fajta elme, a "Manas", amely megfelel a "szellemi elme", amely képes megragadni a dolgokat ösztönösen. A tudás a "Kama-Manas", míg a bölcsesség a "Manas".
+A "Kama-manas" kifejezés a „racionális elmére” utal. Ez az az elme, amely konkrét módon érvel és elemzi a dolgokat. Létezne aztán egy másik fajta elme, a "Manas", amely megfelel a „szellemi elmének”, és képes a dolgokat intuitív módon megragadni. A Tudás a "Kama-Manas"-hoz, míg a Bölcsesség a "Manas"-hoz tartozik. 
 
-## A CITAS ELISMERÉSE:
+## IDÉZETEK GYŰJTEMÉNYE:
 
-Az akropolisznak tudnia kell, hogyan hallgattassa el a Kama- manát, és tisztítsa meg magát azoktól a feminoid elemektől (a szó legrosszabb értelmében), amelyek a tudatalatti animáció karjaiba juttatják; a menekülés szellemébe, az élet hátat fordításába és a Sötét Erők elrablásába. El kell kerülnöd ezt a fajta lelki erőszakot, hogy ne születjenek meg, aztán az asztrális és mentális testedben, az elemi lárvák, amik a Lelket fogják felfújni.
+Az akropolistának tudnia kell elcsendesíteni a Kama-manas-t és megtisztítania magát azoktól a feminoid elemekből (a szó legsúlyosabb értelmében), amelyek a tudatalatti állatiasság karjaiba taszítják; a menekülés lelkét, az életnek hátat fordítást és a Sötét Erők általi elrablást. El kell kerülnie ezt a fajta pszichikai megerőszakolást, hogy aztán asztrál- és mentális testében ne szülessenek meg azok az elemi lárvák, amelyek kiszárítanák a Lelkét.
 
-613.-as bástya. Néhány akropolita pszichológiai törékenységéről. Jorge Ángel Livraga
+Bástya nº 61-3. Néhány akropolista pszichológiai törékenységéről. Jorge Ángel Livraga
 
-Fenntartani és helyreállítani, ha elvesznek, a fegyelem alapvető szintjét. Tartsák fenn azokat a tevékenységeket, amelyek bátorítják a szívek és az áldozat képességét. A Kamamanakkal folytatott párbeszéd nem ugyanaz, mint a hölgyeké vagy az uraké.
+Tartani és visszaszerezni, ha elveszett, a fegyelem alapvető szintjét. Fenntartani olyan tevékenységeket, amelyek erőt adnak a szíveknek és áldozatkészséget fejlesztenek. A Kamamanas-szal folytatott párbeszéd nem illik sem a Hölgyekhez, sem a Urakhoz. 
 
-59-es parancs. Alapvető fontosságú a kohézió fenntartása. Jorge Ángel Livraga
+Parancs nº 59. A kohézió fenntartása alapvető. Jorge Ángel Livraga
 
-El kell kerülnünk a "Kama- manas" pszichológiai csapdáját, hogy úgy érezzük, az új akropolisznak szentelt időt "eltépték" az életünkben. Az igazság éppen az ellenkezője; a jelenlegi inkarnációnk egyetlen hasznos órája az eszménykép. Minden más por, amit az élet szele termel.
+El kell kerülnünk a "Kama-manas" által állított pszichológiai csapdát, hogy az Új Akropolisznak szentelt időt valami életünkből „kitépettnek” érezzük. Az igazság éppen az ellenkezője; jelenlegi inkarnációnk egyetlen hasznos órái azok, amelyeket az Eszménynek szentelünk. Minden más por, amelyet az élet szele szétoszlat.
 
-63-3: Hogyan használjuk az időt. 1982. május. Jorge Ángel Livraga Századszor ismétlem: a szegény teológiai fogalom jobb, mint a legrészletesebben kidolgozott anyagias tanok. Hosszú távon, egy ember, aki hisz Istenben, aki azt hiszi, amit akar, erősebb és ellenállóbb lesz, mint ezer ember, aki megtagadja őt. Így Új Akropolisz addig fog élni, amíg spirituális, és legalább életben tartja a rejtélyek misztikus lángjának szikráját.
+Bástya Nº 63-3: Arról, hogyan használjuk ki az időt. 1982. május. Jorge Ángel Livraga
+
+Ismételten megismételjük: jobb egy szegény teológiai fogalom, mint a legkidolgozottabb materialista doktrína. Hosszú távon egy olyan ember, aki hisz Istenben, akit úgy képzel el, ahogy akarja, erősebb és ellenállóbb lesz, mint ezer olyan ember, aki tagadja. Így Új Akropolisz addig fog élni, amíg szellemi, és legalább életben tart egy szikrát a Misztériumok misztikus lángjából.
 
 Vezetői kézikönyv (1976). Jorge Ángel Livraga

@@ -1,19 +1,21 @@
-## Bemærk fra blog administratorer:
+## Bemærkning fra blogadministratorerne: 
 
-Udtrykket Kam- manas refererer til "rationel sind". Det er sindet, at du sporer og analyserer tingene på en konkret måde. Så ville der være en anden slags sind kaldet "Manas", som svarer til det "åndelige sind", som er i stand til at fange ting mere intuitivt. Viden tilhører "Kama-Manas", mens Visdom tilhører "Manas".
+Udtrykket Kama-manas henviser til "det rationelle sind". Det er sindet, der ræsonnerer og analyserer tingene på en konkret måde. Der findes derefter en anden slags sind kaldet "Manas", som svarer til "det åndelige sind", som er i stand til at opfatte ting mere intuitivt. Viden tilhører "Kama-Manas", mens Visdom tilhører "Manas". 
 
-## RECOPILATION OF CITAS:
+## INDSAMLING AF CITATER:
 
-Akropolitan må vide, hvordan man kan lukke munden på hans Kama-manaer og rense sig selv fra de feminoide elementer (i ordets værste forstand), der udleder ham i armene på underbevidst animitet; af flugtånden, at vende ryggen til livet og blive kidnappet af de mørke styrker. Du må undgå den form for psykisk voldtægt, så de ikke bliver født, så, i din astrale og mentale krop, de elementære larver, der vil genoplive sjælen.
+Akropolisten skal vide, hvordan han kan stilne sit Kama-manas og rense sig for de feminoide elementer (i ordets værste forstand), som kaster ham i armene på den underbevidste dyrelighed; flugtens ånd, det at vende livet ryggen og lade sig bortføre af de mørke kræfter. Han må undgå den slags psykisk voldtægt, for at der ikke senere skal fødes inden i hans astrale og mentale legeme de elementarlarver, som vil udtørre hans sjæl.
 
-Bastion nummer 61-3. Om nogle akropolitaneres psykologiske skrøbelighed. Jorge Ángel Livraga
+Bastion nr. 61-3. Om den psykologiske skrøbelighed hos nogle akropolister. Jorge Ángel Livraga
 
-Opretholde og genvinde, hvis tabt, det grundlæggende niveau af disciplin. Opretholde aktiviteter, der fremmer styrke i hjerter og ofring kapacitet. Dialogen med Kamamanas er ikke den samme som mine damer og herrer.
+Opretholde og genvinde, hvis det er gået tabt, det grundlæggende niveau af disciplin. Opretholde aktiviteter, der fremmer styrke i hjerterne og evnen til at ofre sig. Dialogen med Kamamanas er ikke passende for hverken damer eller herrer.
 
-Kommando nr. 59. Det er vigtigt at bevare samhørigheden. Jorge Ángel Livraga
+Kommando nr. 59. Det er væsentligt at bevare samhørigheden. Jorge Ángel Livraga
 
-Vi må undgå den psykologiske fælde "Kama-manas" for at føle tiden dedikeret til New Akropolis som noget "revet væk" i vores liv. Sandheden er det modsatte; de eneste nyttige timer i vores nuværende inkarnation er dem dedikeret til Ideen. Alt andet er støv, som livets vind har ansvaret for at sprede.
+Vi må undgå den psykologiske fælde, udlagt af "Kama-manas", som får os til at føle den tid, der er viet til Ny Akropolis, som noget "revet væk" fra vores liv. Sandheden er lige det modsatte; de eneste nyttige timer i vores nuværende inkarnation er dem, der er viet til Idealet. Alt andet er støv, som livets vind sørger for at sprede.
 
-Bastion nr. 63-3: Hvordan man bruger tid. Maj 1982. Jorge Ángel Livraga For hundrede gang gentager vi: Et dårligt teologisk koncept er bedre end de mest omfattende materialistiske doktriner. I det lange løb vil en mand, der tror på Gud, som tror på ham, som han ønsker, være stærkere og mere modstandsdygtig end tusind mænd, der fornægter ham. Således vil New Akropolis leve, så længe det er åndeligt og i det mindste holde en gnist af Mysteriernes mystiske flamme i live.
+Bastion nr. 63-3: Om hvordan man udnytter tiden. Maj 1982. Jorge Ángel Livraga
+
+For n-te gang gentager vi: et fattigt teologisk begreb er bedre end den mest udførlige af de materialistiske doktriner. I det lange løb vil en mand, der tror på Gud, som han forestiller ham, være stærkere og mere modstandsdygtig end tusind mænd, der nægter ham. Således vil Ny Akropolis leve, så længe den er åndelig, og i det mindste holde en gnist af Mysteriernes mystiske flamme i live.
 
 Ledelseshåndbog (1976). Jorge Ángel Livraga

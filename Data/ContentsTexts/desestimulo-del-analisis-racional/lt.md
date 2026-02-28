@@ -1,19 +1,20 @@
-## Pastaba iš dienoraščio administratorių:
+## Pastaba tinklaraščio administratoriams: 
 
-Terminas Kama- manas reiškia "racionalus protas". Tai protas, kad jūs sekti ir analizuoti dalykus konkrečiu būdu. Tada būtų kitos rūšies protas, vadinamas "Manas", kuris atitinka "dvasinį protą", kuris sugeba labiau intuityviai užfiksuoti dalykus. Žinios priklauso "Kama- Manas", o Išmintis priklauso "Manas".
+Terminas Kama-manas reiškia "racionalų protą". Tai protas, kuris sprendžia ir analizuoja dalykus konkrečiu būdu. Yra kita protų rūšis, vadinama "Manas", kuri atitinka "dvasinį protą" ir sugeba suvokti dalykus labiau intuityviai. Žinojimas priklauso "Kama-Manas", tuo tarpu Išmintis priklauso "Manas". 
 
-## CITAS VYKDYMAS:
+## CITATŲ RINKINYS:
 
-Acropodion turi žinoti, kaip nutildyti savo kam- manas ir nusivalyti save nuo tų feminoidinių elementų (blogiausia žodžio prasme), kurie skatina jį į pasąmonės animalumo ginklų; iš pabėgimo dvasia, sukant nugarą į gyvenimą ir yra pagrobtas Tamsiųjų pajėgų. Jūs turite išvengti tokio psichinio išprievartavimo, kad jie nebūtų gimę, tada, jūsų astraliniame ir protiniame kūne, elementarinės lervos, kurios užgrius sielą.
+Akropolietis turi mokėti nutildyti savo Kama-manas ir išsivalyti nuo tų feminoidinių elementų (blogiausia šio žodžio prasme), kurie jį veda į pasąmonės gyvuliškumo glėbį; nuo pabėgimo dvasios, nuo nugaros atsukimo gyvenimui ir nuo leidimosi pagrobti Tamsiosioms jėgoms. Jis turi vengti tokio psichinio išprievartavimo, kad vėliau jo astraliniame ir protiniame kūne neatsirastų elementarinės lervos, kurios išsausins jo Sielą.
 
-Baseinas numeris 61-3. Apie kai kurių akropolitų psichologinį trapumą. Jorge Ángel Livaga
+Bastión nº 61-3. Apie kai kurių akropolietų psichologinį trapumą. Jorge Ángel Livraga
 
-Išlaikyti ir susigrąžinti, jei prarandama, pagrindinį lygį disciplinos. Išlaikyti veiklą, kuri skatina stiprybę širdyse ir aukojimo pajėgumus. Dialogas su Kamamanais nėra toks pat kaip ponios ar ponai.
+Išlaikyti ir atgauti, jei prarastas, pagrindinį disciplinos lygį. Vykdyti veiklas, kurios skatina stiprybę širdyse ir aukos gebėjimą. Dialogas su Kama-manas nėra būdingas nei ponioms, nei kavalieriams. 
 
-Komanda Nr. 59. Labai svarbu išlaikyti sanglaudą. Jorge Ángel Livaga
+Mando nº 59. Svarbu išlaikyti vienybę. Jorge Ángel Livraga
 
-Turime vengti "Kama- manas" psichologinių spąstų, kad jaustume laiką, skirtą Naujajam akropoliui, kaip kažką "sudraskyto" mūsų gyvenime. Tiesa yra tiesiog priešinga; vienintelės naudingos valandos mūsų dabartinio įsikūnijimo yra tos, kurios skirtos Idealiai. Visa kita yra dulkės, už kurias atsakingas gyvybės vėjas.
+Turime vengti psichologinės spąstų, kurias talpina „Kama-manas“, kad jaustume laiką, skirtą Naujajam Akropoliui, kaip kažką "išplėšto" iš mūsų gyvenimo. Tiesa yra visiškai priešinga; vienintelės naudingos valandos mūsų dabartiniame įsikūnijime yra tos, skirtos Idealui. Visa kita yra dulkės, kurias gyvybės vėjas įprastai paskleidžia. 
 
-Basttion Nr. 63-3: Kaip naudoti laiką. 1982 m. gegužės mėn. Jorge Ángel Livaga Šimtą kartų kartojame: prasta teologinkoncepcija yra geresnnei pačios tiksliausios materialistinės doktrinos. Ilgainiui žmogus, kuris tiki Dievu, kuris jį suvokia taip, kaip jis nori, bus stipresnis ir atsparesnis negu tūkstantis žmonių, kurie Jį neigia. Taigi, Naujasis Akropolis gyvens tol, kol bus dvasinis ir bent jau išlaikys paslapčių mistinės liepsnos kibirkštį.
+Bastión Nº 63-3: Apie tai, kaip išnaudoti laiką. 1982 m. gegužė. Jorge Ángel Livraga
+Dar kartą pakartojame: geriau prasta teologinė samprata nei pati išradingiausia materialistinė doktrina. Laikui bėgant, žmogus, kuris tiki Dievu ir suvokia Jį taip, kaip nori, bus stipresnis ir atsparesnis už tūkstantį žmonių, kurie Jį neigia. Taip Naujasis Akropolis gyvens tol, kol bus dvasinis, ir bent išlaikys gyvą paslapčių mistinės liepsnos kibirkštį.
 
-Vadovavimo vadovas (1976). Jorge Ángel Livaga
+Vadovo vadovas (1976). Jorge Ángel Livraga

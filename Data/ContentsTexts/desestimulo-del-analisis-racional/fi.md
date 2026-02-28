@@ -1,19 +1,20 @@
-## Huomautus blogin ylläpitäjiltä:
+## Huomautus blogin ylläpitäjiltä: 
 
-Termi Kama-manas viittaa "järki." Jäljität ja analysoit asioita konkreettisella tavalla. Sitten olisi toisenlainen mieli nimeltään "Manas," joka vastaa "henkistä mieltä," joka pystyy vangitsemaan asioita intuitiivisemmin. Tieto kuuluu Kama-Manasille, kun taas viisaus kuuluu Manasille.
+Termi Kama-manas viittaa "rationaaliseen mieleen". Se on mieli, joka järkeilee ja analysoi asioita konkreettisella tavalla. Sitten olisi toisenlainen mieli nimeltä "Manas", joka vastaa "henkistä mieltä", joka pystyy käsittämään asioita intuitiivisemmin. Tieto kuuluu "Kama-Manas":lle, kun taas viisaus kuuluu "Manas":lle. 
 
-## CITAS-KASVIT:
+## SITAATTIKOKOELMA:
 
-Akropolitanin on osattava vaientaa Kama-manansa ja puhdistautua niistä feminoidisista elementeistä (saman sanan pahimmassa merkityksessä), jotka sekoittavat hänet alitajuisen eläinkunnan syliin; paon hengestä, hänen selkänsä kääntämisestä elämälle ja pimeiden joukkojen sieppaamisesta. Sinun täytyy välttää sellainen psyykkinen raiskaus, jotta ne eivät ole syntyneet, sitten, astraalissa ja henkisessä kehossa, alkuaine toukat, jotka kuulostaa sielu.
+Akropolistin tulee osata vaientaa Kama-manasinsa ja puhdistautua niistä feminoidisista elementeistä (sanan pahimmassa merkityksessä), jotka sysäävät hänet alitajuisen eläimellisyyden syliin; pakenemisen hengestä, elämälle selkänsä kääntämisestä ja antautumisesta Pimeiden Voimien sieppaamaksi. Hänen tulee välttää sellaista psyykkistä raiskausta, jotta astralissa ja mentaalisessa kehossaan eivät myöhemmin synny elementaalitoukat, jotka kuivattavat hänen sielunsa.
 
-Bastion numero 61-3. Akropolitanien psykologisesta hauraudesta. Jorge Ángel Livraga
+Bastión nº 61-3. Joidenkin akropolistien psykologisesta hauraudesta. Jorge Ángel Livraga
 
-Säilytä ja palauttaa, jos menetetty, peruskurin. Säilytä toimintaa, joka edistää vahvuutta sydämissä ja uhrautumiskyky. Keskustelu Kamamanasin kanssa ei ole sama kuin hyvät naiset ja herrat.
+Säilyttää ja palauttaa, jos se on menetetty, peruskurin taso. Pitää yllä toimintoja, jotka edistävät sydänten vahvuutta ja uhrautumiskykyä. Keskustelu Kamamanasin kanssa ei kuulu rouvien eikä herrojen käytökseen. 
 
-Johtonumero 59. Koheesion säilyttäminen on olennaisen tärkeää. Jorge Ángel Livraga
+Mando nº 59. Yhtenäisyyden ylläpitäminen on olennaista. Jorge Ángel Livraga
 
-Meidän on vältettävä "Kama-manasin" psykologista ansaa tunteaksemme aikaa, joka on omistettu Uudelle Akropolikselle jonain "kiurrettuna" elämässämme. Totuus on aivan päinvastainen; ainoat hyödylliset tunnit nykyisestä inkarnaatiostamme ovat ne, jotka on omistettu ihanteelle. Kaikki muu on pölyä, jota elämän tuuli on vastuussa leviämisestä.
+Meidän on vältettävä “Kama-manas”:in asettamaa psykologista ansaa, jonka seurauksena Uusi Akropolisille omistettua aikaa pidetään eräänlaisena "revittynä" osana elämäämme. Totuus on päinvastainen; nykyisen inkarnaatiomme ainoat hyödylliset tunnit ovat ne, jotka on omistettu Ihaanteelle. Kaikki muu on pölyä, jonka elämän tuuli levittää. 
 
-Bastion nro 63-3: Miten käyttää aikaa. Toukokuu 1982. Jorge Ángel Livraga Toistamme sadannen kerran: huono teologinen käsite on parempi kuin materialistiset opit. Pitkällä tähtäimellä Jumalaan uskova mies, joka saa hänet haluamallaan tavalla, on vahvempi ja vastustuskykyisempi kuin tuhat miestä, jotka kieltävät hänet. Siten Uusi Akropolis elää niin kauan kuin se on hengellistä ja ainakin pitää hengissä mystisten mystisten liekkien kipinän.
+Bastión Nº 63-3: Kuinka hyödyntää aikaa. Toukokuu 1982. Jorge Ángel Livraga
+Kerta toisensa jälkeen toistamme: köyhä teologinen käsitys on parempi kuin kaikkein kehittynein materialistinen oppi. Pitkällä tähtäimellä mies, joka uskoo Jumalaan ja käsittää Hänet haluamallaan tavalla, on vahvempi ja kestävämpi kuin tuhat miestä, jotka kieltävät Hänet. Näin Uusi Akropolis pysyy elossa niin kauan kuin se on hengellinen ja ainakin pitää yllä kipinää Mysteerien mystisestä liekistä.
 
-Johtamiskäsikirja (1976). Jorge Ángel Livraga
+Johtajan käsikirja (1976). Jorge Ángel Livraga

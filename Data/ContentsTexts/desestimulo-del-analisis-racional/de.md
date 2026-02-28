@@ -1,19 +1,21 @@
-## Hinweis von Blog-Administratoren:
+## Hinweis der Blog-Administratoren: 
 
-Der Begriff Kama-Manas bezieht sich auf den "rationalen Geist". Es ist der Verstand, dass Sie Dinge auf eine konkrete Weise verfolgen und analysieren. Dann gäbe es eine andere Art von Geist namens "Manas", die dem "geistigen Geist" entspricht, der in der Lage ist, die Dinge intuitiver zu erfassen. Wissen gehört zu "Kama-Manas", während Weisheit zu "Manas" gehört.
+Der Begriff Kama-Manas bezieht sich auf den „rationalen Geist“. Es ist der Geist, der Dinge konkret überdenkt und analysiert. Dann gäbe es eine andere Art von Geist namens „Manas“, der dem „spirituellen Geist“ entspricht und in der Lage ist, die Dinge intuitiver zu erfassen. Das Wissen gehört zu „Kama-Manas“, während die Weisheit zu „Manas“ gehört.
 
-## RECOPILATION DER CITAS:
+## SAMMLUNG VON ZITATEN:
 
-Der Akropolitan muss wissen, wie er seine Kama-Manas zum Schweigen bringt und sich von jenen feminoiden Elementen (im schlimmsten Sinne des Wortes) reinigen kann, die ihn in die Arme der unterbewussten Tierart ausfallen; vom Geist des Entkommens, des Zurückdrehens auf das Leben und der Entführung durch die dunklen Kräfte. Sie müssen diese Art von psychischen Vergewaltigungen vermeiden, damit sie nicht geboren werden, dann, in Ihrem astralen und mentalen Körper, die elementaren Larven, die die Seele erschallen werden.
+Der Akropolist muss wissen, wie er sein Kama-Manas zum Schweigen bringt und sich von jenen feminoiden Elementen (im schlimmsten Sinne des Wortes) reinigt, die ihn in die Arme der unterbewussten Animalität stoßen; vom Geist der Flucht, davon, dem Leben den Rücken zu kehren, und davon, sich von den finsteren Mächten entführen zu lassen. Er muss diese Art psychischer Vergewaltigung vermeiden, damit nicht später in seinem astralen und mentalen Körper elementare Larven entstehen, die seine Seele austrocknen werden.
 
-Bastion Nummer 61-3. Über die psychologische Fragilität einiger Akropoliten. Jorge Ángel Livraga
+Bastión Nr. 61-3. Über die psychologische Fragilität einiger Akropolisten. Jorge Ángel Livraga
 
-Bewahren und erholen, wenn verloren, das grundlegende Niveau der Disziplin. Bewahren Sie Aktivitäten, die Stärke in Herzen und Opferkapazität fördern. Der Dialog mit den Kamamanas ist nicht dasselbe wie meine Damen oder Herren.
+Das grundlegende Disziplinkiveau bewahren und zurückgewinnen, falls es verloren gegangen ist. Aktivitäten beibehalten, die Stärke in den Herzen und Opferbereitschaft fördern. Der Dialog mit dem Kama-Manas ist weder Sache von Damen noch von Herren.
 
-Befehl Nr. 59. Es ist wichtig, den Zusammenhalt zu erhalten. Jorge Ángel Livraga
+Befehl Nr. 59. Es ist wesentlich, den Zusammenhalt zu wahren. Jorge Ángel Livraga
 
-Wir müssen die psychologische Falle von "Kama-Manas" vermeiden, um die Zeit für New Acropolis als etwas "verrückt" in unserem Leben zu fühlen. Die Wahrheit ist genau das Gegenteil; die einzigen nützlichen Stunden unserer gegenwärtigen Inkarnation sind jene, die dem Ideal gewidmet sind. Alles andere ist Staub, dass der Wind des Lebens verantwortlich für die Verbreitung ist.
+Wir müssen die psychologische Falle vermeiden, die von „Kama-Manas“ gelegt wird: die Zeit, die der Neuen Akropolis gewidmet ist, als etwas aus unserem Leben „herausgerissenes“ zu empfinden. Die Wahrheit ist genau das Gegenteil; die einzigen nützlichen Stunden unserer gegenwärtigen Inkarnation sind jene, die dem Ideal gewidmet sind. Alles andere ist Staub, den der Wind des Lebens zu zerstreuen hat.
 
-Bastion Nr. 63-3: Wie man Zeit verwendet. Mai 1982. Jorge Ángel Livraga Zum hundertsten Mal wiederholen wir: ein armes theologisches Konzept ist besser als die aufwändigste materialistische Lehre. Langfristig wird ein Mann, der an Gott glaubt, der ihn wie er will, stärker und beständiger sein als tausend Männer, die ihn leugnen. So wird die neue Akropolis so lange leben, wie sie spirituell ist und zumindest einen Funken der mystischen Flamme der Mysterien am Leben erhalten wird.
+Bastión Nr. 63-3: Wie man die Zeit nutzt. Mai 1982. Jorge Ángel Livraga
 
-Leadership Manual (1976). Jorge Ángel Livraga
+Zum wiederholten Male: Ein armseliges theologisches Konzept ist besser als die ausgefeilteste materialistische Doktrin. Auf lange Sicht wird ein Mann, der an Gott glaubt und ihn so begreift, wie er es will, stärker und widerstandsfähiger sein als tausend Männer, die ihn leugnen. So wird die Neue Akropolis leben, solange sie spirituell ist, und zumindest einen Funken der mystischen Flamme der Mysterien am Leben erhalten.
+
+Handbuch des Leiters (1976). Jorge Ángel Livraga
