@@ -128,7 +128,7 @@ export default async function HomePage({
               <li key={idx}>
                 <a
                   href={`#na-issue-${idx}`}
-                  className="text-blue-700 underline hover:text-blue-900"
+                  className="text-lg text-blue-800 underline hover:text-blue-900"
                 >
                   {title}
                 </a>
