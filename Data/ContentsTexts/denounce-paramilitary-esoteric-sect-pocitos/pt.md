@@ -2,7 +2,7 @@
 
 Foto: Juan Manuel Ramos.
 
-Lembra-se do texto de memória. Passaram muitos anos, mas **Daniella Squadroni** fecha os olhos e diz: “Na presença da minha alma imortal e da de meus colegas na busca da sabedoria, me comprometo a mim. **servir de lealdade** e eficácia e, se assim não o fizesse, que o destino, os deuses e o meu comando nacional me reprochem”.
+Lembra-se do texto de memória. Passaram muitos anos, mas **Daniella Scuadroni** fecha os olhos e diz: “Na presença da minha alma imortal e da de meus colegas na busca da sabedoria, me comprometo a mim. **servir de lealdade** e eficácia e, se assim não o fizesse, que o destino, os deuses e o meu comando nacional me reprochem”.
 
 Isso disse em seu **compromisso de lealdade**, quando foi admitida como parte das **Forças Vivas de Nova Acrópolis**, uma organização que se apresenta como cultural e filosófica, mas que é apontada por especialistas e ex-membros como uma seita. Não só aqui: foi fundada em 1957 pelo **argentino Jorge Ángel Livraga** e sua esposa **Ada Albrecht** E, espalhadas por todo o mundo, está presente em 54 países. No Uruguai tem duas sedes, uma em Pocitos, outra em Colônia.
 
@@ -136,7 +136,7 @@ Voltemos a Montevidéu. Em sua casa da Cidade Velha, acompanhada pelo namorado e
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadroni. Foto: Estefania Leal.
+Daniella Scuadroni. Foto: Estefania Leal.
 
 Diz que também se metiam com o estético e pediam que não vistiera em forma desprolija, que fosse mais feminina e elegante, sem “mostrar de mais, sem ser sexy”.
 

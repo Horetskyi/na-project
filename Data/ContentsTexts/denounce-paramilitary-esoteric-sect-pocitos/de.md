@@ -2,7 +2,7 @@
 
 Foto: Juan Manuel Ramos.
 
-Der Speichertext wird erinnert. Es ist viele Jahre her, aber **Daniella Squadoni** Er schließt seine Augen und sagt: "In Gegenwart meiner unsterblichen Seele und meiner Mitmenschen auf der Suche nach Weisheit begegne ich mich selbst, **mit Loyalität** und die Wirksamkeit und, wenn nicht, das Schicksal, die Götter und mein nationaler Befehl beklagen mich. "
+Der Speichertext wird erinnert. Es ist viele Jahre her, aber **Daniella Scuadroni** Er schließt seine Augen und sagt: "In Gegenwart meiner unsterblichen Seele und meiner Mitmenschen auf der Suche nach Weisheit begegne ich mich selbst, **mit Loyalität** und die Wirksamkeit und, wenn nicht, das Schicksal, die Götter und mein nationaler Befehl beklagen mich. "
 
 Das sagte er in seinem **Verpflichtung zur Loyalität**als es im Rahmen der **Neue Akropolis lebende Kräfte**, eine Organisation, die als Kultur und philosophisch dargestellt wird, aber dies wird von Spezialisten und ehemaligen Mitgliedern als Sekte hervorgehoben. Nicht nur hier: Es wurde 1957 von **Argentinien Jorge Ángel Livraga** und seine Frau **Ada Albrecht** und, auf der ganzen Welt verbreitet, ist in 54 Ländern anwesend. In Uruguay hat es zwei Hauptsitze, einen in Pozyten, einen in Köln.
 
@@ -14,7 +14,7 @@ Es war akropolitisch, wie sie die Mitglieder dieser Organisation nennen, für 11
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, ehemaliges Mitglied der New Acropolis Living Forces. Foto: Estefanía Leal.
+Daniella Scuadroni, ehemaliges Mitglied der New Acropolis Living Forces. Foto: Estefanía Leal.
 
 Das Enzyklopädische Wörterbuch der Sekten, geschrieben von dem verstorbenen spanischen Priester Manuel Guerra und vielleicht die vollständigste Arbeit, die auf dem Thema auf Spanisch existiert, definiert New Acropolis als "esoterische, neo-pagane und paramilitärische Sekte, des theosophischen Aufdrucks".
 
@@ -136,7 +136,7 @@ Wir gehen zurück nach Montevideo. In ihrem alten Stadthaus, begleitet von ihrem
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Foto: Estefanía Leal.
+Daniella Scuadroni. Foto: Estefanía Leal.
 
 Er sagte, sie kamen auch in die Ästhetik und baten ihn, sich nicht frenzy zu kleiden, feminin und elegant zu sein, ohne "überschauend, ohne sexy zu sein."
 

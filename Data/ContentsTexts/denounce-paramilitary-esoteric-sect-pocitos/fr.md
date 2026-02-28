@@ -4,7 +4,7 @@ Photo: Juan Manuel Ramos.
 
 Le texte de la mémoire est rappelé. Ça fait des années, mais **Daniella Squadoni** Il ferme les yeux et dit: «En présence de mon âme immortelle et de mes semblables dans la recherche de la sagesse, je m'engage à **servir avec fidélité** et l'efficacité et, sinon, ce sort, les dieux et mon commandement national me reprochent. "
 
-C'est ce qu'il a dit. **engagement envers la loyauté**quand il a été admis dans le cadre **Nouvelles forces vives de l'Acropole**, une organisation qui est présentée comme culturelle et philosophique, mais qui est signalée par des spécialistes et d'anciens membres comme une secte. Non seulement ici: il a été fondé en 1957 par **Argentine Jorge Ángel Livraga** et sa femme **Ada Albrecht** et est présent dans 54 pays. En Uruguay, il a deux sièges, un à Pocytes, un à Cologne.
+C'est ce qu'il a dit. **engagement envers la loyauté**quand il a été admis dans le cadre **Nouvelles forces vives de l'Acropole**, une organisation qui est présentée comme culturelle et philosophique, mais qui est signalée par des spécialistes et d'anciens membres comme une secte. Non seulement ici: il a été fondé en 1957 par **Argentine Jorge Ángel Livraga** et sa femme **Ada Albrecht** et est présent dans 54 pays. En Uruguay, il a deux sièges, un à Pocitos, un à Cologne.
 
 Daniella est entrée à 14 ans après une **conférence sur l'alchimie** Mais seulement à 18 ans, il est devenu membre des Forces Viva. Ce jour-là, il portait un uniforme bleu et un bracelet frappant, comme tous les gens autour d'elle. Il était à genoux devant une bannière avec un aigle et sa main droite levée.
 
@@ -58,7 +58,7 @@ Ce n'est pas une religion, mais on dirait. L'un des secrets est que les acropoli
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Nouveau quartier général de l'Acropole dans les Pocytes. Photo: Juan Manuel Ramos.
+Nouveau quartier général de l'Acropole dans les Pocitos. Photo: Juan Manuel Ramos.
 
 La guerre parle d'une « secte paramilitaire avec un signe néofasciste ». En fait, un rapport du Parlement européen de 1985 sur le fascisme et le nazisme mentionne la Nouvelle Acropole. Certains éléments expliquent cette définition. La salutation officielle acropolitaine, « en privé, jamais en public », est le bras haut avec la paume de la main étendue vers le bas, les doigts ensemble et à un angle de 45 degrés sur le corps. L'aigle des ailes déployé en position ascendante est semblable à l'aigle nazi, dit la guerre. Et l'entraînement, nous allons voir, est très difficile.
 
@@ -152,7 +152,7 @@ Jeudi, après 8h00. À la réception du quartier général, il y a des gens qui 
 
 Ils sourient bien, sucrés. Dans la maison de Franzini et Scoseria tout est commandé et pulcre.
 
-Sur un mur, l'immense bibliothèque Plotino (par le philosophe néoplatonique) est élevée, classée selon différentes catégories, telles que les textes sacrés, la philosophie chinoise et l'ésotérisme. Un acropolite arrange des fleurs puis apparaît - aussi souriant, bien sûr - Feola, le directeur, accompagné de Mauricio Puente, qui est directeur du centre des Pocytes.
+Sur un mur, l'immense bibliothèque Plotino (par le philosophe néoplatonique) est élevée, classée selon différentes catégories, telles que les textes sacrés, la philosophie chinoise et l'ésotérisme. Un acropolite arrange des fleurs puis apparaît - aussi souriant, bien sûr - Feola, le directeur, accompagné de Mauricio Puente, qui est directeur du centre des Pocitos.
 
 Il a vu une chemise noire avec le logo New Acropolis. Elle est une blouse colorée et porte un pendentif avec une petite hache. Aussi un ankh ou clé de la vie et un coléoptère, deux symboles égyptiens. Son sourire transmet la paix bien que son visage changera pendant la conversation. Mais pas au début : chaque fois qu'il y a un nouveau visiteur, cela correspond à ce qu'ils appellent les « bombardements amoureux ».
 

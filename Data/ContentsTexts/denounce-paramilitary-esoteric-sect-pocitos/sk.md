@@ -4,7 +4,7 @@ Photo: Juan Manuel Ramos.
 
 Pamätný text je zapamätaný. Je to už veľa rokov, ale**Daniella Squadoni**Zatvára oči a hovorí: "V prítomnosti mojej nesmrteľnej duše a mojich blížnych pri hľadaní múdrosti sa zaväzujem**slúžiť s vernosťou**a účinnosť, a ak nie, tento osud, bohovia a môj národný príkaz ma potupujú. "
 
-To povedal vo svojom**záväzok k vernosti**keď bola prijatá ako súčasť**Nové živé sily Akropola**, organizácia, ktorá je prezentovaná ako kultúrne a filozofické, ale to je zdôraznené odborníkmi a bývalými členmi ako sekta. Nielen tu: bola založená v roku 1957**Argentína Jorge Ángel Livraga**a jeho manželka**Ada Albrecht**a šíri sa po celom svete, je prítomný v 54 krajinách. V Uruguaji má dve ústredie, jedno v Poctes, jedno v Kolíne.
+To povedal vo svojom**záväzok k vernosti**keď bola prijatá ako súčasť**Nové živé sily Akropola**, organizácia, ktorá je prezentovaná ako kultúrne a filozofické, ale to je zdôraznené odborníkmi a bývalými členmi ako sekta. Nielen tu: bola založená v roku 1957**Argentína Jorge Ángel Livraga**a jeho manželka**Ada Albrecht**a šíri sa po celom svete, je prítomný v 54 krajinách. V Uruguaji má dve ústredie, jedno v Pocitos, jedno v Kolíne.
 
 Daniella vstúpila vo veku 14 rokov po**konferencia o alchýmii**Ale až keď mal 18, stal sa členom Viva Forces. V ten deň mal na sebe modrú uniformu a náramok, presne ako všetci ľudia okolo nej. Bol na kolenách pred transparentom s orlom a jeho pravá ruka zdvihla.
 
@@ -152,7 +152,7 @@ Ale ako dôkaz zobrala "tlak." Roky po odchode z Nového Akropolisu - ktorý sa 
 
 Usmievajú sa pekne, sladené. V dome Franzini a Scoseria je všetko objednané a pulchre.
 
-Na stene je vyvýšená obrovská Plotino knižnica (neplatonickým filozofom), klasifikovaná podľa rôznych kategórií, ako sú posvätné texty, čínska filozofia a esoterizmus. Akropolitan zariaďuje kvety a potom sa objavuje - samozrejme aj usmievavá - Feola, riaditeľka, sprevádzaná Mauriziom Puentem, ktorý je riaditeľom centra Poctes.
+Na stene je vyvýšená obrovská Plotino knižnica (neplatonickým filozofom), klasifikovaná podľa rôznych kategórií, ako sú posvätné texty, čínska filozofia a esoterizmus. Akropolitan zariaďuje kvety a potom sa objavuje - samozrejme aj usmievavá - Feola, riaditeľka, sprevádzaná Mauriziom Puentem, ktorý je riaditeľom centra Pocitos.
 
 Videl čiernu košeľu s logom Nueva Acrópolis. Ona je farebná blúzka a nosí prívesok s malou sekerou. Tiež ankh alebo kľúč života a chrobák, dva egyptské symboly. Jeho úsmev prináša pokoj, hoci jeho tvár sa počas prejavu zmení. Ale nie na začiatku: vždy, keď je tu nový návštevník, to zodpovedá tomu, čo nazývajú "láska bombardovanie."
 

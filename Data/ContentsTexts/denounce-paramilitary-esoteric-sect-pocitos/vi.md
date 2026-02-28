@@ -2,9 +2,9 @@
 
 Ảnh: Juan Manuel Ramos.
 
-Đoạn ký ức đã được ghi nhớ. Đã nhiều năm rồi nhưng**Daniella Squadoni**Anh ta nhắm mắt lại và nói, "Trong sự hiện diện của linh hồn bất tử của tôi và những người bạn của tôi trong cuộc tìm kiếm sự khôn ngoan, tôi cam kết với**trung thành phục vụ**và sự hiệu quả và, nếu không, số phận đó, các vị thần và mệnh lệnh quốc gia của tôi sẽ nguyền rủa tôi."
+Đoạn ký ức đã được ghi nhớ. Đã nhiều năm rồi nhưng**Daniella Scuadroni**Anh ta nhắm mắt lại và nói, "Trong sự hiện diện của linh hồn bất tử của tôi và những người bạn của tôi trong cuộc tìm kiếm sự khôn ngoan, tôi cam kết với**trung thành phục vụ**và sự hiệu quả và, nếu không, số phận đó, các vị thần và mệnh lệnh quốc gia của tôi sẽ nguyền rủa tôi."
 
-Đó là những gì ông nói trong của mình**cam kết trung thành**khi nó được thừa nhận là một phần của**Những sinh vật mới**Một tổ chức được trình bày như là văn hóa và triết học, nhưng được các chuyên gia và cựu thành viên nêu rõ. Không chỉ ở đây, nó được thành lập vào năm 1957 bởi**Argentina Jorge Ángel Livraga**và vợ**Ada Alpha**Và, lan rộng khắp thế giới, hiện diện ở 54 quốc gia. Có hai trụ sở trung ương, một ở Pompis, một ở Cologne.
+Đó là những gì ông nói trong của mình**cam kết trung thành**khi nó được thừa nhận là một phần của**Những sinh vật mới**Một tổ chức được trình bày như là văn hóa và triết học, nhưng được các chuyên gia và cựu thành viên nêu rõ. Không chỉ ở đây, nó được thành lập vào năm 1957 bởi**Argentina Jorge Ángel Livraga**và vợ**Ada Alpha**Và, lan rộng khắp thế giới, hiện diện ở 54 quốc gia. Có hai trụ sở trung ương, một ở Pocitos, một ở Cologne.
 
 Daniella bước vào lúc 14 tuổi sau một**hội nghị về thuật giả kim**Nhưng chỉ khi 18 tuổi, hắn mới trở thành thành viên của lực lượng Viva. Ngày hôm đó, ông mặc đồng phục xanh và một vòng tay ấn tượng, giống như tất cả mọi người xung quanh cô. Ông quỳ trước ngọn cờ và giơ tay phải lên.
 
@@ -136,7 +136,7 @@ Chúng ta sẽ quay lại Montevido. Tại nhà cũ của cô, cùng với bạn
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Hình: Estefanía Leal.
+Daniella Scuadroni. Hình: Estefanía Leal.
 
 Anh ta nói rằng họ cũng đã đi sâu vào thẩm mỹ và yêu cầu anh ta không ăn mặc một cách điên cuồng, để trở nên nữ tính hơn và thanh lịch hơn, mà không cần phải khoe khoang, mà không cần gợi cảm.
 

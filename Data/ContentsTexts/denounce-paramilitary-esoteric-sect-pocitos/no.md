@@ -4,7 +4,7 @@ Bilde: Juan Manuel Ramos.
 
 Minnesteksten er husket. Det har gått mange år, men **Daniella Squadoni** Han lukker øynene og sier: «I nærvær av min udødelige sjel og mine medmennesker i søken etter visdom, forplikter jeg meg til å **Tjen med lojalitet** og effektivitet og, om ikke, den skjebnen, gudene og min nasjonale kommando vanære meg.
 
-Det var det han sa i sin **Forpliktelse til lojalitet**da det ble innført som en del av **Ny Akropolis Living Forces**En organisasjon som presenteres som kulturell og filosofisk, men det er påpekt av spesialister og tidligere medlemmer som sekt. Ikke bare her: den ble grunnlagt i 1957 av **Argentina Jorge Ángel Livraga** hans kone **Ada Albrecht** og spredt over hele verden er tilstede i 54 land. I Uruguay har det to hovedkvarter, ett i Pocytes, et i Köln.
+Det var det han sa i sin **Forpliktelse til lojalitet**da det ble innført som en del av **Ny Akropolis Living Forces**En organisasjon som presenteres som kulturell og filosofisk, men det er påpekt av spesialister og tidligere medlemmer som sekt. Ikke bare her: den ble grunnlagt i 1957 av **Argentina Jorge Ángel Livraga** hans kone **Ada Albrecht** og spredt over hele verden er tilstede i 54 land. I Uruguay har det to hovedkvarter, ett i Pocitos, et i Köln.
 
 Daniella gikk inn i 14 år etter en **konferanse om alchemy** Men først da han var 18 år, ble han medlem av Viva Forces. Den dagen hadde han på seg en blå uniform og et slående armbånd, akkurat som alle menneskene rundt henne. Han var på knærne foran et banner med ørn og høyre hånd hevet.
 
@@ -58,7 +58,7 @@ Det er ikke en religion, men det ser ut som det. En av hemmelighetene er at akro
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Ny Akropolis hovedkvarter i Pocytes. Bilde: Juan Manuel Ramos.
+Ny Akropolis hovedkvarter i Pocitos. Bilde: Juan Manuel Ramos.
 
 Krig taler om enparaparamilitær sekt med et nyfascistisk tegn." En rapport fra Europaparlamentet i 1985 om fascisme og nazismen nevner New Akropolis. Det er noen elementer som forklarer denne definisjonen. Den offisielle acropolitiske hilsen, i privat, aldri offentlig, er armen i høy med håndflaten utvidet ned, fingrene sammen og i en vinkel på 45 grader over kroppen. Ørnen av vinger som er utplassert i stigende posisjon ligner på den nazistiske ørnen, sier krig. Opplæringen er vanskelig.
 
@@ -152,7 +152,7 @@ Torsdag, etter 8: 00. Ved mottak av hovedkvarteret er det mennesker som kommer i
 
 De smiler fint, søtt. I huset til Franzini og Scoseria er alt bestilt og pulver.
 
-På veggen heves det enorme Plotino-biblioteket (av den nyplatoniske filosofen), klassifisert i henhold til ulike kategorier, som hellige tekster, kinesisk filosofi og esoterisme. En acropolitan arrangerer blomster og deretter vises - også smilende, selvfølgelig - Feola, regissøren, ledsaget av Mauricio Puente, som er direktør for sentrum av Pocytes.
+På veggen heves det enorme Plotino-biblioteket (av den nyplatoniske filosofen), klassifisert i henhold til ulike kategorier, som hellige tekster, kinesisk filosofi og esoterisme. En acropolitan arrangerer blomster og deretter vises - også smilende, selvfølgelig - Feola, regissøren, ledsaget av Mauricio Puente, som er direktør for sentrum av Pocitos.
 
 Han så en svart skjorte med logoen New Akropolis. Hun er en fargerik bluse og bærer et vedheng med en liten økse. Også en ankh eller nøkkelen til livet og en bille, to egyptiske symboler. Hans smil overfører fred selv om ansiktet hans vil forandre seg under samtalen. Men ikke i begynnelsen: når det er en ny besøkende, svarer det til det de kaller - kjærlighetsbombing -
 

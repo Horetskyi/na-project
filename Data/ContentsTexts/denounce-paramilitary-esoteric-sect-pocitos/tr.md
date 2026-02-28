@@ -4,7 +4,7 @@ Fotoğraf: Juan Manuel Ramos.
 
 hafıza metni hatırlanır. Uzun yıllar oldu ama**Daniella Squadoni**Gözlerini kapatıyor ve şöyle diyor: “Ölümsüz ruhum ve benim adamım bilgelik arayışında, kendimi bilgelik arayışına sokuyorum**sadakatle hizmet etmek**Ve etkinliği ve eğer değilse, bu kader, tanrılar ve benim ulusal komutam beni kınadı.
 
-Bu onun söylediği şey**sadakat için bağlılık**Ne zaman bir parçası olarak kabul edildiğinde**Yeni Akropolis Yaşayan Kuvvetleri**Ancak kültürel ve felsefi olarak sunulan bir organizasyon, ancak uzmanlar ve eski üyeler tarafından bir gizlilik olarak işaret edilmektedir. Sadece burada değil: 1957 yılında kuruldu**Arjantin Jorge Ángel Livraga**ve eşi**Ada Albrecht**Ve dünya çapında yayılmak, 54 ülkede mevcut. Uruguay'da iki merkez var, Posits'te biri Köln'de.
+Bu onun söylediği şey**sadakat için bağlılık**Ne zaman bir parçası olarak kabul edildiğinde**Yeni Akropolis Yaşayan Kuvvetleri**Ancak kültürel ve felsefi olarak sunulan bir organizasyon, ancak uzmanlar ve eski üyeler tarafından bir gizlilik olarak işaret edilmektedir. Sadece burada değil: 1957 yılında kuruldu**Arjantin Jorge Ángel Livraga**ve eşi**Ada Albrecht**Ve dünya çapında yayılmak, 54 ülkede mevcut. Uruguay'da iki merkez var, Pocitos'te biri Köln'de.
 
 Daniella 14 yaşında bir süre sonra girdi**Alchemy**Ancak sadece 18 yaşındayken, Viva Force’nin bir üyesi oldu. O gün mavi bir üniforma ve çarpıcı bir bilezik giyiyordu, tıpkı etrafındaki tüm insanlar gibi. Bir kartal ve sağ eli ile bir bayrak önünde dizlerindeydi.
 
@@ -58,7 +58,7 @@ Bu bir din değil, ama öyle görünüyor. Sırlardan biri, akropolitanların ya
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Yeni Akropolis Karargahı Posits. Fotoğraf: Juan Manuel Ramos.
+Yeni Akropolis Karargahı Pocitos. Fotoğraf: Juan Manuel Ramos.
 
 Savaş, bir neo-faşist işaretle "paramiliter gizliliği"nden bahsediyor. Aslında, 1985 Avrupa Parlamentosu faşizm ve Naziler hakkında bir rapor New Akropolis'ten bahsediyor. Bu tanımı açıklayan bazı elementler var. Resmi akropolitan selamlama, "özel, asla kamuda," eli uzatmış, parmaklar birlikte ve vücut üzerinde 45 derece bir açıyla yüksek olan kol. Yükselen pozisyonda dağıtılan kanatların kartalı Nazi kartalına benzer, diyor Savaş. Ve eğitim, göreceğiz, çok zor.
 
@@ -152,7 +152,7 @@ Perşembe, 8: 00'dan sonra. Merkezin resepsiyonunda ve dışarı çıkan insanla
 
 Güzel, tatlılaşmışlar. Franzini ve Scoseria evinde her şey sipariş edilir ve pulchre.
 
-Bir duvarda büyük Plotino kütüphanesi ( Neoplatonik filozof tarafından) yükseltilmiştir, kutsal metinler, Çin felsefesi ve esoterizm gibi farklı kategorilere göre sınıflandırılmıştır. Bir akropolitan çiçekleri düzenler ve sonra görünür - aynı zamanda gülümsüyor, tabii ki - Feola, yönetmen, Posits merkezi direktörü Mauricio Puente tarafından eşlik eder.
+Bir duvarda büyük Plotino kütüphanesi ( Neoplatonik filozof tarafından) yükseltilmiştir, kutsal metinler, Çin felsefesi ve esoterizm gibi farklı kategorilere göre sınıflandırılmıştır. Bir akropolitan çiçekleri düzenler ve sonra görünür - aynı zamanda gülümsüyor, tabii ki - Feola, yönetmen, Pocitos merkezi direktörü Mauricio Puente tarafından eşlik eder.
 
 Yeni Akropolis logo ile siyah bir gömlek gördü. O renkli bir bluz ve küçük bir axe ile bir pendant giyiyor. Ayrıca bir ankh veya yaşam anahtarı ve bir arı, iki Mısır sembolü. Onun gülümsemesi, konuşma sırasında yüzü değişse de barışa yol açıyor. Ama ilk başta değil: ne zaman yeni bir ziyaretçi varsa, "aşk bombalama" dedikleri şeye karşılık gelir.
 

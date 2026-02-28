@@ -2,7 +2,7 @@
 
 Zdjęcie: Juan Manuel Ramos.
 
-Tekst pamięci jest zapamiętany. Minęło wiele lat, ale... **Daniella Squadoni** Zamyka oczy i mówi: "W obecności mojej nieśmiertelnej duszy i moich bliźnich w poszukiwaniu mądrości, zobowiązuję się do **służyć z lojalnością** i skuteczność, a jeśli nie, ten los, bogowie i moje narodowe dowództwo mnie obrażają ".
+Tekst pamięci jest zapamiętany. Minęło wiele lat, ale... **Daniella Scuadroni** Zamyka oczy i mówi: "W obecności mojej nieśmiertelnej duszy i moich bliźnich w poszukiwaniu mądrości, zobowiązuję się do **służyć z lojalnością** i skuteczność, a jeśli nie, ten los, bogowie i moje narodowe dowództwo mnie obrażają ".
 
 Tak powiedział w swoim **zaangażowanie na rzecz lojalności**gdy został przyjęty jako część **Nowe siły życiowe Acropolis**, organizacja, która jest przedstawiana jako kulturalna i filozoficzna, ale jest wskazywana przez specjalistów i byłych członków jako sekta. Nie tylko tutaj: został założony w 1957 przez **Argentyna Jorge Ángel Livraga** i jego żonę. **Ada Albrecht** i, rozprzestrzeniony na całym świecie, jest obecny w 54 krajach. W Urugwaju ma dwie siedziby, jedną w Pocytach, jedną w Kolonii.
 
@@ -14,7 +14,7 @@ To było akropolityczne, jak nazywają członków tej organizacji, przez 11 lat.
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, była członkini Sił Żywych New Acropolis. Zdjęcie: Estefanía Leal.
+Daniella Scuadroni, była członkini Sił Żywych New Acropolis. Zdjęcie: Estefanía Leal.
 
 Encyklopedyczny Słownik Sektów, napisany przez późnego hiszpańskiego księdza Manuela Guerry i być może najbardziej kompletną pracę, która istnieje na ten temat w języku hiszpańskim, definiuje New Acropolis jako "ezoteryczną, neopogańską i paramilitarną sektę, Theosophical imprint".
 
@@ -136,7 +136,7 @@ Wracamy do Montevideo. W starym domu, w towarzystwie chłopaka i trzech kotów, 
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Zdjęcie: Estefanía Leal.
+Daniella Scuadroni. Zdjęcie: Estefanía Leal.
 
 Powiedział, że oni również dostał się do estetyki i poprosił go, aby nie ubierać się w szalony sposób, być bardziej kobiece i eleganckie, bez "overshowing, bez bycia sexy".
 

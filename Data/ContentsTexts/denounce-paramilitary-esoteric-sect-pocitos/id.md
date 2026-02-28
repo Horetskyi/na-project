@@ -4,7 +4,7 @@ Juan Manuel Ramos.
 
 Teks memori diingat. Sudah bertahun-tahun tapi **Daniella Squadoni** Dia menutup matanya dan berkata, "Di hadapan jiwaku yang abadi dan rekan-rekan saya dalam mencari kebijaksanaan, saya berkomitmen sendiri untuk **melayani dengan kesetiaan** dan efektivitas dan, jika tidak, nasib itu, para dewa dan perintah nasional menghina saya. "
 
-Itulah yang dia katakan dalam **komitmen untuk kesetiaan**ketika itu diakui sebagai bagian dari **New Acropolis Living Forces**, sebuah organisasi yang disajikan sebagai budaya dan filosofis, tetapi yang ditunjukkan oleh spesialis dan mantan anggota sebagai sekte. Tidak hanya di sini: didirikan pada tahun 1957 oleh **Argentina Jorge Ángel Livraga** dan isterinya, **Ada Albrecht** dan, tersebar di seluruh dunia, hadir di 54 negara. Di Uruguay ada dua markas, satu di Pocytes, satu di Cologne.
+Itulah yang dia katakan dalam **komitmen untuk kesetiaan**ketika itu diakui sebagai bagian dari **New Acropolis Living Forces**, sebuah organisasi yang disajikan sebagai budaya dan filosofis, tetapi yang ditunjukkan oleh spesialis dan mantan anggota sebagai sekte. Tidak hanya di sini: didirikan pada tahun 1957 oleh **Argentina Jorge Ángel Livraga** dan isterinya, **Ada Albrecht** dan, tersebar di seluruh dunia, hadir di 54 negara. Di Uruguay ada dua markas, satu di Pocitos, satu di Cologne.
 
 Daniella masuk pada usia 14 tahun setelah **konferensi di alkimia** Tapi hanya ketika ia berusia 18, ia menjadi anggota Pasukan Viva. Hari itu ia mengenakan seragam biru dan gelang mencolok, seperti semua orang di sekitarnya. Dia berlutut di depan bendera dengan elang dan tangan kanannya terangkat.
 
@@ -58,7 +58,7 @@ Ini bukan agama, tapi sepertinya. Salah satu rahasia adalah bahwa akropolitan pe
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Kantor Pusat Acropolis Baru di Pocytes. Juan Manuel Ramos.
+Kantor Pusat Acropolis Baru di Pocitos. Juan Manuel Ramos.
 
 Perang berbicara tentang "sekte paramiliter dengan neo- tanda fasis". Bahkan, seorang Parlemen Eropa 1985 melaporkan fasisme dan Nazisme menyebutkan Acropolis Baru. Ada beberapa elemen yang menjelaskan definisi ini. Salam resmi akropolitan, "secara pribadi, tidak pernah di depan umum", adalah lengan di atas dengan telapak tangan diperpanjang ke bawah, jari-jari bersama-sama dan pada sudut 45 derajat di atas tubuh. Elang sayap dikerahkan dalam posisi naik mirip dengan elang Nazi, mengatakan Perang. Dan pelatihan, kita akan lihat, sangat sulit.
 
@@ -152,7 +152,7 @@ Kamis, setelah 8: 00. Pada penerimaan markas besar ada orang-orang yang masuk da
 
 Mereka tersenyum manis, manis. Di rumah Franzini dan Scoseria semuanya diperintahkan dan pulchre.
 
-Di dinding perpustakaan besar Plotino (oleh filsuf neoplatonic) diklasifikasikan sesuai dengan kategori yang berbeda, seperti teks suci, filsafat Cina dan esoterisme. Sebuah acropolitan mengatur bunga dan kemudian muncul - juga tersenyum, tentu saja - Feola, direktur, disertai oleh Mauricio Puente, yang merupakan direktur pusat Pocytes.
+Di dinding perpustakaan besar Plotino (oleh filsuf neoplatonic) diklasifikasikan sesuai dengan kategori yang berbeda, seperti teks suci, filsafat Cina dan esoterisme. Sebuah acropolitan mengatur bunga dan kemudian muncul - juga tersenyum, tentu saja - Feola, direktur, disertai oleh Mauricio Puente, yang merupakan direktur pusat Pocitos.
 
 Dia melihat kemeja hitam dengan logo New Acropolis. Dia adalah blus berwarna-warni dan memakai liontin dengan kapak kecil. Juga ankh atau kunci kehidupan dan kumbang, dua simbol Mesir. Senyumnya mengirimkan perdamaian meskipun wajahnya akan berubah selama bicara. Tapi tidak pada awalnya: setiap kali ada pengunjung baru, itu sesuai dengan apa yang mereka sebut "cinta pemboman".
 

@@ -4,7 +4,7 @@ Kuva: Juan Manuel Ramos.
 
 Muistiteksti muistetaan. Siitä on vuosia, mutta... **Daniella Squadoni** Hän sulkee silmänsä ja sanoo: "Kuolemattoman sieluni ja viisauden etsijöideni läsnä ollessa - **palvella uskollisesti** ja tehokkuus ja jos ei, että kohtalo, jumalat ja minun kansallinen komento syyttää minua. "
 
-Niin hän sanoi **sitoutuminen uskollisuuteen**kun se otettiin osaksi **Uudet Acropolis Living Forces**, organisaatio, joka on esitetty kulttuuri ja filosofinen, mutta että on huomauttanut asiantuntijat ja entiset jäsenet lahko. Ei vain täällä: se perustettiin vuonna 1957 **Argentiina Jorge Ángel Livraga** ja hänen vaimonsa **Ada Albrecht** ja levisi ympäri maailmaa, on läsnä 54 maassa. Uruguayssa sillä on kaksi päämajaa, toinen Pocytes, toinen Kölnissä.
+Niin hän sanoi **sitoutuminen uskollisuuteen**kun se otettiin osaksi **Uudet Acropolis Living Forces**, organisaatio, joka on esitetty kulttuuri ja filosofinen, mutta että on huomauttanut asiantuntijat ja entiset jäsenet lahko. Ei vain täällä: se perustettiin vuonna 1957 **Argentiina Jorge Ángel Livraga** ja hänen vaimonsa **Ada Albrecht** ja levisi ympäri maailmaa, on läsnä 54 maassa. Uruguayssa sillä on kaksi päämajaa, toinen Pocitos, toinen Kölnissä.
 
 Daniella tuli 14-vuotiaana a **Alkemiaa käsittelevä konferenssi** Mutta vasta 18-vuotiaana hänestä tuli Vivan joukkojen jäsen. Sinä päivänä hänellä oli sininen univormu ja nätti rannerengas. Hän oli polvillaan bannerin edessä kotka ja hänen oikea kätensä.
 
@@ -152,7 +152,7 @@ Torstaina kello 20.00 jälkeen. Päämajan vastaanotolla on ihmisiä, jotka tule
 
 He hymyilevät nätisti ja makeutettuina. Franzinin ja Scoserian talossa kaikki on tilattu ja sykkii.
 
-Seinällä on valtava Plotinon kirjasto (neopattonin filosofin toimesta) ja se luokitellaan eri kategorioihin, kuten pyhiin teksteihin, kiinalaiseen filosofiaan ja esoterismiin. Akropolitan järjestää kukkia ja sitten ilmestyy - myös hymyillen, tietenkin - Feola, ohjaaja, mukana Mauricio Puente, joka on johtaja keskustan Pocytes.
+Seinällä on valtava Plotinon kirjasto (neopattonin filosofin toimesta) ja se luokitellaan eri kategorioihin, kuten pyhiin teksteihin, kiinalaiseen filosofiaan ja esoterismiin. Akropolitan järjestää kukkia ja sitten ilmestyy - myös hymyillen, tietenkin - Feola, ohjaaja, mukana Mauricio Puente, joka on johtaja keskustan Pocitos.
 
 Hän näki mustan paidan New Acropoliksen logolla. Hän on värikäs pusero ja käyttää riipus pieni kirves. Myös ankh tai elämän avain ja kuoriainen, kaksi egyptiläistä symbolia. Hänen hymynsä välittää rauhaa, vaikka hänen kasvonsa muuttuvat puheen aikana. Mutta ei aluksi: aina kun on uusi vierailija, se vastaa sitä, mitä he kutsuvat "rakkaus pommitukset."
 

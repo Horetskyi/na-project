@@ -4,7 +4,7 @@
 
 نص الذاكرة يتذكر لقد مرت سنوات عديدة لكن **Daniella Squadoni** يغلق عينيه ويقول: "في وجود روحي الخالدة وأصدقائي الرجال في البحث عن الحكمة، ألتزم نفسي **الخدمة بالولاء** و فعاليّة و، إن لم يكن، ذلك القدر، الآلهة وقيادة وطنيّة
 
-هذا ما قاله في **الالتزام بالولاء**عندما تم قبولها كجزء من **New Acropolis Living Forces**المنظمة التي تقدم كمنظمة ثقافية وفلسفية، ولكن يشار إليها الأخصائيون والأعضاء السابقون كطائفة. ليس هنا فقط: لقد تم تأسيسه عام 1957 **الأرجنتين خورخي أنخيل ليفراجا** وزوجته **Ada Albrecht** وينتشر في جميع أنحاء العالم في 54 بلدا. In Uruguay it has two headquarters, one in Pocytes, one in Cologne.
+هذا ما قاله في **الالتزام بالولاء**عندما تم قبولها كجزء من **New Acropolis Living Forces**المنظمة التي تقدم كمنظمة ثقافية وفلسفية، ولكن يشار إليها الأخصائيون والأعضاء السابقون كطائفة. ليس هنا فقط: لقد تم تأسيسه عام 1957 **الأرجنتين خورخي أنخيل ليفراجا** وزوجته **Ada Albrecht** وينتشر في جميع أنحاء العالم في 54 بلدا. In Uruguay it has two headquarters, one in Pocitos, one in Cologne.
 
 دخل دانييلا في سن 14 بعد **مؤتمر بشأن الكيمياء** لكن فقط عندما كان في الـ 18 أصبح عضواً في قوات فيفا في ذلك اليوم كان يرتدي زياً أزرق وسواراً مضرباً مثل كل الناس حولها كان على ركبتيه أمام لافتة مع نسر و يده اليمنى ترتفع
 
@@ -58,7 +58,7 @@ In the internal activities the members of the male or working brigades - who are
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-New Acropolis Headquarters in Pocytes. الصورة: خوان مانويل راموس.
+New Acropolis Headquarters in Pocitos. الصورة: خوان مانويل راموس.
 
 "الحرب تتحدث عن "الجماعة شبه العسكرية بعلامة فاشية جديدة In fact, a 1985 European Parliament report on fascism and Nazism mentions New Acropolis. وهناك بعض العناصر التي تفسر هذا التعريف. التحية الرسميّة لـ(أكروبوليتان)، "في القطاع الخاص، أبداً في العلن" هي الذراع في الأعلى مع نخيل اليد الممدّدة، الأصابع معاً وفي زاوية 45 درجة فوق الجسم. نسر الأجنحة المنتشرة في موقع الإرسال يشبه النسر النازي يقول الحرب و التدريب سيكون صعباً جداً
 
@@ -152,7 +152,7 @@ In the end, when he was already a member of the Viva Forces, he sat two hours lo
 
 إنهم يبتسمون بلطف في منزل (فرانزيني) و (سكوسيريا) كل شيء أمر به
 
-وعلى جدار، تُنشأ مكتبة بلوتينو الضخمة (من قبل الفيلسوف العصبي) مصنفة حسب فئات مختلفة، مثل النصوص المقدسة، والفلسفة الصينية، والابتزاز. An acropolitan arranges rose and then appears - also smiling, of course - Feola, the director, accompanied by Mauricio Puente, who is director of the center of Pocytes.
+وعلى جدار، تُنشأ مكتبة بلوتينو الضخمة (من قبل الفيلسوف العصبي) مصنفة حسب فئات مختلفة، مثل النصوص المقدسة، والفلسفة الصينية، والابتزاز. An acropolitan arranges rose and then appears - also smiling, of course - Feola, the director, accompanied by Mauricio Puente, who is director of the center of Pocitos.
 
 لقد رأى قميصاً أسوداً مع شعار (أكروبوليس) الجديد إنها بلوزة ملونة وترتدي قلادة مع فأس صغير أيضًا إنخ أو مفتاح الحياة و خنفساء ورمزين مصريين إبتسامته تنقل السلام على الرغم من أن وجهه سيتغير أثناء الحديث لكن ليس في البداية، عندما يكون هناك زائر جديد، يطابق ما يسمونه "تفجير الحب".
 

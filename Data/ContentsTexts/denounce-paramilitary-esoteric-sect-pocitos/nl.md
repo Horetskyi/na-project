@@ -2,7 +2,7 @@
 
 Foto: Juan Manuel Ramos.
 
-De geheugentekst wordt onthouden. Het is jaren geleden, maar... **Daniella Squadoni** Hij sluit zijn ogen en zegt, "In de aanwezigheid van mijn onsterfelijke ziel en mijn medemensen in de zoektocht naar wijsheid, ik zet me in voor **dienen met loyaliteit** en effectiviteit en, zo niet, dat lot, de goden en mijn nationaal bevel verwijten mij."
+De geheugentekst wordt onthouden. Het is jaren geleden, maar... **Daniella Scuadroni** Hij sluit zijn ogen en zegt, "In de aanwezigheid van mijn onsterfelijke ziel en mijn medemensen in de zoektocht naar wijsheid, ik zet me in voor **dienen met loyaliteit** en effectiviteit en, zo niet, dat lot, de goden en mijn nationaal bevel verwijten mij."
 
 Dat is wat hij zei in zijn **inzet voor loyaliteit**toen het als onderdeel van de **Nieuwe Acropolis Living Forces**, een organisatie die wordt gepresenteerd als cultureel en filosofisch, maar dat wordt opgemerkt door specialisten en voormalige leden als sekte. Niet alleen hier: het werd opgericht in 1957 door **Argentinië Jorge Ángel Lidraga** en zijn vrouw **Ada Albrecht** en, verspreid over de wereld, is aanwezig in 54 landen. In Uruguay heeft het twee hoofdkwartieren, één in Pocyten, één in Keulen.
 
@@ -14,7 +14,7 @@ Het was acropolitisch, zoals ze de leden van die organisatie noemen, gedurende 1
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, voormalig lid van de New Acropolis Living Forces. Foto: Estefanía Leal.
+Daniella Scuadroni, voormalig lid van de New Acropolis Living Forces. Foto: Estefanía Leal.
 
 Het Encyclopedisch Woordenboek van de Sects, geschreven door de overleden Spaanse priester Manuel Guerra en misschien wel het meest complete werk dat over het onderwerp bestaat in het Spaans, definieert New Acropolis als een "esoterische, neo-paganistische en paramilitaire sekte, van theosofische afdruk."
 
@@ -136,7 +136,7 @@ Gelukkig heb ik het niet gehaald. Ik heb ze uitgenodigd voor conferenties en ove
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Foto: Estefanía Leal.
+Daniella Scuadroni. Foto: Estefanía Leal.
 
 Hij zei dat ze ook in de esthetiek en vroeg hem niet te kleden op een razernij manier, om meer vrouwelijk en elegant te zijn, zonder "overshowen, zonder sexy te zijn."
 

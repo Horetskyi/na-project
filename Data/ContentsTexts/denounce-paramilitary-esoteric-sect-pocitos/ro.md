@@ -4,7 +4,7 @@ Fotografie: Juan Manuel Ramos.
 
 Textul de memorie este amintit. Au trecut mulţi ani, dar **Daniella Squadoni** El închide ochii şi spune, "În prezenţa sufletului meu nemuritor şi a semenilor mei în căutarea înţelepciunii, mă angajez să **servi cu loialitate** şi eficienţa şi, dacă nu, soarta, zeii şi porunca mea naţională îmi reproşează ."
 
-Asta a spus şi el. **angajamentul față de loialitate**atunci când a fost admis ca parte a **Noi forţe vii din Acropolis**, o organizație care este prezentată ca fiind culturală și filosofică, dar acest lucru este subliniat de specialiști și foști membri ca o sectă. Nu numai aici: a fost fondat în 1957 de **Argentina Jorge Ángel Livraga** şi soţia lui. **Ada Albrecht** și, răspândit în întreaga lume, este prezent în 54 de țări. În Uruguay are două sediu, unul în Pocytes, unul în Köln.
+Asta a spus şi el. **angajamentul față de loialitate**atunci când a fost admis ca parte a **Noi forţe vii din Acropolis**, o organizație care este prezentată ca fiind culturală și filosofică, dar acest lucru este subliniat de specialiști și foști membri ca o sectă. Nu numai aici: a fost fondat în 1957 de **Argentina Jorge Ángel Livraga** şi soţia lui. **Ada Albrecht** și, răspândit în întreaga lume, este prezent în 54 de țări. În Uruguay are două sediu, unul în Pocitos, unul în Köln.
 
 Daniella a intrat la 14 ani după ce **conferinţă privind alchimia** Dar numai când avea 18 ani, a devenit membru al Forțelor Viva. În acea zi purta o uniformă albastră şi o brăţară izbitoare, la fel ca toţi oamenii din jurul ei. Era în genunchi în faţa unui steag cu un vultur şi mâna dreaptă ridicată.
 
@@ -58,7 +58,7 @@ Nu e o religie, dar aşa se pare. Unul dintre secrete este că acropolitanii cre
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Noul sediu Acropolis din Pocytes. Fotografie: Juan Manuel Ramos.
+Noul sediu Acropolis din Pocitos. Fotografie: Juan Manuel Ramos.
 
 Războiul vorbeşte despre o sectă paramilitară cu un semn neofascist. De fapt, un raport al Parlamentului European din 1985 privind fascismul şi nazismul menţionează New Acropolis. Există unele elemente care explică această definiție. Salutul oficial acropolitan, "în particular, niciodată în public," este brațul înalt cu palma întinsă în jos, degetele împreună și la un unghi de 45 de grade deasupra corpului. Vulturul aripilor desfăşurat în poziţie ascendentă este similar vulturului nazist, declară War. Iar antrenamentul, vom vedea, este foarte greu.
 
@@ -152,7 +152,7 @@ Joi, după ora 8:00. La recepţia sediului sunt oameni care vin şi ies, unii ca
 
 Zâmbesc frumos, îndulcit. În casa lui Franzini şi Scoseria totul este comandat şi pulverizat.
 
-Pe un perete se ridică uriaşa bibliotecă Plotino (de către filozoful neoplatonic), clasificată în funcţie de diferite categorii, cum ar fi textele sacre, filozofia chineză şi esoterismul. Un acropolitan aranjează flori şi apoi apare - de asemenea zâmbind, desigur - Feola, regizorul, însoţit de Mauricio Puente, care este directorul centrului oraşului Pocytes.
+Pe un perete se ridică uriaşa bibliotecă Plotino (de către filozoful neoplatonic), clasificată în funcţie de diferite categorii, cum ar fi textele sacre, filozofia chineză şi esoterismul. Un acropolitan aranjează flori şi apoi apare - de asemenea zâmbind, desigur - Feola, regizorul, însoţit de Mauricio Puente, care este directorul centrului oraşului Pocitos.
 
 A văzut un tricou negru cu logo-ul New Acropolis. Ea este o bluză colorată și poartă un pandantiv cu un topor mic. De asemenea, un ankh sau cheie de viață și un gândac, două simboluri egiptene. Zâmbetul său transmite pacea, deşi faţa lui se va schimba în timpul cuvântării. Dar nu la început: ori de câte ori există un nou vizitator, acesta corespunde cu ceea ce ei numesc "bombardament de dragoste."
 

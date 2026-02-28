@@ -4,7 +4,7 @@ Fotó: Juan Manuel Ramos.
 
 Emlékeznek az emlékszövegre. Sok év telt el, de... **Daniella Squadoni** Ő becsukja a szemét, és azt mondja: "Halhatatlan lelkem és embertársaim jelenlétében, a bölcsesség keresésében, elkötelezem magam, hogy **lojalitással szolgálni** És ha nem, akkor a sors, az istenek és a nemzeti parancsnokságom szemrehányást tesz nekem ".
 
-Ezt mondta a **elkötelezettség a hűség iránt**amikor a **Új Akropolisz Élő Erők**egy olyan szervezet, amelyet kulturális és filozófiai módon mutatnak be, de erre a szakemberek és volt tagok szektáként utalnak. Nem csak itt: 1957-ben alapították **Argentína Jorge Ángel Livraga** és a felesége. **Ada Albrecht** és az egész világon jelen van 54 országban. Uruguayban két főhadiszállása van, az egyik Pocytes-ban, a másik Kölnben.
+Ezt mondta a **elkötelezettség a hűség iránt**amikor a **Új Akropolisz Élő Erők**egy olyan szervezet, amelyet kulturális és filozófiai módon mutatnak be, de erre a szakemberek és volt tagok szektáként utalnak. Nem csak itt: 1957-ben alapították **Argentína Jorge Ángel Livraga** és a felesége. **Ada Albrecht** és az egész világon jelen van 54 országban. Uruguayban két főhadiszállása van, az egyik Pocitos-ban, a másik Kölnben.
 
 Daniella 14 éves korában lépett be a **konferencia az alkímiáról** De csak 18 éves korában lett a Viva Erők tagja. Aznap kék egyenruhát és feltűnő karkötőt viselt, mint a körülötte lévő emberek. Letérdelt egy zászló előtt egy sassal és felemelte a jobb kezét.
 

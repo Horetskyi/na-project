@@ -2,7 +2,7 @@
 
 Foto: Juan Manuel Ramos.
 
-Atmiņas teksts ir atmiņā. Ir pagājuši daudzi gadi, bet **Daniella Squadoni** Viņš aizver acis un saka: "Manas nemirstīgās dvēseles un manu līdzcilvēku klātbūtnē, meklējot gudrību, es apņemos **kalpot ar lojalitāti** un efektivitāti, un, ja ne, šo likteni, dievi un mana valsts komanda pārmet man. "
+Atmiņas teksts ir atmiņā. Ir pagājuši daudzi gadi, bet **Daniella Scuadroni** Viņš aizver acis un saka: "Manas nemirstīgās dvēseles un manu līdzcilvēku klātbūtnē, meklējot gudrību, es apņemos **kalpot ar lojalitāti** un efektivitāti, un, ja ne, šo likteni, dievi un mana valsts komanda pārmet man. "
 
 Tā viņš teica savā **apņemšanās saglabāt uzticību**kad tā tika uzņemta kā daļa no **Jaunie Akropoles dzīvie spēki**, organizācija, kas tiek pasniegta kā kultūras un filozofisko, bet ko speciālisti un bijušie biedri norāda kā sektu. Ne tikai šeit: tas tika dibināts 1957 **Argentīna Jorge Ángel Livraga** un viņa sieva **Ada Albrecht** un, izplatīts visā pasaulē, ir sastopama 54 valstīs. Urugvajā tam ir divas galvenās mītnes, viena Pocīti, viena Ķelnē.
 
@@ -14,7 +14,7 @@ Tas bija akropolitāns, kā viņi sauc šīs organizācijas locekļus, 11 gadus.
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, bijušais Jauno Akropoles dzīvo spēku loceklis. Foto: Estefanía Leal.
+Daniella Scuadroni, bijušais Jauno Akropoles dzīvo spēku loceklis. Foto: Estefanía Leal.
 
 Sektu enciklopēdiskā vārdnīca, kuru sarakstījis vēlais spāņu priesteris Manuels Gerra un, iespējams, pilnīgākais darbs, kas par šo tēmu pastāv spāņu valodā, definē Jauno Akropoli kā "esotērisku, neopaganu un paramilitāru sektu, teozofisku nospiedumu".
 
@@ -136,7 +136,7 @@ Mēs atgriezīsimies Montevideo. Pie viņas vecpilsētas mājā, kopā ar savu d
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Foto: Estefanía Leal.
+Daniella Scuadroni. Foto: Estefanía Leal.
 
 Viņš teica, ka viņi arī iekļuva estētikā un lūdza viņam neģērbties neprātīgā veidā, būt sievišķīgākam un elegantākam, bez "pārraugiem, bez sexy."
 

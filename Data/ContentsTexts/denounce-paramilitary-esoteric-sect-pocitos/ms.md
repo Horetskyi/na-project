@@ -2,7 +2,7 @@
 
 Foto: Juan Manuel Ramos.
 
-Teks memori diingat. Sudah bertahun-tahun tapi **Naina Daniella Squadoni** Dia menutup matanya dan berkata, "Di hadapan jiwaku yang abadi dan sesamaku dalam mencari kebijaksanaan, aku berkomitmen untuk **♪ mengabdi dengan kesetiaan ♪** Keefektifan dan keefektifan dan, jika tidak, nasib itu, para dewa dan perintah nasional saya mencela saya. "
+Teks memori diingat. Sudah bertahun-tahun tapi **Daniella Scuadroni** Dia menutup matanya dan berkata, "Di hadapan jiwaku yang abadi dan sesamaku dalam mencari kebijaksanaan, aku berkomitmen untuk **♪ mengabdi dengan kesetiaan ♪** Keefektifan dan keefektifan dan, jika tidak, nasib itu, para dewa dan perintah nasional saya mencela saya. "
 
 Itulah yang ia katakan dalam nya **Komitmen untuk kesetiaan**Ketika itu diakui sebagai bagian dari **Angkatan Hidup Akropolis Baru**, sebuah organisasi yang disajikan sebagai budaya dan filosofis, tetapi hal itu ditunjukkan oleh spesialis dan mantan anggota sebagai sekte. Tidak hanya di sini: didirikan pada tahun 1957 oleh **Ángel Livraga** Dan isterinya, **Mekah** Dan, tersebar di seluruh dunia, hadir di 54 negara. Di Uruguay ia memiliki dua kantor pusat, satu di Posit, satu di Cologne.
 
@@ -14,7 +14,7 @@ Itu akropolitan, seperti yang mereka sebut anggota organisasi itu, selama 11 tah
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Danila Squadroni, mantan anggota New Acropolis Living Forces. Foto: Estefanía Leal.
+Daniella Scuadroni, mantan anggota New Acropolis Living Forces. Foto: Estefanía Leal.
 
 Kamus Ensiklopedia Sekte, yang ditulis oleh almarhum imam Spanyol Manuel Guerra dan mungkin karya paling lengkap yang ada pada subjek dalam bahasa Spanyol, mendefinisikan Akropolis Baru sebagai Česoterik, neo-pagan dan sekte paramiliter, dari cetakan teosofi."
 
@@ -136,7 +136,7 @@ Untungnya aku tidak berhasil. Aku mengundang mereka ke konferensi dan resital. M
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Danila Squadoni. Foto: Estefanía Leal.
+Daniella Scuadroni. Foto: Estefanía Leal.
 
 Dia mengatakan bahwa mereka juga masuk ke estetika dan memintanya untuk tidak berpakaian dengan cara yang hiruk-pikuk, menjadi lebih feminin dan elegan, tanpa "menunjukkan, tanpa menjadi seksi."
 

@@ -2,7 +2,7 @@
 
 Bild: Juan Manuel Ramos.
 
-Minnestexten kommer ihåg. Det har varit många år men**Daniella Squadoni**Han stänger ögonen och säger: "I närvaro av min odödliga själ och mina medmänniskor i sökandet efter visdom begår jag mig själv till**tjäna med lojalitet**och effektivitet och, om inte, det ödet, gudarna och mitt nationella kommando förebrår mig.
+Minnestexten kommer ihåg. Det har varit många år men**Daniella Scuadroni**Han stänger ögonen och säger: "I närvaro av min odödliga själ och mina medmänniskor i sökandet efter visdom begår jag mig själv till**tjäna med lojalitet**och effektivitet och, om inte, det ödet, gudarna och mitt nationella kommando förebrår mig.
 
 Det är vad han sa i hans**engagemang för lojalitet**när den antogs som en del av**Ny Akropolis Living Forces**En organisation som presenteras som kulturell och filosofisk, men som påpekas av specialister och tidigare medlemmar som sekt. Inte bara här: Det grundades 1957 av**Argentina Jorge Ángel Livraga**och hans hustru**Ada Albrecht**Spridning runt om i världen finns i 54 länder. I Uruguay har det två huvudkontor, en i Pocitos, en i Köln.
 
@@ -14,7 +14,7 @@ Jag har aldrig planerat att lämna. Det var bättre att dö än**lämna Nueva Ac
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, tidigare medlem i Nueva Acrópolis Living Forces. Foto: Estefanía Leal.
+Daniella Scuadroni, tidigare medlem i Nueva Acrópolis Living Forces. Foto: Estefanía Leal.
 
 Encyclopedic Dictionary of the Sects, skriven av den sena spanska prästen Manuel Guerra och kanske det mest kompletta arbetet som finns på ämnet på spanska, definierar Nueva Acrópolis som en "esoterisk, neo-pagan och paramilitär sekt, av teosofiska avtryck. "
 
@@ -136,7 +136,7 @@ Lyckligtvis gjorde jag det inte. Jag bjöd in dem till konferenser och skäl. De
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniella Squadoni. Foto: Estefanía Leal.
+Daniella Scuadroni. Foto: Estefanía Leal.
 
 Han sa att de också kom in i estetiken och bad honom att inte klä sig på ett frenesi sätt, att vara mer feminin och elegant, utan att "overshowing, utan att vara sexig."
 

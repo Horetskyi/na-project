@@ -2,7 +2,7 @@
 
 Nuotrauka: Juan Manuel Ramos.
 
-Atminties tekstas yra prisimenamas. Praėjo daug metų, bet **Daniella Squadoni** Jis užmerkia savo akis ir sako: "Mano nemirtingos sielos ir mano bičiulių žmonių akivaizdoje, ieškant išminties, aš įsipareigoju: **tarnauti ištikimai** ir efektyvumas ir, jei ne, likimas, dievai ir mano nacionalinis įsakymas mane paniekina ".
+Atminties tekstas yra prisimenamas. Praėjo daug metų, bet **Daniella Scuadroni** Jis užmerkia savo akis ir sako: "Mano nemirtingos sielos ir mano bičiulių žmonių akivaizdoje, ieškant išminties, aš įsipareigoju: **tarnauti ištikimai** ir efektyvumas ir, jei ne, likimas, dievai ir mano nacionalinis įsakymas mane paniekina ".
 
 Štai ką jis pasakė savo **įsipareigojimas dėl lojalumo**kai jis buvo priimtas kaip dalis **Naujos akropolio gyvos pajėgos**, organizacija, kuri yra pateikta kaip kultūros ir filosofijos, bet tai yra nurodyta specialistų ir buvusių narių kaip sektas. Ne tik čia: ji buvo įkurta 1957 m. **Argentina Jorge Ángel Livaga** ir jo žmona **Ada Albrecht** ir, paplitęs visame pasaulyje, yra 54 šalyse. Urugvajuje ji turi dvi būstines: vieną Pocituose, vieną Kelne.
 
@@ -14,7 +14,7 @@ Kaip jie vadina tos organizacijos nariais, tai buvo politinė sritis 11 metų. 2
 
 ![Daniella Scuadroni, exintegrante de las Fuerzas Vivas de Nueva Acrópolis. Foto: Estefanía Leal.](2.jpeg)
 
-Daniella Squadroni, buvusi Naujosios Akropolio gyvųjų pajėgų narė. Nuotrauka: Estefanía Leal.
+Daniella Scuadroni, buvusi Naujosios Akropolio gyvųjų pajėgų narė. Nuotrauka: Estefanía Leal.
 
 Enciklopedinis Sects žodynas, parašytas velionio ispanų kunigo Manuelio Guerra ir galbūt pats pilniausias ispanų kalba egzistuojantis kūrinys, apibrėžia naują akropolį kaip "ezoterinį, neopaganą ir sukarintą sectą, teopolinį impresą".
 
@@ -136,7 +136,7 @@ Mes grįšime į Montevido. Jos senamiestyje, kartu su savo vaikinu ir trimis ka
 
 ![Daniella Scuadroni. Foto: Estefanía Leal.](6.jpeg)
 
-Daniela Squadoni. Nuotrauka: Estefanía Leal.
+Daniella Scuadroni. Nuotrauka: Estefanía Leal.
 
 Jis sakė, kad jie taip pat pateko į estetiką ir paprašė jį ne suknelė įsišaknijęs būdu, būti labiau moteriškas ir elegantiškas, be "rodomi, be seksualumo".
 

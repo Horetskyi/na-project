@@ -152,7 +152,7 @@ Ale "tlačila" jako důkaz. Roky po jeho odchodu z New Acropolis - který zrychl
 
 Hezky se usmívají, sladí. V domě Franzini a Scoseria je vše objednáno a pulchre.
 
-Na zdi je vychována obrovská knihovna Plotino (neoplatonický filozof), klasifikovaná podle různých kategorií, jako jsou posvátné texty, čínská filozofie a esoterismus. Akropolitní aranžuje květiny a pak se objeví - samozřejmě také s úsměvem - Feola, režisér, doprovázený Mauricio Puente, který je ředitelem centra Pocytes.
+Na zdi je vychována obrovská knihovna Plotino (neoplatonický filozof), klasifikovaná podle různých kategorií, jako jsou posvátné texty, čínská filozofie a esoterismus. Akropolitní aranžuje květiny a pak se objeví - samozřejmě také s úsměvem - Feola, režisér, doprovázený Mauricio Puente, který je ředitelem centra Pocitos.
 
 Viděl černou košili s logem New Acropolis. Je to barevná halenka a nosí přívěšek s malou sekerou. Také anch nebo klíč života a brouk, dva egyptské symboly. Jeho úsměv přenáší mír, i když se jeho tvář během rozhovoru změní. Ale zpočátku ne: kdykoli je tu nový návštěvník, odpovídá to tomu, čemu říkají "bombardování láskou".
 

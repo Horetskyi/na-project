@@ -4,7 +4,7 @@ Foto: Juan Manuel Ramos.
 
 Il testo della memoria è ricordato. Sono passati molti anni ma **Daniella Squadoni** Chiude gli occhi e dice: "In presenza della mia anima immortale e dei miei simili alla ricerca della saggezza, mi impegno a **servire con fedeltà** e l'efficacia e, se non, quel destino, gli dei e il mio comando nazionale mi rimproverano. "
 
-E' quello che ha detto nel suo **impegno di fedeltà**quando è stato ammesso come parte del **Nuove forze vive di acropoli**, un'organizzazione che viene presentata come culturale e filosofico, ma che è sottolineato da specialisti e ex membri come una setta. Non solo qui: è stata fondata nel 1957 da **Argentina Jorge Ángel Livraga** e sua moglie **Ada Albrecht** e, diffusa in tutto il mondo, è presente in 54 paesi. In Uruguay ha due sedi, una a Pocytes, una a Colonia.
+E' quello che ha detto nel suo **impegno di fedeltà**quando è stato ammesso come parte del **Nuove forze vive di acropoli**, un'organizzazione che viene presentata come culturale e filosofico, ma che è sottolineato da specialisti e ex membri come una setta. Non solo qui: è stata fondata nel 1957 da **Argentina Jorge Ángel Livraga** e sua moglie **Ada Albrecht** e, diffusa in tutto il mondo, è presente in 54 paesi. In Uruguay ha due sedi, una a Pocitos, una a Colonia.
 
 Daniella entrò all'età di 14 anni dopo **conferenza sull'alchimia** Ma solo quando aveva 18 anni, divenne membro delle Forze Viva. Quel giorno indossava un'uniforme blu e un braccialetto impressionante, proprio come tutte le persone che le circondavano. Era sulle ginocchia davanti a uno striscione con un'aquila e la mano destra alzata.
 
@@ -58,7 +58,7 @@ Non è una religione, ma sembra. Uno dei segreti è che gli acropoliti credono c
 
 ![Sede de Nueva Acrópolis en Pocitos. Foto: Juan Manuel Ramos.](4.jpeg)
 
-Nuova sede dell'Acropoli a Pocytes. Foto: Juan Manuel Ramos.
+Nuova sede dell'Acropoli a Pocitos. Foto: Juan Manuel Ramos.
 
 La guerra parla di una setta paramilitare con un segno neofascista. Infatti, una relazione del Parlamento europeo del 1985 sul fascismo e sul nazismo menziona New Acropolis. Ci sono alcuni elementi che spiegano questa definizione. Il saluto ufficiale acropolitano, "in privato, mai in pubblico", è il braccio in alto con il palmo della mano allungato giù, le dita insieme e ad un angolo di 45 gradi sul corpo. L'aquila di ali schierate in posizione ascendente è simile all'aquila nazista, dice la guerra. E l'addestramento, vedremo, e' molto difficile.
 
@@ -152,7 +152,7 @@ Giovedì, dopo le 8: 00. Alla reception del quartier generale ci sono persone ch
 
 Sorridono bene, addolciti. Nella casa di Franzini e Scoseria tutto è ordinato e polverizzato.
 
-Su un muro si alza l'enorme biblioteca Plotino (dal filosofo neoplatonico) classificata secondo diverse categorie, come testi sacri, filosofia cinese ed esoterismo. Un acropolitano organizza fiori e poi appare - anche sorridente, naturalmente - Feola, il regista, accompagnato da Mauricio Puente, che è direttore del centro di Pocytes.
+Su un muro si alza l'enorme biblioteca Plotino (dal filosofo neoplatonico) classificata secondo diverse categorie, come testi sacri, filosofia cinese ed esoterismo. Un acropolitano organizza fiori e poi appare - anche sorridente, naturalmente - Feola, il regista, accompagnato da Mauricio Puente, che è direttore del centro di Pocitos.
 
 Ha visto una camicia nera con il logo New Acropolis. Lei è una camicetta colorata e indossa un ciondolo con una piccola ascia. Anche un akh o chiave di vita e un scarafaggio, due simboli egiziani. Il suo sorriso trasmette la pace anche se il suo volto cambierà durante il discorso. Ma non all'inizio: ogni volta che c'è un nuovo visitatore, corrisponde a quello che chiamano "amore bombardamento".
 
