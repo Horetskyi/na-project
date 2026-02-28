@@ -80,7 +80,7 @@ class OpenAiRateLimitError extends Error {
 
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
-    model: "gpt-5.1", // 
+    model: "gpt-5-mini", // gpt-5.1
     verifyLanguage: true,
     verifyModel: "gpt-4.1",
     verifyChars: 1000,
