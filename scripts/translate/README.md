@@ -4,6 +4,7 @@ Automated translation tool for the na-project, supporting multiple engines:
 
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — self-hosted, HTML-aware translation
 - [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb) — Meta's 200-language model, line-by-line translation
+- OpenAI GPT enhancement pass — long-running quality upgrades for `translationStatus.json` entries marked `MACHINE_TRANSLATED`
 
 ## Prerequisites
 
@@ -82,7 +83,34 @@ npx tsx scripts/translate/index.ts --engine nllb200 --mode contents --base-lang 
 
 # NLLB-200: translate a specific content folder
 npx tsx scripts/translate/index.ts --engine nllb200 --mode contents --content-id disclaimer --base-lang en --target-langs uk
+
+# GPT enhancement pass (all MACHINE_TRANSLATED entries)
+npm run translate:enhance:gpt
+
+# GPT enhancement pass for one content and locale
+npx tsx scripts/translate/enhance-gpt.ts --content-id no-tener-hijos --lang uk
+
+# Preview planned GPT work without writing files
+npx tsx scripts/translate/enhance-gpt.ts --dry-run
 ```
+
+## OpenAI API key setup
+
+The GPT enhancement script reads `OPEN_API_KEY` (preferred) or `OPENAI_API_KEY`.
+
+PowerShell (current terminal only):
+
+```powershell
+$env:OPEN_API_KEY = "YOUR_API_KEY"
+```
+
+PowerShell (persist for your user account):
+
+```powershell
+[System.Environment]::SetEnvironmentVariable("OPEN_API_KEY", "YOUR_API_KEY", "User")
+```
+
+After setting a persistent variable, open a new terminal.
 
 ## Modes
 

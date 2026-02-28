@@ -11,6 +11,7 @@
     "translate:messages": "tsx scripts/translate/index.ts --mode messages",
     "translate:contents": "tsx scripts/translate/index.ts --mode contents",
     "translate:json-data": "tsx scripts/translate/index.ts --mode json-data",
+    "translate:enhance:gpt": "tsx scripts/translate/enhance-gpt.ts",
     "translate:dry": "tsx scripts/translate/index.ts --dry-run",
     "translate:help": "tsx scripts/translate/index.ts --help"
   },
