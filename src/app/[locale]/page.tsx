@@ -114,7 +114,7 @@ export default async function HomePage({
         })}
       </div>
 
-      <div className="custom-sections-divider"></div>
+      <div className="custom-sections-divider custom-sections-divider-1"></div>
 
       {/* NA Issues – numbered table of contents */}
       <section className="mb-14">
@@ -215,7 +215,7 @@ export default async function HomePage({
         );
       })}
 
-      <div className="custom-sections-divider"></div>
+      <div className="custom-sections-divider custom-sections-divider-2"></div>
 
       {Object.entries(grouped).map(([type, items], index, array) => {
         const description = tShared(`ContentsTypesDescription.${type}`);

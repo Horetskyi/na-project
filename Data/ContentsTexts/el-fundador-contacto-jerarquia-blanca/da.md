@@ -1,31 +1,31 @@
-# Grundlæggeren og hans kontakt med det Hvide Hierarki
+# Grundlæggeren og hans kontakt med "Det Hvide Hierarki"
 
-> Som meddelt i nr. 1 i "ALMENA", agter jeg at udvikle temaet for vores forhold til Hierarchy og hvordan vi kom til verden for 24 år siden. Som grundlægger vil disse enkle sider få historisk dokumentværdi, når tiden går. I lyset af disse beviser er jeg tvunget til at skrive noget, som min personlighed stærkt afviser, men som er nødvendigt for forståelsen af begivenheder og for at der ikke skal være nogen vigtige deformationer af viden om mit eget liv i fremtiden, som kunne have en indvirkning på en deformation af hele arbejdet.
-> 
-> \- *Almena nej. 2: Indledning. Jorge Ángel Livraga*
+> Som meddelt i nr. 1 af "ALMENA", agter jeg at udvikle emnet om vores forhold til Hierarkiet og om, hvordan vi kom til verden for 24 år siden. Da jeg er Grundlæggeren, vil disse enkle sider få værdi som historisk dokument, når tiden går. På baggrund af denne åbenbaring føler jeg mig tvunget til at skrive noget, som min Personlighed stærkt afviser, men som er nødvendigt for forståelsen af begivenhederne og for at der i fremtiden ikke opstår væsentlige forvrængninger af kendskabet til mit eget Liv, hvilket kunne få indvirkning på en forvrængning af hele Værket.
+>
+> — *Almena nr. 2: Introduktion. Jorge Ángel Livraga*
 
-> Med en frekvens nærmer sig bimonth han fortsatte med at modtage breve fra Adyar, med råd om mine læsninger og med nogle øvelser. I betragtning af forslaget om, at jeg ville have brug for et meget privat sted for mine studier og overvejelser, jeg udtænkt at omdanne kælderen i mit hus i Amenabar 863 til en form for "Crypta". Projektet blev godkendt, og jeg dedikeret mig til den kraftige opgave at få de gamle rester af vin tonels og andre ting, der havde akkumuleret. Jeg så med overraskelse, at jernbjælker i loftet opdelt i 7 dele, at dens rektangulære plante var meget tæt på "auric" proportioner og at det var orienteret i henhold til de 4 kardinal punkter. Jeg indrømmer, at min overraskelse varede lidt, for på det tidspunkt havde jeg den interne sikkerhed for at arbejde for "Hierarki", "Visdommens mestre" eller hvad det nu hedder.
-> 
-> \- *Almena nr. 12: Mit Ungdom VI. Jorge Ángel Livraga*
+> Med en frekvens, der nærmede sig hver anden måned, blev jeg ved med at modtage breve fra Adyar, med råd om mine læsninger og med nogle øvelser. På forslag om, at jeg ville få brug for et meget privat sted til mine studier og refleksioner, besluttede jeg at omdanne kælderen i mit hus på Amenábar 863 til en form for «Kripta». Projektet blev godkendt, og jeg hengav mig til den møjsommelige opgave at få fjernet de gamle rester af vintønder og andet skrammel, der var blevet ophobet. Jeg så med overraskelse, at jernbjælkerne i loftet delte den i 7 dele, at dens rektangulære grundplan lå meget tæt på de «auriske» proportioner, og at den var orienteret efter de 4 kardinalpunkter. Jeg må indrømme, at min overraskelse varede kort, for på det tidspunkt havde jeg allerede den indre sikkerhed om, at jeg arbejdede for «Hierarkiet», «Visdommens Mestre» eller hvad man nu ville kalde det.
+>
+> — *Almena nr. 12: Min Ungdom VI. Jorge Ángel Livraga*
 
-> Masunry i sine forskellige fraktioner og den traditionelle rosakucisme (ikke den af AMORC grundlagt i begyndelsen af det 20. århundrede) var forsøg fra Hierarchy at redde nogle elementer af Initiatory cut i det 19. århundrede, og hvor det gik forud for det; men disse forsøg degenereres i stærkt terroriserede og neutraliserede former af Illuminist Positivism og marxisme, født af en teoretisk intellekt af liv, den antitese af sande Traditional Etermisk Viden.
-> 
-> (...) Tallet af HPB vises derefter omgivet af en plæne af "gamle" sjæle, der genlyd før kravet om Hierarchy og Theosophical S. er grundlagt. På trods af den første succes blander denne bevægelse sig også farligt med det kaotiske anarki, der udgår fra det mørke ansigt i genopbygningsprocessen.
-> 
-> (...) De la Rama Dorada vil videregive den form, der kaldes "Logia Thule", og som der er mange oplysninger om, i det mindste exoterisk, til det europæiske kontinent, og det vil give fremdrift og berettigelse til den politiske bevægelse, som vi normalt medtager i Nazismens navn, med dens prologoer og dens epitlogoer.
-> 
-> (...) Jeg, i løbet af de 20 år gamle (da jeg begyndte at skrive ANKOR), startede mit arbejde i Amenabar kælderen forvandlet til Ægyptisk Ritual Crypta og fortsatte med at modtage, nu fra Sri Ram, nogle breve fra Adyar og tilsyneladende meget gamle carbon fotokopier og kopier, der altid blev båret som afsender "Madras 20 th". (...) Han besøgte Crypta og godkendte det, men det syntes mig med lidt entusiasme. Men en intern Will, som heldigvis ikke forlod mig i hele mit liv, fik mig til at følge med min egen motor, ud over godkendelser, at min ungdom ville have ønsket dem til at være mere entusiastiske. De første to år af Cripta førte mig til at udvikle muligheden for at kontakte mere direkte mine ukendte mestre.
-> 
-> \- *Almena nº 16: My Youth X. Jorge Ángel Livraga*
+> Frimureriet i dets forskellige fraktioner og den traditionelle rosenkorsmystik (ikke den fra AMORC grundlagt i begyndelsen af det 20. århundrede) var forsøg fra Hierarkiet på at redde nogle elementer af initiatorisk karakter i det 19. århundrede og i århundredet før; men disse forsøg degenererede til stærkt politiserede former og blev neutraliseret af det illuministiske positivisme og af marxismen, født af en teoretisk intellektualisering af Livet, antitesen til det sande Traditionelle Esoteriske Kendskab.
+>
+> (...) Så træder skikkelsen HPB frem omgivet af en plejade af "gamle" Sjæle, som responderer på Hierarkiets kald, og Det Teosofiske Selskab grundlægges. På trods af den indledende succes blandede også denne Bevægelse sig farligt med det kaotiske anarki, der udsprang af den Mørke Side af Restaurationsprocessen.
+>
+> (...) Fra La Rama Dorada vil den form, der kaldes "Logia Thule", overgå til det europæiske kontinent, om hvilken der findes ret meget information, i det mindste exotertisk, og som ville give impulser og begrundelse for den politiske bevægelse, som vi plejer at samle under betegnelsen "Nazisme", med dens prologer og dens epiloger.
+>
+> (...) Jeg, efter at være fyldt 20 år (alderen hvor jeg begyndte at skrive ANKOR), påbegyndte mine arbejder i Amenábar-kælderen omdannet til Ægyptisk Rituel Kripta og fortsatte med at modtage, nu fra Sri Ram, nogle breve fra Adyar og fotokopier og karbonkopier tilsyneladende meget gamle, der altid havde afsenderen "Madras 20 th". (...) Han besøgte Kriptaen og godkendte den, men det forekom mig med begrænset entusiasme. Men en indre Vilje, som heldigvis ikke forlod mig i hele mit liv, fik mig til at fortsætte af egen kraft, ud over de godkendelser som min ungdom kunne have ønsket var mere entusiastiske. De første to år i Kriptaen førte mig til at udvikle muligheden for at kontakte mine ukendte Mestre mere direkte.
+>
+> — *Almena nr. 16: Min Ungdom X. Jorge Ángel Livraga*
 
-> Fra Master A. Jeg lærte harmoniske relationer af alt, der skal manifesteres harmonisk. Fra Master A. til at dykke i tidligere inkarnationer med et minimum af forvrængning ved superposition af billeder og oplevelser. Fra Master M. (indirekte) at søge sandheden uden at vende forgæves og at påtvinge vilje på lidenskaber. Fra mester K.H. (indirekte) til at forstå New Mans og 6. subrazas mission.
-> 
-> \- *Almena nº 16: My Young XIII. Jorge Ángel Livraga*
+> Fra Mester A. lærte jeg de harmoniske relationer i alt, hvad ønsker at manifestere sig harmonisk. Fra Mester Aa. lærte jeg at dykke ned i tidligere inkarnationer med et minimum af forvrængning ved overlejring af billeder og oplevelser. Fra Mester M. (via indirekte) lærte jeg at søge sandheden uden at gå forgæves rundt og at tvinge viljen over passionerne. Fra Mester K.H. (via indirekte) lærte jeg at forstå missionen for det Nye Menneske og den 6. Subrace.
+>
+> — *Almena nr. 16: Min Ungdom XIII. Jorge Ángel Livraga*
 
-> Jeg vil gerne først og fremmest gøre det klart, at der er dekreter, der tvinger alle de nationale strukturer til en minimal vækst... men JAMIS har dekreteret en maksimal vækst. (...). Jeg har flere gange henvist til, at Hierarkiet inden for hvad vi kan vide, forsøger en form for bevægelse, der ikke brænder i et par år eller flytte eller omdanne, og at det kan fortsætte med den samme tonic ud over det fysiske liv af sin grundlægger.
-> 
-> \- *Kommando nr. 8: Vækst. Jorge Ángel Livraga*
+> Jeg vil først og fremmest gøre det klart, at der findes Dekreter, som tvinger alle Nationale Strukturer til en minimal vækst... men ALDRIG er der blevet fastsat en maksimal vækst. (...). Jeg har flere gange henvist til, at inden for det, vi kan vide, forsøger Hierarkiet at skabe en form for Bevægelse, der ikke brænder ud på få år, ej heller muterer eller forvandles, og som kan fortsætte med samme toneleje ud over grundlæggerens fysiske liv.
+>
+> — *Kommando nr. 8: Vækst. Jorge Ángel Livraga*
 
-> Mere her end noget metafysisk og ontologisk, der er i naturen en mekanik af eksistens, der er afspejlet i begivenheder og eksistenti--in-- ja. Den, der kender disse love om historisk mekanik behøver ikke at "profetere" for at opdage de nye stier forud for flere lyster og endda århundreder (...). Det er også godt at overveje en mekanik af følelser og følelser, der vil danne start-up motorer af Hierarchy Plans... så det forudtænkte program vil indgå i en livscyklus.
-> 
-> \- *Kommando nr. 54: I lyset af situationen i Europa og verden. Jorge Ángel Livraga*
+> Mere her end alt det metafysiske og ontologiske findes der i Naturen en mekanik af eksistens, som afspejles i begivenhederne og i eksistensen-i-sig selv. Den, der kender disse love om den historiske mekanik, behøver ikke at "profetere" for at opdage de nye veje med en forudseenhed på adskillige årtier og endda århundreder (...). Det er også godt at overveje en mekanik af følelser og stemninger, som vil udgøre igangsættende motorer for Hierarkiets Planer... for at det forudtænkte program kan træde ind i en livscyklus.
+>
+> — *Kommando nr. 54: I lyset af situationen i Europa og Verden. Jorge Ángel Livraga*
