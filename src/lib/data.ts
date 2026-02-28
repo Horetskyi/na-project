@@ -174,10 +174,25 @@ export function hasSourcePdf(contentId: string): boolean {
   );
 }
 
+/** Get flag filename by country code, including special assets. */
+export function getCountryFlagFilename(countryCode: string): string {
+  return `${countryCode}.webp`;
+}
+
+/** Get public flag image src path for a country code. */
+export function getCountryFlagSrc(countryCode: string): string {
+  return `/flags/${getCountryFlagFilename(countryCode)}`;
+}
+
 /** Check whether a country-flag image exists in public/flags/. */
 export function hasCountryFlag(countryCode: string): boolean {
   return fs.existsSync(
-    path.join(process.cwd(), "public", "flags", `${countryCode}.webp`),
+    path.join(
+      process.cwd(),
+      "public",
+      "flags",
+      getCountryFlagFilename(countryCode),
+    ),
   );
 }
 

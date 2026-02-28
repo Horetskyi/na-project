@@ -8,6 +8,7 @@ import {
   getNaIssues,
   groupContentsByType,
   hasCountryFlag,
+  getCountryFlagSrc,
   getLanguageName,
   t as loc,
   type Author,
@@ -100,7 +101,7 @@ export default async function HomePage({
                   {countryCodes.map((code) => (
                     <Image
                       key={code}
-                      src={`/flags/${code}.webp`}
+                      src={getCountryFlagSrc(code)}
                       alt={code}
                       width={24}
                       height={16}
@@ -190,7 +191,7 @@ export default async function HomePage({
                         <div className="flex items-center gap-1.5 mt-1 flex-wrap">
                           {flagExists && flagCode && (
                             <Image
-                              src={`/flags/${flagCode}.webp`}
+                              src={getCountryFlagSrc(flagCode)}
                               alt={flagCode}
                               width={24}
                               height={16}
@@ -274,7 +275,7 @@ export default async function HomePage({
                           <div className="flex items-center gap-1.5 mt-2 flex-wrap">
                             {flagExists && (
                               <Image
-                                src={`/flags/${content.countryCode}.webp`}
+                                src={getCountryFlagSrc(content.countryCode)}
                                 alt={content.countryCode}
                                 width={24}
                                 height={16}

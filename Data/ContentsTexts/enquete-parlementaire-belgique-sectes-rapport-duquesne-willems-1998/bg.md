@@ -1,336 +1,355 @@
-(КАМЕР НА БЕЛГИЯ ПРЕДСТАВИТЕЛИТЕ) (страница 1)
+(КАМАРА НА ПРЕДСТАВИТЕЛИТЕ БЕЛГИЯ) (Страница 1)
 
-## АГЕНЦИЯ
+## ПАРЛАМЕНТСКО РАЗСЛЕДВАНЕ
 
-разработване на политика за борба с незаконните практики на сектите и опасността, която представляват за обществото и за физическите лица, особено за непълнолетните
+целящо изработване на политика за борба с незаконните практики на сектите и опасността, която те представляват за обществото и за лицата, особено за непълнолетните
 
 ---
 
-(страница 2)
+(Страница 2)
 
 ## СЪДЪРЖАНИЕ
 
--   Част I Акт от 2 юни 1998 г. за създаване на Център за информация и мнение за вредни сектантски организации и административно звено за координация за борба срещу вредните сектантски организации (Monitur belge, 25 ноември 1998 г.)
--   ЧАСТ С Кралски указ от 8 ноември 1998 г. за създаване на състава, функционирането и организацията на Административния отдел за координация на борбата срещу вредните сектантски организации (Monitur belge, 9 декември 1998 г.)
--   ЧАСТ III Декларация на Парламентарните и годишните документи
--   ЧАСТ IV Доклад, изготвен от Парламентарната комисия по въпросите на месистите. Дюкейн и Вилемс
--   ЧАСТ V Предложение, прието на пленарно заседание.
+- PARTIE I Закон от 2 юни 1998 г. за създаване на Център за информация и консултации относно вредните сектантски организации и на Административно координационно звено за борба срещу вредните сектантски организации (Moniteur belge от 25 ноември 1998 г.)
+- PARTIE II Кралски указ от 8 ноември 1998 г., определящ състава, функционирането и организацията на Административното координационно звено за борба срещу вредните сектантски организации (Moniteur belge от 9 декември 1998 г.)
+- PARTIE III Перечен на парламентарните документи и протоколи
+- PARTIE IV Доклад, изготвен от името на парламентарната комисия за разследване от г-н Duquesne и г-н Willems
+- PARTIE V Мотивация, приета на пленарно заседание.
 
 ---
 
-(страница 3)
+(Страница 3)
 
-Закон от 2 юни 1998 г. за създаване на Център за информация и мнение за вредни сектантски организации и административно звено за координация за борба с вредните сектантски организации (Monitur belge, 25 ноември 1998 г.)
-
----
-
-(страница 4)
-
-## BELGISCH STAATSBLAD
-
-Priks van een jaarSubscript: Белгия: F 4,260; Buitenland: F 17,283. Priks per nummer: F 10 per vel van acht bladzijden. Voor абонаментен en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuventweg 40-42, 1000 Brussel. Telefon 02'552 22 11.
-
-168-ма JAARGANG
-
-25 ноември 1998 г.
-
-Ministerie van Justitie
-
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Adminrustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+Закон от 2 юни 1998 г. за създаване на Център за информация и консултации относно вредните сектантски организации и на Административно координационно звено за борба с вредните сектантски организации (Moniteur belge от 25 ноември 1998 г.)
 
 ---
 
-(страница 5)
+(Страница 4)
 
-### Отделение Ван Джъстити
+## BELGISCH STAATSBLAD 
 
-2 JUNI 1998.
+Цена на годишен абонамент : 
+Белгия : F 4 260; чужбина: F 17 283. 
+Цена за брой: F 10 за лист от осем страници. За абонаменти и за продажба на брой можете да се обръщате към Управлението на Belgisch Staatsblad, Leuvenseweg 40-42, 1000 Брюксел. 
+Телефон 02'552 22 11. 
 
-ALBERT II, Koning der Belgium, Aan allen die nu zijn en hierna wezen zullen, 11 Groet.
+168-о ГОДИШНИК
 
-От Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
+СРЯДА 25 НОЕМВРИ 1998 
 
-### HOUFDSTUK I. год.
+Министерство на правосъдието 
 
-Артикъл 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
-
-Член 2. Voor de toepasing van onderhavige wet wordt onder schadelijke sektarische organiatie verstaan, elke groepering met een levensbeschouwelijk of godsdienstig doel, of die zich als dusdanig voordoet en die zich in haar organiatie of praktijken, overgeeft aan schadelijke onwettige activiteen, het personal of samenleving schaadt of de menselijke waardigheid aantast.
-
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op basis van de principles welke zijn anglesgelegd in de Grondwet, de wetten, de de decreten, communies en in de internationale verdragen inzake de bescherming van de rechten van de mens welke door België werden geratificeerd.
-
-### HOOFDSTUK II.
-
-Изкуство. 3. Bij het ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties," hierna Centrum geneamd. De zetel van het Centrum е gevestigd в Het administratief arrondissement по-късно.
-
-Член 4. § 1. Het Centrum bestaat uit twaalf large leden en twaalf platsvervangende leden die met een tweederde meerderheid door de Kamer van volksvertegenwoordgers worden aangewezen. Zes large leden en zes platsvervangende leden worden aangewezen op voor-dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. Десет минути и десет големи капака в Een platsvervangend капак Кенън Duits.
-
-De Kamer van volksvertegenwoordigers kiest uit de large leden de voorziter en de plaatsvervangende voorziter.
-
-§2. De leden worden worden aangesteld voor een terminijn van vier jaar, eenmaal hernieuwbaar, uit de vinden personlijkheden die bekend stan omwille van hun kennis, ervaring en hun interest voor de problemmatik van de schadelijke sektarische groeperingen. Zij dienenen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van objectiviteit en onpartijdiigheid te kunnen uitoefenen. От обширна до platsvervangende leden kunnen van hun mandaat onth even worden door de Kamer van volksvertegenwoordgers, indien zij tekortkomen in hun plichten of de waardigheid van hun functie in het gedrang brengen.
-
-§3. Om als обширен от warnemend капак те worden aangesteld en om die hoedaniigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen:
-
-1° de burgerlijke en politeke rechten gnieten;
-
-2° geen caid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+Закон от 2 юни 1998 г., предвиждащ създаване на Център за информация и консултации относно вредните сектантски организации и на Административно координационно звено за борба срещу вредните сектантски организации, стр. 3782-t 
 
 ---
 
-(страница 6)
+(Страница 5)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een persoonlijk of rechtstreeks belang hebben.
+### МИНИСТЕРСТВО НА ПРАВОСЪДИЕТО
 
-§ 5. Wanner een large clap verhinderd of afwezig is, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend cloud waarvan het mandaat een einde neemt voor het verstrijken van de terminjn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend cott da voor de rest van de termijn wordt aangewzen. De Koning stelt de modaliten inzake de vergoeding van de leden van het Centrum large.
+2 ЮНИ 1998 г. — Закон за създаване на Център за информация и консултации относно вредните сектантски организации и на Административно координационно звено за борба срещу вредните сектантски организации (1)
 
-Член 5. Het Centrum stelt zijn huishoudelijk regulation op binen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-leged aan de Kamer van volksvertegenwoordgers.
+АЛБЕРТ II, Крал на белгийците, На всички, които са сега и ще бъдат впоследствие, Нашият поздрав.
 
-Чл. 6. § 1. Het Centrum е последно изпълнено de volgende opdrachten:
+Камерите приеха и Ние потвърждаваме следното :
 
-1° het verschijnsel van schadelijke sektarische organizaties in België en hun international bridingen bestuderen;
+### ГЛАВА I. — Предварителни разпоредби
 
-2° een voor het publiek toegankelijk documentatiecentrum organizen;
+Член 1. Този закон урежда въпрос, както е предвидено в член 78 от Конституцията.
 
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hij zijn rechten kan laten gelden;
+Член 2. За прилагането на настоящия закон под „вредна сектантска организация“ се разбира всяко сдружение с философска или религиозна цел, или което се представя като такова, и което в своята организация или практики се отдава на вредни незаконни дейности, уврежда индивида или обществото или накърнява човешкото достойнство.
 
-4° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, advieden en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisaties en het bijzoder over het beleid inzake de strijd tegen deze organisaties;
+Вредният характер на една сектантска организация се изследва въз основа на принципите, установени в Конституцията, в законите, декретите, наредбите и в международните договори относно защитата на човешките права, които Белгия е ратифицирала.
 
-§ 2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd:
+### ГЛАВА II. — Център за информация и консултации относно вредните сектантски организации
 
-1° alle beschikbare informatie te verzamelen;
+Член 3. В рамките на министерството на правосъдието се учредява независим център под наименованието « Център за информация и консултации относно вредните сектантски организации », наричан по-нататък Център.
+Седалището на Центъра е установено в административния район „Брюксел-Столица“.
 
-2° alle проучвания на wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
+Член 4. § 1. Центърът се състои от дванадесет постоянни членове и дванадесет заместници, които се назначават с две трети мнозинство от Камарата на депутатите. Шест постоянни членове и шест заместници се назначават по предложение на Министерския съвет и за всяка свободна длъжност се предлагат по двама кандидати.
+За членовете, назначавани както пряко от Камарата, така и по предложение на Министерския съвет, се гарантира езиковото равновесие между холандско- и франкоезичните членове.
+Поне един постоянен член и един заместник да познават немски език.
 
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstempt metén van zijn opdrachten, over te nemen;
+Камарата на депутатите избира измежду постоянните членове председател и заместник-председател.
 
-4° steun en begeleiding te verleen aan intellingen, organisaties en verleners van juridische bijstand;
+§ 2. Членовете се назначават за срок от четири години, подновяем веднъж, измежду изтъкнати личности, известни със своите знания, опит и интерес към проблематиката на вредните сектантски групировки. Те трябва да предоставят всички гаранции, за да могат да изпълняват мандата си в пълна независимост и в дух на обективност и безпристрастност.
+Постоянните и заместниците могат да бъдат освободени от мандата си от Камарата на депутатите, ако не изпълняват задълженията си или застрашават достойнството на своята длъжност.
 
-5° op zijn bijenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het uttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum samen met de Administratieve coördinatiecel.
+§ 3. За да бъде назначен и да запази качеството си на постоянен или на заместващ член, кандидатите трябва да отговарят на следните условия :
 
-§3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1° en 3°, persoonsgegevens te verwerken met betreking tot de overtuing of activitieseiten op levensbeschouwe-lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de мокри van 8 декември 1992 г. tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgevens.
+1° да се ползват от гражданските и политическите права;
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwelijkheid en beveiliging van de persons-gegegevens, het statut en de take van een angestelde voor de gegevensbescherming in de skoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van de fasonlijke levenssfeer over de verwerking van de peonsgevens.
-
-§4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschitt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organiaties.
-
-Член 7. От adviezen до de aanbevelingen van het Centrum zijn gemotiveerd. De adviezen zijn openbaar, behoudens behourlijk gemotiveerde Andersluidende beslissing van het Centrum.
-
----
-
-(страница 7)
-
-Член 8. § 1. Het Centrum kan slechts braadslagen Indian ten minste de meerderheid van zijn leden aanwezig is. Дьо Беслисинген Уордън Геномен се срещна с абсолютен смирдерхайд. В Geval ван stabing der steadmen, е де stead van de voorziter на в geval deze verhind е, ван zijn plaatsvervanger врати laggevend.
-
-De aangenomen advizen zullen de verschillende uiteengezette standpunten weergeven.
-
-§2. Het Centrum mag beschikken over het integraal stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscomissie van de Kamer van volksvertegenwoordgers met het oog op de beleidsvoring ter bestriding van de onwettige praktijken van de sekten en van de gevaren ervan voor de samennleving en voor het individuelle, indonderheid voor de minderjarigen.
-
-Член 9. Voor de uitvoering van al zijn opdrachten kan het Centrum een berroep doen op de medewring van experten. De Koning bepaalt de modaliten van de vergoeding van deze experten.
-
-Член 10. Voor alle personen die werken met vertrouweleijke gegevens die door het Centrum worden ingezameld, geldt het beropspsgeheim zoals bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting geldtook voor elkeen die niet tot het Centrum behoort, maar als broundige, onderzoeker of medewerker optreedt.
-
-Член 11. Het Centrum stelt elke twee jar verslag van zijn activiteen voor. Dit verslag wordt gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
-
-Член 12. Het Centrum beschitt over een Secretaryat.
-
-Het personeel wordt ter beschikking gestld door de Minister van Justitie, na vorafgaand het advies van het Centrum te hebben ingewonnen.
-
-Het personeel State onder het rechtstreeks gezag van de voorziter van het Centrum. De wevingskosten van het Centrum komen десет късно ван де begroting ван het ministère van Justitie.
-
-### HOOFDSTUK III.
-
-Член 13. Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het ministère van Justitie opgericht.
-
-Член 14. Министър ван Джъстити от zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administratieve coördi-natiecel bij een in Ministerraad overleged besluit.
-
-Член 15. От Administratieve coördinatiecel heeft de volgende opdrach-ten:
-
-1° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
-
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
-
-3° Maatregelen voorstellen die van aard zijn om de coördinatie en de effectiviteit van deze acties te verhogen;
-
-4° In overleg met de bevoegde diensten en bestruren een preturie-beleid voor de burgers tegen de activitéeiten van de schadelijke sektarische organizations, bevoderen;
-
-5° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstelen van het Centrum uit voeren.
+2° да не бъдат членове на Европейския парламент или на Законодателните камери, нито на Съвет на общностите или на регион, нито на Федералното правителство или на правителство на общност или регион.
 
 ---
 
-(страница 8)
+(Страница 6)
 
-Член 16. От Koning bepaalt de modaliten inzake de werking en de organizatie van de Administratieve coi:ridinatiecel bij een in Mister Kondigen deze мокри af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Bclgisch Staatsblad zal worden bekendgemaakt.
+§ 4. На членовете на Центъра е забранено да присъстват при обсъждания по въпроси, при които имат личен или пряк интерес, или при които техни кръвни или сродници до четвърта степен имат личен или пряк интерес.
 
-Gegeven te Brussel, 2 Juni 1998.
+§ 5. Когато постоянен член е възпрепятстван или отсъства, той се замества от своя заместник.
+Постоянният или заместник член, чийто мандат приключва преди изтичането на срока от четири години, се заменя по процедурата, посочена в първия параграф, с постоянен или заместник, който се назначава за остатъка от срока.
+Кралът определя условията за възнаграждение на членовете на Центъра.
 
-АЛБЕРТ Van Koningswege: Министър Ван Джъстити, Т. ВАН ПАРИС Запознахме се в земите на Зегел Гезегелд: Т. ВАН ПАРИС Забележка
+Член 5. Центърът приема своя вътрешен правилник в срок от два месеца след своето инсталиране. Той се представя за одобрение на Камарата на депутатите.
 
-(1) Gewone zitting 1996-1997.
+Член 6. § 1. Центърът е натоварен със следните задачи :
 
-Камер ван Волксвертегенордери. Парламентарян Шукен. - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nr. 1198/2 tot 7. - Tekst aangenomen door of Commission, nr. 1198/9. -Tekst aangenomen in plenaire vergadering en overge Парламентарка Хенделинген. Вергадеринг ван 22 април 1998 г. - Анеминг. Вергадеринг ван 28 април 1998 г. Сенаат. Парламентарян Шукен. -Ontwerp overgezoden door de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd door de Senaat, nr. 1-965/2/1997-1998.
+1° да изучава явлението на вредните сектантски организации в Белгия и техните международни връзки;
 
----
+2° да организира документационен център, достъпен за публиката;
 
-(страница 9)
+3° да осигурява посрещане и информация за обществеността и за всяко лице, което се обръща към Центъра, да информира за неговите права и задължения и за начина, по който може да упражни правата си;
 
-## ЧАСТ II
+4° по своя инициатива или по искане на всяка публична администрация да дава становища и препоръки относно явлението на вредните сектантски организации и по-специално относно политиката за борба срещу тези организации;
 
-Кралски указ от 8 ноември 1998 г. за създаване на състава, функционирането и организацията на Административното звено за координация на борбата срещу вредните сектантски организации (Monitur belge, 9 декември 1998 г.)
+§ 2. За изпълнение на задачите си Центърът е овластен да :
 
----
+1° събира цялата налична информация;
 
-(страница 10)
+2° провежда всички проучвания или научни изследвания, които са необходими за конкретното изпълнение на неговите задачи;
 
-### ЗАТВОРЕНИ, РАЗРЕШЕНИ, ЗАЯВЛЕНИЯ И ПРАВИЛА
+3° прехвърля върху себе си всеки архивен или документационен фонд, чиито предмет съответства на една от неговите задачи;
 
-Отделение Ван Джъстити
+4° оказва подкрепа и придружаване на институции, организации и доставчици на правна помощ;
 
-N. 98 - 3277 \[S−C−98/0981\] 8 NOVEMBER От 1998 г. насам Koninklijk basluit houdende samenstelling, werking en organisatie van de Administratieve Coo гординатицел inzake de strijd tegen schadelijke sektarische organisaties.
+5° на своите събрания да консултира или покани професионални асоциации и лица, които счита за полезно да чуе.
+За изпълнение на задачите си Центърът си сътрудничи с Административното координационно звено.
 
-ALBERT II, Koning der Belgium, Aan allen die nu zijn en hierna wezen zullen, 11 Groet.
+§ 3. Центърът е овластен за изпълнение на задачите си, посочени в § 1, 1° и 3°, да обработва лични данни, отнасящи се до убеждения или дейности в областта на светогледа или религията, както е предвидено в член 6 от Закона от 8 декември 1992 г. за защита на личния живот спрямо обработването на лични данни.
 
-Gelet op de мокри микро 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo érdinatiecel inzake de strijd tegen schadelijke sektarische organisaties; Gelet op het advies van de Inspector van Financie nan, gegeven op 10 септември 1998 г.; Gelet op de wetten van de Raad van State, gecoo örrdinerd op 12 januari 1973, inzoderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 август 1980, 16 juni 1989, 4 juli 1989 in 4 augustus 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscomissie belast met de beledsvorming ter bestriding van de sekten en van de gevaren van die sekten voor het individuel en indizonderheid voor de minderjari-gen, de dringende nodzaak van de oprichting van een Informatie- en Adviescentrum en Administratieve Coo ://rdinatiecel heeft opgeworpen, met het oog op de zo spoedig mogelijke creatie van organ met als opdracht de opvolging van dit fenomen; Overwegende dat de мокри Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratiev coo го drdinatiecel ondertekend werd door de
+Кралът определя, с решение, обсъдено в Министерския съвет, гаранциите относно поверителността и защитата на личните данни, статута и задачите на служител по защита на данните в рамките на Центъра и начина, по който Центърът трябва да докладва на Комисията за защита на личния живот относно обработването на личните данни.
 
----
+§ 4. Информацията, която Центърът предоставя по искане на обществеността, се основава на информацията, с която Центърът разполага, и не може да бъде представяна под формата на списъци или систематични прегледи на вредни сектантски организации.
 
-(страница 11)
-
-Koning op 2 juni 1998 en dat derhalve aanbeveling verdient dat de мокри en de uitvoeringsbesluiten zonel mogelijk worden gepubliceerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo ρrdinatiecel in stat te stellen hun opdrachten aan te vatten meted ingang van 1 januari 1999; Оп де воорракт ван Единадесетият министър ван Джъститий във връзка с реклама ван 11 в Раад Вергадерде министри,
-
-Hebben Wij besloten en basluiten Wij:
-
-### WHOFDSTUK I. по-специално:
-
-Артикъл 1. De bij artikel 13 van de мокри van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt samengesteld:
-
--   een vertgenwoordiger van het College van Profective-General;
--   een nationaal magistraat;
--   een vertgenwoordiger van de Rijkswacht;
--   een vertgenwoordiger van de Gerrechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolics van het
-
-Министерство ван Binnenlandse Zaken;
-
--   een vertgenwoordiger van het Ministerie van Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het Directoraat- General burgerlijke
-
-Влажен ван Хет, министър ван Джъстити.
-
--   een vertgenwoordiger van het Directoraat-general strafwetgeing en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van het Ministerie van Financien;
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
-
-Арбеид;
-
--   Een vertgenwoordiger van het Ministerie van Landsverdiging. Член 2. Voor elke vertgenwoordiger wordt tevens een platsvervan- ger angeduid.
-
-Член 3. От vertgenwoordigers до Hun plaatsvervangers worden aangesteld врата от министър ван Justitie, na voordracht врата de respectieve overheden van wie zij afhangen.
-
-### HOOFDSTUK II. год.
-
-Член 4. De voorziter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de дневен ред op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Program te platsen. De voorziter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizations heeft eveneens het recht de voorzitter te verzoeken punten op de дневен ред te platsen.
-
-Член 5. Behoudens hoogdringendheid worden de uitnodigingen en de дневен ред evens evences stukken, na ondertekening door de voorzitter, door de secretaris ten minste aht dagen voraf aan de leden toegzonden.
-
-Член 6. De leden die verhindard zijn, worden vervangen door hun plaatsvervanger en sturen hem zelf de stukken door.
-
-Член 7. De Administratieve Coo ://rdinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun platsvervangers aanwezig е. Ingeval geen meerderheid aanwezig worden de leaden opnieuw uitgenodigd, in welk geval de Administratieve Coo nrdinatiecel geldig vergadert, wat look het aantal aanwezige leden is.
-
-Член 8. Elk капак ван де Administratieve Coo ://rdinatiecel, в bij verhin-dering zijn plaatsvervanger, beschickt над еен стъбло. De beslissingen worden bij unanimititeit van de aanwezige leden genomen. De voorziter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizations of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo ://rdinatiecel bij te wonen;
--   Джорджорд Индийски Worden на дневен ред казва vereist.
+Член 7. Становищата и препоръките на Центъра са мотивирани.
+Становищата са публични, освен при надлежно мотивирано противоположно решение на Центъра.
 
 ---
 
-(страница 12)
+(Страница 7)
 
-Член 9. De secretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorziter met de volgende uitnodiging meegestuurd.
+Член 8. § 1. Центърът може да заседава само ако присъства най-малко мнозинството от неговите членове. Решенията се вземат с абсолютно мнозинство. В случай на равенство на гласовете решаващ глас има председателят или, ако той е възпрепятстван, неговият заместник.
 
-De leaden brengen hun opmerkingen schriftelijk ter kennis tot uitterlijk ee .n dag voor de vergadering.
+Приетите становища ще отразяват изложените различни позиции.
 
-Член 10. De advizen en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de мокри микробус 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo örrdinatiecel overgezonden.
+§ 2. Центърът може да разполага с пълния стенографски протокол на публичните изслушвания на парламентарната комисия по разследването на Камарата на депутатите с оглед на формирането на политика за борба с незаконните практики на сектите и на опасностите, които те представляват за обществото и за индивида, и по-специално за непълнолетните.
 
-De Administratieve Coo ://rdinatiecel stelt in overleg met het Centrum large de wijze van:
+Член 9. За изпълнение на всички свои задачи Центърът може да се обърне за съдействие към експерти.
+Кралът определя условията за възнаграждение на тези експерти.
 
--   Coordinatie van възможни актьори;
--   redgeling van het toezicht op de uitvoering van de aanbevelingen en advizen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+Член 10. За всички лица, които работят с поверителни данни, събрани от Центъра, важи професионалната тайна, както е предвидено в член 458 от Наказателния кодекс. Същото задължение важи и за всеки, който не е част от Центъра, но действа като експерт, изследовател или сътрудник.
 
-Член 11. De maatregelen die de Administratieve Coo ://rdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of instanties, evenals an de voorzitter van het Centrum meegeeld.
+Член 11. Центърът представя отчет за дейността си на всеки две години. Този отчет се изпраща на Министерския съвет, на Законодателните камери и на Съветите и правителствата на общностите и регионите.
 
-Член 12. De Administratieve Coo örrdinatiecel pleegt overlegge met alle bevoegde diensten en bestruren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. От федерален overheden dienen de door de Administratieve Coo nurdinatiecel gevraagde inlichtingen te bezorgen.
+Член 12. Центърът разполага с секретариат.
 
-Член 13. De Administratieve Coo ://rdinatiecel vergadert minstens eenmaal om de twe maanden.
+Персоналът се предоставя от министъра на правосъдието, след предварително искано становище от Центъра.
 
-От Administratieve Coo örrdinatiecel engt zesmapolijks verslag uit aan het Centrum nopens haar werkzaamheden.
+Персоналът е под прякото ръководство на председателя на Центъра. Разходите за функциониране на Центъра се поемат от бюджета на министерството на правосъдието.
 
-### HOOFDSTUK III. горска организация
+### ГЛАВА III. — Административно координационно звено за борба срещу вредните сектантски организации
 
-Член 14. Alle leden van de Administratieve Coo ://rdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+Член 13. При министерството на правосъдието се учредява Административно координационно звено за борба срещу вредните сектантски организации.
 
-Член 15. De Administratieve Coo .rdinatiecel kan wanner bijzondere opdrachten dit verantwoorden subgroepen binnen haar shoot oprichten.
+Член 14. Министърът на правосъдието или негов представител председателства Административното координационно звено.
+Кралът определя състава на Административното координационно звено с решение, обсъдено в Министерския съвет.
 
-Член 16. Министър ван Justitie stelt administratief personeel, lokalen en de noodzakelijke bourcebenogedheden ter beschikking van de Administratieve Coo ://rdinatiecel.
+Член 15. Административното координационно звено има следните задачи :
 
-Член 17. De artikelen 1 tot en met 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+1° координира действията, предприемани от компетентните публични служби и органи;
 
-Член 18 Единадесетият министър ван Джъстити е много красив.
+2° изследва развитието на незаконните практики на вредните сектантски организации;
 
-Gegeven te Brussel, 8 ноември 1998 г.
+3° предлага мерки, които имат за цел да повишат координацията и ефективността на тези действия;
 
-ALBERT Van Koningswege: De Minister van Justitie Т. ВАН ПАРИС
+4° в консултация с компетентните служби и администрации да подпомага политика за превенция на гражданите срещу дейностите на вредните сектантски организации;
 
----
-
-(страница 13)
-
-## ЧАСТ III
+5° изгражда тясно сътрудничество с Центъра и взема необходимите мерки за изпълнение на препоръките и предложенията на Центъра.
 
 ---
 
-(страница 14)
+(Страница 8)
 
-## РЕГИОНАЛНИ ПАРЛАМЕНТНИ И ГОДИШНИ ДОКУМЕНТИ
+Член 16. Кралът определя модалностите за функциониране и организация на Административното координационно звено с решение, обсъдено в Министерския съвет.
+Ние обнародваме този закон, възлагаме му да бъде подпечатан с държавния печат и да бъде публикуван в Belgisch Staatsblad. 
 
-### А. КОНСТИТУЦИЯ НА ПАРЛАМЕНТНИЯ КОМИТЕТ
+Подписано в Брюксел, 2 юни 1998 г. 
 
--   Документи на Камарата на представителите:
-    -   313 (1995-1996)
-        -   No 1: Предложение от г-н Ducesne et al.
-        -   No 2 до 4: Изменения на г-н Duquesne и г-н Mouraux и г-жа de Tserclaes
-        -   No 5 Доклад на г-н Borin от името на комисията по правосъдие
-        -   No 6 Текстът, приет от комисията по правосъдие.
-    -   Аналес от Камарата на представителите
-        -   13, 14 и 28 март 1996.
+АЛБЕРТ 
+От името на Краля : 
+Министърът на правосъдието, 
+Т. ВАН ПАРИС
+С държавния печат подпечатано : Министърът на правосъдието, 
+Т. ВАН ПАРИС
+Бележка 
 
-### Б.
+(1) Обикновена сесия 1996-1997.
 
--   Документи на Камарата на представителите:
-    -   313 (1995-1996)
-        -   No 7 и 8 Доклад, изготвен от Месърс от името на Комитета. Дюкейн и Вилемс
-        -   9 Предложение, прието на пленарна сесия
-    -   Аналес от Камарата на представителите
-        -   30 април и 7 май 1997.
+Камара на депутатите. 
+Парламентарни документи. - Проектозакон на г-н Duquesne, № 1198/1. - Поправки, №№ 1198/2 до 7. - Доклад от г-н Willems, № 1198/8. - Текст, приет от Комисията, № 1198/9. - Текст, приет в пленарна зала и предаден на Сената, № 1198/10. 
+Парламентарни актове. - Обсъждане. Заседание от 22 април 1998 г. - Приемане. Заседание от 28 април 1998 г. 
+Сенат. 
+Парламентарни документи. - Проект, предаден от Камарата на депутатите, № 1-965/1-1997-1998. Проект, по който Сенатът не е взел решение, № 1-965/2-1997-1998. 
 
-### В. ACT OF 2 JUNE 1998
+---
 
--   Документи на Камарата на представителите
-    -   1198 (1996-1997)
-        -   Не. 1: Предложение от г-н Дюкейн
-        -   No 2 до 7: Изменения от Messers. J.-P. Viseur, Duquesne, Beaufays, Willems и правителството
-        -   No 8: Доклад на г-н Willems от името на комисията по правосъдие
-        -   No 9: Текстът, приет от комисията по правосъдие
-        -   10: Текстът, приет на пленарната сесия и предаден на Сената.
-    -   Аналес от Камарата на представителите
-        -   22 и 28 април 1998 г.
--   Документи на Сената
-    -   1- 965 (1997-1998)
-        -   1 Проект, предаден от Камарата на представителите
-        -   Проект No2 не е посочен от Сената.
+(Страница 9)
+
+## PARTIE II
+
+Кралски указ от 8 ноември 1998 г., определящ състава, функционирането и организацията на Административното координационно звено за борба срещу вредните сектантски организации (Moniteur belge от 9 декември 1998 г.)
+
+---
+
+(Страница 10)
+
+### ЗАКОНИ, ДЕКРЕТИ, НАРЕДБИ И РЕГЛАМЕНТИ LOIS, DECRETS, ORDONNANCES ET REGLEMENTS
+
+МИНИСТЕРСТВО НА ПРАВОСЪДИЕТО
+
+N. 98 — 3277 [S−C−98/09981] 8 НОЕМВРИ 1998 г. — Кралски указ относно състава, функционирането и организацията на Административното координационно звено за борба срещу вредните сектантски организации.
+
+АЛБЕРТ II, Крал на белгийците, На всички, които са сега и ще бъдат впоследствие, Нашият поздрав.
+
+Въз основа на закона от 2 юни 1998 г. за създаване на Център за информация и консултации относно вредните сектантски организации и за създаване на Административно координационно звено за борба срещу вредните сектантски организации;
+Въз основа на становището на Инспектора на финансите, дадено на 10 септември 1998 г.;
+Въз основа на законите за Съвета на държавата, координирани на 12 януари 1973 г., и по-специално член 3, § 1, изменен с законите от 9 август 1980 г., 16 юни 1989 г., 4 юли 1989 г. и 4 август 1996 г.;
+Като се има предвид спешната необходимост;
+Като се има предвид, че Парламентарната изследователска комисия, натоварена с формирането на политиката за борба със сектите и с опасностите от тези секти за индивида и по-специално за непълнолетните, е подчертала спешната необходимост от създаване на Център за информация и консултации и на Административно координационно звено, с цел възможно най-скорошното учредяване на орган, натоварен с проследяването на това явление;
+Като се има предвид, че законът за учредяване на Център за информация и консултации относно вредните сектантски организации и на административно координационно звено е подписан от Краля на 2 юни 1998 г. и че поради това е желателно законът и изпълнителните постановления да бъдат публикувани възможно най-скоро, за да позволят на Центъра за информация и консултации и на Административното координационно звено да пристъпят към изпълнение на своите задачи от 1 януари 1999 г.;
+По предложение на Нашия министър на правосъдието и след становището на Нашите министри, заседавали в Съвета,
+
+Ние решихме и решаваме :
+
+### ГЛАВА I. — Състав на Административното координационно звено
+
+Член 1. Административното координационно звено, учредено по член 13 от закона от 2 юни 1998 г., се съставя както следва :
+
+- един представител на Колегията на генералните прокурори;
+- един национален магистрат;
+- един представител на Държавната жандармерия;
+- един представител на Съдебната полиция;
+- един представител на Общата национална полиция при Министерството на вътрешните работи;
+
+- един представител на Министерството на държавната администрация;
+- един представител на Управлението за държавна сигурност;
+- един представител на Генералната дирекция „Гражданско законодателство и вероизповедания“ при Министерството на правосъдието;
+- един представител на Генералната дирекция „Наказателно законодателство и права на човека“ при Министерството на правосъдието;
+- един представител на Службата за наказателно-правна политика при Министерството на правосъдието;
+
+- един представител на Министерството на вътрешните работи;
+- един представител на Министерството на финансите;
+- един представител на Министерството на труда и заетостта;
+
+- един представител на Министерството на отбраната. Член 2. За всеки представител се посочва и заместник.
+
+Член 3. Представителите и техните заместници се назначават от министъра на правосъдието, след предложение от съответните органи, от които зависят.
+
+### ГЛАВА II. — Функциониране на Административното координационно звено
+
+Член 4. Председателят определя мястото, деня и часа на започване на заседанията и изготвя дневния ред.
+Всяко едно от лицата има право да поиска от председателя да допълни дневния ред с точки.
+Председателят на Центъра за информация и консултации относно вредните сектантски организации също има право да помоли председателя да постави точки в дневния ред.
+
+Член 5. Освен в случаи на неотложност, поканите и дневният ред, както и евентуални материали, след подписване от председателя, се изпращат от секретаря поне осем дни предварително до членовете.
+
+Член 6. Членовете, които са възпрепятствани, се заместват от своите заместници и им изпращат сами материалите.
+
+Член 7. Административното координационно звено заседава валидно само ако е присъствала поне половината от членовете или техните заместници.
+Ако не е присъствало мнозинство, членовете се поканват отново, при което Административното координационно звено заседава валидно, независимо от броя на присъстващите членове.
+
+Член 8. Всеки член на Административното координационно звено и при възпрепятстване неговият заместник разполага с един глас.
+Решенията се вземат с единодушие на присъстващите членове.
+Председателят на Центъра за информация и консултации относно вредните сектантски организации или неговият заместник може :
+
+- да бъде поканен да присъства на заседанията на Административното координационно звено;
+- да бъде изслушан, когато дневният ред го налага.
+
+---
+
+(Страница 12)
+
+Член 9. Секретарят изготвя протокол от заседанията. Той се изпраща заедно със следващата покана след одобрение от председателя.
+
+Членовете представят писмено своите бележки не по-късно от един ден преди заседанието.
+
+Член 10. Становищата и препоръките, които Центърът изготвя при прилагане на член 6, § 1, 4° от закона от 2 юни 1998 г., се предават от Центъра на председателя на Административното координационно звено.
+
+Административното координационно звено установява в сътрудничество с Центъра начина на:
+
+- координация на евентуалните действия;
+- уреждане на надзора върху изпълнението на препоръките и становищата на Центъра, доколкото те попадат във тяхната компетентност.
+
+Член 11. Мерките, които Административното координационно звено предлага, се съобщават писмено на съответните служби или институции, както и на председателя на Центъра.
+
+Член 12. Административното координационно звено провежда консултации с всички компетентни служби и администрации в рамките на своите задачи. То може да ги кани и да иска информация от тях. Федералните власти са длъжни да предоставят исканата от Административното координационно звено информация.
+
+Член 13. Административното координационно звено заседава най-малко веднъж на два месеца.
+
+Административното координационно звено представя на Центъра полугодишен отчет за своята дейност.
+
+### ГЛАВА III. — Организация
+
+Член 14. Всички членове на Административното координационно звено образуват „Бюро“. „Бюрото“ назначава ръководство за ежедневна дейност, съставено от председателя, който по право е част от него, и от двама избрани членове.
+
+Член 15. Административното координационно звено може, когато това е оправдано от специални задачи, да създава подгрупи в своя състав.
+
+Член 16. Министърът на правосъдието предоставя административен персонал, помещения и необходимите офис консумативи на Административното координационно звено.
+
+Член 17. Членове 1 до 3 влизат в сила в деня на публикуване на това решение в Belgisch Staatsblad, а останалите членове влизат в сила на 1 януари 1999 г.
+
+Член 18. Нашият министър на правосъдието е натоварен с изпълнението на това решение.
+
+Подписано в Брюксел, 8 ноември 1998 г.
+
+АЛБЕРТ От името на Краля : Министърът на правосъдието,
+Т. ВАН ПАРИС
+
+---
+
+(Страница 13)
+
+## PARTIE III 
+
+---
+
+(Страница 14)
+
+## ПЕРЕЧЕН НА ПАРЛАМЕНТНИТЕ ДОКУМЕНТИ И ПРОТОКОЛИ
+
+### A. СЪСТАВЯНЕ НА КОМИСИЯТА ЗА ПАРЛАМЕНТСКО РАЗСЛЕДВАНЕ
+
+- Документи на Камарата на представителите :
+  - 313 (1995-1996) 
+    - № 1 : Проект на г-н Duquesne и съавтори
+    - №№ 2 до 4 : Поправки на г-нове Duquesne и Moureaux и на г-жа de T’Serclaes
+    - № 5 Доклад, представен от името на Комисията по правосъдие от г-н Borin
+    - № 6 Текст, приет от Комисията по правосъдие.
+  - Протоколи на Камарата на представителите
+    - 13, 14 и 28 март 1996 г.
+
+### B. РАБОТА НА КОМИСИЯТА ЗА ПАРЛАМЕНТСКО РАЗСЛЕДВАНЕ
+
+- Документи на Камарата на представителите :
+  - 313 (1995-1996) 
+    - №№ 7 и 8 Доклад, представен от името на комисията от г-нове Duquesne и Willems
+    - № 9 Мотивация, приета на пленарно заседание
+  - Протоколи на Камарата на представителите
+    - 30 април и 7 май 1997 г.
+
+### C. ЗАКОН ОТ 2 ЮНИ 1998 Г.
+
+- Документи на Камарата на представителите
+  - 1198 (1996-1997) 
+    - № 1 : Проект на г-н Duquesne
+    - №№ 2 до 7 : Поправки на г-нове J.-P. Viseur, Duquesne, Beaufays, Willems и на правителството
+    - № 8 : Доклад, представен от името на Комисията по правосъдие от г-н Willems
+    - № 9 : Текст, приет от Комисията по правосъдие
+    - № 10 : Текст, приет на пленарното заседание и предаден на Сената.
+  - Протоколи на Камарата на представителите
+    - 22 и 28 април 1998 г.
+- Документи на Сената
+  - 1-965 (1997-1998) 
+    - № 1 Проект, предаден от Камарата на представителите
+    - № 2 Проект, по който Сенатът не е взел решение.

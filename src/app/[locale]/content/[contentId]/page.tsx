@@ -11,6 +11,7 @@ import {
   getContentMarkdownWithLanguage,
   hasSourcePdf,
   hasCountryFlag,
+  getCountryFlagSrc,
   getLanguageName,
   t as loc,
   type Author,
@@ -159,7 +160,7 @@ export default async function ContentPage({ params }: Props) {
           <div className="flex items-center gap-1.5 flex-wrap">
             {flagExists && (
               <Image
-                src={`/flags/${content.countryCode}.webp`}
+                src={getCountryFlagSrc(content.countryCode)}
                 alt={content.countryCode}
                 width={24}
                 height={16}

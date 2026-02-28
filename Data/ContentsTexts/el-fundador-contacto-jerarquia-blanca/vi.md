@@ -1,31 +1,31 @@
-# Người sáng lập và liên lạc của anh ta với "Sự giao thoa trắng"
+# Người sáng lập và liên lạc của ông với "Giáo cấp Trắng"
 
-> Như đã được công bố trong số 1 của "ALEA", tôi dự định phát triển chủ đề về mối quan hệ giữa chúng tôi với Hirarchy và cách chúng tôi đến thế giới 24 năm trước. Là người sáng lập, những trang giấy đơn giản này sẽ có giá trị lịch sử khi thời gian trôi qua. Đối mặt với bằng chứng này, tôi buộc phải viết một cái gì đó mà cá tính của tôi mạnh mẽ từ chối, nhưng đó là cần thiết cho sự hiểu biết về các sự kiện và để có được không có sự biến dạng quan trọng về kiến thức của cuộc sống của riêng tôi trong tương lai, mà có thể có một tác động đến một biến dạng của toàn bộ công việc.
-> 
-> \- *Almena không. 2: Giới thiệu. Jorge Ángel Livraga*
+> Như đã được công bố trong Số 1 của "ALMENA", tôi dự định phát triển chủ đề về mối quan hệ của chúng ta với Giáo cấp và về cách chúng tôi đến với thế giới cách đây 24 năm. Là Người Sáng lập, những trang đơn giản này sẽ có giá trị như một tư liệu lịch sử khi thời gian trôi qua. Trước bằng chứng này tôi thấy mình bị thôi thúc phải viết điều mà Nhân Cách tôi phản đối mạnh mẽ, nhưng điều đó cần thiết để hiểu các sự kiện và để trong tương lai không xảy ra những biến dạng đáng kể trong nhận thức về cuộc đời của chính tôi, điều đó có thể ảnh hưởng tới sự biến dạng của toàn bộ Tác Phẩm.
+>
+> — *Almena nº 2: Giới thiệu. Jorge Ángel Livraga*
 
-> Với tần số đến gần mỗi tháng, ông tiếp tục nhận được thư từ Adyar, với lời khuyên về việc đọc sách và một số bài tập. Dựa vào đề nghị rằng tôi cần một nơi rất riêng tư cho việc nghiên cứu và phản chiếu của mình, tôi đã hình dung ra để biến đổi tầng hầm của nhà mình ở Amenabar 863 thành một dạng của "Crypta." Dự án này được chấp thuận và tôi cống hiến hết mình cho công việc mãnh liệt là lấy những bình đựng rượu cũ và những thứ khác đã tích lũy. Tôi ngạc nhiên khi thấy những chùm sắt của trần nhà chia thành 7 phần, rằng cây hình chữ nhật của nó rất gần với tỷ lệ "tự động" và nó được định hướng theo 4 điểm giáo chủ. Tôi thú nhận rằng sự ngạc nhiên của tôi kéo dài rất ít, bởi vì tại thời điểm đó tôi đã có sự đảm bảo nội bộ là đang làm việc cho " Lịch sử", "Những bậc thầy của sự khôn ngoan" hoặc bất cứ điều gì nó được gọi là.
-> 
-> \- *Almena không. 12: Tuổi trẻ của tôi VI. Jorge Ángel Livraga*
+> Với tần suất gần như hai tháng một lần, tôi tiếp tục nhận thư từ Adyar, với những lời khuyên về việc đọc sách và vài bài tập. Trước gợi ý rằng tôi sẽ cần một nơi rất riêng tư cho việc học và suy ngẫm, tôi đã nghĩ tới việc biến tầng hầm nhà mình ở Amenábar 863 thành một dạng "Cripta". Dự án được chấp thuận và tôi dốc sức vào công việc gian khổ là dọn ra bên trong những vỏ thùng rượu cũ và các đồ đạc khác đã tích tụ. Tôi ngạc nhiên khi thấy các dầm sắt trần nhà chia không gian thành 7 phần, mặt bằng hình chữ nhật của nó rất gần với các tỷ lệ "vàng" và nó được định hướng theo bốn phương chính. Thú nhận rằng sự ngạc nhiên của tôi không kéo dài lâu, bởi vì lúc đó tôi đã có một niềm tin nội tâm rằng mình đang làm việc cho "Giáo cấp", các "Bậc Thầy Trí Tuệ" hay bất cứ tên gọi nào người ta muốn dùng.
+>
+> — *Almena nº 12: Tuổi trẻ của tôi VI. Jorge Ángel Livraga*
 
-> Hội Masonry trong các phe phái khác nhau và truyền thống Rosacrucism (không phải của AMORC sáng lập vào đầu thế kỷ 20) là những nỗ lực của hệ tư pháp để giải cứu một số yếu tố gây cảm hứng trong thế kỷ 19 và trong đó nó trước đó nó đã bị suy thoái trong các hình thức chính trị cao và vô hiệu hóa bởi những người theo chủ nghĩa vô thần và chủ nghĩa Mác, được sinh ra từ một lý thuyết về sự sống, sự phản đối của kiến thức thực sự của giáo dục thực thụ.
-> 
-> Con số HPB xuất hiện sau đó được bao quanh bởi một lời biện hộ của những linh hồn già nua cộng hưởng trước lời tuyên bố của Hirarchy và Theooical S. được thành lập. Bất chấp thành công ban đầu, phong trào này cũng gây nguy hiểm cho sự hỗn loạn phát sinh từ Mặt Tối của quá trình phục hồi.
-> 
-> (...) De la Rama Dorada sẽ chuyển sang lục địa châu Âu cái dạng được gọi là "Logia Thule" trong đó có rất nhiều thông tin, ít nhất là giải thích được, và điều đó sẽ tạo ra sự thúc đẩy và biện minh cho phong trào chính trị mà chúng ta thường dùng trong tên của "Nazism", với các prologos và các biểu tượng của nó.
-> 
-> (...) Tôi, hơn 20 tuổi (khi tôi bắt đầu viết ANKOR), bắt đầu công việc của tôi trong tầng hầm Amenabar biến thành bộ giải mã của Ai Cập và tiếp tục nhận được, bây giờ từ Sri Ram, một số lá thư từ Adyar và dường như rất cũ carboncopies và các bản sao được mang như là "Madras 20th." (...) Ông đến thăm bộ mã và phê duyệt, nhưng dường như tôi không mấy nhiệt tình. Nhưng một Will nội vụ, đã không bỏ rơi tôi trong suốt cuộc đời, đã khiến tôi phải theo động cơ của chính mình, ngoài sức tưởng tượng của tuổi trẻ, tôi muốn họ nhiệt tình hơn. Hai năm đầu ở Cripta đã khiến tôi phát triển khả năng liên lạc trực tiếp với những Chủ nhân vô danh.
-> 
-> \- *Almena số 16: My Youngth X. Jorge Ángel Livraga*
+> Hội Tam Điểm với các khuynh hướng khác nhau và Hồng Thập Tự Truyền thống (không phải của AMORC được thành lập vào đầu thế kỷ XX) là những nỗ lực của Giáo cấp nhằm cứu vãn một số yếu tố mang tính Khởi Môn vào thế kỷ XIX và thế kỷ trước đó; nhưng những nỗ lực này đã thoái hóa thành những hình thức bị chính trị hóa cao độ và bị vô hiệu hóa bởi Chủ nghĩa Dương-biệt Khai-sáng và Chủ nghĩa Mác, sinh ra từ một sự trí tuệ hóa lý thuyết hóa của Đời sống, điều đối nghịch với Kiến thức Bí Truyền Truyền thống chân chính.
+>
+> (...) Lúc đó xuất hiện hình ảnh của HPB được bao quanh bởi một tập hợp các Linh Hồn "Cổ" vang vọng trước lời kêu gọi của Giáo cấp và Hội Thuyết Thông được thành lập. Dù thành công ban đầu, phong trào này cũng nguy hiểm khi lẫn vào chủ nghĩa vô chính phủ hỗn loạn phát xuất từ Mặt Tối của Quá Trình Phục Hưng.
+>
+> (...) Từ Rama Dorada sẽ truyền sang lục địa châu Âu hình thức gọi là "Logia Thule", về đó có khá nhiều thông tin, chí ít là ngoại truyền, và điều đó sẽ thúc đẩy và biện minh cho phong trào chính trị mà ta thường gom vào danh xưng "Chủ nghĩa Quốc Xã", với những tiền đề và hệ quả của nó.
+>
+> (...) Tôi, khi đã qua 20 tuổi (độ tuổi tôi bắt đầu viết ANKOR), đã khởi sự công việc trong tầng hầm Amenábar được biến thành Hầm Nghi thức Ai Cập và tiếp tục nhận, bây giờ từ Sri Ram, một vài thư từ Adyar và những bản sao chụp cùng bản sao than dường như rất cũ mà người gửi luôn ghi là "Madras 20 th". (...) Người ấy đã đến thăm Hầm và phê duyệt, nhưng đối với tôi dường như với ít nhiệt tình. Nhưng một Ý Chí nội tâm, thật may không rời bỏ tôi suốt đời, đã khiến tôi tiếp tục bằng động cơ riêng, vượt lên trên những sự chấp thuận mà tuổi trẻ tôi mong muốn được nồng nhiệt hơn. Hai năm đầu ở Hầm đã khiến tôi phát triển khả năng tiếp xúc trực tiếp hơn với các Thầy vô danh của tôi.
+>
+> — *Almena nº 16: Tuổi trẻ của tôi X. Jorge Ángel Livraga*
 
-> Từ sư phụ A. Tôi đã học được mối quan hệ hòa giải của tất cả những gì được thể hiện một cách hòa hợp. Từ sư phụ A. để lặn trong hiện thân quá khứ với sự bóp méo tối thiểu bởi sự chồng chất của hình ảnh và kinh nghiệm. Từ Master M. ( gián tiếp) để tìm kiếm sự thật mà không trở nên vô ích và áp đặt ý muốn lên những đam mê. Từ sư phụ K.H. ( gián tiếp) để hiểu nhiệm vụ của Người Mới và Subraza thứ 6.
-> 
-> \- *Almena số 16 tuổi. Jorge Ángel Livraga*
+> Từ Thầy A. tôi học được các mối quan hệ hài hòa của mọi điều muốn được biểu hiện một cách hài hòa. Từ Thầy Aa. là lặn vào các kiếp trước với mức biến dạng tối thiểu do sự chồng chéo của hình ảnh và trải nghiệm. Từ Thầy M. (theo đường gián tiếp) là tìm kiếm chân lý mà không vòng vèo vô ích và áp đặt ý chí lên các đam mê. Từ Thầy K.H. (theo đường gián tiếp) là hiểu sứ mệnh của Con Người Mới và Chủng phụ thứ 6.
+>
+> — *Almena nº 16: Tuổi trẻ của tôi XIII. Jorge Ángel Livraga*
 
-> Tôi muốn làm rõ rằng, trước hết, có những quyết định buộc tất cả các kiến trúc quốc gia tăng trưởng tối thiểu... nhưng JAMIS đã ra lệnh tăng trưởng tối đa. Tôi đã đề cập nhiều lần đến thực tế rằng, trong những gì chúng ta có thể biết, Hirarcy cố gắng một hình thức chuyển động mà không bị đốt cháy trong một vài năm hoặc di chuyển hoặc biến đổi và nó có thể tiếp tục với cùng loại thuốc bổ ngoài cuộc sống vật lý của người sáng lập.
-> 
-> \- *Lệnh số 8. Tăng trưởng. Jorge Ángel Livraga*
+> Tôi muốn làm rõ, trước hết, rằng có những Sắc Lệnh buộc tất cả các Cấu Trúc Quốc Gia phải đạt một mức tăng trưởng tối thiểu... nhưng CHƯA BAO GIỜ có một sắc lệnh qui định mức tăng trưởng tối đa. (...). Tôi đã nhiều lần đề cập rằng, trong phạm vi những gì ta có thể biết, Giáo cấp tìm cách tạo ra một dạng Phong Trào không bị thiêu rụi trong vài năm, không bị biến đổi hay chuyển hóa và có thể tiếp tục với cùng một tông điệu vượt qua đời sống thể lý của Người Sáng lập của nó.
+>
+> — *Mando nº 8: Tăng trưởng. Jorge Ángel Livraga*
 
-> Ở đây hơn bất cứ thứ gì siêu hình và vật lý học, có trong tự nhiên một cơ chế của sự tồn tại được phản ánh trong sự kiện và sự tồn tại - trong vâng. Ông là người biết những quy luật của cơ học lịch sử không cần phải "nói tiên tri" để khám phá những con đường mới trước nhiều ham muốn và thậm chí hàng thế kỷ (...). Cũng là tốt để xem xét một cơ chế của cảm xúc và cảm xúc mà sẽ hình thành động cơ khởi động của các kế hoạch phân cấp ... để chương trình tiền suy nghĩ sẽ tham gia vào một chu kỳ cuộc sống.
-> 
-> \- *Câu 54: Khi đối mặt với tình hình ở Châu Âu và thế giới. Jorge Ángel Livraga*
+> Xa hơn mọi điều siêu hình và bản thể luận, trong Tự nhiên tồn tại một cơ chế cơ học của hiện hữu được phản chiếu trong các sự kiện và trong tồn tại tự thân. Người hiểu những định luật của cơ học lịch sử này không cần "tiên tri" để khám phá những hướng đi mới với độ chênh lệch trước hàng vài thập kỷ, thậm chí hàng thế kỷ (...). Cũng nên xem xét một cơ chế của cảm xúc và tình cảm sẽ cấu thành các động cơ khởi động cho các Kế hoạch của Giáo cấp... để chương trình được hoạch định trước ấy bước vào chu kỳ sống.
+>
+> — *Mando nº 54: Trước tình hình ở Châu Âu và Thế giới. Jorge Ángel Livraga*

@@ -1,336 +1,354 @@
-)ممثلو بلجيكا( )المرحلة ١(
+(مجلس النواب بلجيكا) (الصفحة 1)
 
-## الاتحاد الروسي
+## تحقيق برلماني
 
-To develop a policy to combat the illegal practices of sects and the danger they pose to society and to individuals, particularly minors
+يهدف إلى وضع سياسة لمكافحة الممارسات غير القانونية للطوائف والخطر الذي تشكّله على المجتمع وعلى الأفراد، وخصوصاً القاصرين.
 
 ---
 
-(الفئة 2)
+(الصفحة 2)
 
 ## المحتويات
 
--   الجزء الأول من القانون المؤرخ 2 حزيران/يونيه 1998 المتعلق بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة، ووحدة تنسيق إداري لمكافحة المنظمات الطائفية الضارة (مونيتور بيلج، 25 تشرين الثاني/نوفمبر 1998)
--   المرسوم الملكي الصادر في 8 تشرين الثاني/نوفمبر 1998 والمتعلق بتكوين وتشغيل وتنظيم الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية المؤذية (مونيتور بيلج، 9 كانون الأول/ديسمبر 1998)
--   الجزء الثالث - بيان الهيئات التداولية والوثائق السنوية
--   الجزء الرابع - تقرير مقدم من السادة بالنيابة عن لجنة التحقيق البرلمانية دوكين وويلمز
--   الجزء الخامس: اقتراح اعتمد في جلسة عامة.
+- الجزء الأول — القانون المؤرخ في 2 حزيران/يونيو 1998 المتعلق بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إدارية لمكافحة المنظمات الطائفية الضارة (الجريدة الرسمية البلجيكية بتاريخ 25 نوفمبر 1998)
+- الجزء الثاني — المرسوم الملكي الصادر في 8 نوفمبر 1998 المحدد لتكوين، سير وتنظيم الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية الضارة (الجريدة الرسمية البلجيكية بتاريخ 9 ديسمبر 1998)
+- الجزء الثالث — سجل الوثائق البرلمانية والمحاضر
+- الجزء الرابع — تقرير مقدم باسم لجنة التحقيق البرلمانية من السيدين Duquesne وWillems
+- الجزء الخامس — قرار اعتمد في الجلسة العامة.
 
 ---
 
-(الفئة 3)
+(الصفحة 3)
 
-القانون الصادر في 2 حزيران/يونيه 1998 بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إداري لمكافحة المنظمات الطائفية الضارة (مونيتور بليسج، 25 تشرين الثاني/نوفمبر 1998)
-
----
-
-(الفئة 4)
-
-## BELGISCH STATSBLAD
-
-Prijs van een jaarSubscription: Belgium: F 4,260; buitenland: F 17,283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor subscriptionen en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
-
-168th JAARGANG
-
-25 تشرين الثاني/نوفمبر 1998
-
-Ministerie van Justie
-
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+القانون المؤرخ في 2 حزيران/يونيو 1998 المتعلق بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إدارية لمكافحة المنظمات الطائفية الضارة (الجريدة الرسمية البلجيكية بتاريخ 25 نوفمبر 1998)
 
 ---
 
-(الفئة 5)
+(الصفحة 4)
 
-### DEPARTMENT VAN JustITIE
+## الجريدة الرسمية البلجيكية
 
-2 JUNI 1998. - Wet Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties (1)
+سعر الاشتراك السنوي:
+بلجيكا: F 4 260؛ الخارج: F 17 283.
+سعر العدد: F 10 لكل ورقة من ثماني صفحات. للحصول على معلومات حول الاشتراكات وبيع الأعداد يمكنكم الاتصال بإدارة الجريدة الرسمية البلجيكية، Leuvenseweg 40-42، 1000 بروكسل.
+هاتف 02'552 22 11.
 
-ALBERT II, Koning der Belgian, Aan Allen die nu zijn en hierna Wezen zullen, Eleven Groet.
+المجلد 168
 
-From Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt :
+الأربعاء 25 نوفمبر 1998
 
-### HOOFDSTUK I. - Voorafgaande bepalingen
+وزارة العدل
 
-Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
-
-المادة 2 - جواز المرور على سيارة فان أوندرهافيج المبللة بالكلمات من طراز schadelijke sektarische organiatie verstaan, elke groepering met een levensbeschouwelijk of Godsdienstig doel, of die zich als dusdanig voordoet en die zich in haar organenjti
-
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op basis van de principles welke zijn vastgelegd in de Grondwet, de wetten, de decreten, commandies en in de internationale verdragen inzake de bescherming van de rechten van de mens welden door België we.
-
-### HOOFDSTUK II. — Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties
-
-آرت 3. Bij het ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties", hierna Centrum geneamd. ويُستهزَم في " zetel van het Centrum " بـ " Brussel-Hoofdstad " .
-
-المادة 4 - المادة 1. Het Centrum bestaat uit twaalf vast leden en twaalf plaatsvervangende leden die met een tweederde meerderheid door de Kamer van volksvertegenwoordigers worden aangewezen. Zes vast leden en zes plaatsvervangende leden worden aangewezen op voor-dracht van de Ministerraad en voor elk van de teeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. عشْرة مينستي غطاءِ واسعِ في عشبِ plaatsvervangend lid Kennen Duits.
-
-De Kamer van volksvertegenwoordigers kiest uit de vast leden de voorzitter en de plaatsvervangende voorzitter.
-
-§2. De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de eminente persoonlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problemmatiek van de schadelijke sekta Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van objectiviteit en onpartijdigheid te kunnen uitoefen. From vast to plaatsvervangende leden kunnen van hun mandaat ontheven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichten of de waardigheid van hun functie in het gedrang brengen.
-
-§3. Om als vast of waarnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen :
-
-1° de burgerlijke en politeke rechten genieten;
-
-2° geen lid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+قانون 2 يونيو 1998 القاضي بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إدارية لمكافحة المنظمات الطائفية الضارة، ص. 3782-t
 
 ---
 
-(Page 6)
+(الصفحة 5)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechstreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierdegrad
+### وزارة العدل
 
-§ 5. Wanneer een vast lid verhinderd of afwezig is, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend lid waarvan het mandaat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend lid da voor de rest term van de De Koning stelt de modaliteiten inzake de vergoeding van de leden van het Centrum vast.
+2 حزيران/يونيو 1998. — قانون يقضي بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إدارية لمكافحة المنظمات الطائفية الضارة (1)
 
-المادة 5 Het Centrum stelt zijn huishoudelijk regulation op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+ألبير الثاني، ملك بلجيكا، إلى جميع الذين هم الآن وسيكونون بعد، تحيتنا.
 
-المادة ٦ - المادة ١ - هيت سنترم هيبست:
+لقد أقرّت المجلّتان ونصدّق نحن بما يلي:
 
-1° het verschijnsel van schadelijke sektarische organizaties in België en hun international bindingen bestuderen;
+### الباب الأول. — أحكام تمهيدية
 
-2° een voor het publiek toegankelijk documentatiecentrum organisen;
+المادة 1. ينظّم هذا القانون شأنًا مقصودًا في المادة 78 من الدستور.
 
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hij zijn rechten kan laten gelden;
+المادة 2. لأغراض تطبيق هذا القانون، يُقصد بالمنظمة الطائفية الضارة كل تجمّع ذا غرض فكري أو ديني، أو الذي يدّعي ذلك، والذي تنحرف تنظيماته أو ممارساته إلى أنشطة ضارة وغير قانونية تَضرّ بالفرد أو بالمجتمع أو تنتهك الكرامة الإنسانية.
 
-4° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisaties en het bijzonder over het beleid inzake de strijisa organgen deze
+يُبحث الطابع الضار للمنظمة الطائفية بناءً على المبادئ المنصوص عليها في الدستور والقوانين والمراسيم والأنظمة والاتفاقيات الدولية بشأن حماية حقوق الإنسان التي صادقت عليها بلجيكا.
 
-§2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd :
+### الباب الثاني. — مركز المعلومات والرأي بشأن المنظمات الطائفية الضارة
 
-1° alle beschikbare informatie te verzamelen;
+المادة 3. يُنشأ لدى وزارة العدل مركز مستقل تحت اسم «مركز المعلومات والرأي بشأن المنظمات الطائفية الضارة»، ويشار إليه فيما يلي بالمركز.
+يقع مقر المركز في الدائرة الإدارية «بروكسل-العاصمة».
 
-2° Alle studies of wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn zijn om zijn opdrachten concreet te kunnen uitvoeren;
+المادة 4. § 1. يتألف المركز من اثني عشر عضوًا دائمًا واثني عشر عضوًا بديلاً يُعيَّنون بأغلبية ثلثي أعضاء مجلس النواب. يُعيَّن ستة أعضاء دائمين وستة أعضاء بدلاء بناءً على ترشيح مجلس الوزراء، ولكل منصب من تلك المناصب يقدّم مرشّحان.
+يُضمن التوازن اللغوي بين الأعضاء الناطقين بالهولندية والفرنسية لكل من الأعضاء الذين يُعيَّنون مباشرة من قبل المجلس وللأعضاء الذين يُعيَّنون على أساس ترشيح مجلس الوزراء.
+يجب أن يجيد على الأقل عضو دائم واحد وعضو بديل واحد اللغة الألمانية.
 
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, over te nemen;
+يختار مجلس النواب من بين الأعضاء الدائمين الرئيس ونائب الرئيس.
 
-4° steun en begeleiding te verlenen aan instellingen, organisaties en verleners van juridische bijstand;
+§ 2. تُعيّن الأعضاء لمدة أربع سنوات، قابلة للتجديد مرة واحدة، من بين الشخصيات البارزة المعروفة بمعارفها وخبرتها واهتمامها بمشكل المنظمات الطائفية الضارة. ويجب أن يوفروا كل الضمانات لممارسة ولايتهم باستقلال تام وبروح الموضوعية والحياد.
+يمكن إعفاء الأعضاء الدائمين والبدلاء من ولايتهم بقرار من مجلس النواب إذا تقصّروا في واجباتهم أو أخلّوا بكرامة منصبهم.
 
-5° op zijn bijeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum samen met de Administratieve coördinatiecel.
+§ 3. لكي يُعيّن المرشح كعضو دائم أو بدلًا عنه وللحفاظ على هذه الصفة يجب أن تتوفر فيه الشروط التالية:
 
-§3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1° en 3° persoonsgeevens te verwerken met betrekking tot de overtuing of activityeiten op levensbeschouwe-lijk of Godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8 December 1992 tot bescherming van de persoonlijke levensfessvesves tenwerzichte van
+1° التمتع بالحقوق المدنية والسياسية؛
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwelijkheid en beveiliging van de persoons-geevens, het statut en de taken van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de
-
-§4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sekta.
-
-المادة 7 - من الديفيزن إلى إيانبيلينغين فان هيت سنترم زيجن De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslissing van het Centrum.
-
----
-
-(الفئة 7)
-
-المادة ٨ - المادة ١ - هيت سنتروم كان سيليكتس بيرادسلاغن الهندي العشرة مينستي دي ميرديرهايد فان زيجن زعم أنويزيغ. (دي بيليسينجين جينومن) قابل (ميردرهايد) المطلق في شاحنات الـ (جيفال فان) التي تُمسك بـ (دير جولدمان) هو (دي جِل فان دي فورزيتر) في (غيفال دايفيندرد)
-
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten Weergeven.
-
-§2. Het Centrum mag beschikken over het integrafisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordigers met het oog op de beleidsvorming ter bestrijding van de onwettige prakti
-
-المادة 9 - صوت التليفون فان الزين أوبراشتين كن هيت سنتروم De Koning bepaalt de modaliteiten van de vergoeding van deze experten.
-
-المادة 10 موت (فور إيلين) و (فيركن) قابل (فيرترو ويليك جيغيفينز) يموت من باب (سنتروم) (ديزلفد) يرتجف الـ(غولدتوك) أو (إلكين) يموت من نيت نيت نيت نيت سنتروم)
-
-المادة 11 Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag wordt gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
-
-المادة 12 Het Centrum beschikt over een secretariatat.
-
-Het personeel wordt ter beschikking gestureld door de minister van Justitie, na voorafgaand het advies van het Centrum te hebben ingewonnen.
-
-Het personeel state onder het rechtstreeks gezag van de voorzitter van het Centrum. (دي ويفينجسكوستن فان هيت سينتروم كومين) 10 شاحنات متأخرة لزراعة فان هيت مصغرة فان جوستي
-
-### HOOFDSTUK III. — Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties
-
-المادة 13 Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het ministère van Justitie opgericht.
-
-المادة 14 De minister van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administratieve coördi-natiecel bij een in Ministerraad overlegd besluit.
-
-المادة 15 From Administratieve coördinatiecel heeft de volgende opdrach-ten:
-
-1° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
-
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
-
-3° Maatregelen voorstellen die van aard zijn om de coördinatie en de effectiviteit van deze acties te verhogen;
-
-4° In overleg met de bevoegde diensten en bestruren een preventie-beleid voor de burgers tegen de activitéeiten van de schadelijke sektarische organizaties, bevorderen;
-
-5° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum uit voeren.
+2° ألا يكون عضوًا في البرلمان الأوروبي أو في هيئات التشريع، ولا في مجلس أو حكومة احدى المجتمعات أو الأقاليم، ولا في الحكومة الفيدرالية ولا في حكومة إحدى المجتمعات أو الأقاليم.
 
 ---
 
-(الدرجة 8)
+(الصفحة 6)
 
-المادة 16 From Koning bepaalt de modaliteiten inzake de werking en de organizatie van de Administratieve coi:irdinatiecel bij een in Mmister Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Bclgisch Staatsblad zal worden bekendgemaakt.
+§ 4. يُحظر على أعضاء المركز حضور المشاورات في مسائل يكون لهم فيها مصلحة شخصية أو مباشرة أو تكون لأقاربهم بالنسب أو المصاهرة حتى الدرجة الرابعة مصلحة شخصية أو مباشرة فيها.
 
-Gegeven te Brussel, 2 Juni 1998.
+§ 5. إذا تعذّر على عضو دائم الحضور أو تغيّب، يحل محله عضوه البديل.
+يُستبدل العضو الدائم أو البديل الذي تنتهي ولايته قبل انقضاء مدّة الأربع سنوات وفقًا للإجراء المشار إليه في الفقرة الأولى بعضو دائم أو بديل يتم تعيينه لبقية المدة.
+يحدد الملك آليات تعويض أعضاء المركز.
 
-ALBERT فان كونجسويج: الوزير فان جوستي يناير دي الوزير فان جوستي يناير ملاحظة
+المادة 5. يضع المركز نظامه الداخلي خلال شهرين من تاريخ تنصيبه. يُعرض هذا النظام على مجلس النواب للموافقة.
 
-(1) Gewone zitting 1996-1997.
+المادة 6. § 1. يُكلّف المركز بالمهام التالية:
 
-(كامر فان فولكسفيرتجين) خنق برلماني Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nrs. 1198/2 tot 7. - Tekst aangenomen door of Commission, nr. 1198/9. -الدفاع البرلماني Vergadering van 22 April 1998. -أعني Vergadering van 28 April 1998. (سينات) خنق برلماني -Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd door de Senaat, nr. 1-965/2/1997-1998.
+1° دراسة ظاهرة المنظمات الطائفية الضارة في بلجيكا وروابطها الدولية؛
+
+2° تنظيم مركز توثيق مفتوح للجمهور؛
+
+3° استقبال وإعلام الجمهور وكل شخص يتوجّه إلى المركز، وإطلاعه على حقوقه وواجباته وعلى الكيفية التي يستطيع بها ممارسة حقوقه؛
+
+4° تقديم تقرير أو مشورات وتوصيات بمبادرة منه أو بناءً على طلب أي سلطة عمومية بشأن ظاهرة المنظمات الطائفية الضارة، وخصوصًا بشأن السياسات المتصلة بمكافحة هذه المنظمات.
+
+§ 2. لتنفيذ مهامه يُخوَّل المركز ما يلي:
+
+1° جمع كل المعلومات المتاحة؛
+
+2° إجراء كل الدراسات أو الأبحاث العلمية اللازمة لتنفيذ مهامّه على نحو ملموس؛
+
+3° الاستحواذ على أي أرشيف أو مجموعة توثيقية موضوعها يتوافق مع إحدى مهامه؛
+
+4° تقديم الدعم والمرافقة للمؤسسات والمنظمات ومقدمي المساعدة القانونية؛
+
+5° استشارة أو دعوة الجمعيات والأشخاص المختصين الذين يرى الاستماع إليهم مفيدًا في اجتماعاته.
+ويتعاون المركز في أداء مهامه مع الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية الضارة.
+
+§ 3. يُخوَّل المركز، لتنفيذ مهامه المشار إليها في § 1، 1° و3°، معالجة البيانات الشخصية المتعلقة بالاعتقاد أو بالأنشطة في المجال الفكري أو الديني كما يُقصد في المادة 6 من قانون 8 ديسمبر 1992 لحماية الحياة الخاصة بالنسبة لمعالجة البيانات الشخصية.
+
+يحدد الملك، بقرار يُعرض على مجلس الوزراء، الضمانات المتعلقة بسرية وحماية البيانات الشخصية، والصفة ووظائف مكلف بحماية البيانات داخل المركز وكيفية تقديم المركز لتقارير للجنة لحماية الحياة الخاصة بشأن معالجة البيانات الشخصية.
+
+§ 4. تَستند المعلومات التي يقدمها المركز بطلب من الجمهور إلى المعلومات المتوفرة لديه، ولا يجوز تقديمها في شكل قوائم أو جداول منهجية للمنظمات الطائفية الضارة.
+
+المادة 7. تكون مبررات مشورات وتوصيات المركز مبيّنة.
+تكون المشورات علنية، ما لم يتخذ المركز قرارًا مسببًا بخلاف ذلك.
 
 ---
 
-(الفئة 9)
+(الصفحة 7)
+
+المادة 8. § 1. لا يجوز للمركز الاجتماع ما لم يكن على الأقل نصف أعضائه حاضرين. تُتخذ القرارات بأغلبية مطلقة. في حالة التعادل، يكون لقرار الرئيس أو، إذا تعذّر عليه، نيابه الصوت الحاسم.
+
+ستعرض المشورات المعتمدة وجهات النظر المختلفة المبينة.
+
+§ 2. يجوز للمركز أن يطلع على المحضر اللفظي الكامل للجلسات العامة للجنة التحقيق البرلمانية التابعة لمجلس النواب بشأن السياسات المتعلقة بمكافحة الممارسات غير القانونية للطوائف وبخطرها على المجتمع والفرد، ولا سيما على القاصرين، وذلك بغرض توجيه السياسة.
+
+المادة 9. لتنفيذ مهامه يمكن للمركز الاستعانة بخبراء.
+يحدد الملك آليات تعويض هؤلاء الخبراء.
+
+المادة 10. يسري على جميع الأشخاص الذين يتعاملون مع بيانات سرية يجمعها المركز واجب السرّ المهني المشار إليه في المادة 458 من قانون العقوبات. وينطبق نفس الالتزام على كل من لا ينتمي إلى المركز ولكنه يعمل كخبير أو باحث أو متعاون.
+
+المادة 11. يقدّم المركز تقريرًا عن نشاطاته كل سنتين. يُرسل هذا التقرير إلى مجلس الوزراء وإلى هيئتي التشريع وإلى مجالس وحكومات المجتمعات والأقاليم.
+
+المادة 12. يتوفر المركز على أمانة فنية.
+
+يُوفّر الطاقم من قبل وزير العدل بعد استشارة المركز مسبقًا.
+
+يخضع الموظفون للإشراف المباشر لرئيس المركز. وتُحمّل مصاريف تشغيل المركز على ميزانية وزارة العدل.
+
+### الباب الثالث. — الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية الضارة
+
+المادة 13. يُنشأ لدى وزارة العدل وحدة تنسيق إدارية بشأن مكافحة المنظمات الطائفية الضارة.
+
+المادة 14. يتولى وزير العدل أو ممثله رئاسة الوحدة الإدارية للتنسيق.
+يحدد الملك تركيب الوحدة الإدارية للتنسيق بقرار يُعرض على مجلس الوزراء.
+
+المادة 15. تُناط بالوحدة الإدارية للتنسيق المهام التالية:
+
+1° تنسيق الأعمال التي تقوم بها المصالح والهيئات العامة المختصة؛
+
+2° دراسة تطور الممارسات غير القانونية للمنظمات الطائفية الضارة؛
+
+3° اقتراح تدابير من شأنها تعزيز التنسيق وفعالية هذه الأعمال؛
+
+4° تعزيز سياسة وقائية للمواطنين ضد أنشطة المنظمات الطائفية الضارة، بالتشاور مع المصالح والإدارات المختصة؛
+
+5° بناء تعاون وثيق مع المركز واتخاذ التدابير اللازمة لتنفيذ توصيات المركز واقتراحاته.
+
+---
+
+(الصفحة 8)
+
+المادة 16. يحدد الملك، بقرار يُعرض على مجلس الوزراء، الكيفيات المتعلقة بعمل وتنظيم الوحدة الإدارية للتنسيق.
+يُصدَر هذا القانون ويُؤمر بأن يُختم بخاتم الدولة وينشر في الجريدة الرسمية البلجيكية.
+
+صدر في بروكسل، 2 حزيران/يونيو 1998.
+
+ألبير
+باسم الملك:
+وزير العدل،
+T. VAN PARYS
+مختوم بخاتم الدولة: وزير العدل،
+T. VAN PARYS
+ملاحظة
+
+(1) دورة عادية 1996-1997.
+
+مجلس النواب.
+الوثائق البرلمانية. — مشروع قانون مقدم من السيد Duquesne، رقم 1198/1. — تعديلات، أرقام 1198/2 إلى 7. — تقرير باسم لجنة العدل من السيد Willems، رقم 1198/8. — نص اعتمدته اللجنة، رقم 1198/9. — نص اعتمد في الجلسة العامة وأرسل إلى مجلس الشيوخ، رقم 1198/10.
+المداولات البرلمانية. — مناقشة. جلسة 22 نيسان/أبريل 1998. — اعتماد. جلسة 28 نيسان/أبريل 1998.
+مجلس الشيوخ.
+الوثائق البرلمانية. — مشروع أرسلته مجلس النواب، رقم 1-965/1-1997-1998. مشروع لم يُطرح للنقاش في مجلس الشيوخ، رقم 1-965/2-1997-1998.
+
+---
+
+(الصفحة 9)
 
 ## الجزء الثاني
 
-المرسوم الملكي الصادر في 8 تشرين الثاني/نوفمبر 1998 والمتعلق بتكوين وتشغيل وتنظيم الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية المؤذية (مينيتور بيلج، 9 كانون الأول/ديسمبر 1998)
+المرسوم الملكي الصادر في 8 نوفمبر 1998 المحدد لتكوين، سير وتنظيم الوحدة الإدارية لتنسيق مكافحة المنظمات الطائفية الضارة (الجريدة الرسمية البلجيكية بتاريخ 9 ديسمبر 1998)
 
 ---
 
-(الفئة 10)
+(الصفحة 10)
 
-### الأسلحة النارية، والأجهزة والأنظمة
+### القوانين، المراسيم، الأوامر والأنظمة
 
-DEPARTMENT VAN JustITIE
+وزارة العدل
 
-N. 98 - 3277 \[S−C−98/09981\] 8 NOVEMBER 1998. - Koninklijk besluit houdende samenstelling, werking en organisatie van de Administratieve Coo ubrdinatiecel inzake de strijd tegen schadelijke sektarische organisaties.
+رقم 98 — 3277 [S−C−98/09981] 8 نوفمبر 1998. — مرسوم ملكي بشأن تركيب، عمل وتنظيم الوحدة الإدارية للتنسيق في مكافحة المنظمات الطائفية الضارة.
 
-ALBERT II, Koning der Belgian, Aan Allen die nu zijn en hierna Wezen zullen, Eleven Groet.
+ألبير الثاني، ملك بلجيكا، إلى جميع الذين هم الآن وسيكونون بعد، تحيتنا.
 
-Gelet op de wet van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo ubrdinatiecel inzake de strijd tegen schadelijke sektarische organis Gelet op het advies van de Inspector van Financie pn, gegeven op 10 September 1998; Gelet op de wetten van de Raad van State, gecoo prdineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 augustus 1980, 16 juni 1989, 4 juli 1989 in 4 augustus 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast met de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individuel en inzonderheid voor de minderjari-gen, de drende noodzaak van de oprichting van tietraeen Overwegende dat de wet Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo prdinatiecel ondertekend werd door de
+بناءً على القانون المؤرخ 2 حزيران/يونيو 1998 القاضي بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة وبإنشاء وحدة تنسيق إدارية بشأن مكافحة المنظمات الطائفية الضارة؛
+وبناءً على رأي مفتش المالية الصادر في 10 سبتمبر 1998؛
+وبناءً على قوانين مجلس الدولة المنسّقة في 12 يناير 1973، لا سيما المادة 3، § 1، المعدّلة بالقوانين المؤرخة 9 أغسطس 1980، 16 يونيو 1989، 4 يوليو 1989 و4 أغسطس 1996؛
+ونظرًا للضرورة الملحّة؛
+وبالنظر إلى أن لجنة التحقيق البرلمانية المكلفة بتصميم السياسات لمكافحة الطوائف وخطر تلك الطوائف على الفرد ولا سيما على القاصرين، طرحت الضرورة الملحّة لإنشاء مركز للمعلومات والرأي ووحدة تنسيق إدارية، من أجل إنشاء جهاز بسرعته الممكنة لمتابعة هذه الظاهرة؛
+ونظرًا لأن القانون القاضي بإنشاء مركز للمعلومات والرأي بشأن المنظمات الطائفية الضارة ووحدة تنسيق إدارية قد وقّعه الملك في 2 حزيران/يونيو 1998، لذا من المستحسن نشر القانون والمراسيم التنفيذية في أسرع وقت ممكن لتمكين المركز والوحدة من مباشرة مهامهما اعتبارًا من 1 يناير 1999؛
+وباقتراح وزير العدل وبناءً على رأي وزرائنا المجتمعين في المجلس،
 
----
+قررنا وبهذا نقرر:
 
-(الفئة 11)
+### الباب الأول. — تركيب الوحدة الإدارية للتنسيق
 
-Koning op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo ptendracel in stat stellen Op de voordracht van Eleven Minister van Justitie en op het advies van Eleven in Raad vergaderde Ministers,
+المادة 1. تتألف الوحدة الإدارية للتنسيق المنشأة بموجب المادة 13 من قانون 2 حزيران/يونيو 1998 على النحو التالي:
 
-Hebben Wij besloten en besluiten Wij :
+- ممثل عن هيئة مدعي العموم؛
+- قاضٍ وطني؛
+- ممثل عن الدرك الملكي؛
+- ممثل عن الشرطة القضائية؛
+- ممثل عن الشرطة الوطنية العامة في وزارة الشؤون الداخلية؛
+- ممثل عن وزارة الشؤون المدنية؛
+- ممثل عن إدارة أمن الدولة؛
+- ممثل عن المديرية العامة للتشريع المدني والشؤون الطقسية في وزارة العدل؛
+- ممثل عن المديرية العامة للتشريع الجنائي وحقوق الإنسان في وزارة العدل؛
+- ممثل عن إدارة السياسة الجنائية في وزارة العدل؛
+- ممثل عن وزارة الشؤون الداخلية؛
+- ممثل عن وزارة المالية؛
+- ممثل عن وزارة التوظيف والعمل؛
+- ممثل عن وزارة الدفاع الوطني.
 
-### HOOFDSTUK I. - Samenstelling van de Administratieve Coo berinatiecel
+المادة 2. يُعيَّن كذلك بديل لكل ممثل.
 
-Artikel 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt samengesteld :
+المادة 3. يعين وزير العدل الممثلين وبدائلهم بعد ترشيح الجهات التي يتبعون لها.
 
--   een vertgenwoordiger van het College van Attorney-General;
--   een nationaal magistraat;
--   een vertgenwoordiger van de Rijkswacht;
--   een vertgenwoordiger van de Gerechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
+### الباب الثاني. — سير عمل الوحدة الإدارية للتنسيق
 
-Ministry van Binnenlandse Zaken;
+المادة 4. يحدد الرئيس مكان وتاريخ ووقت بدء الاجتماعات ويعد جدول الأعمال.
+يحق لكل عضو أن يطلب من الرئيس إدراج نقاط على جدول الأعمال.
+كما يحق لرئيس مركز المعلومات والرأي بشأن المنظمات الطائفية الضارة أن يطلب من رئيس الوحدة إدراج نقاط على جدول الأعمال.
 
--   een vertgenwoordiger van het Ministerie van Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het Directoraat- general burgerlijke
+المادة 5. ما لم تكن هناك حالة طارئة، تُرسل الدعوات وجدول الأعمال وكذلك أية وثائق، بعد توقيع الرئيس، من قبل الأمين إلى الأعضاء قبل ثمانية أيام على الأقل.
 
-Wetgeving en erediensten van het Ministerie van Justitie;
+المادة 6. يحل البديل محل العضو الذي يتعذّر عليه الحضور ويُرسل له هذا الأخير الوثائق بنفسه.
 
--   een vertgenwoordiger van het Directoraat-general strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van het Ministerie van Financien;
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
+المادة 7. لا يكون اجتماع الوحدة الإدارية للتنسيق صحيحًا ما لم يكن نصف الأعضاء أو بدائلهم حاضرين على الأقل.
+وعندما لا توجد أغلبية حاضرة، تُعاد دعوة الأعضاء، وفي هذه الحالة يعقد الاجتماع بصرف النظر عن عدد الأعضاء الحاضرين.
 
-Arbeid;
+المادة 8. لكل عضو في الوحدة الإدارية للتنسيق، وفي حال الغياب يكون لبديله، صوت واحد.
+تُتخذ القرارات بالإجماع من بين الأعضاء الحاضرين.
+يمكن لرئيس مركز المعلومات والرأي بشأن المنظمات الطائفية الضارة أو بديله أن:
 
--   een vertgenwoordiger van het Ministerie van Landsverdeging. المادة 2 - كلمة " Voor elke vertgenwoordiger " tevens een plaatsvervan- ger aangeduid.
-
-المادة 3 - من اللافجينات إلى فتح باب مناديل اللافقارات المسموعة من قبل الوزير فان جوستيني، من باب " البوردراكت " ، من أجل احترام الحريص فوقي فان ويسجي أفهانغن.
-
-### HOOFDSTUK II. - Werking van de Administratieve Coo ubrdinatiecel
-
-المادة 4 De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de agenda op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te verzoeken punten op de agenda te plaatsen.
-
-المادة 5 Behoudens hoogdringendheid worden de uitnodigingen en de agenda evens eventuales stukken, na ondertekening door de voorzitter, door de secretaris 10 minste acht dagen vooraf aan de leden toegezonden.
-
-المادة 6 - دي زعمن يموت فيرايندرد زيجن، باب لوين فيرفانغن هون بلااتسفيرفانغر في فتح الباب الحاجز.
-
-المادة 7. De Administratieve Coo ubrdinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun plaatsvervangers aanwezig is. Ingeval geen meerderheid aanwezig was, worden de leden opnieuw uitgenodigd, in welk geval de Administratieve Coo bardinatiecel geldig vergadert, wat look het aantal aanwezige leden is.
-
-Article 8. Elk lid van de Administratieve Coo prdinatiecel, in bij verhin-dering zijn plaatsvervanger, beschikt over een stem. دي بيليسينغنين بوين بي يونانيميتيت فان دي آنويزيج قاد جينومين De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties of zijn plaatsvervanger kan :
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo ubrdinatiecel bij te wonen;
--   الكلمة الهندية المهووسة من جدول الأعمال تقول صدقية.
+- يُدعى لحضور اجتماعات الوحدة الإدارية للتنسيق؛
+- أن يُستمع إليه إذا اقتضى جدول الأعمال ذلك.
 
 ---
 
-(الفئة 12)
+(الصفحة 12)
 
-المادة 9. De secretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorzitter met de volgende uitnodiging meegestuurd.
+المادة 9. يُحرّر الأمين محضر الاجتماعات. ويُرسل بعد مصادقة الرئيس مع الدعوة التالية.
 
-De leden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee in dag voor de vergadering.
+يُقدّم الأعضاء ملاحظاتهم كتابيًا في موعد أقصاه يوم واحد قبل الاجتماع.
 
-المادة 10 De adviezen en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de wet van 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo berinatiecel overgezonden.
+المادة 10. تُحال المشورات والتوصيات التي يصدرها المركز بمقتضى المادة 6، § 1، 4° من قانون 2 حزيران/يونيو 1998، من قبل المركز إلى رئيس الوحدة الإدارية للتنسيق.
 
-De Administratieve Coo brdinatiecel stelt in overleg met het Centrum vast de wijze van:
+تحدد الوحدة الإدارية للتنسيق بالتشاور مع المركز طريقة:
 
--   (ب) أن تُعرب شركة (كورديناتي) عن أي عمل ممكن؛
--   Regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+- تنسيق أي إجراءات محتملة؛
+- تنظيم الرقابة على تنفيذ توصيات ومشورات المركز بقدر ما تقع ضمن اختصاصاتها.
 
-المادة 11 De maatregelen die de Administratieve Coo prdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of immediateies, evenals aan de voorzitter van het Centrum meegedeeld.
+المادة 11. تُخطر الإجراءات التي تقترحها الوحدة الإدارية للتنسيق خطيًا إلى الإدارات أو الجهات المعنية، وكذلك إلى رئيس المركز.
 
-المادة 12 De Administratieve Coo brdinatiecel pleegt overleg met alle bevoegde diensten en bestruren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. Of federale overheden dienen de door de Administratieve Coo berinatiecel gevraagde inlichtingen te bezorgen.
+المادة 12. تجري الوحدة الإدارية للتنسيق مشاورات مع كل المصالح والهيئات المختصة في إطار مهامها. ويمكنها، من بين أمور أخرى، دعوتها وطلب معلومات منها. ويجب على السلطات الفيدرالية تزويد الوحدة الإدارية للتنسيق بالمعلومات المطلوبة منها.
 
-المادة 13 De Administratieve Coo brdinatiecel vergadert minstens eenmaal om de twee maanden.
+المادة 13. تجتمع الوحدة الإدارية للتنسيق على الأقل مرة كل شهرين.
 
-From Administratieve Coo brdinatiecel bengt zesmaandelijks verslag uit aan het Centrum nopens haar Werkzaamheden.
+تقدّم الوحدة إيضاحًا كل ستة أشهر إلى المركز عن أنشطتها.
 
-### المنظمة
+### الباب الثالث. — التنظيم
 
-المادة 14 Alle leden van de Administratieve Coo perdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+المادة 14. يشكل جميع أعضاء الوحدة الإدارية للتنسيق «المكتب». ويعيّن «المكتب» إدارة يومية مكوَّنة من الرئيس الذي يكون عضوًا فيها بحكم منصبه وعضوين منتخبين.
 
-المادة 15 De Administratieve Coo brdinatiecel kan wanneer bijzondere opdrachten dit verantwoorden subgroepen binnen haar schoot oprichten.
+المادة 15. يمكن للوحدة الإدارية للتنسيق، متى دعت المهام الخاصة إلى ذلك، إنشاء مجموعات فرعية ضمنها.
 
-المادة 16 De Minister van Justitie stelt administratief personeel, lokalen en de noodzakelijke bureaubenogedheden ter beschikking van de Administratieve Coo prdinatiecel.
+المادة 16. يوفر وزير العدل للّوحدة الإدارية للتنسيق موظفين إداريين ومقار ووسائل مكتبية ضرورية.
 
-المادة 17 De artikelen 1 tot en met 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+المادة 17. تدخل المواد 1 إلى 3 حيز التنفيذ في اليوم الذي يُنشر فيه هذا القرار في الجريدة الرسمية البلجيكية وتدخل المواد الباقية حيز التنفيذ في 1 يناير 1999.
 
-المادة 18 أحد عشر وزيراً (فان جوستى) جميل جداً مقابلته مع (فان ديت بيسلويت)
+المادة 18. يكلف وزير العدل بتنفيذ هذا القرار.
 
-Gegeven te Brussel, 8 November 1998.
+صدر في بروكسل، 8 نوفمبر 1998.
 
-ALBERT Van Koningswege : De Minister van Justitie, يناير
+ألبير باسم الملك: وزير العدل،
+T. VAN PARYS
 
 ---
 
-(الفئة 13)
+(الصفحة 13)
 
 ## الجزء الثالث
 
 ---
 
-(الفئة 14)
+(الصفحة 14)
 
-## الوثائق الرسمية والغير الرسمية ذات الصلة
+## سجل الوثائق البرلمانية والمحاضر
 
-### ألف - نظر اللجنة البرلمانية
+### أ. تشكيل لجنة التحقيق البرلمانية
 
--   وثائق مجلس النواب:
-    -   313 (1995-1996)
-        -   رقم 1: اقتراح مقدم من السيد دوقيسن وآخرون
-        -   الأرقام من 2 إلى 4: تعديلات من السيد دوكين والسيد موروكس والسيدة دي تسركلايس
-        -   تقرير السيد بورين بالنيابة عن لجنة العدل
-        -   No 6 text adopted by the Committee on Justice.
-    -   أناليس من مجلس النواب
-        -   ١٣ و ١٤ و ٢٨ آذار/مارس ١٩٩٦.
+- وثائق مجلس النواب:
+  - 313 (1995-1996)
+    - رقم 1: اقتراح من السيد Duquesne وآخرون
+    - الأرقام 2 إلى 4: تعديلات من السادة Duquesne وMoureaux والسيدة de T’Serclaes
+    - رقم 5: تقرير مقدم باسم لجنة العدل من السيد Borin
+    - رقم 6: نص اعتمدته لجنة العدل.
+  - محاضر جلسات مجلس النواب
+    - 13 و14 و28 آذار/مارس 1996.
 
-### باء - أعمال اللجنة البرلمانية
+### ب. أعمال لجنة التحقيق البرلمانية
 
--   وثائق مجلس النواب:
-    -   313 (1995-1996)
-        -   التقريران 7 و 8 اللذان أعدهما السيدان بالنيابة عن اللجنة. دوكين وويلمز
-        -   العدد 9
-    -   أناليس من مجلس النواب
-        -   30 نيسان/أبريل و 7 أيار/مايو 1997.
+- وثائق مجلس النواب:
+  - 313 (1995-1996)
+    - رقمَي 7 و8: تقريران مقدمان باسم اللجنة من السادة Duquesne وWillems
+    - رقم 9: اقتراح اعتمد في الجلسة العامة
+  - محاضر جلسات مجلس النواب
+    - 30 نيسان/أبريل و7 أيار/مايو 1997.
 
-### C. ACT of 2 JUNE 1998
+### ج. قانون 2 حزيران/يونيو 1998
 
--   وثائق مجلس النواب
-    -   1198 (1996-1997)
-        -   لا ١: اقتراح من السيد دوكين
-        -   Nos 2 to 7: Amendments by Messrs. J.-P. Viseur, Duquesne, Beaufays, Willems and the Government
-        -   رقم 8: تقرير السيد ويليامز بالنيابة عن لجنة العدالة
-        -   No 9: text adopted by the Committee on Justice
-        -   No. 10: Text adopted in plenary session and forwarded to the Senate.
-    -   أناليس من مجلس النواب
-        -   ٢٢ و ٢٨ نيسان/أبريل ١٩٩٨
--   وثائق مجلس الشيوخ
-    -   1-965 (1997-1998)
-        -   رقم 1 مشروع أحاله مجلس النواب
-        -   No. 2 Project not referred to by the Senate.
+- وثائق مجلس النواب:
+  - 1198 (1996-1997)
+    - رقم 1: اقتراح من السيد Duquesne
+    - الأرقام 2 إلى 7: تعديلات من السادة J.-P. Viseur وDuquesne وBeaufays وWillems ومن الحكومة
+    - رقم 8: تقرير مقدم باسم لجنة العدل من السيد Willems
+    - رقم 9: نص اعتمدته لجنة العدل
+    - رقم 10: نص اعتمد في الجلسة العامة وأُحيل إلى مجلس الشيوخ.
+  - محاضر جلسات مجلس النواب
+    - 22 و28 نيسان/أبريل 1998
+- وثائق مجلس الشيوخ:
+  - 1-965 (1997-1998)
+    - رقم 1: مشروع أحالته مجلس النواب
+    - رقم 2: مشروع لم يُطرح في مجلس الشيوخ.

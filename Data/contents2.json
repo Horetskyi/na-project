@@ -250,13 +250,13 @@
     },
     "year": 2021,
     "langCode": "es",
-    "countryCode": "es",
+    "countryCode": "international",
     "authority": 4,
     "sourceId": 2
   },
   {
     "id": "na-managers-guide",
-    "countryCode": "es",
+    "countryCode": "international",
     "langCode": "es",
     "type": "inner_material",
     "year": 1976,
