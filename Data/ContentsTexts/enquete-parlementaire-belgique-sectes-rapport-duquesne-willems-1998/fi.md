@@ -1,8 +1,8 @@
-(BELGIAN EDUSTAJIEN KESKUS) (sivu 1)
+(BELGIAN EDUSTAJAINHUONE) (sivu 1)
 
-## PARLAMENTIN TUTKIMUS
+## PARLAMENTAARINEN TUTKINTA
 
-kehittää politiikkaa lahkojen laittomien käytäntöjen ja niiden yhteiskunnalle ja yksilöille, erityisesti alaikäisille, aiheuttaman vaaran torjumiseksi
+jolla pyritään laatimaan politiikka laittomia lahkojen käytäntöjä sekä niiden yhteiskunnalle ja yksityishenkilöille, erityisesti alaikäisille, aiheuttaman vaaran torjumiseksi
 
 ---
 
@@ -10,327 +10,348 @@ kehittää politiikkaa lahkojen laittomien käytäntöjen ja niiden yhteiskunnal
 
 ## SISÄLLYS
 
--   Osa I: 2. kesäkuuta 1998 annettu laki haitallisen lahkolaisjärjestön tiedotus- ja lausuntokeskuksen perustamisesta sekä haitallisten lahkojärjestöjen torjunnan hallinnollisen koordinointiyksikön perustamisesta (Moniteur belge, 25. marraskuuta 1998)
--   OSA Kuninkaallinen asetus, annettu 8 päivänä marraskuuta 1998, Haitallisten järjestöjen torjunnan koordinointiyksikön kokoonpanon, toiminnan ja organisaation vahvistamisesta (Moniteur belge, 9.12.1998)
--   III OSA Parlamentin lausuma ja vuosiasiakirjat
--   IV OSA Parlamentin tutkintavaliokunnan puolesta laatima mietintö Duquesne ja Willems
--   V OSA
+- OSA I Laki 2. kesäkuuta 1998 tiedotus- ja lausuntokeskuksen perustamisesta haitallisia lahkolaisjärjestöjä koskevia tietoja varten sekä haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollisen koordinointisolu n perustamisesta (Belgian virallinen lehti 25. marraskuuta 1998)
+- OSA II Kuninkaallinen asetus 8. marraskuuta 1998, jolla vahvistetaan haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollisen koordinointisolun kokoonpano, toiminta ja organisaatio (Belgian virallinen lehti 9. joulukuuta 1998)
+- OSA III Parlamenttiasiakirjojen ja pöytäkirjojen luettelo
+- OSA IV Herrojen Duquesne’n ja Willemsin parlamentaarisen tutkintavaliokunnan puolesta laatima kertomus
+- OSA V Täysistunnossa hyväksytty toimenpide-ehdotus.
 
 ---
 
 (sivu 3)
 
-2 päivänä kesäkuuta 1998 annettu laki haitallisen lahkojärjestön tiedotus- ja lausuntokeskuksen perustamisesta ja haitallisten lahkojen vastaisesta hallinnollisesta koordinointiyksiköstä (Moniteur belge, 25.11.1998)
+Laki 2. kesäkuuta 1998 tiedotus- ja lausuntokeskuksen perustamisesta haitallisista lahkolaisjärjestöistä sekä haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollisen koordinointisolun perustamisesta (Belgian virallinen lehti 25. marraskuuta 1998)
 
 ---
 
 (sivu 4)
 
-## BELGISCH STAATSBLAD
+## BELGISCH STAATSBLAD 
 
-Prijs van een jaarSubscription: Belgia: F 4 260; Buitenland: F 17 283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor clinden en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
+Prijs van een jaarabonnement : 
+België : F 4 260; buitenland: F 17 283. 
+Prijs per nummer: F 10 per vel van acht bladzijden. Voor abonnementen en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvenseweg 40-42, 1000 Brussel. 
+Telefoon 02'552 22 11. 
 
-168\. JAARGANG
+168e JAARGANG
 
-WÖNSDAG 25. MARRASKUU 1998
+WOENSDAG 25 NOVEMBER 1998 
 
-Ministerie van Justitie
+Ministerie van Justitie 
 
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van en Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organistaries, bl. 3782-t
+Wet van 2 juru 1998 houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische orgarusaties, bl. 3782-t 
 
 ---
 
 (sivu 5)
 
-### Osasto VAN Justitie
+### MINISTERIE VAN JUSTITIE
 
-2 JUNI 1998.
+2. KESÄKUUTA 1998 – Laki tiedotus- ja lausuntokeskuksen perustamisesta haitallisista lahkolaisjärjestöistä sekä hallinnollisen koordinointisolun perustamisesta haitallisia lahkolaisjärjestöjä vastaan käytävää taistelua varten (1)
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, Belgian kuningas, kaikille nykyisille ja tuleville, tervehdyksemme.
 
-From Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
+Kamariot ovat hyväksyneet ja me vahvistamme seuraavaa:
 
-### HOOFDSTUK I.
+### LUKU I – Ennakkosäännökset
 
-Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
+1 artikla. Tällä lailla säännellään asiaa, josta säädetään perustuslain 78 artiklassa.
 
-2 artikla: Voir de toepassing van onderhavige wet wordt onder schadelijke sektarische organiatie verstaan, elke gruepering met een levensbeschouvelijk of godsdienstig doel, of die zich als dusdanig voordoet en die zich in Haar organiatie of praktijken, overgeeft aan schadelijke onwettige aktiteiten, het individing individual of samenleving schaadt of de menselijke waardigheid antast.
+2 artikla. Tätä lakia sovellettaessa haitallisella lahkolaisjärjestöllä tarkoitetaan jokaista ryhmää, jonka tarkoituksena on elämänkatsomuksellinen tai uskonnollinen päämäärä tai joka esiintyy sellaisena ja joka organisaatiossaan tai käytännöissään syyllistyy haitalliseen lainvastaiseen toimintaan, vahingoittaa yksilöä tai yhteiskuntaa tai loukkaa ihmisarvoa.
 
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op basis van de principles welke zijn vastageleged in de Grondwet, de wetten, de decreten, commandies en in de internationale verdragen inzake de bescherming van de rechten van de mens welke ove België werden gerratificeerd.
+Lahkolaisjärjestön haitallista luonnetta tutkitaan niiden periaatteiden pohjalta, jotka on vahvistettu perustuslaissa, laeissa, asetuksissa, määräyksissä sekä ihmisoikeuksien suojelemista koskevissa kansainvälisissä sopimuksissa, jotka Belgia on ratifioinut.
 
-### HOOFDSTUK II. . . .
+### LUKU II – Haitallisia lahkolaisjärjestöjä koskeva tiedotus- ja lausuntokeskus
 
-Art. 3. Bij het Ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties," hierna Centrum geneamd. De zetel van het Centrum is gevestigd in het administrativetief arrondissement
+3 artikla. Oikeusministeriön yhteyteen perustetaan riippumaton keskus nimeltä ”Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties”, jäljempänä keskus.
+Keskuksen kotipaikka on hallinnollisessa ”Bryssel-pääkaupunki” -arrondissementissa.
 
-4 artiklan 1 kohta Het Centrum bestaat uit twaalf wat leden en twaalf plaatsvervangende leden die met een tweederde meerderheid ovi de Kamer van volksvertegenwoordigers worden aangewezen. Zes wast leden en zes plaatsvervangende leden worden aangewezen op voor-dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. Kymmenen minste een great lid en een plaatsvervangend kansi kennen Duits.
+4 artikla. § 1. Keskus koostuu kahdestatoista varsinaisesta jäsenestä ja kahdestatoista varajäsenestä, jotka edustajainhuone nimeää kahden kolmasosan enemmistöllä. Kuusi varsinaista jäsentä ja kuusi varajäsentä nimitetään ministerineuvoston esityksestä, ja kutakin täytettävää tehtävää varten ehdotetaan kahta ehdokasta.
+Sekä suoraan edustajainhuoneen nimeämien jäsenten että ministerineuvoston ehdotuksesta nimitettyjen jäsenten osalta taataan hollannin- ja ranskankielisten jäsenten kielellinen tasapaino.
+Vähintään yhdellä varsinaisella ja yhdellä varajäsenellä on saksan kielen taito.
 
-De Kamer van volksvertegenwoordigers kiist uit de quint leden de voorzitter en de plaatsvervangende voorzitter.
+Edustajainhuone valitsee varsinaisten jäsenten joukosta puheenjohtajan ja varapuheenjohtajan.
 
-2 §. De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de extente personlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problematiek van de schadelijke sektarische grueperingen. Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van objectiviteit en onpartijdigheid te kunnen uitoefenenen. Laajalta plaatsvervangende leden kunnen van hun mandaat ontheven worden ovelle de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichen of de waardigheid van hun functie in het gedrang brengen.
+§ 2. Jäsenet nimitetään neljäksi vuodeksi, ja toimikautta voidaan uusia kerran. Heidät valitaan huomattavista henkilöistä, jotka tunnetaan tietämyksestään, kokemuksestaan ja kiinnostuksestaan haitallisia lahkolaisryhmiä koskeviin kysymyksiin. Heidän on annettava kaikki takeet siitä, että he voivat hoitaa tehtäväänsä täydellisessä riippumattomuudessa sekä objektiivisuuden ja puolueettomuuden hengessä.
+Edustajainhuone voi vapauttaa varsinaiset ja varajäsenet tehtävästään, jos he laiminlyövät velvollisuuksiaan tai vaarantavat tehtävänsä arvokkuuden.
 
-§3. Om als waarnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen:
+§ 3. Jotta hakija voidaan nimittää varsinaiseksi tai varajäseneksi ja jotta hän voi säilyttää tämän aseman, hänen on täytettävä seuraavat edellytykset:
 
-1° de burgerlijke en politike rechten genieten;
+1° nauttia kansalais- ja poliittisista oikeuksista;
 
-2° geen lid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewesterering.
+2° ei saa olla Euroopan parlamentin tai lainsäädäntökamareiden jäsen, ei myöskään yhteisöjen tai alueiden neuvostojen jäsen, ei liittovaltion hallituksen eikä yhteisöjen tai alueiden hallitusten jäsen.
 
 ---
 
 (sivu 6)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een personlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een personlijk of rechtstreeks belang hebben.
+§ 4. Keskuksen jäsenet eivät saa osallistua keskusteluihin asioista, joissa heillä itsellään tai heidän neljänteen asteeseen saakka ulottuvilla sukulaisillaan tai lankosukulaisillaan on henkilökohtainen tai välitön etu.
 
-§ 5. Wanneer een en larve lid verhinderd of afwezig is, wordt het vervangen ove zijn plaatsvervanger. Het vaset of plaatsvervangend lid waarvan het mandaat ein einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend lid da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteeten inzake de vergoeding van de leden van het Centrum laaja.
+§ 5. Kun varsinainen jäsen on estynyt tai poissa, hänen sijaisenaan toimii varajäsen.
+Varsinainen tai varajäsen, jonka toimikausi päättyy ennen neljän vuoden määräajan umpeutumista, korvataan 4 artiklan ensimmäisessä momentissa tarkoitetun menettelyn mukaisesti nimitettävällä varsinaisella tai varajäsenellä loppukauden ajaksi.
+Kuningas vahvistaa keskuksen jäsenten palkkioiden määräytymisperusteet.
 
-5 artikla Het Centrum stelt zijn huishoudelijk Regulation op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+5 artikla. Keskus laatii työjärjestyksensä kahden kuukauden kuluessa toiminnan aloittamisesta. Se esitetään hyväksyttäväksi edustajainhuoneelle.
 
-Art. 6 § 1. Het Centrum is best met de volgende opdrachten:
+6 artikla. § 1. Keskuksen tehtävinä on:
 
-1° het verschijnsel van schadelijke sektarische organizaties in België en hun international bindingen bestuderen;
+1° tutkia haitallisten lahkolaisjärjestöjen ilmiötä Belgiassa ja niiden kansainvälisiä yhteyksiä;
 
-2° een voor het publiek toegankelijk documentatiecentrum organisationen
+2° perustaa yleisölle avoin dokumentaatiokeskus;
 
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hij zijn rechten kan lappen gelden;
+3° huolehtia yleisön vastaanotosta ja tiedottamisesta sekä antaa jokaiselle keskukselle esityksen tekevälle henkilölle tietoja hänen oikeuksistaan ja velvollisuuksistaan sekä siitä, miten hän voi käyttää oikeuksiaan;
 
-4° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organistaries en het bijzonder over het beleid inzake de strijd tegen deze organisaties;
+4° antaa omasta aloitteestaan tai minkä tahansa julkisen viranomaisen pyynnöstä lausuntoja ja suosituksia haitallisia lahkolaisjärjestöjä koskevasta ilmiöstä ja erityisesti näitä järjestöjä vastaan käytävää taistelua koskevasta politiikasta;
 
-§2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd:
+§ 2. Tehtäviään suorittaessaan keskus on oikeutettu:
 
-1° alle beschikbare informatie te verzamelen;
+1° kokoamaan kaikkia saatavilla olevia tietoja;
 
-2° alle studies of wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren
+2° tekemään kaikki tutkimukset tai tieteelliset selvitykset, jotka ovat tarpeen sen tehtävien konkreettista täyttämistä varten;
 
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, over te nemen;
+3° ottamaan haltuunsa kaikki arkisto- tai dokumentaatiokokoelmat, joiden aihe vastaa jotakin sen tehtävää;
 
-4° steun en begeleiding te verlenen aan instellingen, organisaties en verleners van juridische bijstand;
+4° antamaan tukea ja ohjausta laitoksille, järjestöille ja oikeudellisen avun antajille;
 
-5° op zijn bjeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum saman met de Administratieve coördinatiecel.
+5° kuulemaan tai kutsumaan kokouksiinsa asiantuntijajärjestöjä ja -henkilöitä, joiden kuulemista se pitää hyödyllisenä.
+Tehtäviään suorittaessaan keskus tekee yhteistyötä hallinnollisen koordinointisolun kanssa.
 
-§3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1° en 3°, persoonsgegevens te verwerken met betrekking tot de overtuing of activityeiten op levensbeschouwe-lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8 December 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.
+§ 3. Keskus on oikeutettu tehtäviensä täyttämiseksi, sellaisina kuin ne on määritelty §:n 1 kohdassa 1° ja 3°, käsittelemään henkilötietoja, jotka liittyvät elämänkatsomukselliseen tai uskonnolliseen vakaumukseen tai toimintaan, sellaisina kuin ne määritellään 8. joulukuuta 1992 annetun henkilötietojen käsittelyä koskevan yksityiselämän suojaa koskevan lain 6 artiklassa.
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwijijkheid en beveiliging van de persoons-gegevens, het statut en de take van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van de persononsonlijke levenssfeer over de verwerking van de persononsgegegens.
+Kuningas määrittelee ministerineuvostossa käsitellyllä asetuksella henkilötietojen luottamuksellisuutta ja turvallisuutta koskevat takeet, keskuksen tietosuojavastaavan aseman ja tehtävät sekä tavan, jolla keskus raportoi henkilötietojen käsittelystä yksityiselämän suojaa käsittelevälle komissiolle.
 
-§4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organiaties.
+§ 4. Yleisön pyynnöstä keskuksen antamat tiedot perustuvat keskuksen käytettävissä oleviin tietoihin, eikä niitä saa esittää luetteloiden tai haitallisia lahkolaisjärjestöjä koskevien järjestelmällisten katsauksien muodossa.
 
-7 artikla Adviezenista de aanbevelingen van het Centrum zijn gemotiveerd. De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende bessissing van het Centrum.
+7 artikla. Keskuksen lausunnot ja suositukset on perusteltava.
+Lausunnot ovat julkisia, jollei keskus asianmukaisesti perustellulla päätöksellä toisin määrää.
 
 ---
 
 (sivu 7)
 
-Art. 8. § 1. Het Centrum kan slechts beraadslagen Indian 10 minste de meerderheid van zijn leden aanwezig is. De beslissingen worden genomin tapasi absoluuttisen meerderheid. Vuonna geval van sitaging der scompenen, on de stem van de voorzitter in geval deze verhinderd on, van zijn plaatsvervanger ovetlaggevend.
+8 artikla. § 1. Keskus voi tehdä päätöksiä vain, jos vähintään puolet sen jäsenistä on läsnä. Päätökset tehdään ehdottomalla enemmistöllä. Äänten mennessä tasan ratkaisee puheenjohtajan, tai hänen estyneenä ollessaan varapuheenjohtajan, ääni.
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten weergeven.
+Hyväksytyissä lausunnoissa esitetään eri kannat.
 
-§2. Het Centrum mag beschikken over het integraal stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscomssie van de Kamer van volksvertegenwoordigers met het oog op de beleidsvorming ter bestrijding van de onwettige praktijken van de sekten en van de gevaren ervan voor de samenleving en voor het indikuelle, inzonderheid voor de minderjarigen.
+§ 2. Keskuksella on käytettävissään edustajainhuoneen parlamentaarisen tutkintavaliokunnan julkisten kuulemisten täydelliset pöytäkirjat. Valiokunnan tehtävänä on ollut laatia politiikka laittomien lahkojen käytäntöjen ja niiden yhteiskunnalle ja yksilölle, erityisesti alaikäisille, aiheuttaman vaaran torjumiseksi.
 
-9 artikla Voor de uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de medewerking van experten. De Koning bepaalt demodaliten van de vergoeding van deze experten.
+9 artikla. Keskus voi kaikkien tehtäviensä hoitamiseksi käyttää asiantuntijoiden apua.
+Kuningas vahvistaa näiden asiantuntijoiden palkkioiden määräytymisperusteet.
 
-10 artikla Voor alle personen die werken met vertrouwelijke gegevens die ove het Centrum worden ingezameld, geldt het bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting geldtook voor elkeen die niet tot het Centrum behoort, maar als deskundige, onderzoeker of medewerker optreedt.
+10 artikla. Kaikki henkilöt, jotka työskentelevät keskuksen keräämien luottamuksellisten tietojen parissa, ovat rikoslain 458 artiklassa tarkoitetun salassapitovelvollisuuden alaisia. Sama velvollisuus koskee kaikkia, jotka eivät kuulu keskukseen, mutta toimivat sen lukuun asiantuntijoina, tutkijoina tai työntekijöinä.
 
-11 artikla Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag wordt gesuurd aan de Ministerraad, de Wetgevende Kamers aan de Raden en Regeringen van de Gemeen-schappen en Gewisen.
+11 artikla. Keskus laatii joka toinen vuosi toimintakertomuksen. Tämä kertomus toimitetaan ministerineuvostolle, lainsäädäntökamareille sekä yhteisöjen ja alueiden neuvostoille ja hallituksille.
 
-12 artikla Het Centrum beschikt en een sihteeristössä.
+12 artikla. Keskuksella on sihteeristö.
 
-Het personeel wordt ter beschikking eleld ovelle de ministeri van Justitie, na voorafgaand het advies van het Centrum te hebben ingewonnen.
+Henkilöstön osoittaa oikeusministeri kuultuaan ennakolta keskusta.
 
-Het personeel state onder het rechtstreeks gezag van de voorzitter van het Centrum. De wevingskosten van het Centrum domen kymmenen myöhään van de begroting van het ministère van Justitie.
+Henkilöstö on suoraan keskuksen puheenjohtajan alaisuudessa. Keskuksen toimintamenot katetaan oikeusministeriön talousarviosta.
 
-### HOOFDSTUK III.
+### LUKU III – Haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollinen koordinointisolu
 
-13 artikla Een Administrativetieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het ministère van Justitie opgericht.
+13 artikla. Oikeusministeriön yhteyteen perustetaan haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollinen koordinointisolu.
 
-14 artikla De Minister van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administrativetieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administratieve coördi-natiecel bij een in Ministerraad overlegd besluit.
+14 artikla. Oikeusministeri tai hänen edustajansa toimii hallinnollisen koordinointisolun puheenjohtajana.
+Kuningas vahvistaa ministerineuvostossa käsiteltävällä asetuksella hallinnollisen koordinointisolun kokoonpanon.
 
-15 artikla Administratieve coördinatiecel heeft de volgende opdrach-ten:
+15 artikla. Hallinnollisen koordinointisolun tehtävinä on:
 
-1° De ove de bevoegde openbare diensen en overheden geoerde acties coördineren;
+1° koordinoida toimivaltaisten julkisten palvelujen ja viranomaisten toteuttamia toimia;
 
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizatie onderzoeken
+2° tutkia haitallisten lahkolaisjärjestöjen laittomien käytäntöjen kehitystä;
 
-3° Maatregelen voorstellen die van aard zijn om de coördinatie en de de efaktiviteit van deze acties te verhogen;
+3° ehdottaa toimenpiteitä, joilla voidaan parantaa näiden toimien koordinointia ja tehokkuutta;
 
-4° In overleg met de bevoegde diensten en bestrueren een preventie-beleid voor de burgers tegen de activitéeiten van de schadelijke sektarische organizaties, bevorderen;
+4° edistää toimivaltaisten palveluiden ja hallintojen kanssa yhteistyössä kansalaisten suojelemiseksi haitallisten lahkolaisjärjestöjen toiminnalta tarkoitettua ennaltaehkäisevää politiikkaa;
 
-5° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum uit voeren.
+5° luoda tiivis yhteistyö keskuksen kanssa ja toteuttaa tarvittavat toimenpiteet keskuksen suositusten ja ehdotusten täytäntöön panemiseksi.
 
 ---
 
 (sivu 8)
 
-16 artikla Koning bepaalt demodaliten inzake de werking en de organizatie van de Administratieve coi:irdinatiecel bij een in Mmister Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en ovelle het Bclgisch Staatsblad zal worden bekendgemaakt.
+16 artikla. Kuningas vahvistaa ministerineuvostossa käsiteltävällä asetuksella hallinnollisen koordinointisolun toiminnan ja organisaation yksityiskohtaiset säännöt. 
+Annamme tämän lain ja määräämme, että se varustetaan valtion sinetillä ja julkaistaan Belgian virallisessa lehdessä. 
 
-Gegeven te Brussel 2 Juni 1998.
+Annettu Brysselissä 2. kesäkuuta 1998. 
 
-ALBERT Van Koningswege: De ministeri van Justitie, T. VAN PARYS Met 's Lands Zegel gezegeld: De Minister van Justitie, T. VAN PARYS Huomautus
+ALBERT 
+Kuningaan puolesta: 
+Oikeusministeri 
+T. VAN PARYS
+Valtion sinetillä varustettu: Oikeusministeri 
+T. VAN PARYS
+Huomautus 
 
-(1) Gewone zitting 1996-1997.
+(1) Tavallinen istuntokausi 1996–1997.
 
-Kamer van Volksvertegenwoordigers. Parlamentaarinen haisunäätä. - Wetsvoorstel van de heer Duquesne, nr. 1198/1. Edustaja Handelingen. Vergadering van 22. huhtikuuta 1998. - Aanneming. Vergadering van 28. huhtikuuta 1998. Senaatti. Parlamentaarinen haisunäätä. -Ontwerp overgezonden ovi de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd ove de Senaat, nr. 1-965/2/1997-1998.
+Edustajainhuone. 
+Parlamenttiasiakirjat – Herra Duquesnen lakialoite, nro 1198/1 – Tarkistukset, nrot 1198/2–7 – Herra Willemsin oikeusvaliokunnan puolesta laatima kertomus, nro 1198/8 – Valiokunnan hyväksymä teksti, nro 1198/9 – Täysistunnossa hyväksytty ja senaatille lähetetty teksti, nro 1198/10. 
+Pöytäkirjat – Keskustelu, istunto 22. huhtikuuta 1998 – Hyväksyminen, istunto 28. huhtikuuta 1998. 
+Senaatti. 
+Parlamenttiasiakirjat – Edustajainhuoneen lähettämä lakiehdotus, nro 1-965/1-1997-1998 – Lakiehdotus, jota senaatti ei ottanut käsiteltäväksi, nro 1-965/2-1997-1998. 
 
 ---
 
 (sivu 9)
 
-## II OSA
+## OSA II
 
-Kuninkaallinen asetus, annettu 8 päivänä marraskuuta 1998, haitallisten lahkojen torjunnan koordinointiyksikön kokoonpanon, toiminnan ja organisaation vahvistamisesta (Moniteur belge, 9.12.1998)
+Kuninkaallinen asetus 8. marraskuuta 1998, jolla vahvistetaan haitallisia lahkolaisjärjestöjä vastaan käytävän taistelun hallinnollisen koordinointisolun kokoonpano, toiminta ja organisaatio (Belgian virallinen lehti 9. joulukuuta 1998)
 
 ---
 
 (sivu 10)
 
-### WETTEN, DECRETEN, MÄÄRÄYKSET JA SÄÄNNÖT
+### WETTEN, DECRETEN, ORDONNANTIES EN VERORDENINGEN LOIS, DECRETS, ORDONNANCES ET REGLEMENTS
 
-Osasto VAN Justitie
+MINISTERIE VAN JUSTITIE
 
-N. 98-3277 \[S-C-98/09981\] 8 MARRASKUU 1998 Koninklijk besluit houdende samanstelling, werking en organisatie van de Administratieve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisations.
+N. 98 — 3277 [S−C−98/09981] 8 NOVEMBER 1998. — Koninklijk besluit houdende samenstelling, werking en organisatie van de Administratieve Coo¨rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties.
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, Belgian kuningas, kaikille nykyisille ja tuleville, tervehdyksemme.
 
-Gelet op de wet van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratiivive Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties; Gelet op het advies van de Inspect van Financie Èn, geven op 10.9.1998; Gelet op de wetten van de Raad van State, gecoo ̈rdineerd op 12 tammikuuari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 augustus 1980, 16 kesäkuu 1989, 4 heinäkuu 1989 4 elokuu 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscomssie belast met de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het ininfriguel en inzonderheid voor de minderjari-gen, de driende noodzaak van de oprichting van een Informatie- en Adviescentrum en Advacipaltieve Coo ̈rdinatiecel heeft opgeworpen, met het het oog op de zo spoedig moglijke creatie van een organ met als opdracht de opvolging van dit fenomen; Overwegende dat de wet Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo ̈rdinatiecel ondertekend werd door de
+Ottaen huomioon lain 2. kesäkuuta 1998, jolla perustetaan tiedotus- ja lausuntokeskus haitallisista lahkolaisjärjestöistä sekä hallinnollinen koordinointisolu haitallisia lahkolaisjärjestöjä vastaan käytävää taistelua varten;
+ottaen huomioon valtiontalouden tarkastajan lausunnon 10. syyskuuta 1998;
+ottaen huomioon 12. tammikuuta 1973 koordinoidut valtioneuvostoa koskevat lait, erityisesti 3 §:n 1 momentin, sellaisena kuin se on muutettuna 9. elokuuta 1980, 16. kesäkuuta 1989, 4. heinäkuuta 1989 ja 4. elokuuta 1996 annetuilla laeilla;
+ottaen huomioon kiireellisen tarpeen;
+johdantona, että edustajainhuoneen parlamentaarinen tutkintavaliokunta, jonka tehtävänä oli laatia politiikka lahkojen ja niiden yksilölle ja erityisesti alaikäisille aiheuttamien vaarojen torjumiseksi, on tuonut esiin kiireellisen tarpeen perustaa tiedotus- ja lausuntokeskus sekä hallinnollinen koordinointisolu, jotta voidaan mahdollisimman pian luoda elin, jonka tehtävänä on seurata tätä ilmiötä;
+johdantona, että laki tiedotus- ja lausuntokeskuksen perustamisesta haitallisista lahkolaisjärjestöistä ja hallinnollisen koordinointisolun perustamisesta allekirjoitettiin kuninkaan toimesta 2. kesäkuuta 1998 ja että on näin ollen aiheellista, että laki ja sen täytäntöönpanosäädökset julkaistaan mahdollisimman pian, jotta tiedotus- ja lausuntokeskus sekä hallinnollinen koordinointisolu voivat aloittaa tehtävänsä 1. tammikuuta 1999;
+oikeusministerin esityksestä ja ministerineuvostossa kokoontuneiden ministeriemme lausunnon perusteella
+
+Olemme päättäneet ja päätämme:
+
+### LUKU I – Hallinnollisen koordinointisolun kokoonpano
+
+1 artikla. Lain 2. kesäkuuta 1998 13 artiklalla perustetun hallinnollisen koordinointisolun kokoonpano on seuraava:
+
+- edustaja valtakunnansyyttäjäkollegiosta;
+- valtakunnansyyttäjä;
+- edustaja santarmista;
+- edustaja oikeuspoliisista;
+- edustaja sisäasiainministeriön yleisestä valtiopoliisista;
+
+- edustaja virkamiesasioiden ministeriöstä;
+- edustaja valtion turvallisuuspalvelusta;
+- edustaja oikeusministeriön siviililainsäädäntöä ja uskonnonvapautta käsittelevästä pääosastosta;
+- edustaja oikeusministeriön rikoslainsäädäntöä ja ihmisoikeuksia käsittelevästä pääosastosta;
+- edustaja oikeusministeriön rikosoikeudellisen politiikan palvelusta;
+
+- edustaja sisäasiainministeriöstä;
+- edustaja valtiovarainministeriöstä;
+- edustaja työllisyys- ja työministeriöstä;
+
+- edustaja puolustusministeriöstä.
+
+2 artikla. Jokaiselle edustajalle nimetään myös varajäsen.
+
+3 artikla. Edustajat ja heidän varajäsenensä nimittää oikeusministeri asianomaisten viranomaisten esityksestä.
+
+### LUKU II – Hallinnollisen koordinointisolun toiminta
+
+4 artikla. Puheenjohtaja päättää kokousten ajan, paikan ja aloitusajankohdan sekä laatii esityslistan.
+Jokaisella jäsenellä on oikeus pyytää puheenjohtajaa ottamaan asioita esityslistalle.
+Haitallisia lahkolaisjärjestöjä koskevan tiedotus- ja lausuntokeskuksen puheenjohtajalla on myös oikeus pyytää puheenjohtajaa ottamaan asioita esityslistalle.
+
+5 artikla. Ellei ole kysymys kiireellisestä asiasta, kutsut ja esityslista sekä mahdolliset asiakirjat lähetetään puheenjohtajan allekirjoituksen jälkeen sihteerin toimesta jäsenille vähintään kahdeksan päivää ennen kokousta.
+
+6 artikla. Estyneet jäsenet korvaa heidän varajäsenensä, jolle he itse toimittavat asiakirjat.
+
+7 artikla. Hallinnollinen koordinointisolu on päätösvaltainen vain, jos vähintään puolet jäsenistä tai heidän varajäsenistään on läsnä.
+Jos enemmistö ei ole läsnä, jäsenet kutsutaan uudelleen koolle, jolloin hallinnollinen koordinointisolu on päätösvaltainen riippumatta paikalla olevien jäsenten lukumäärästä.
+
+8 artikla. Jokaisella hallinnollisen koordinointisolun jäsenellä tai hänen estyneenä ollessaan hänen varajäsenellään on yksi ääni.
+Päätökset tehdään yksimielisesti läsnä olevien jäsenten kesken.
+Haitallisia lahkolaisjärjestöjä koskevan tiedotus- ja lausuntokeskuksen puheenjohtaja tai hänen varajäsenensä voi:
+
+- tulla kutsutuksi osallistumaan hallinnollisen koordinointisolun kokouksiin;
+- tulla kuulluksi, jos esityslista sitä edellyttää.
 
 ---
 
 (sivu 11)
 
-Koning op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepublikeerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo ̈rdinatiecel in stat te stellen hun opdrachten aan te vatten met ingang van 1 tammikuu 1999; Op de voordracht van Eleven Minister van Justitie en op het advies van Eleven in Raad vergaderde Ministers
+9 artikla. Sihteeri laatii kokouksista pöytäkirjan. Se lähetetään seuraavan kutsun mukana puheenjohtajan hyväksyttyä sen.
 
-Hebben Wij besloten en besluiten Wij:
+Jäsenet toimittavat huomautuksensa kirjallisesti viimeistään päivää ennen kokousta.
 
-### HOOFDSTUK I.
+10 artikla. Keskuksen lain 2. kesäkuuta 1998 6 artiklan 1 §:n 4° nojalla antamat lausunnot ja suositukset toimitetaan keskuksen toimesta hallinnollisen koordinointisolun puheenjohtajalle.
 
-Artikel 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administrativetieve coo rdinatiecel is als volgt samengesteld:
+Hallinnollinen koordinointisolu sopii keskuksen kanssa seuraavista tavoista:
 
--   een vertgenwoordiger van het College van Justice-General
--   een nationalaal magistraat
--   een vertgenwoordiger van de Rijkswacht
--   een vertgenwoordiger van de Gerechtelijke politicale
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
+- mahdollisten toimien koordinointi;
+- keskuksen suositusten ja lausuntojen täytäntöönpanon valvonnan järjestäminen siltä osin kuin ne kuuluvat sen toimivaltaan.
 
-Ministry van Binnenlandse Zaken;
+11 artikla. Hallinnollisen koordinointisolun ehdottamat toimenpiteet ilmoitetaan kirjallisesti asianomaisille palveluille tai laitoksille sekä keskuksen puheenjohtajalle.
 
--   een vertgenwoordiger van het Ministerie van Ambenarenzaken;
--   een vertgenwoordiger van het Betuur Veligheid van de Staat;
--   een vertgenwoordiger van het Directoraat- General burgerlijke
+12 artikla. Hallinnollinen koordinointisolu käy tehtäviensä puitteissa neuvotteluja kaikkien toimivaltaisten palvelujen ja hallintojen kanssa. Se voi muun muassa kutsua niitä kokouksiinsa ja pyytää niiltä tietoja. Liittovaltion viranomaisten on toimitettava hallinnollisen koordinointisolun pyytämät tiedot.
 
-Wetgeving en erediensten van het Ministerie van Justitie;
+13 artikla. Hallinnollinen koordinointisolu kokoontuu vähintään kerran kahdessa kuukaudessa.
 
--   een vertgenwoordiger van het Directoraat General strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van het Ministerie van Financien
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
+Hallinnollinen koordinointisolu toimittaa keskukselle puolivuosittain kertomuksen toiminnastaan.
 
-Arbeid;
+### LUKU III – Organisaatio
 
--   En vertgenwoordiger van het Ministerie van Landsverdediging. 2 artikla Voor elke vertgenwoordiger wordt tevens een plaatsvervan- ger angeduid.
+14 artikla. Kaikki hallinnollisen koordinointisolun jäsenet muodostavat ”toimiston”. ”Toimisto” nimeää päivittäisen johtoryhmän, johon kuuluvat puheenjohtaja, joka on siihen jäsenenä virkansa puolesta, sekä kaksi valittua jäsentä.
 
-Artikla 3. Vertgenwoordigersistä hun plaatsvervangers worden aangesteld oven ministeri van Justitie, na voordracht ovi de respectieve overheden van wie zij afhangen.
+15 artikla. Hallinnollinen koordinointisolu voi erityistehtävien niin vaatiessa perustaa alaryhmiä keskuuteensa.
 
-### HOOFDSTUK II. Werking van de Administratieve Coo ̈rdinatiecel
+16 artikla. Oikeusministeri asettaa hallinnollisen koordinointisolun käyttöön hallintohenkilökuntaa, toimitilat ja tarvittavat toimistotarvikkeet.
 
-4 artikla De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de agenda op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te verzoeken punten op de agenda te plaatsen.
+17 artikla. Artiklat 1–3 tulevat voimaan sinä päivänä, jona tämä asetus julkaistaan Belgian virallisessa lehdessä, ja muut artiklat 1. tammikuuta 1999.
 
-5 artikla Behoudens hoogdrigendheid worden de uitnodigingen en de agenda eventes stukken, na ondertekening ovelle de voorzitter, ovelle de secretaris ten minste acht dagen vooraf aan de leden toegezonden.
+18 artikla. Oikeusministeri vastaa tämän asetuksen täytäntöönpanosta.
 
-Artikkeli 6. De leden die verhinderd zijn, worden vervangen ovi hun plaatsvervanger en sturen hem zelf de stukken ovi.
+Annettu Brysselissä 8. marraskuuta 1998.
 
-7 artikla De Administratieve Coo ̈rdinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun plaatsvervangers aanwezig is. Ingeval geen meerderheid aanwezig oli, worden de leden opnieuw uittenodigd, in welk geval de Administratieve Coo Èrdinatiecel geldig vergadert, wat look het antal aantal aanwezige leden on.
-
-Artikkeli 8. Elk lid van de Administratieve Coo ̈rdinatiecel, in bij verhin-dering zijn plaatsvervanger, beschikt over een runko. De bessingen worden bij unanimititeit van de aanwezige leden genomin. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo ̈rdinatiecel bij te woinen;
--   ghoord Indian worden of agenda sanoo vereist.
-
----
-
-(sivu 12)
-
-9 artikla De secretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring ovelle de voorzitter met de volgende uitnodiging meegestourd.
-
-De leden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee dag voor de vergadering.
-
-10 artikla De adviezen en aanbevelingen die het Centrummet toepassing van artikel 6 § 1, 4° van de wet van 2 kesäkuu 1998 uitbrengt, worden ove het Centrumaan de voorzitter van de Administratieve Coo ̈rdinatiecel overgezonden.
-
-De Administratieve Coo ̈rdinatiecel stelt in overleg met het Centrum wast de wijze van:
-
--   coordinatie van possible acties;
--   regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
-
-11 artikla De maatregelen die de Administratieve Coo ̈rdinatiecel voorstelt, worden schriftelijk aan de betrokken dienden of instanties, estals aan de voorzitter van het Centrum meegedeeld.
-
-12 artikla De Administratieve Coo ̈rdinatiecel pleeg overleg met alle bevoegde diensen en bestrueren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vraagen. Of federale overheden diennen de ove de Administratieve Coo ̈rdinatiecel gevraagde inlichtingen te bezorgen.
-
-13 artikla De Administratieve Coo ̈rdinatiecel vergadert minstens eenmaal om de twee maanden.
-
-Administratieve Coo ̈rdinatiecel bengt zesmaandelijks verslag uit aan het Centrum nopens Haar werkzaamheden.
-
-### HOOFDSTUK III.
-
-14 artikla Alle leden van de Administratieve Coo ̈rdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks betuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
-
-15 artikla De Administratieve Coo ̈rdinatiecel kan wanneer bijzondere opdrachten dit verantwoorden subgroepen binnen haar schoot oprichten.
-
-16 artikla De Minister van Justitie stelt administratif personeel, lokalen en de noodzakelijke FBIbenogedheden ter beschikking van de Administratieve Coo ̈rdinatiecel.
-
-17 artikla De artikkelen 1 tot en met 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 tammikuu 1999.
-
-18 artikla Yksitoista ministeri van Justitie on kaunis tavata de uitvoering van dit besluite.
-
-Gegeven te Brussel, 8. marraskuuta 1998.
-
-ALBERT Van Koningswege: De Minister van Justitie T. VAN PARYS
+ALBERT Kuningaan puolesta: Oikeusministeri
+T. VAN PARYS
 
 ---
 
 (sivu 13)
 
-## III OSA
+## OSA III 
 
 ---
 
 (sivu 14)
 
-## HALLINNOLLISET PARLAMENTIT JA ANNAALIASIAKIRJAT
+## PARLAMENTTIAKIRJOJEN JA PÖYTÄKIRJOJEN LUETTELO
 
-### A. PARLAMENTIN KOMITEAN PERUSTAMINEN
+### A. PARLAMENTAARISEN TUTKINTAVALIOKUNNAN ASETTAMINEN
 
--   Edustajainhuoneen asiakirjat
-    -   313 (1995-1996)
-        -   Nro 1: Duqesne et al.
-        -   Tarkistukset 2-4: Duquesnen, Moureaux'n ja de Tserclaesin tarkistukset
-        -   N:o 5 Borinin laatima oikeusvaliokunnan mietintö
-        -   N:o 6 Oikeusvaliokunnan hyväksymä teksti.
-    -   Edustajainhuoneen Annales
-        -   13., 14. ja 28. maaliskuuta 1996.
+- Edustajainhuoneen asiakirjat:
+  - 313 (1995–1996) 
+    - nro 1: Herra Duquesnen ja muiden ehdotus
+    - nrot 2–4: Herrojen Duquesnen ja Moureaux’n sekä rouva de T’Serclaesin tarkistukset
+    - nro 5: Herra Borinin oikeusvaliokunnan puolesta laatima kertomus
+    - nro 6: Oikeusvaliokunnan hyväksymä teksti.
+  - Edustajainhuoneen pöytäkirjat
+    - 13., 14. ja 28. maaliskuuta 1996.
 
-### B. PARLAMENTIN KOMITEAN TYÖT
+### B. PARLAMENTAARISEN TUTKINTAVALIOKUNNAN TYÖT
 
--   Edustajainhuoneen asiakirjat
-    -   313 (1995-1996)
-        -   Mietinnön 7 ja 8 esittelijät laativat valiokunnan puolesta. Duquesne ja Willems
-        -   9 Täysistunnossa hyväksytty esitys
-    -   Edustajainhuoneen Annales
-        -   30\. huhtikuuta ja 7. toukokuuta 1997.
+- Edustajainhuoneen asiakirjat:
+  - 313 (1995–1996) 
+    - nrot 7 ja 8: Herrojen Duquesnen ja Willemsin valiokunnan puolesta laatima kertomus
+    - nro 9: Täysistunnossa hyväksytty toimenpide-ehdotus
+  - Edustajainhuoneen pöytäkirjat
+    - 30. huhtikuuta ja 7. toukokuuta 1997.
 
-### C. KESÄKUUN 2.
+### C. LAKI 2. KESÄKUUTA 1998
 
--   Edustajainhuoneen asiakirjat
-    -   1198 (1996-1997)
-        -   Ei. 1: Duquesnen ehdotus
-        -   Tarkistukset 2-7: Jäsenet J.-P. Viseur, Duquesne, Beaufays, Willems ja hallitus ovat esittäneet tarkistuksia
-        -   Nro 8: Willemsin laatima oikeusvaliokunnan mietintö
-        -   Nro 9: Oikeusvaliokunnan hyväksymä teksti
-        -   Nro 10: Teksti hyväksyttiin täysistunnossa ja toimitettiin senaatille.
-    -   Edustajainhuoneen Annales
-        -   huhtikuuta 1998
--   Senaatin asiakirjat
-    -   1-965 (1997-1998)
-        -   Nro 1 Edustajainhuoneen toimittama luonnos
-        -   Nro 2 Hanke, johon senaatti ei viittaa.
+- Edustajainhuoneen asiakirjat
+  - 1198 (1996–1997) 
+    - nro 1: Herra Duquesnen ehdotus
+    - nrot 2–7: Jäsenten J.-P. Viseurin, Duquesnen, Beaufays’n ja Willemsin sekä hallituksen tarkistukset
+    - nro 8: Herra Willemsin oikeusvaliokunnan puolesta laatima kertomus
+    - nro 9: Oikeusvaliokunnan hyväksymä teksti
+    - nro 10: Täysistunnossa hyväksytty ja senaatille toimitettu teksti.
+  - Edustajainhuoneen pöytäkirjat
+    - 22. ja 28. huhtikuuta 1998
+- Senaatin asiakirjat
+  - 1-965 (1997–1998) 
+    - nro 1: Edustajainhuoneen toimittama lakiehdotus
+    - nro 2: Ehdotus, jota senaatti ei ottanut käsiteltäväksi.

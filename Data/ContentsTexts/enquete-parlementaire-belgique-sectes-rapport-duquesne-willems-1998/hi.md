@@ -1,172 +1,192 @@
-(CHAMBER of BELGIUM REPRESENTATIVES) (Page 1)
+(बेल्जियम प्रतिनिधि सभा) (पृष्ठ 1)
 
-## संसदीय सर्वेक्षण
+## संसदीय जाँच
 
-एक नीति को विकसित करने के लिए कि वे समाज और व्यक्तियों, विशेष रूप से नाबालिगों के लिए सामाजिक व्यवहारों का मुकाबला करें।
-
----
-
-(Page 2)
-
-## सामग्री
-
--   2 जून 1998 का भाग I अधिनियम हानिकारक सांप्रदायिक संगठनों और हानिकारक सांप्रदायिक संगठनों (Moniteur belge, 25 नवंबर 1998) के खिलाफ लड़ाई के लिए एक प्रशासनिक समन्वय इकाई पर एक सूचना और राय केंद्र की स्थापना।
--   भाग 8 नवंबर 1998 की यह रॉयल डिक्री ने हर्मफुल सेक्ट्री ऑर्गेनाइजेशन (Moniteur belge, 9 दिसंबर 1998) के खिलाफ लड़ाई के समन्वय के लिए प्रशासनिक इकाई की संरचना, संचालन और संगठन की स्थापना की।
--   भाग III संसदीय और वार्षिक दस्तावेज़ों का विवरण
--   भाग IV रिपोर्ट मेसरों द्वारा पूछताछ की संसदीय समिति की ओर से बनाई गई। Duquesne and Willems
--   भाग V मोशन प्लेनरी में अपनाया।
+जिसका उद्देश्य सांप्रदायिक समूहों की अवैध प्रथाओं और वे समाज तथा व्यक्तियों, विशेषकर नाबालिगों, के लिए जो खतरा वे प्रस्तुत करते हैं, के खिलाफ लड़ने हेतु एक नीति तैयार करना है।
 
 ---
 
-(Page 3)
+(पृष्ठ 2)
 
-2 जून 1998 का अधिनियम हानिकारक सांप्रदायिक संगठनों और हानिकारक सांप्रदायिक संगठनों (Moniteur belge, 25 नवंबर 1998) का मुकाबला करने के लिए एक प्रशासनिक समन्वय इकाई पर एक सूचना और राय केंद्र की स्थापना।
+## सारांश
 
----
-
-(Page 4)
-
-## BELGISCH STAATSBLAD
-
-Prijs van een jaarSubscription: बेल्जियम: F 4,260; buitenland: F 17,283। प्रति nummer Prijs: F 10 प्रति vel van acht bladzijden. प्रति nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. टेलीफ़ोन 02'552 22 11.
-
-168th JAARGANG
-
-WOENSDAG 25 NOVEMBER 1998
-
-मंत्री वैन जस्टिट
-
-वेट वैन 2 जूर 1998 होउडेन्डे oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organist en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+- भाग I 2 जून 1998 का अधिनियम, जो हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र तथा हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना पर है (Moniteur belge, 25 नवम्बर 1998)
+- भाग II 8 नवम्बर 1998 का शाही आदेश, जो हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की संरचना, संचालन और संगठन निर्धारण करता है (Moniteur belge, 9 दिसम्बर 1998)
+- भाग III संसदीय दस्तावेजों और अभिलेखों का विवरण
+- भाग IV संसदीय जाँच समिति की ओर से श्री Duquesne और श्री Willems द्वारा प्रस्तुत रिपोर्ट
+- भाग V पूर्ण सत्र में अपनाई गई प्रस्तावना।
 
 ---
 
-(Page 5)
+(पृष्ठ 3)
 
-### विभाग VAN JUSTIE
-
-2 JUNI 1998. — गीले Houdende oprichting वैन een Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties (1)
-
-ALBERT II, Koning der Belgian, Aan allen मरने nu zijn en hierna wezen zullen, Eleven Groet.
-
-Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
-
-### HOOFDSTUK I. — Voorafgaande bepalingen
-
-आर्टिकेल 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 वैन डे Grondwet.
-
-अनुच्छेद 2। Voor de toepassing van onderhavige wet wordt onder schadelijke sektarische organiatie verstaan, elke groepering een levensbeschouwelijk of godsdienstig doel, मरने zich als dusdanig voordoet en die zich in the haar organiatie of praktijken, overgeeft aanade schlijke onwettige activiteen, het the samenleving schaadt of de menselijkeardighe aidant.
-
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op आधार वैन डे सिद्धांतों welke zijn hugegelegd in de Grondwet, de wetten, de decreten, कमांडी en in de Internationale verdragen inzake de bescherming van de rechten van de men welke door Belgi werden geratificeerd.
-
-### HOOFDSTUK II. — Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties
-
-कला 3. बिज हेट मंत्रालय वैन जस्टिटी शब्द een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties", hierna Centrum genamd। De zetel van het Centrum is gevestigd in het administratief arrondissement
-
-अनुच्छेद 4 हेट सेंट्रम bestaat uit twaalf विशाल leden en twaalf plaatsvervangende leaden मरना मिले een tweederde meerdererderheid door de Kamer van volksvertegenwoordigers worden aangewezen. ज़ीज़ विशाल नेतृत्व में en zes plaatsvervangende नेतृत्व में worden aangewezen op voor-dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. दस मिनट een विशाल lid en plaatsvervangend lid kennen Duits.
-
-De Kamer van volksvertegenwoordigers kiest uit de huge leden de voorzitter en de plaatsvervangende voorzitter.
-
-§2. De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de eminente persoonlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problemmatiek van de schadelijke sektarische groeperingen. Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van आपत्तिiviteit en onpartijdigheid te kunnen uitoefenen. विशाल से plaatsvervangende के नेतृत्व में kunnen van hun mandaat ontheven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichten of de waardigheid van hun functie in het gedrang brengen.
-
-§3. Om alande voorwaarden voldoen:
-
-1° de burgerlijke en politeke rechten genieten;
-
-2 ° geen lid zijn वैन हेट यूरोप वैन डे Wetgevende Kamers, Noch van een Gemeenschaps- of Gewestraad, Noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+2 जून 1998 का अधिनियम, हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र तथा हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना पर (Moniteur belge, 25 नवम्बर 1998)
 
 ---
 
-(Page 6)
+(पृष्ठ 4)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen भारतीय zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een persoonlijk of rechtstreeks belang hebben.
+## बेल्जिश राजपत्र
 
-§ 5 Wanneer een afwezig के विशाल lid verhinderd है, wordt het vervangen दरवाजा zijn plaatsvervanger. plaatsvervangend lid waarvan het mandaat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgen de eerste paragraaf bedoelde प्रक्रिया vervangen door een vaset of the plaatsvervangend lid da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteen inzake de vergoeding van de leden van het Centrum विशाल.
+वार्षिक सदस्यता मूल्य :  
+बेल्जियम : F 4 260; विदेश: F 17 283.  
+प्रति अंक की कीमत: F 10 प्रति आठ पन्नों की शीट। सदस्यताओं और प्रति अंक की बिक्री के लिए आप बेल्जिश राजपत्र के प्रशासन, Leuvenseweg 40-42, 1000 ब्रुसेल्स से संपर्क कर सकते हैं।  
+टेलीफोन 02'552 22 11।
 
-अनुच्छेद 5 Het Centrum stelt zijn huishoudelijk विनियमन op binnen twee maanden na zijn installatie। Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+168वां वर्ष
 
-कला 6. § 1. Het Centrum is belast met de volgende opdrachten:
+बुधवार 25 नवम्बर 1998
 
-1° het verschijnsel वैन schadelijke sektarische organizaties in Belgié en hun अंतरराष्ट्रीय बंधन bestuderen;
+न्याय मंत्रालय
 
-2 ° een voor het publiek toegankelijk documentatiecentrum organisen;
-
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die vraag tot het Centrum richt.
-
-4 ° हेट्ज़ीज यूट eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisaties en het bijzonder over het beleid inzake de strijd tegen deze organisaties;
-
-§2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd:
-
-1° alle beschikbare informatie te verzamelen;
-
-2 ° alle अध्ययन of wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
-
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, te nemen पर;
-
-4° steun en begeleide te verlenen aan instellingen, organisaties en verleners van juridische bijstand;
-
-5 ° op zijn bijeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het Nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum भी de Administratieve coördinatiecel से मुलाकात की।
-
-§3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1° en 3°, persoonsgegevens te verwerken मुलाकात betrekking tot de overtuing of activitieseiten op levensbeschouwe-lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8 December 1992 tot bescherming van de persoonlijke levensfeer ten opzichte van de verwerking van persoonsgegevens.
-
-De Koning bepaalt, मंत्रीराद में बिज een ने बेस्लुइट को खत्म कर दिया, de waarborgen inzake vertrouwelijkheid en beveilige van de persoons-gegevens, het statut en de taken van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van de mansonlijke levenssfeking व्यक्तियों
-
-§4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organiaties.
-
-अनुच्छेद 7: Adviezen से de aanbevelingen van het Centrum zijn gemotiveerd। De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslisssing van het Centrum.
+2 जून 1998 की अधिनियम, जो हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र और हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना पर है, पृ. 3782-t
 
 ---
 
-(Page 7)
+(पृष्ठ 5)
 
-कला 8. § 1. Het Centrum kan slechts beraadslagen भारतीय दस minste de meerderheid van zijn leden aanwezig है। De beslissingen worden genomen निरपेक्ष meerderheid मिले। geval van staking der stemmen में, geval deze verhinderd में स्टेम वैन डे voorzitter है, वैन zijn plaatsvervanger doorlaggevend है।
+### न्याय मंत्रालय
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten weergeven.
+2 जून 1998. — हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र और हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना हेतु अधिनियम (1)
 
-§2. Het Centrum mag beschikken over het integraal stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordigers मुलाकात het oog de beleidsvorming ter bestrijding van de onwettige praktijken van de sekten enveen geren ervan voor de voor de onenleving envoor het individuelle, inzonderheid voor de minderjarigen.
+अल्बर्ट द्वितीय, बेल्जियम के राजा, जो भी अब हैं और जो आगे होंगे, हमारा अभिवादन।
 
-अनुच्छेद 9। Voor de uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de medewerking van experten. De Koning bepaalt de modaliteiten van de vergoeding van deze Experten.
+सत्रों ने निम्नलिखित को अपनाया और हम उसे पुष्टि करते हैं :
 
-अनुच्छेद 10 Voor alle personen die werken met vertrouwelijke gegevens die door het Centrum worden ingezameld. Dezelfde verplichting geldtook voor elkeen die niet tot het Centrum behoort, Maar als Deskundige, medewerker Optit के onderzoeker.
+### अध्याय I. — प्रारम्भिक प्रावधान
 
-अनुच्छेद 11 हेट सेंट्रम स्टेल्ट एल्के twee jaar een verslag van zijn activiteiten voor. दिट वर्लैग वर्ड्ट gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
+अनुच्छेद 1. यह अधिनियम संवैधानिक अनुच्छेद 78 में निर्दिष्ट मामले का विनियमन करता है।
 
-अनुच्छेद 12 Het Centrum beschikt over een secretariatat.
+अनुच्छेद 2. इस अधिनियम के प्रयोजन हेतु "हानिकारक सांप्रदायिक संगठन" से आशय है कोई भी समूह जिसका जीवनदर्शनीय या धार्मिक उद्देश्य हो, या जो स्वयं को ऐसा प्रस्तुत करता हो, और जो अपनी संगठनात्मक रचना या प्रथाओं में हानिकारक, अवैध गतिविधियों को अपनाता हो, जिससे व्यक्ति या समाज को क्षति पहुँचे या मानवीय गरिमा अप्रतिष्ठित हो।
 
-Het personeel wordt ter beschikking इशारेल्ड दरवाजा डे मंत्री वैन जस्टिटी, ना वूरापांड हेट एडवाइज वैन हेट सेंट्रम ते हेब्बेन
+किसी सांप्रदायिक संगठन की हानिकारक प्रकृति का परीक्षण उन सिद्धांतों के आधार पर किया जाएगा जो संविधान, कानूनों, अध्यादेशों, आदेशों और उन अंतरराष्ट्रीय संधियों में निहित हैं जो मानवाधिकारों की रक्षा के संबंध में हैं और जिन्हें बेल्जियम ने अनुमोदित किया है।
 
-Het maneel राज्य onder het rechtstreeks gezag van de voorzitter van het Centrum. De wevingskosten van het Centrum komen ten देर वैन de begroting van het ministère van Justitie.
+### अध्याय II. — हानिकारक सांप्रदायिक संगठनों के संबंध में सूचना और परामर्श केंद्र
 
-### HOOFDSTUK III. — Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties
+अनुच्छेद 3. न्याय मंत्रालय के अधीन एक स्वतंत्र केन्द्र स्थापित किया जाता है जिसका नाम "हानिकारक सांप्रदायिक संगठनों के संबंध में सूचना और परामर्श केंद्र" होगा, जिसे आगे "केंद्र" कहा जाएगा।  
+केंद्र का स्थान प्रशासनिक प्रभाग "ब्रुसेल-राजधानी" में स्थित होगा।
 
-अनुच्छेद 13 Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het ministère van Justitie opgericht.
+अनुच्छेद 4. § 1. केंद्र में बारह स्थायी सदस्य और बारह वैकल्पिक सदस्य होंगे जिन्हें प्रतिनिधि सभा द्वारा दो-तिहाई बहुमत से नामित किया जाएगा। छह स्थायी सदस्य और छह वैकल्पिक सदस्य मंत्रिपरिषद की प्रस्तावना पर नामित किए जाएंगे और हर रिक्त पद के लिए दो उम्मीदवार प्रस्तुत किए जाएंगे।  
+प्रत्यक्ष रूप से प्रतिनिधि सभा द्वारा नामित और मंत्रिपरिषद की प्रस्तावना पर नामित सदस्यों के बीच फ्लेमिश और फ्रेंच भाषी सदस्यों के बीच भाषाई समानता सुनिश्चित की जाएगी।  
+कम से कम एक स्थायी सदस्य और एक वैकल्पिक सदस्य जर्मन जानते होंगे।
 
-अनुच्छेद 14 डे मिनिस्टर वैन जस्टिटी ऑफ ज़ीजन अफगेवार्डिगेड नेम्ट हेट वोरज़िटरस्चैप वैन डे एडमिनिस्ट्रेटवे कोर्डिनाटेल वाअर। De Koning bepaalt de asnstelling van de Administratieve coördi-natiecel bij een in the Ministerraad overlegd besluit.
+प्रतिनिधि सभा अपने स्थायी सदस्यों में से अध्यक्ष और उपाध्यक्ष का चुनाव करेगी।
 
-अनुच्छेद 15 एडमिनिस्ट्रेटिव Coördinatiecel heeft de volgende opdrach-ten:
+§ 2. सदस्यों की नियुक्ति चार वर्ष के कार्यकाल के लिए होगी, जो एक बार नवीनीकरण किया जा सकता है, ऐसे प्रमुख व्यक्तित्वों में से जिनकी जानकारी, अनुभव और हानिकारक सांप्रदायिक समूहों की समस्या के प्रति रुचि के लिए ख्याति हो। उन्हें अपने पद का पूर्ण स्वतंत्रता, वस्तुनिष्ठता और निष्पक्षता की भावना के साथ निर्वाह करने के लिए सभी गारंटी प्रदान करनी होंगी।  
+स्थायी और वैकल्पिक सदस्यों को प्रतिनिधि सभा द्वारा उनके कर्तव्यों में कमी या उनके पद की गरिमा को नुकसान पहुँचाने पर उनके पद से हटाया जा सकता है।
 
-1° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
+§ 3. स्थायी या पर्यवेक्षी सदस्य के रूप में नियुक्त होने और उस पद की योग्यता बनाए रखने के लिए उम्मीदवारों को निम्नलिखित शर्तें पूरी करनी होंगी :
 
-2 ° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
+1° नागरिक और राजनीतिक अधिकारों का आनंद करते हों;
 
-3° Maatregelen voorstellen मरने वैन aard zijn om de coördinatie en de effectiviteit van deze acties te verhogen;
+2° यूरोपीय संसद या विधानसभाओं के सदस्य न हों, न ही किसी समुदाय या क्षेत्र की परिषद के, न ही संघीय सरकार या किसी समुदाय या क्षेत्रीय सरकार के सदस्य हों।
 
-4° ओवरले में मिले डे bevoegde diensten en bestruren een preventie-beleid voor de burgers tegen de activitéten van de schadelijke sektarische organizaties, bevorderen;
+---
 
-5 ° Een nauwe asnwerking het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum Uit voeren।
+(पृष्ठ 6)
+
+§ 4. केंद्र के सदस्यों के लिए निषेध है कि वे उन विषयों पर परिचर्चाओं में उपस्थित हों जिनमें उन्हें व्यक्तिगत या प्रत्यक्ष स्वार्थ है या जिनमें उनके रक्त-संबंधी या ससुराली संबंधी तक चौथी डिग्री तक किसी का व्यक्तिगत या प्रत्यक्ष स्वार्थ हो।
+
+§ 5. जब कोई स्थायी सदस्य असमर्थ या अनुपस्थित हो, तो उसे उसके वैकल्पिक सदस्य द्वारा प्रतिस्थापित किया जाएगा।  
+जिस स्थायी या वैकल्पिक सदस्य का कार्यकाल चार वर्ष की अवधि से पहले समाप्त होता है, उसे पहले परिच्छेद में निर्दिष्ट प्रक्रिया के अनुसार प्रतिस्थापित किया जाएगा और जो सदस्य नियुक्त किया जाता है वह शेष कार्यकाल के लिए होगा।  
+राजा केंद्र के सदस्यों के पारिश्रमिक से जुड़ी व्यवस्था स्थापित करेगा।
+
+अनुच्छेद 5. केंद्र अपनी आंतरिक नियमावली अपनी स्थापना के बाद दो महीनों के भीतर बनाएगा। यह नियमावली अनुमोदन हेतु प्रतिनिधि सभा के समक्ष प्रस्तुत की जाएगी।
+
+अनुच्छेद 6. § 1. केंद्र को निम्नलिखित कार्य सौंपे जाते हैं :
+
+1° बेल्जियम में हानिकारक सांप्रदायिक संगठनों की घटना और उनके अंतरराष्ट्रीय संबंधों का अध्ययन करना;
+
+2° जनता के लिए सुलभ एक दस्ता-तत्विक केन्द्र (डॉक्यूमेंटेशन सेंटर) का आयोजन करना;
+
+3° सार्वजनिक स्वागत और सूचना की व्यवस्था करना तथा केंद्र से संपर्क करने वाले प्रत्येक व्यक्ति को उसके अधिकारों और कर्तव्यों के बारे में और यह बताना कि वह किस प्रकार अपने अधिकारों को लागू कर सकता है;
+
+4° या तो स्वयं पहल करके या किसी भी सार्वजनिक प्रशासन के अनुरोध पर हानिकारक सांप्रदायिक संगठनों की घटना के संबंध में और विशेष रूप से उन संगठनों के खिलाफ लड़ाई के नीति के संबंध में सलाह और अनुशंसाएँ देना;
+
+§ 2. अपने कार्यों को पूरा करने के लिए केंद्र को निम्नलिखित अधिकार प्राप्त हैं :
+
+1° सभी उपलब्ध जानकारी एकत्र करना;
+
+2° अपने कार्यों को ठोस रूप से पूरा करने के लिए आवश्यक सभी अध्ययन या वैज्ञानिक जांच करना;
+
+3° किसी भी अभिलेखागार या दस्तावेज समूह को ग्रहण करना जिसका विषय उसके किसी कार्य से मेल खाता हो;
+
+4° संस्थानों, संगठनों और कानूनी सहायता प्रदाताओं को समर्थन और मार्गदर्शन प्रदान करना;
+
+5° अपनी बैठकों पर उन पेशेवर संघों और व्यक्तियों से परामर्श करना या उन्हें आमंत्रित करना जिन्हें वह सुनना उपयोगी समझे।  
+अपने कार्यों के पूरा होने हेतु केंद्र प्रशासनिक समन्वय कक्ष के साथ सहयोग करता है।
+
+§ 3. केंद्र को § 1 के 1° और 3° में निर्दिष्ट अपने कार्यों को निभाने के लिए व्यक्तिगत डेटा संसाधित करने का अधिकार है, जो जीवनदर्शनीय या धार्मिक विश्वासों या गतिविधियों से संबंधित हो, जैसा कि 8 दिसम्बर 1992 के कानून के अनुच्छेद 6 में व्यक्त व्यक्तिगत जीवनक्षेत्र की रक्षा के संबंध में व्यक्तिगत डेटा की संसाधना के विरुद्ध किया गया है।
+
+राजा मंत्री-परिषद में परामर्श द्वारा, गोपनीयता और व्यक्तिगत डेटा की सुरक्षा के संबंध में गारंटियाँ, केंद्र के भीतर व्यक्तिगत डेटा सुरक्षा के लिए नियुक्त अधिकारी का दर्जा और कर्तव्यों तथा केंद्र द्वारा व्यक्तिगत डेटा की संसाधना पर व्यक्तिगत जीवनक्षेत्र संरक्षण आयोग को रिपोर्ट कैसे प्रस्तुत की जाएगी, निर्धारित करेगा।
+
+§ 4. केंद्र द्वारा जनता के अनुरोध पर प्रदान की जाने वाली सूचनाएँ उन सूचनाओं पर आधारित होंगी जिनके बारे में केंद्र के पास जानकारी है और उन्हें हानिकारक सांप्रदायिक संगठनों की सूचियों या व्यवस्थित सारांशों के रूप में प्रस्तुत नहीं किया जाना चाहिए।
+
+अनुच्छेद 7. केंद्र की सलाह और अनुशंसाएँ प्रमाणीकृत होंगी।  
+सलाह सार्वजनिक होंगे, सिवाय इसके कि केंद्र द्वारा उचित रूप से औचित्यपूर्ण अलग निर्णय लिया गया हो।
+
+---
+
+(पृष्ठ 7)
+
+अनुच्छेद 8. § 1. केंद्र केवल तभी विचार-विमर्श कर सकता है जब उसके सदस्यों की कम से कम बहुमत उपस्थित हो। निर्णय स्पष्ट बहुमत से लिए जाएंगे। मतभेद की स्थिति में, अध्यक्ष के मत का या यदि अध्यक्ष अनुपस्थित हो तो उसके उपाध्यक्ष के मत का निर्णायक प्रभाव होगा।
+
+स्वीकृत सलाहों में विभिन्न प्रस्तुत किए गए दृष्टिकोणों को भी प्रदर्शित किया जाएगा।
+
+§ 2. केंद्र को प्रतिनिधि सभा की संसदीय अन्वेषण समिति की सार्वजनिक सुनवाईयों के संपूर्ण तिप्पणी रिकॉर्ड (स्टेनोग्राफिक रिपोर्ट) तक पहुँच हो सकती है, जिसका उद्देश्य सांप्रदायिकों की अवैध प्रथाओं और उनके समाज तथा व्यक्ति, विशेषकर नाबालिगों, के लिए खतरों के विरुद्ध नीति निर्माण हेतु है।
+
+अनुच्छेद 9. अपने समस्त कार्यों के निष्पादन के लिए केंद्र विशेषज्ञों की सहायता ले सकता है। राजा उन विशेषज्ञों के पारिश्रमिक की प्रावधानें निर्धारित करेगा।
+
+अनुच्छेद 10. केंद्र द्वारा संकलित गोपनीय जानकारी पर काम करने वाले सभी व्यक्तियों के लिए पेशेवर गोपनीयता लागू होगी जैसा कि फौजदारी संहिता के अनुच्छेद 458 में निर्दिष्ट है। यही बाध्यता उन प्रत्येक पर भी लागू होगी जो केंद्र का हिस्सा नहीं हैं परंतु विशेषज्ञ, शोधकर्ता या सहयोगी के रूप में कार्य करते हैं।
+
+अनुच्छेद 11. केंद्र हर दो वर्ष में अपनी गतिविधियों की एक रिपोर्ट प्रस्तुत करेगा। यह रिपोर्ट मंत्री-परिषद, विधानसभाओं और समुदायों तथा क्षेत्रों की समितियों और सरकारों को भेजी जाएगी।
+
+अनुच्छेद 12. केंद्र के पास एक सचिवालय होगा।
+
+कर्मचारी न्याय मंत्री द्वारा उपलब्ध कराए जाएंगे, परन्तु पहले केंद्र की सलाह लेने के बाद।
+
+कर्मचारी केंद्र के अध्यक्ष के प्रत्यक्ष अधिकाराधीन होंगे। केंद्र के परिचालन खर्च न्याय मंत्रालय के बजट पर होंगे।
+
+### अध्याय III. — हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष
+
+अनुच्छेद 13. न्याय मंत्रालय के अधीन हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना की जाती है।
+
+अनुच्छेद 14. न्याय मंत्री या उनके प्रतिनिधि प्रशासनिक समन्वय कक्ष की अध्यक्षता करेंगे। राजा मंत्रिपरिषद में परामर्श के निर्णय द्वारा प्रशासनिक समन्वय कक्ष की संरचना निर्धारित करेगा।
+
+अनुच्छेद 15. प्रशासनिक समन्वय कक्ष के कार्य निम्नलिखित हैं :
+
+1° संबंधित सार्वजनिक सेवाओं और प्राधिकारियों द्वारा की जा रही कार्रवाइयों का समन्वय करना;
+
+2° हानिकारक सांप्रदायिक संगठनों की अवैध प्रथाओं के विकास का अन्वेषण करना;
+
+3° ऐसी उपाय प्रस्तावित करना जो इन कार्रवाइयों के समन्वय और प्रभावशीलता को बढ़ाने की प्रकृति के हों;
+
+4° प्राधिकृत सेवाओं और प्रशासनों के साथ परामर्श में नागरिकों के लिए हानिकारक सांप्रदायिक संगठनों की गतिविधियों के खिलाफ एक प्रतिरक्षण नीति को बढ़ावा देना;
+
+5° केंद्र के साथ घनिष्ठ सहयोग स्थापित करना और केंद्र की अनुशंसाओं व प्रस्तावों को लागू करने हेतु आवश्यक कदम उठाना।
 
 ---
 
 (पृष्ठ 8)
 
-अनुच्छेद 16 Koning bepaalt de modaliteiten inzake de werking en de organizatie van de Administratieve coi:irdinatiecel bij een in mmister Kondigen गीला af deze, bevelen dat zij मिला 'भूमि zegel zal worden bekleed en door het Bclgisch Staatsblad zal worden bekendgemaakt.
+अनुच्छेद 16. राजा प्रशासनिक समन्वय कक्ष के संचालन और संगठन संबंधी प्रावधानों को मंत्री-परिषद में परामर्श के द्वारा निर्धारित करेगा।  
+यह अधिनियम घोषित किया जाता है, आज्ञा दी जाती है कि इसे राष्ट्रीय मोहर से सील किया जाए और बेल्जिश राजपत्र में प्रकाशित किया जाए।
 
-Gegeven te Brussel, 2 जून 1998।
+ब्रुसेल्स में दिया गया, 2 जून 1998।  
 
-अल्बेर्ट वैन कोनिंग्सवेग: डे मंत्री वैन जस्टिटी T. VAN PARYS Met's Lands zegel gezegeld: De Minister van Justitie, T. VAN PARYS नोट
+अल्बर्ट  
+राष्ट्रपति के आदेश द्वारा :  
+न्याय मंत्री,  
+T. VAN PARYS  
+राष्ट्रीय मोहर द्वारा सील किया गया : न्याय मंत्री, T. VAN PARYS
 
-(1) 1996-1997
+नोट
 
-Kamer van volksvertegenwoordigers. संसदीय स्टुकेन। - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nrs. 1198/2 tot 7. - Tekst aangenomen door of Commission, nr. 1198/9. -Tekst aangenomen in plenaire vergadering en overge संसदीय हस्तलिंगन - Bespreking। वेर्गेडरिंग वैन 22 अप्रैल 1998। -Aanneming। वेर्गेडरिंग वैन 28 अप्रैल 1998। सीनेट संसदीय स्टुकेन। 1-965/1-1997-1998. Ontwerp niet geévo- cerd door de Senaat, nr. 1-965/2/1997-1998.
+(1) सामान्य सत्र 1996-1997।
+
+प्रतिनिधि सभा। संसदीय दस्तावेज। - श्री Duquesne का विधेयक, क्र. 1198/1. - संशोधन, क्र. 1198/2 से 7 तक. - श्री Willems द्वारा तैयार की गई रिपोर्ट, क्र. 1198/8. - समिति द्वारा स्वीकृत पाठ, क्र. 1198/9. - पूर्ण सत्र में स्वीकृत पाठ और सीनेट को भेजा गया, क्र. 1198/10.  
+प्रतिनिधि सभा की कार्यवाही। - चर्चा। 22 अप्रैल 1998 की बैठक। - स्वीकृति। 28 अप्रैल 1998 की बैठक।  
+सीनेट। संसदीय दस्तावेज। - प्रतिनिधि सभा द्वारा प्रेषित प्रस्तावित विधेयक, क्र. 1-965/1-1997-1998. प्रस्ताव सीनेट द्वारा चर्चा नहीं किया गया, क्र. 1-965/2-1997-1998.
 
 ---
 
@@ -174,118 +194,107 @@ Kamer van volksvertegenwoordigers. संसदीय स्टुकेन। -
 
 ## भाग II
 
-8 नवंबर 1998 की रॉयल डिक्री ने हानिकारक संक्रामक संगठनों (Moniteur belge, 9 दिसंबर 1998) के खिलाफ लड़ाई के समन्वय के लिए प्रशासनिक इकाई की संरचना, संचालन और संगठन की स्थापना की।
+8 नवम्बर 1998 का शाही आदेश, जो हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की संरचना, संचालन और संगठन को निर्धारित करता है (Moniteur belge, 9 दिसम्बर 1998)
 
 ---
 
 (पृष्ठ 10)
 
-### WETTEN, DECRETEN, ORDERS और REGULATIONS
+### कानून, अध्यादेश, आदेश और विनियम
 
-विभाग VAN JUSTIE
+न्याय मंत्रालय
 
-N. 98 - 3277 \[S.C.-98/09981\] 8 NOVEMBER 1998. — Koninklijk besluit houdende asnstelling, werking en organisatie van de Administratieve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties.
+क्रमांक 98 — 3277 [S−C−98/09981] 8 नवम्बर 1998. — हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की संरचना, कार्यप्रणाली और संगठन से संबंधित शाही निर्णय।
 
-ALBERT II, Koning der Belgian, Aan allen मरने nu zijn en hierna wezen zullen, Eleven Groet.
+अल्बर्ट द्वितीय, बेल्जियम के राजा, जो भी अब हैं और जो आगे होंगे, हमारा अभिवादन।
 
-जिलेट ओप डे वेट वैन 2 जं 1998 होउडेन्डे oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties; जिलेट ओप हेट एडवाइज वैन डे इंस्पेक्टर वैन फिनेंसी, गेगवेन ओप 10 सितंबर 1998; जिलेट op de wetten van de Raad वैन स्टेट, gecoo ̈rdineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 augustus 1980, 16 juni 1989, 4 जुलाई 1989, 4 अगस्त 1996 में; जिलेट ओप डी dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individuel en inzonderheid voor de minderjari-gen, de dringende noodzaak van de oprichting van een Informatie- en Adviescentrum en Administratieve Coo rdinatiecel heeft opgeworpen, मिले het oog op de zo spoe moiglike Overwegende dat de wet Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo rdinatiecel ondertekend werd door de
+2 जून 1998 के कानून के संदर्भ में, जो हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र तथा हानिकारक सांप्रदायिक संगठनों के विरुद्ध संघर्ष के प्रशासनिक समन्वय कक्ष की स्थापना का प्रावधान करता है;  
+10 सितम्बर 1998 को दिए गए वित्त निरीक्षक की राय के संदर्भ में;  
+राज्य परिषद के समन्वित कानूनों के संदर्भ में, 12 जनवरी 1973 को समन्वित, विशेष रूप से अनुच्छेद 3, § 1 के संदर्भ में, जिसे 9 अगस्त 1980, 16 जून 1989, 4 जुलाई 1989 और 4 अगस्त 1996 के कानूनों द्वारा संशोधित किया गया;  
+तत्काल आवश्यकता के विचार के साथ;  
+ध्यान में रखते हुए कि संसदीय अन्वेषण समिति, जिसे सांप्रदायिकों की अवैध प्रथाओं और उन प्रथाओं के व्यक्ति पर और विशेष रूप से नाबालिगों पर पड़ने वाले खतरों के विरुद्ध नीति निर्माण का दायित्व सौंपा गया था, ने सूचना और परामर्श केंद्र तथा प्रशासनिक समन्वय कक्ष की स्थापना की तात्कालिक आवश्यकता उत्पन्न की है, ताकि इस घटना के अनुगमन का कार्य करने वाला एक निकाय जितनी जल्दी संभव हो सके बनाया जा सके;  
+ध्यान में रखते हुए कि हानिकारक सांप्रदायिक संगठनों के संबंध में एक सूचना और परामर्श केंद्र और एक प्रशासनिक समन्वय कक्ष की स्थापना हेतु कानून पर 2 जून 1998 को राजा द्वारा हस्ताक्षर किए गए थे और इसलिए यह अनुशंसनीय है कि कानून और इसके क्रियान्वयन निर्णयों को यथाशीघ्र प्रकाशित किया जाए, ताकि सूचना और परामर्श केंद्र और प्रशासनिक समन्वय कक्ष 1 जनवरी 1999 से अपने कार्य आरम्भ कर सकें;  
+हमारे न्याय मंत्री की प्रस्तुति पर और मंत्रिमंडल में परामर्श की राय पर,
 
----
+हमने निर्णय लिया है और निर्णय लेते हैं :
 
-(पृष्ठ 11)
+### अध्याय I. — प्रशासनिक समन्वय कक्ष की संरचना
 
-कोनिंग op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo rdinatiecel in thestat te stellen hun opdrachten aan te vatten met ingang van 1 januari 1999; Op de voordracht van Eleven मंत्री van Justitie en op het advies van Eleven in Raad vergaderde मंत्रियों,
+अनुच्छेद 1. 2 जून 1998 के कानून के अनुच्छेद 13 द्वारा स्थापित प्रशासनिक समन्वय कक्ष की संरचना निम्नलिखित है :
 
-Hebben Wij besloten en besluiten Wij:
+- अभियोजक जनरलों के कॉलेज का एक प्रतिनिधि;
+- एक राष्ट्रीय न्यायाधीश;
+- राइक्सवाख्ट (राष्ट्रीय पुलिसबल) का एक प्रतिनिधि;
+- न्यायिक पुलिस का एक प्रतिनिधि;
+- आंतरिक मामलों के मंत्रालय की सामान्य राष्ट्रीय पुलिस का एक प्रतिनिधि;
+- कार्मिक मामलों के मंत्रालय का एक प्रतिनिधि;
+- राज्य सुरक्षा प्रशासन (Bestuur Veiligheid van de Staat) का एक प्रतिनिधि;
+- न्याय मंत्रालय के नागरिक विधि और पूजा सेवाओं के महानिदेशन का एक प्रतिनिधि;
+- न्याय मंत्रालय के दंड विधि और मानवाधिकारों के महानिदेशन का एक प्रतिनिधि;
+- न्याय मंत्रालय की दंडात्मक न्याय नीति सेवा का एक प्रतिनिधि;
+- आंतरिक मामलों के मंत्रालय का एक प्रतिनिधि;
+- वित्त मंत्रालय का एक प्रतिनिधि;
+- रोजगार और श्रम मंत्रालय का एक प्रतिनिधि;
+- रक्षा मंत्रालय का एक प्रतिनिधि।
 
-### HOOFDSTUK I. — Samenstelling van de Administratieve Coo ̈rdinatiecel
+अनुच्छेद 2. प्रत्येक प्रतिनिधि के लिए एक वैकल्पिक प्रतिनिधि भी नामित किया जाएगा।
 
-आर्टिकेल 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt asngesteld:
+अनुच्छेद 3. प्रतिनिधियों और उनके वैकल्पिक प्रतिनिधियों की नियुक्ति न्याय मंत्री द्वारा की जाएगी, उन संबंधित प्राधिकरणों की प्रस्तुति के बाद जिन पर वे निर्भर करते हैं।
 
--   een vertgenwoordiger वैन हेट कॉलेज वैन अटार्नी-जनरल;
--   een Nationalaal magistraat;
--   een vertgenwoordiger वैन de Rijkswacht;
--   een vertgenwoordiger वैन डे Gerechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
+### अध्याय II. — प्रशासनिक समन्वय कक्ष का कार्यप्रणाली
 
-मंत्रालय वैन Binnenlandse Zaken;
+अनुच्छेद 4. अध्यक्ष बैठकों का स्थान, दिन और प्रारम्भिक समय निर्धारित करेगा और एजेंडा तैयार करेगा। हर सदस्य को अधिकार होगा कि वह अध्यक्ष से अनुरोध करे कि एजेंडा पर बिंदु शामिल किए जाएँ। हानिकारक सांप्रदायिक संगठनों के संबंध में सूचना और परामर्श केंद्र के अध्यक्ष को भी अधिकार होगा कि वह अध्यक्ष से एजेंडा पर बिंदु शामिल करने का अनुरोध करे।
 
--   een vertgenwoordiger वैन het Ministerie वैन Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het directoraat- सामान्य burgerlijke
+अनुच्छेद 5. अत्यावश्यकता को छोड़कर, निमंत्रण और एजेंडा तथा किसी भी दस्तावेज़, अध्यक्ष द्वारा हस्ताक्षरित होने के बाद, सचिव द्वारा सदस्यों को कम से कम आठ दिन पहले भेजे जाएंगे।
 
-Wetgeving en erediensten van het Ministerie van Justitie;
+अनुच्छेद 6. जो सदस्य अनुपस्थित हैं उन्हें उनके वैकल्पिक सदस्य द्वारा प्रतिस्थापित किया जाएगा और वे स्वयं दस्तावेज़ उसे भेजेंगे।
 
--   een vertgenwoordiger van het directoraat-general strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger वैन हेट मंत्री वैन Binnenlandse Zaken;
-    
--   een vertgenwoordiger वैन het Ministerie वैन Financien;
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
+अनुच्छेद 7. प्रशासनिक समन्वय कक्ष तभी वैध रूप से बैठक करेगा जब कम से कम आधे सदस्य या उनके वैकल्पिक उपस्थित हों। यदि कोई बहुमत उपस्थित नहीं था, तो सदस्यों को पुनः आमंत्रित किया जाएगा, इस स्थिति में प्रशासनिक समन्वय कक्ष किसी भी उपस्थित सदस्यों की संख्या के बावजूद वैध रूप से बैठक करेगा।
 
-आर्बिद;
+अनुच्छेद 8. प्रशासनिक समन्वय कक्ष का प्रत्येक सदस्य और अनुपस्थिति में उसका वैकल्पिक एक वोट रखता है। निर्णय उपस्थित सदस्यों की सर्वसम्मति से लिये जाएंगे। हानिकारक सांप्रदायिक संगठनों के संबंध में सूचना और परामर्श केंद्र के अध्यक्ष या उसके वैकल्पिक को यह अधिकार होगा कि :
 
--   een vertgenwoordiger van het Ministerie van Landsverdediging. अनुच्छेद 2। Voor elke vertgenwoordiger wordt tevens een plaatsvervan-ger aangeduid.
-
-अनुच्छेद 3। vertgenwoordigers से hun plaatsvervangers के लिए, मंत्री वैन जस्टिटी, ना वोरोड्राक्ट दरवाजा डी सम्मान ओवरहीडन वैन wie zij afhangen द्वारा aangesteld दरवाजा।
-
-### HOOFDSTUK II. — Werking van de Administratieve Coo ̈rdinatiecel
-
-अनुच्छेद 4 Devoorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de एजेंडा op. Elk van de Leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. Devoorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te verzoeken punten op de एजेंडा te plaatsen.
-
-अनुच्छेद 5 Behoudens hoogdringendheid worden de uitnodigingen en de एजेंडा evens eventuales stukken, na ondertekening door de voorzitter, door de secretaris ten minste acht dagen vooraf aan de leaden toegezonden.
-
-अनुच्छेद 6: De Leden die verhinderd zijn, worden vervangen door hun plaatsvervanger en sturen hem zelf de stukken door.
-
-अनुच्छेद 7. De Administratieve Coo ̈rdinatiecel vergadert slechts geldig भारतीय दस minste de helft van de leaden of hun plaatsvervangers aanwezig है। Ingeval geen meerderheid aanwezig था, worden de leden opnieuw uitgenodigd, welk geval de Administratieve Coo ̈rdinatiecel geldig vergadert, wat देखो het aantal aanwezige leden है।
-
-अनुच्छेद 8: एल्क लिड वैन डे एडमिनिस्ट्रेटिव कोओ etherinatiecel, bij verhin-dering zijn plaatsvervanger में, een स्टेम पर beschikt। De beslissingen worden bij unanimititeit van de aanwezige leden genomen. Devoorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties of zijn plaatsvervanger kan:
-
--   Uitgenodigd worden de vergaderingen van de Administratieve Coo ̈rdinatiecel bij te winen;
--   भारतीय क्रिकेट टीम ने कहा कि भारतीय क्रिकेट टीम भारत के खिलाफ लड़ रही है।
+- उन्हें प्रशासनिक समन्वय कक्ष की बैठकों में आमंत्रित किया जाए;
+- यदि एजेंडा आवश्यक समझे तो उन्हें सुना जाए।
 
 ---
 
 (पृष्ठ 12)
 
-अनुच्छेद 9. De secretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorzitter met de volgende uitnodiging meegestuurd.
+अनुच्छेद 9. सचिव बैठकों की कार्यवाही का विवरण (प्रोसेस-वर्बाल) तैयार करेगा। इसे अध्यक्ष द्वारा स्वीकृति के बाद अगले निमंत्रण के साथ भेज दिया जाएगा।
 
-Deeden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee'n dag voor de vergadering.
+सदस्यों को अपनी टिप्पणियाँ लिखित रूप में बैठक से कम से कम एक दिन पूर्व तक प्रस्तुत करनी होंगी।
 
-अनुच्छेद 10 De adviezen en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de wet van 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo rdinatiecel overgezonden.
+अनुच्छेद 10. केंद्र द्वारा 2 जून 1998 के कानून के अनुच्छेद 6, § 1, 4° के अनुप्रयोग में दी गई सलाहें और अनुशंसाएँ केंद्र द्वारा प्रशासनिक समन्वय कक्ष के अध्यक्ष को भेजी जाएँगी।
 
-De Administratieve Coo rdinatiecel stelt in overleg met het Centrum विशाल de wijze van:
+प्रशासनिक समन्वय कक्ष केंद्र के साथ परामर्श करके निम्नलिखित की स्थापना करेगा :
 
--   coordinatie वैन संभावित कार्यकलाप;
--   Regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+- संभावित कार्रवाइयों का समन्वय;
+- केंद्र की अनुशंसाओं और सलाहों के कार्यान्वयन पर निगरानी की व्यवस्था, यदि वे उनके अधिकारक्षेत्र के अंतर्गत आते हैं।
 
-अनुच्छेद 11 De maatregelen die de Administratieve Coo ̈rdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of Instanties, evenals aan de voorzitter van het Centrum meegedeeld.
+अनुच्छेद 11. प्रशासनिक समन्वय कक्ष जो उपाय प्रस्तावित करता है उन्हें संबंधित सेवाओं या संस्थानों तथा केंद्र के अध्यक्ष को लिखित रूप में सूचित किया जाएगा।
 
-अनुच्छेद 12 De Administratieve Coo rdinatiecel pleegt overleg met alle bevoegde diensten en bestruren binnen het kader van zijn opdrachten. जब kan ze onder meer uitnodigen en hen inlichtingen vragen. संघीय ओवरहेडेन डी डोर डी एडमिनिस्ट्रेटिव कोओ etherinatiecel gevraagde inlichtingen te bezorgen.
+अनुच्छेद 12. प्रशासनिक समन्वय कक्ष अपने कार्यों के दायरे में सभी प्राधिकृत सेवाओं और प्रशासनों से परामर्श करेगा। वह उन्हें विशेष रूप से आमंत्रित कर सकता है और उनसे जानकारी मांग सकता है। संघीय प्राधिकरणों को प्रशासनिक समन्वय कक्ष द्वारा मांगी गई जानकारी प्रदान करनी होगी।
 
-अनुच्छेद 13 De Administratieve Coo rdinatiecel vergadert minstens eenmaal om de twee maanden.
+अनुच्छेद 13. प्रशासनिक समन्वय कक्ष कम से कम हर दो महीने में एक बार बैठक करेगा।
 
-एडमिनिस्ट्रेटिव कोओ rdinatiecel bengt zesmaandelijks verslag Uit aan het Centrum nopens haar werkzaamheden.
+प्रशासनिक समन्वय कक्ष अपने कार्यों के संदर्भ में छ: माह पर केंद्र को अपनी गतिविधियों की रिपोर्ट प्रस्तुत करेगा।
 
-### HOOFDSTUK III. — संगठन
+### अध्याय III. — संगठन
 
-अनुच्छेद 14 Alle Leden van de Administratieve Coo ̈rdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, one हींगस्टेल्ड uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leaden.
+अनुच्छेद 14. प्रशासनिक समन्वय कक्ष के सभी सदस्य 'कार्यालय' का निर्माण करते हैं। 'कार्यालय' एक दैनिक प्रशासन नियुक्त करता है, जिसमें स्वाभाविक रूप से अध्यक्ष शामिल होता है और दो चुने हुए सदस्य होते हैं।
 
-अनुच्छेद 15 De Administratieve Coo rdinatiecel kan wanneer bijzondere opdrachten dit verantwoorden subgroepen binnen haar schoot oprichten.
+अनुच्छेद 15. प्रशासनिक समन्वय कक्ष जब विशेष कार्य बनाते हैं तो अपने भीतर उप-समूहों की स्थापना कर सकता है।
 
-अनुच्छेद 16 डे मिनिस्टर वैन जस्टिटी स्टेल्ट एडमिनिस्ट्रेटिफ़ पर्सनेल, lokalen en de noodzakelijke bureaubenogedheden ter beschikking van de Administratieve Coo rdinatiecel.
+अनुच्छेद 16. न्याय मंत्री प्रशासनिक समन्वय कक्ष को प्रशासनिक कर्मी, परिसर और आवश्यक कार्यालय सामान उपलब्ध कराएंगे।
 
-अनुच्छेद 17 De artikelen 1 tot en मिला 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+अनुच्छेद 17. अनुच्छेद 1 से 3 उस दिन से प्रभाव में आते हैं जिस दिन इस निर्णय को बेल्जिश राजपत्र में प्रकाशित किया जाता है और बाकी अनुच्छेद 1 जनवरी 1999 से प्रभावी होंगे।
 
-अनुच्छेद 18. ग्यारह मंत्री वैन जस्टिटी सुंदर मुलाकात डी uitvoering वैन dit besluit है।
+अनुच्छेद 18. हमारे न्याय मंत्री इस निर्णय के कार्यान्वयन के प्रभारी हैं।
 
-Gegeven te Brussel, 8 नवंबर 1998।
+ब्रुसेल्स में दिया गया, 8 नवम्बर 1998।
 
-ALBERT Van Koningswege: De Minister van Justitie, T. VAN PARYS
+अल्बर्ट  
+राष्ट्रपति के आदेश द्वारा : न्याय मंत्री, T. VAN PARYS
 
 ---
 
@@ -297,40 +306,40 @@ ALBERT Van Koningswege: De Minister van Justitie, T. VAN PARYS
 
 (पृष्ठ 14)
 
-## धार्मिक और नैतिक दस्तावेज
+## संसदीय दस्तावेजों और अभिलेखों का विवरण
 
-### A. Constituition of the PARLIAMENTARY COMMITTEE
+### A. संसदीय जाँच समिति की रचना
 
--   प्रतिनिधि सभा के दस्तावेज:
-    -   313 (1995-1996)
-        -   संख्या 1: श्री दुक्केसन एट अल द्वारा प्रस्ताव।
-        -   Nos 2 to 4: Mr Duquesne and Mr Moureaux and Mrs de Tserclaes
-        -   न्याय समिति की ओर से श्री बोरिन द्वारा 5 रिपोर्ट नहीं
-        -   न्याय समिति द्वारा अपनाए गए कोई 6 पाठ नहीं।
-    -   प्रतिनिधि सभा के Annales
-        -   13, 14 और 28 मार्च 1996।
+- प्रतिनिधि सभा के दस्तावेज :
+  - 313 (1995-1996)
+    - क्रमांक 1 : श्री Duquesne और साथियों का प्रस्ताव
+    - क्रमांक 2 से 4 : श्री Duquesne और श्री Moureaux तथा श्रीमती de T’Serclaes के संशोधन
+    - क्रमांक 5 : न्याय समिति की ओर से श्री Borin द्वारा रिपोर्ट
+    - क्रमांक 6 : न्याय समिति द्वारा अपनाया गया पाठ
+  - प्रतिनिधि सभा के अभिलेख (Annales)
+    - 13, 14 और 28 मार्च 1996।
 
-### B. Sork of the PARLIAMENTARY COMMITTEE
+### B. संसदीय जाँच समिति के कार्य
 
--   प्रतिनिधि सभा के दस्तावेज:
-    -   313 (1995-1996)
-        -   नंबर 7 और 8 रिपोर्ट मेसरों द्वारा समिति की ओर से तैयार की गई। Duquesne and Willems
-        -   No. 9 मोशन प्लेनरी सत्र में अपनाया
-    -   प्रतिनिधि सभा के Annales
-        -   30 अप्रैल और 7 मई 1997।
+- प्रतिनिधि सभा के दस्तावेज :
+  - 313 (1995-1996)
+    - क्रमांक 7 और 8 : समिति की ओर से श्री Duquesne और श्री Willems द्वारा प्रस्तुत रिपोर्ट
+    - क्रमांक 9 : पूर्ण सत्र में अपनाई गई प्रस्तावना
+  - प्रतिनिधि सभा के अभिलेख
+    - 30 अप्रैल और 7 मई 1997।
 
-### 2 जून 1998 का ACT
+### C. 2 जून 1998 का कानून
 
--   प्रतिनिधि सभा के दस्तावेज
-    -   1198 (1996-1997)
-        -   नहीं 1: श्री दुक्केसन द्वारा प्रस्ताव
-        -   Nos 2 to 7: मेसर द्वारा संशोधन। J.P. Viseur, Duquesne, Beaufays, Willems और सरकार
-        -   No 8: न्याय समिति की ओर से श्री विलेम्स द्वारा रिपोर्ट
-        -   No 9: न्याय समिति द्वारा अपनाया गया पाठ
-        -   No. 10: पाठ प्लेनरी सत्र में अपनाया और सीनेट को अग्रेषित किया।
-    -   प्रतिनिधि सभा के Annales
-        -   22 और 28 अप्रैल 1998
--   सीनेट दस्तावेज़
-    -   1-965 (1997-1998)
-        -   No. 1 प्रतिनिधि सभा द्वारा प्रेषित ड्राफ्ट
-        -   No. 2 परियोजना को सीनेट द्वारा निर्दिष्ट नहीं किया गया है।
+- प्रतिनिधि सभा के दस्तावेज
+  - 1198 (1996-1997)
+    - क्रमांक 1 : श्री Duquesne का प्रस्ताव
+    - क्रमांक 2 से 7 : श्री J.-P. Viseur, Duquesne, Beaufays, Willems और सरकार द्वारा किए गए संशोधन
+    - क्रमांक 8 : न्याय समिति की ओर से श्री Willems द्वारा रिपोर्ट
+    - क्रमांक 9 : न्याय समिति द्वारा अपनाया गया पाठ
+    - क्रमांक 10 : पूर्ण सत्र में अपनाया गया पाठ और सीनेट को प्रेषित
+  - प्रतिनिधि सभा के अभिलेख
+    - 22 और 28 अप्रैल 1998
+- सीनेट के दस्तावेज
+  - 1-965 (1997-1998)
+    - क्रमांक 1 : प्रतिनिधि सभा द्वारा प्रेषित प्रस्तावित पाठ
+    - क्रमांक 2 : उस प्रस्तावित पाठ को सीनेट द्वारा चर्चा में नहीं लाया गया।

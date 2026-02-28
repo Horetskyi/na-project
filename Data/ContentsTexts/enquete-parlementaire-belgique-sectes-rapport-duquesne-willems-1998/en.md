@@ -1,8 +1,8 @@
-(CHAMBER OF BELGIUM REPRESENTATIVES) (Page 1)
+(CHAMBER OF REPRESENTATIVES BELGIUM) (Page 1)
 
-## PARLIAMENTARY SURVEY
+## PARLIAMENTARY INQUIRY
 
-to develop a policy to combat the illegal practices of sects and the danger they pose to society and to individuals, particularly minors
+aimed at developing a policy to combat the illegal practices of sects and the danger they represent to society and to individuals, particularly minors
 
 ---
 
@@ -10,163 +10,187 @@ to develop a policy to combat the illegal practices of sects and the danger they
 
 ## CONTENTS
 
--   Part I Act of 2 June 1998 establishing an Information and Opinion Centre on harmful sectarian organizations and an Administrative Coordination Unit for the fight against harmful sectarian organizations (Moniteur belge, 25 November 1998)
--   PART It Royal Decree of 8 November 1998 establishing the composition, operation and organisation of the Administrative Unit for the Coordination of the Fight against Harmful Sectarian Organizations (Moniteur belge, 9 December 1998)
--   PART III Statement of Parliamentary and Annual Documents
--   PART IV Report made on behalf of the Parliamentary Committee of Inquiry by Messrs. Duquesne and Willems
--   PART V Motion adopted in plenary.
+- PART I Act of 2 June 1998 establishing an Information and Advice Centre on harmful sectarian organisations and an Administrative Coordination Cell for the fight against harmful sectarian organisations (Moniteur belge of 25 November 1998)
+- PART II Royal Decree of 8 November 1998 determining the composition, operation and organisation of the Administrative Coordination Cell for the fight against harmful sectarian organisations (Moniteur belge of 9 December 1998)
+- PART III Record of parliamentary documents and annals
+- PART IV Report made on behalf of the parliamentary committee of inquiry by Messrs. Duquesne and Willems
+- PART V Motion adopted in plenary session.
 
 ---
 
 (Page 3)
 
-Act of 2 June 1998 establishing an Information and Opinion Centre on harmful sectarian organizations and an Administrative Coordination Unit to combat harmful sectarian organizations (Moniteur belge, 25 November 1998)
+Act of 2 June 1998 establishing an Information and Advice Centre on harmful sectarian organisations and an Administrative Coordination Cell to combat harmful sectarian organisations (Moniteur belge of 25 November 1998)
 
 ---
 
 (Page 4)
 
-## BELGISCH STAATSBLAD
+## BELGIAN OFFICIAL GAZETTE
 
-Prijs van een jaarSubscription: Belgium: F 4,260; buitenland: F 17,283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor subscriptionen en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
+Price of an annual subscription:
+Belgium: F 4,260; abroad: F 17,283.
+Price per issue: F 10 per sheet of eight pages. For subscriptions and for purchase by issue you can contact the Administration of the Belgian Official Gazette, Leuvenseweg 40-42, 1000 Brussels.
+Telephone 02'552 22 11.
 
-168th JAARGANG
+168th YEAR
 
-WOENSDAG 25 NOVEMBER 1998
+WEDNESDAY 25 NOVEMBER 1998
 
-Ministerie van Justitie
+Ministry of Justice
 
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+Law of 2 June 1998 establishing an Information and Advice Centre on harmful sectarian organisations and an Administrative Coordination Cell for the fight against harmful sectarian organisations, p. 3782-t
 
 ---
 
 (Page 5)
 
-### DEPARTMENT VAN JUSTITIE
+### MINISTRY OF JUSTICE
 
-2 JUNI 1998. — Wet Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties (1)
+2 JUNE 1998. — Law establishing an Information and Advice Centre on harmful sectarian organisations and an Administrative Coordination Cell for the fight against harmful sectarian organisations (1)
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, King of the Belgians, To all who are now and who shall be, Our Greeting.
 
-From Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt :
+The Chambers have adopted and We ratify the following:
 
-### HOOFDSTUK I. — Voorafgaande bepalingen
+### CHAPTER I. — Preliminary provisions
 
-Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
+Article 1. This law governs a matter as referred to in Article 78 of the Constitution.
 
-Article 2. Voor de toepassing van onderhavige wet wordt onder schadelijke sektarische organiatie verstaan, elke groepering met een levensbeschouwelijk of godsdienstig doel, of die zich als dusdanig voordoet en die zich in haar organiatie of praktijken, overgeeft aan schadelijke onwettige activiteiten, het individual of samenleving schaadt of de menselijke waardigheid aantast.
+Art. 2. For the purposes of this law, a harmful sectarian organisation shall mean any grouping with a philosophical or religious purpose, or which presents itself as such, and which, in its organisation or practices, engages in harmful unlawful activities, harms the individual or society or undermines human dignity.
 
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op basis van de principles welke zijn vastgelegd in de Grondwet, de wetten, de decreten, commandies en in de internationale verdragen inzake de bescherming van de rechten van de mens welke door België werden geratificeerd.
+The harmful character of a sectarian organisation shall be assessed on the basis of the principles laid down in the Constitution, the laws, the decrees, the ordinances and in the international treaties on the protection of human rights ratified by Belgium.
 
-### HOOFDSTUK II. — Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties
+### CHAPTER II. — Information and Advice Centre on harmful sectarian organisations
 
-Art. 3. Bij het ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties", hierna Centrum geneamd. De zetel van het Centrum is gevestigd in het administratief arrondissement « Brussel-Hoofdstad ».
+Art. 3. An independent centre is established at the Ministry of Justice under the name "Information and Advice Centre on harmful sectarian organisations", hereinafter referred to as the Centre.
+The seat of the Centre is situated in the administrative arrondissement "Brussels-Capital".
 
-Article 4. § 1. Het Centrum bestaat uit twaalf vast leden en twaalf plaatsvervangende leden die met een tweederde meerderheid door de Kamer van volksvertegenwoordigers worden aangewezen. Zes vast leden en zes plaatsvervangende leden worden aangewezen op voor-dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. Ten minste een vast lid en een plaatsvervangend lid kennen Duits.
+Art. 4. § 1. The Centre shall consist of twelve full members and twelve alternate members who shall be appointed by a two-thirds majority by the Chamber of Representatives. Six full members and six alternate members shall be appointed on the nomination of the Council of Ministers and for each vacancy to be filled two candidates shall be proposed.
+Language parity between the Dutch-speaking and the French-speaking members shall be ensured for both the members appointed directly by the Chamber and those appointed on the nomination of the Council of Ministers.
+At least one full member and one alternate member shall be proficient in German.
 
-De Kamer van volksvertegenwoordigers kiest uit de vast leden de voorzitter en de plaatsvervangende voorzitter.
+The Chamber of Representatives shall elect from among the full members the chair and the vice‑chair.
 
-§2. De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de eminente persoonlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problemmatiek van de schadelijke sektarische groeperingen. Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van objectiviteit en onpartijdigheid te kunnen uitoefenen. From vast to plaatsvervangende leden kunnen van hun mandaat ontheven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichten of de waardigheid van hun functie in het gedrang brengen.
+§ 2. The members shall be appointed for a term of four years, renewable once, from among eminent personalities known for their knowledge, experience and interest in the issues related to harmful sectarian groupings. They must provide all guarantees enabling them to perform their mandate in complete independence and in a spirit of objectivity and impartiality.
+The full and the alternate members may be relieved of their mandate by the Chamber of Representatives if they fail in their duties or bring the dignity of their office into disrepute.
 
-§3. Om als vast of waarnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen :
+§ 3. To be appointed as a full or acting member and to retain that capacity, candidates must meet the following conditions:
 
-1° de burgerlijke en politeke rechten genieten;
+1° to enjoy civil and political rights;
 
-2° geen lid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+2° not to be a member of the European Parliament or of the Legislative Chambers, nor of a Community or Regional Council, nor of the Federal Government or of a Community or Regional Government.
 
 ---
 
 (Page 6)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een persoonlijk of rechtstreeks belang hebben.
+§ 4. Members of the Centre are prohibited from being present at deliberations on matters in which they have a personal or direct interest or in which their blood relatives or relatives by marriage up to the fourth degree have a personal or direct interest.
 
-§ 5. Wanneer een vast lid verhinderd of afwezig is, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend lid waarvan het mandaat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend lid da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteiten inzake de vergoeding van de leden van het Centrum vast.
+§ 5. When a full member is prevented or absent, he shall be replaced by his alternate.
+A full or alternate member whose mandate ends before the expiration of the four-year term shall be replaced in accordance with the procedure referred to in the first paragraph by a full or an alternate member appointed for the remainder of the term.
+The King shall determine the modalities concerning the remuneration of the members of the Centre.
 
-Article 5. Het Centrum stelt zijn huishoudelijk regulation op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+Art. 5. The Centre shall draw up its rules of procedure within two months of its installation. They shall be submitted for approval to the Chamber of Representatives.
 
-Art. 6. § 1. Het Centrum is belast met de volgende opdrachten:
+Art. 6. § 1. The Centre shall be entrusted with the following tasks:
 
-1° het verschijnsel van schadelijke sektarische organizaties in België en hun international bindingen bestuderen;
+1° to study the phenomenon of harmful sectarian organisations in Belgium and their international links;
 
-2° een voor het publiek toegankelijk documentatiecentrum organisen;
+2° to organise a documentation centre accessible to the public;
 
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hij zijn rechten kan laten gelden;
+3° to ensure reception and information for the public and to inform any person who addresses a request to the Centre about his rights and duties and about the ways in which he can assert his rights;
 
-4° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisaties en het bijzonder over het beleid inzake de strijd tegen deze organisaties;
+4° either on its own initiative or at the request of any public authority, to issue opinions and recommendations on the phenomenon of harmful sectarian organisations and, in particular, on policy concerning the fight against these organisations;
 
-§2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd :
+§ 2. For the performance of its tasks the Centre is empowered to:
 
-1° alle beschikbare informatie te verzamelen;
+1° gather all available information;
 
-2° alle studies of wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
+2° carry out any studies or scientific research necessary for the concrete performance of its tasks;
 
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, over te nemen;
+3° take over any archive or documentation collection whose subject matter corresponds to one of its tasks;
 
-4° steun en begeleiding te verlenen aan instellingen, organisaties en verleners van juridische bijstand;
+4° provide support and guidance to institutions, organisations and providers of legal assistance;
 
-5° op zijn bijeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum samen met de Administratieve coördinatiecel.
+5° consult or invite to its meetings qualified associations and persons which it deems useful to hear.
+For the performance of its tasks the Centre shall cooperate with the Administrative Coordination Cell.
 
-§3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1° en 3°, persoonsgegevens te verwerken met betrekking tot de overtuing of activityeiten op levensbeschouwe-lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8 December 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.
+§ 3. For the performance of the tasks referred to in § 1, 1° and 3°, the Centre is authorised to process personal data relating to conviction or activities in the philosophical or religious field as referred to in Article 6 of the Law of 8 December 1992 on the protection of privacy with regard to the processing of personal data.
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwelijkheid en beveiliging van de persoons-gegevens, het statut en de taken van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van de personsonlijke levensssfeer over de verwerking van de personsonsgegevens.
+The King shall determine, by a decision deliberated in the Council of Ministers, the guarantees concerning the confidentiality and security of personal data, the status and duties of an officer for data protection within the Centre and the manner in which the Centre must report to the Commission for the Protection of Privacy on the processing of personal data.
 
-§4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organiaties.
+§ 4. The information that the Centre provides at the request of the public shall be based on the information available to the Centre and shall not be presented in the form of lists or systematic overviews of harmful sectarian organisations.
 
-Article 7. From adviezen to de aanbevelingen van het Centrum zijn gemotiveerd. De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslissing van het Centrum.
+Art. 7. The opinions and recommendations of the Centre shall be reasoned.
+The opinions shall be public, except in the case of a duly reasoned decision to the contrary by the Centre.
 
 ---
 
 (Page 7)
 
-Art. 8. § 1. Het Centrum kan slechts beraadslagen Indian ten minste de meerderheid van zijn leden aanwezig is. De beslissingen worden genomen met absolute meerderheid. In geval van staking der stemmen, is de stem van de voorzitter of in geval deze verhinderd is, van zijn plaatsvervanger doorslaggevend.
+Art. 8. § 1. The Centre may only deliberate if at least the majority of its members is present. Decisions shall be taken by absolute majority. In the event of a tie, the vote of the chair or, if he is prevented, of his deputy shall be decisive.
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten weergeven.
+The adopted opinions shall reflect the various positions set out.
 
-§2. Het Centrum mag beschikken over het integraal stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordigers met het oog op de beleidsvorming ter bestrijding van de onwettige praktijken van de sekten en van de gevaren ervan voor de samenleving en voor het individuelle, inzonderheid voor de minderjarigen.
+§ 2. The Centre may have access to the full stenographic report of the public hearings of the parliamentary inquiry committee of the Chamber of Representatives with a view to policy-making to combat the unlawful practices of sects and their dangers for society and for the individual, in particular for minors.
 
-Article 9. Voor de uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de medewerking van experten. De Koning bepaalt de modaliteiten van de vergoeding van deze experten.
+Art. 9. For the execution of all its tasks the Centre may call upon the assistance of experts.
+The King shall determine the modalities for the remuneration of these experts.
 
-Article 10. Voor alle personen die werken met vertrouwelijke gegevens die door het Centrum worden ingezameld, geldt het beroepsgeheim zoals bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting geldtook voor elkeen die niet tot het Centrum behoort, maar als deskundige, onderzoeker of medewerker optreedt.
+Art. 10. For all persons working with confidential data collected by the Centre, professional secrecy as referred to in Article 458 of the Criminal Code shall apply. The same obligation shall also apply to anyone who is not a member of the Centre but acts as an expert, researcher or collaborator.
 
-Article 11. Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag wordt gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
+Art. 11. The Centre shall present a report on its activities every two years. This report shall be sent to the Council of Ministers, the Legislative Chambers and to the Councils and Governments of the Communities and Regions.
 
-Article 12. Het Centrum beschikt over een secretariatat.
+Art. 12. The Centre shall have a secretariat.
 
-Het personeel wordt ter beschikking gestureld door de minister van Justitie, na voorafgaand het advies van het Centrum te hebben ingewonnen.
+The staff shall be made available by the Minister of Justice, after having obtained the prior opinion of the Centre.
 
-Het personeel state onder het rechtstreeks gezag van de voorzitter van het Centrum. De wevingskosten van het Centrum komen ten late van de begroting van het ministère van Justitie.
+The staff shall be under the direct authority of the chair of the Centre. The operating costs of the Centre shall be borne by the budget of the Ministry of Justice.
 
-### HOOFDSTUK III. — Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties
+### CHAPTER III. — Administrative Coordination Cell for the fight against harmful sectarian organisations
 
-Article 13. Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het ministère van Justitie opgericht.
+Art. 13. An Administrative Coordination Cell for the fight against harmful sectarian organisations is established at the Ministry of Justice.
 
-Article 14. De minister van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administratieve coördi-natiecel bij een in Ministerraad overlegd besluit.
+Art. 14. The Minister of Justice or his representative shall preside over the Administrative Coordination Cell.
+The King shall determine the composition of the Administrative Coordination Cell by a decision deliberated in the Council of Ministers.
 
-Article 15. From Administratieve coördinatiecel heeft de volgende opdrach-ten:
+Art. 15. The Administrative Coordination Cell shall have the following tasks:
 
-1° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
+1° to coordinate actions undertaken by the competent public services and authorities;
 
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
+2° to examine the evolution of the unlawful practices of harmful sectarian organisations;
 
-3° Maatregelen voorstellen die van aard zijn om de coördinatie en de de effectiviteit van deze acties te verhogen;
+3° to propose measures designed to increase the coordination and effectiveness of these actions;
 
-4° In overleg met de bevoegde diensten en bestruren een preventie-beleid voor de burgers tegen de activitéeiten van de schadelijke sektarische organizaties, bevorderen;
+4° to promote, in consultation with the competent services and authorities, a prevention policy for citizens against the activities of harmful sectarian organisations;
 
-5° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum uit voeren.
+5° to build close cooperation with the Centre and to take the necessary measures in order to implement the recommendations and proposals of the Centre.
 
 ---
 
 (Page 8)
 
-Article 16. From Koning bepaalt de modaliteiten inzake de werking en de organizatie van de Administratieve coi:irdinatiecel bij een in Mmister Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Bclgisch Staatsblad zal worden bekendgemaakt.
+Art. 16. The King shall determine, by a decision deliberated in the Council of Ministers, the modalities regarding the operation and organisation of the Administrative Coordination Cell.
+We promulgate this law, order that it shall be signed with the State seal and published in the Belgian Official Gazette.
 
-Gegeven te Brussel, 2 Juni 1998.
+Given in Brussels, 2 June 1998.
 
-ALBERT Van Koningswege: De Minister van Justitie, T. VAN PARYS Met 's Lands zegel gezegeld : De Minister van Justitie, T. VAN PARYS Note
+ALBERT
+By virtue of the King:
+The Minister of Justice,
+T. VAN PARYS
+With the State seal affixed: The Minister of Justice,
+T. VAN PARYS
+Note
 
-(1) Gewone zitting 1996-1997.
+(1) Ordinary session 1996-1997.
 
-Kamer van volksvertegenwoordigers. Parliamentarian stukken. - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nrs. 1198/2 tot 7. - Tekst aangenomen door of Commission, nr. 1198/9. -Tekst aangenomen in plenaire vergadering en overge Parliamentarian Handelingen. - Bespreking. Vergadering van 22 April 1998. -Aanneming. Vergadering van 28 April 1998. Senaat. Parliamentarian stukken. -Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd door de Senaat, nr. 1-965/2/1997-1998.
+Chamber of Representatives.
+Parliamentary papers. - Bill by Mr. Duquesne, no. 1198/1. - Amendments nos. 1198/2 to 7. - Report by Mr. Willems, no. 1198/8. - Text adopted by the Committee, no. 1198/9. - Text adopted in plenary session and transmitted to the Senate, no. 1198/10.
+Parliamentary Debates. - Debate. Meeting of 22 April 1998. - Adoption. Meeting of 28 April 1998.
+Senate.
+Parliamentary papers. - Draft transmitted by the Chamber of Representatives, no. 1-965/1-1997-1998. Draft not taken up by the Senate, no. 1-965/2-1997-1998.
 
 ---
 
@@ -174,118 +198,115 @@ Kamer van volksvertegenwoordigers. Parliamentarian stukken. - Wetsvoorstel van d
 
 ## PART II
 
-Royal Decree of 8 November 1998 establishing the composition, operation and organisation of the Administrative Unit for the Coordination of the Fight against Harmful Sectarian Organizations (Moniteur belge, 9 December 1998)
+Royal Decree of 8 November 1998 determining the composition, operation and organisation of the Administrative Coordination Cell for the fight against harmful sectarian organisations (Moniteur belge of 9 December 1998)
 
 ---
 
 (Page 10)
 
-### WETTEN, DECRETEN, ORDERS AND REGULATIONS
+### LAWS, DECREES, ORDINANCES AND REGULATIONS
 
-DEPARTMENT VAN JUSTITIE
+MINISTRY OF JUSTICE
 
-N. 98 - 3277 \[S−C−98/09981\] 8 NOVEMBER 1998. — Koninklijk besluit houdende samenstelling, werking en organisatie van de Administratieve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties.
+N. 98 — 3277 [S−C−98/09981] 8 NOVEMBER 1998. — Royal decree determining the composition, operation and organisation of the Administrative Coordination Cell for the fight against harmful sectarian organisations.
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, King of the Belgians, To all who are now and who shall be, Our Greeting.
 
-Gelet op de wet van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisaties; Gelet op het advies van de Inspector van Financie ̈n, gegeven op 10 September 1998; Gelet op de wetten van de Raad van State, gecoo ̈rdineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 augustus 1980, 16 juni 1989, 4 juli 1989 in 4 augustus 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast met de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individuel en inzonderheid voor de minderjari-gen, de dringende noodzaak van de oprichting van een Informatie- en Adviescentrum en Administratieve Coo ̈rdinatiecel heeft opgeworpen, met het oog op de zo spoedig mogelijke creatie van een organ met als opdracht de opvolging van dit fenomen; Overwegende dat de wet Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo ̈rdinatiecel ondertekend werd door de
+Having regard to the law of 2 June 1998 establishing an Information and Advice Centre on harmful sectarian organisations and establishing an Administrative Coordination Cell for the fight against harmful sectarian organisations;
+Having regard to the opinion of the Inspector of Finance, given on 10 September 1998;
+Having regard to the laws of the Council of State, coordinated on 12 January 1973, in particular Article 3, § 1, as amended by the laws of 9 August 1980, 16 June 1989, 4 July 1989 and 4 August 1996;
+Having regard to the urgent necessity;
+Whereas the Parliamentary Investigative Committee entrusted with policy-making to combat sects and the dangers of those sects for the individual and in particular for minors has raised the urgent need for the establishment of an Information and Advice Centre and an Administrative Coordination Cell, with a view to the as soon as possible creation of a body charged with monitoring this phenomenon;
+Whereas the law establishing an Information and Advice Centre on harmful sectarian organisations and an Administrative Coordination Cell was signed by the King on 2 June 1998 and it is therefore desirable that the law and the implementing decisions be published as soon as possible, in order to enable the Information and Advice Centre and the Administrative Coordination Cell to commence their tasks as from 1 January 1999;
+On the proposal of Our Minister of Justice and on the advice of Our Ministers sitting in Council,
 
----
+We have decided and do decide:
 
-(Page 11)
+### CHAPTER I. — Composition of the Administrative Coordination Cell
 
-Koning op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo ̈rdinatiecel in stat te stellen hun opdrachten aan te vatten met ingang van 1 januari 1999; Op de voordracht van Eleven Minister van Justitie en op het advies van Eleven in Raad vergaderde Ministers,
+Article 1. The Administrative Coordination Cell established by Article 13 of the law of 2 June 1998 shall be composed as follows:
 
-Hebben Wij besloten en besluiten Wij :
+- a representative of the College of Prosecutors-General;
+- a national magistrate;
+- a representative of the Gendarmerie;
+- a representative of the Judicial Police;
+- a representative of the General State Police of the Ministry of the Interior;
 
-### HOOFDSTUK I. — Samenstelling van de Administratieve Coo ̈rdinatiecel
+- a representative of the Ministry of Civil Service;
+- a representative of the State Security Service;
+- a representative of the Directorate-General for Civil Legislation and Worship of the Ministry of Justice;
+- a representative of the Directorate-General for Criminal Legislation and Human Rights of the Ministry of Justice;
+- a representative of the Service for Criminal Justice Policy of the Ministry of Justice;
 
-Artikel 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt samengesteld :
+- a representative of the Ministry of the Interior;
+- a representative of the Ministry of Finance;
+- a representative of the Ministry of Employment and Labour;
 
--   een vertgenwoordiger van het College van Attorney-General;
--   een nationaal magistraat;
--   een vertgenwoordiger van de Rijkswacht;
--   een vertgenwoordiger van de Gerechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
+- a representative of the Ministry of National Defence.
 
-Ministry van Binnenlandse Zaken;
+Art. 2. For each representative an alternate shall also be designated.
 
--   een vertgenwoordiger van het Ministerie van Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het Directoraat- general burgerlijke
+Art. 3. The representatives and their alternates shall be appointed by the Minister of Justice, after nomination by the respective authorities on which they depend.
 
-Wetgeving en erediensten van het Ministerie van Justitie;
+### CHAPTER II. — Operation of the Administrative Coordination Cell
 
--   een vertgenwoordiger van het Directoraat-general strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van het Ministerie van Financien;
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
+Art. 4. The chair shall determine the place, day and starting time of the meetings and shall draw up the agenda.
+Each of the members has the right to request the chair to place items on the agenda.
+The chair of the Information and Advice Centre on harmful sectarian organisations also has the right to request the chair to place items on the agenda.
 
-Arbeid;
+Art. 5. Except in cases of urgency, the invitations and the agenda as well as any documents, after signature by the chair, shall be sent by the secretary to the members at least eight days in advance.
 
--   een vertgenwoordiger van het Ministerie van Landsverdediging. Article 2. Voor elke vertgenwoordiger wordt tevens een plaatsvervan- ger aangeduid.
+Art. 6. Members who are prevented from attending shall be replaced by their alternates and shall send the documents to them.
 
-Article 3. From vertgenwoordigers to hun plaatsvervangers worden aangesteld door by Minister van Justitie, na voordracht door de respectieve overheden van wie zij afhangen.
+Art. 7. The Administrative Coordination Cell shall only validly meet if at least half of the members or their alternates are present.
+If no majority was present, the members shall be invited again, in which case the Administrative Coordination Cell shall validly meet whatever the number of members present.
 
-### HOOFDSTUK II. — Werking van de Administratieve Coo ̈rdinatiecel
+Art. 8. Each member of the Administrative Coordination Cell, and in case of prevention his alternate, shall have one vote.
+Decisions shall be taken unanimously by the members present.
+The chair of the Information and Advice Centre on harmful sectarian organisations or his alternate may:
 
-Article 4. De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de agenda op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te verzoeken punten op de agenda te plaatsen.
-
-Article 5. Behoudens hoogdringendheid worden de uitnodigingen en de agenda evens eventuales stukken, na ondertekening door de voorzitter, door de secretaris ten minste acht dagen vooraf aan de leden toegezonden.
-
-Article 6. De leden die verhinderd zijn, worden vervangen door hun plaatsvervanger en sturen hem zelf de stukken door.
-
-Article 7. De Administratieve Coo ̈rdinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun plaatsvervangers aanwezig is. Ingeval geen meerderheid aanwezig was, worden de leden opnieuw uitgenodigd, in welk geval de Administratieve Coo ̈rdinatiecel geldig vergadert, wat look het aantal aanwezige leden is.
-
-Article 8. Elk lid van de Administratieve Coo ̈rdinatiecel, in bij verhin-dering zijn plaatsvervanger, beschikt over een stem. De beslissingen worden bij unanimititeit van de aanwezige leden genomen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties of zijn plaatsvervanger kan :
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo ̈rdinatiecel bij te wonen;
--   gehoord Indian worden of agenda says vereist.
+- be invited to attend the meetings of the Administrative Coordination Cell;
+- be heard if the agenda so requires.
 
 ---
 
 (Page 12)
 
-Article 9. De secretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorzitter met de volgende uitnodiging meegestuurd.
+Art. 9. The secretary shall draw up minutes of the meetings. They shall be sent with the next invitation after approval by the chair.
 
-De leden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee ́n dag voor de vergadering.
+Members shall submit their comments in writing no later than one day before the meeting.
 
-Article 10. De adviezen en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de wet van 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo ̈rdinatiecel overgezonden.
+Art. 10. The opinions and recommendations which the Centre issues pursuant to Article 6, § 1, 4° of the law of 2 June 1998 shall be transmitted by the Centre to the chair of the Administrative Coordination Cell.
 
-De Administratieve Coo ̈rdinatiecel stelt in overleg met het Centrum vast de wijze van:
+The Administrative Coordination Cell shall determine in consultation with the Centre the manner of:
 
--   coordinatie van possible acties;
--   regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+- coordination of any actions;
+- arrangement for supervision of the implementation of the recommendations and opinions of the Centre insofar as they fall within their competences.
 
-Article 11. De maatregelen die de Administratieve Coo ̈rdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of instanties, evenals aan de voorzitter van het Centrum meegedeeld.
+Art. 11. The measures proposed by the Administrative Coordination Cell shall be communicated in writing to the services or bodies concerned, as well as to the chair of the Centre.
 
-Article 12. De Administratieve Coo ̈rdinatiecel pleegt overleg met alle bevoegde diensten en bestruren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. Of federale overheden dienen de door de Administratieve Coo ̈rdinatiecel gevraagde inlichtingen te bezorgen.
+Art. 12. The Administrative Coordination Cell shall consult with all competent services and authorities within the framework of its tasks. It may invite them and request information from them. Federal authorities shall provide the information requested by the Administrative Coordination Cell.
 
-Article 13. De Administratieve Coo ̈rdinatiecel vergadert minstens eenmaal om de twee maanden.
+Art. 13. The Administrative Coordination Cell shall meet at least once every two months.
 
-From Administratieve Coo ̈rdinatiecel bengt zesmaandelijks verslag uit aan het Centrum nopens haar werkzaamheden.
+The Administrative Coordination Cell shall submit a semi-annual report to the Centre on its activities.
 
-### HOOFDSTUK III. — Organization
+### CHAPTER III. — Organisation
 
-Article 14. Alle leden van de Administratieve Coo ̈rdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+Art. 14. All members of the Administrative Coordination Cell shall form the "Bureau". The "Bureau" shall appoint an executive committee composed of the chair, who shall be a member by right, and two elected members.
 
-Article 15. De Administratieve Coo ̈rdinatiecel kan wanneer bijzondere opdrachten dit verantwoorden subgroepen binnen haar schoot oprichten.
+Art. 15. The Administrative Coordination Cell may, when special tasks so justify, establish subgroups within it.
 
-Article 16. De Minister van Justitie stelt administratief personeel, lokalen en de noodzakelijke bureaubenogedheden ter beschikking van de Administratieve Coo ̈rdinatiecel.
+Art. 16. The Minister of Justice shall provide administrative staff, premises and the necessary office supplies to the Administrative Coordination Cell.
 
-Article 17. De artikelen 1 tot en met 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+Art. 17. Articles 1 to 3 shall enter into force on the day on which this decree is published in the Belgian Official Gazette and the other articles on 1 January 1999.
 
-Article 18. Eleven Minister van Justitie is beautiful met de uitvoering van dit besluit.
+Art. 18. Our Minister of Justice is charged with the execution of this decree.
 
-Gegeven te Brussel, 8 November 1998.
+Given in Brussels, 8 November 1998.
 
-ALBERT Van Koningswege : De Minister van Justitie, T. VAN PARYS
+ALBERT By virtue of the King: The Minister of Justice,
+T. VAN PARYS
 
 ---
 
@@ -297,40 +318,40 @@ ALBERT Van Koningswege : De Minister van Justitie, T. VAN PARYS
 
 (Page 14)
 
-## RELEVANT PARLIAMENTARY AND ANNAL DOCUMENTS
+## RECORD OF PARLIAMENTARY DOCUMENTS AND ANNALS
 
-### A. CONSTITUTION OF THE PARLIAMENTARY COMMITTEE
+### A. CONSTITUTION OF THE PARLIAMENTARY COMMITTEE OF INQUIRY
 
--   Documents of the House of Representatives:
-    -   313 (1995-1996)
-        -   No. 1: Proposal by Mr. Duqesne et al.
-        -   Nos 2 to 4: Amendments by Mr Duquesne and Mr Moureaux and Mrs de Tserclaes
-        -   No 5 Report by Mr Borin on behalf of the Committee on Justice
-        -   No 6 Text adopted by the Committee on Justice.
-    -   Annales of the House of Representatives
-        -   13, 14 and 28 March 1996.
+- Documents of the Chamber of Representatives:
+  - 313 (1995-1996)
+    - no. 1: Proposal by Mr. Duquesne and associates
+    - nos. 2 to 4: Amendments by Messrs. Duquesne and Moureaux and Mrs. de T'Serclaes
+    - no. 5: Report made on behalf of the Committee on Justice by Mr. Borin
+    - no. 6: Text adopted by the Committee on Justice.
+  - Annals of the Chamber of Representatives
+    - 13, 14 and 28 March 1996.
 
-### B. WORK OF THE PARLIAMENTARY COMMITTEE
+### B. WORK OF THE PARLIAMENTARY COMMITTEE OF INQUIRY
 
--   Documents of the House of Representatives:
-    -   313 (1995-1996)
-        -   Nos 7 and 8 Report drawn up on behalf of the Committee by Messrs. Duquesne and Willems
-        -   No. 9 Motion adopted in plenary session
-    -   Annales of the House of Representatives
-        -   30 April and 7 May 1997.
+- Documents of the Chamber of Representatives:
+  - 313 (1995-1996)
+    - nos. 7 and 8: Report made on behalf of the Committee by Messrs. Duquesne and Willems
+    - no. 9: Motion adopted in plenary session
+  - Annals of the Chamber of Representatives
+    - 30 April and 7 May 1997.
 
 ### C. ACT OF 2 JUNE 1998
 
--   Documents of the House of Representatives
-    -   1198 (1996-1997)
-        -   No. 1: Proposal by Mr. Duquesne
-        -   Nos 2 to 7: Amendments by Messrs. J.-P. Viseur, Duquesne, Beaufays, Willems and the Government
-        -   No 8: Report by Mr Willems on behalf of the Committee on Justice
-        -   No 9: Text adopted by the Committee on Justice
-        -   No. 10: Text adopted in plenary session and forwarded to the Senate.
-    -   Annales of the House of Representatives
-        -   22 and 28 April 1998
--   Senate documents
-    -   1-965 (1997-1998)
-        -   No. 1 Draft transmitted by the House of Representatives
-        -   No. 2 Project not referred to by the Senate.
+- Documents of the Chamber of Representatives
+  - 1198 (1996-1997)
+    - no. 1: Proposal by Mr. Duquesne
+    - nos. 2 to 7: Amendments by Messrs. J.-P. Viseur, Duquesne, Beaufays, Willems and by the Government
+    - no. 8: Report made on behalf of the Committee on Justice by Mr. Willems
+    - no. 9: Text adopted by the Committee on Justice
+    - no. 10: Text adopted in plenary session and transmitted to the Senate.
+  - Annals of the Chamber of Representatives
+    - 22 and 28 April 1998
+- Senate documents
+  - 1-965 (1997-1998)
+    - no. 1: Draft transmitted by the Chamber of Representatives
+    - no. 2: Draft not taken up by the Senate.

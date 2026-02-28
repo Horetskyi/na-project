@@ -1,172 +1,196 @@
-(KAMPEL AV BELGIUM REPRESENTATIVE) (Side 1)
+(REPRESENTANTKAMMERET BELGIA) (Side 1)
 
-## Stortinget
+## PARLAMENTARISK UNDERSØKELSE
 
-å utvikle en politikk for å bekjempe ulovlig praksis av sekter og faren de utgjør for samfunnet og for individer, spesielt mindreårige
+med sikte på å utarbeide en politikk for å bekjempe sekters ulovlige praksiser og den fare de utgjør for samfunnet og for personer, særlig mindreårige
 
 ---
 
 (Side 2)
 
-## PAKNING
+## INNHOLD
 
--   Del I Act av 2. juni 1998 om opprettelse av et informasjons- og meningssenter om skadelige sekteriske organisasjoner og en administrativ koordineringsenhet for kampen mot skadelige sekteriske organisasjoner (Moniteur belge, 25. november 1998)
--   Del den kongelige dekret av 8. november 1998 om opprettelse av sammensetning, drift og organisering av den administrative enhet for koordinering av kampen mot skadelige sektariske organisasjoner (Moniteur belge, 9. desember 1998)
--   Del III Erklæring av parlamentariske og årlige dokumenter
--   Del IV-rapporten fra Stortingets undersøkelseskomité av Messrs. Duquesne og Willems
--   Del V Forslag vedtatt i plenarforsamlingen.
+- DEL I Lov av 2. juni 1998 om opprettelse av et informasjons- og rådgivningssenter om skadelige sektariske organisasjoner og en administrativ koordineringsenhet for kampen mot skadelige sektariske organisasjoner (Moniteur belge 25. november 1998)
+- DEL II Kongelig dekret av 8. november 1998 som fastsetter sammensetning, drift og organisering av den administrative koordineringsenheten i kampen mot skadelige sektariske organisasjoner (Moniteur belge 9. desember 1998)
+- DEL III Oversikt over parlamentariske dokumenter og annaler
+- DEL IV Rapport utarbeidet på vegne av granskningskomiteen av herrene Duquesne og Willems
+- DEL V Forslag vedtatt i plenum.
 
 ---
 
 (Side 3)
 
-Lov av 2. juni 1998 om opprettelse av et informasjons- og meningssenter om skadelige sekteriske organisasjoner og en administrativ koordineringsenhet for å bekjempe skadelige sekteriske organisasjoner (Moniteur belge, 25. november 1998)
+Lov av 2. juni 1998 om opprettelse av et informasjons- og rådgivningssenter om skadelige sektariske organisasjoner og en administrativ koordineringsenhet for å bekjempe skadelige sektariske organisasjoner (Moniteur belge 25. november 1998)
 
 ---
 
 (Side 4)
 
-## BELGISCH STAATSBLAD
+## BELGISK STATSBLADET 
 
-Pris van een jaarSubscription: Belgia: F 4.260; buitenland: F 17.283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor-abonnementet en voor verkoop per nummer kan U terecht bij heter Bestuur van heter Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
+Pris for årsabonnement : 
+Belgia : F 4 260; utlandet: F 17 283. 
+Pris per nummer: F 10 per ark på åtte sider. For abonnementer og for salg per nummer kan De henvende Dem til Bestyrelsen for det Belgiske Statsblad, Leuvenseweg 40-42, 1000 Brussel. 
+Telefon 02'552 22 11. 
 
-168\. JAARGANG
+168. ÅRGANG
 
-WOENSDAG 25 NOVEMBER 1998
+ONSDAG 25. NOVEMBER 1998 
 
-Ministerie van Justitie
+Justisdepartementet 
 
-Våt van 2 juru 1998 Houdende opprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirustieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisatories, bl. 3782-t
+Lov av 2. juni 1998 om opprettelse av et Informasjons- og Rådgivningssenter angående skadelige sektariske organisasjoner og av en Administrativ koordineringsenhet angående kampen mot skadelige sektariske organisasjoner, s. 3782-t 
 
 ---
 
 (Side 5)
 
-### DEPARTMENT VAN RIGITIE
+### JUSTISDEPARTEMENTET
 
-2 JUNI 1998. — Wet Houdende opprichting van een Informatie- en Adviscentrum inzake de schadelijke sektarische organizaties en van een Administrateve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties (1)
+2. JUNI 1998. — Lov om opprettelse av et Informasjons- og Rådgivningssenter angående skadelige sektariske organisasjoner og av en Administrativ koordineringsenhet angående kampen mot skadelige sektariske organisasjoner (1)
 
-Albert II, Koning der Belgic, Aan allen die nu Zijn en hierna wezen zullen, Elleve Groet.
+ALBERT II, Belgias konge, Til alle nåværende og fremtidige, vår hilsen.
 
-Fra Kamers hebben aangenomen en Wij berachtigen hetgeen volgt :
+Kammerne har vedtatt og vi stadfester det følgende :
 
-### HOOFDSTUK I. — Voorafgaande bepalingen
+### KAPITTEL I. — Innledende bestemmelser
 
-Artikel 1. Deze våt regelt een aangelegenheid als bedoeld i artikel 78 van de Grondwet.
+Artikkel 1. Denne lov regulerer en sak som det er henvist til i artikkel 78 i Grunnloven.
 
-Artikkel 2. Voor de toepassing van onderhavige våt ord påder schadelijke sektarische organiatie verdaan, elke groeping møtte een levensbeschouwelijk av gudsdienstig doel, av die zich als dusdanig voordoet en die zich i haar organiatie av praktijken, overgeeft aan schadelijke onwettige aktiviteiten, heter individ av enslig schaadt av de menselijke waardigheid aantast.
+Art. 2. For anvendelsen av denne lov forstås med skadelig sektarisk organisasjon enhver grupperingen med et livssyns- eller religiøst mål, eller som utgir seg for å være sådan, og som i sin organisering eller sine praksiser henfaller til skadelige ulovlige aktiviteter, skader individet eller samfunnet eller krenker menneskeverdet.
 
-Het schadelijk karakter van een sektarische organizatie ordt onderzocht på grunnlag van de prinsipper welke zijn storgelegd i de Grondwet, de wetten, de de decreten, kommandoer en i de internasjonale verdragen inzake de bescherming van de rechten van de menns welke door België werden garatificeerd.
+Det skadelige ved en sektarisk organisasjon undersøkes på grunnlag av prinsippene fastsatt i Grunnloven, lovene, dekretene, ordonnansene og i internasjonale konvensjoner om beskyttelse av menneskerettighetene som Belgia har ratifisert.
 
-### HOOFDSTUK II. — Informatie-en Adviescentrum inzake de schadelijke sektarische organisties
+### KAPITTEL II. — Informasjons- og Rådgivningssenteret angående skadelige sektariske organisasjoner
 
-Kunst. 3. Bij heter departementet van Justitie ordt een onafhankelijk sentrum påder de naam "Informatie-en Adviescentrum inzake de schadelijke sektarische organizaties", hierna Centrum geneamd. De zetel van heter Centrum er gitt i heterstratief arrondissement « Brussel-Hoofdstad».
+Art. 3. Ved Justisdepartementet opprettes et uavhengig senter med navnet « Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties », heretter kalt Senteret. 
+Senterets sete ligger i det administrative distrikt « Brussel-Hovedstad ».
 
-Artikkel 4. § 1. Het Centrum bestaat uit twaalf stor leden en twaalf plaatsvervangende leden dø møtt een tweederde merderheid dør de Kamer van volksvertegenwoordingers orden aangewezen. Zes store lederen en zes plaatsvervangende ledet ordet aangewezen på voor-dracht van de Ministerraad en voor elk van de te tibeven ambten worden twee kandidate voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leder ordt de taalpari-teit tussen de Nederlandstalige en de Franstalige lederen gewaarborgd. Ti minste een stort lokke en een plaatsvervangend lokkekennen Duits.
+Art. 4. § 1. Senteret består av tolv faste medlemmer og tolv varamedlemmer som utpekes av Representantenes hus med to tredjedels flertall. Seks faste medlemmer og seks varamedlemmer utpekes på forslag fra Ministerrådet, og for hver av stillingene som skal fylles fremmes to kandidater.
+Både for de medlemmer som utnevnes direkte av Kameret og for de som utnevnes på forslag fra Ministerrådet skal språkbalansen mellom nederlands- og fransktalende medlemmer sikres.
+Minst ett fast medlem og ett varamedlem skal kunne tysk.
 
-De Kamer van volksvertegenwoordyers kiest uit de store leden de voorzitter en de plaatsvervangende voorzitter.
+Representantenes hus velger blant de faste medlemmene en president og en visepresident.
 
-§2. De ledet orden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de fremtredende persoonlijkheden dø bekend stean om wille van hun kennis, ervaring en hun interesse voor de problemmatiek van de schadelijke sektarische groepringen. Zij dienen alle waarborgen te bieden om hun mandat i volleige onafhankelijk-heid i een geest van objectiviteit en onpartijdigheid te kunnen uitoefenen. Fra stor til plaatsvervangende lederen van hun mandaat ontheven worden door de Kamer van volksvertegenwoordiers, indien zij tekortkomen i hun plichten av de waardigeid van hun funktie i heter gedragbrengen.
+§ 2. Medlemmene utnevnes for en periode på fire år, fornybar én gang, fra fremtredende personligheter som er kjent for sin kunnskap, erfaring og interesse for problematikken omkring skadelige sektariske grupperinger. De må gi alle garantier for å kunne utøve sitt mandat i full uavhengighet og i en ånd av objektivitet og upartiskhet.
+De faste og de varamedlemmene kan fritas fra sitt mandat av Representantenes hus dersom de svikter i sine plikter eller setter sin funksjons verdighet i fare.
 
-§3. Om als store av warnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kanndidaten aan de volgende voorwaarden voldoen :
+§ 3. For å kunne bli utnevnt som fast eller varamedlem og for å beholde denne status må kandidatene oppfylle følgende vilkår :
 
-1° de burgerlijke en høflig rechten genieten;
+1° å nyte borgerlige og politiske rettigheter;
 
-2° geen lid zijn van heter Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestread, noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+2° ikke være medlem av Europaparlamentet eller av lovgivende kamre, heller ikke av et samfunns- eller regionsråd, ikke av den føderale regjering eller av en regional eller samfunnsregjering.
 
 ---
 
 (Side 6)
 
-§ 4. Het er de leden van heter Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bleed- of aanverwanten tot de vierdegrad persoonlijk of rechtstreeks belang hebben.
+§ 4. Det er forbudt for senterets medlemmer å være til stede ved drøftelser om emner dersom de har en personlig eller direkte interesse i saken eller dersom deres slektninger eller svogerskap inntil fjerde ledd har en personlig eller direkte interesse.
 
-§ 5. Wanneer een stor lokkeverhinderd av afwezig er, wordt heter vervangen døren zijn plaatsvervanger. Het vaset av plaatsvervangend lokk waarvan het mandaat een einde neemt voor heter vertsrijken van de termijn van vier jaar, wordt volgens de in de eierste paragraaf bedoelde prosedyre vervangen dør een vaset av een plaatsvervandend lokk da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteiten inzake de vergoeding van de leden van heter Centrum enorm.
+§ 5. Når et fast medlem er forhindret eller fraværende, erstattes det av dets varamedlem.
+Et fast eller varamedlem hvis mandat opphører før utløpet av fireårsperioden, erstattes etter prosedyren nevnt i første avsnitt av et fast medlem eller et varamedlem som utpekes for resten av perioden.
+Kongen fastsetter modalitetene for godtgjørelse til senterets medlemmer.
 
-Artikkel 5. Het Centrum stelt zijn huishoudelijk regulering på binnen twee maanden na zijn installeratie. Het ordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordiers.
+Art. 5. Senteret utarbeider sitt forretningsreglement innen to måneder etter sin installasjon. Det legges frem for godkjenning for Representantenes hus.
 
-Art. 6. § 1. Het Centrum er best møtt de volgende opdragten:
+Art. 6. § 1. Senteret har følgende oppgaver :
 
-1° Het verschijnsel van schadelijke sektarische organizaties i België en hun internasjonal binding bestuderen;
+1° å studere fenomenet skadelige sektariske organisasjoner i Belgia og deres internasjonale forbindelser;
 
-2° een voor heter publiek toegankelijk documentatiecentrum organisasjon;
+2° å organisere et dokumentasjonssenter tilgjengelig for offentligheten;
 
-3° zorgen voor het onthaal en de informatie van heter publiek en ieder persoon die een vraag tot heter Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hijn rechten kan laten gelden;
+3° å sørge for mottak og informasjon til allmennheten og enhver person som henvender seg til Senteret, informere om hans rettigheter og plikter og om måten han kan gjøre sine rettigheter gjeldende;
 
-4° heterij uit eien beweging, heterij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over heterijnsel van de schadelijke sektarische organisatories en heter bijzonder over heter beleid inzake de strijd tegen deze organisations;
+4° av eget initiativ eller på anmodning fra enhver offentlig myndighet å avgi råd og anbefalinger om fenomenet skadelige sektariske organisasjoner og særlig om politikk vedrørende kampen mot disse organisasjonene;
 
-§2. Voor heter vervullen van zijn oprachten er heter Centrum ertoe gemachtigd :
+§ 2. For å oppfylle sine oppgaver er Senteret bemyndiget til :
 
-1° alle beschikbar informatie te verzamelen;
+1° å samle alle tilgjengelige opplysninger;
 
-2 % alle studier av wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn oprachten concreet te kunnen uitvoeren;
+2° å utføre alle studier eller vitenskapelige undersøkelser som er nødvendige for å kunne konkret utføre sine oppgaver;
 
-3° elke Archif- of documentatiefonds waarvan heter onderwerp overeenstemt metén van zijn oprachten, over te nemen;
+3° å overta ethvert arkiv- eller dokumentasjonsfond hvis emne samsvarer med ett av dets oppgaver;
 
-4° steun en begeeeliding te verlenen aan instellingen, organiseringer en verleners van juridische bijstand;
+4° å yte støtte og veiledning til institusjoner, organisasjoner og tilbydere av juridisk bistand;
 
-5° op zijn bijeenkomsten vakbekwame verenigingen en person raadplegen av uitnodigen dø heter nøttig acht te horen. Voor heter vervullen van zijn oprachten werkt heter Centrum samen møtte de Administrateve coördinatiecel.
+5° på sine møter å konsultere eller invitere fagkyndige foreninger og personer som det finner nyttig å høre.
+For å utføre sine oppgaver samarbeider Senteret med den Administrative koordineringsenheten.
 
-§3. Het Centrum er ertoe edelmachtigd voor heter vervullen van zijn oprachten bedoeld i § 1, 1° en 3°, persoonsgeeveens te verwerken møtte betrekking tot de overtuking av aktiviteteiten op lesensbeschouwe-lijk av guddienstig gebied zoals bedoeld i artikel 6 van de våt van 8. desember 1992 tot bescherming van de persoonlijke lesfeer ti opzichte van de verwerking van persoonsgegeeveens.
+§ 3. Senteret er bemyndiget, for å oppfylle sine oppgaver nevnt i § 1, nr. 1 og 3, til å behandle personopplysninger som gjelder overbevisning eller aktiviteter på livssyns- eller religiøst område som ment i artikkel 6 i loven av 8. desember 1992 om beskyttelse av privatlivet i forbindelse med behandling av personopplysninger.
 
-De Koning bepaalt, bij een i Ministerraad overlegen besluit, de waarborgen inzake omverrouwelijkheid en beveiing van de persoons-gegeevevens, heter statut en de take van een angestelde voor de gegevensbescherming i de schoot van heter Centrum en de wijze waarop heter Centrum verslag moet uitbrengen a Commissionie voor de bescherming van de personsonlijke levenssfeer over de verwerking van de personsonsgeevevens.
+Kongen fastsetter, ved beslutning behandlet i Ministerrådet, garantiene vedrørende konfidensialitet og sikkerhet for personopplysningene, status og oppgaver for en utpekt person for databeskyttelse i Senterets rammer og måten Senteret skal rapportere til Kommisjonen for beskyttelse av privatlivet om behandlingen av personopplysninger.
 
-§4. De inlichtingen die heter Centrum op aanvraag van heter publiek verstrekt, steunen op de illichtingen waarover heter Centrum beschikt en mogen niet voorgesteld i devorm van lijsten av systematische overzichten van schadelijke sektarische organisties.
+§ 4. Opplysningene som Senteret gir på forespørsel fra allmennheten, baserer seg på opplysningene som Senteret råder over og må ikke presenteres i form av lister eller systematiske oversikter over skadelige sektariske organisasjoner.
 
-Artikkel 7. Fra adviezen til de aanbevelingen van heter Centrum zijn edelmotiveerd. De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslissing van heter Centrum.
+Art. 7. Senterets råd og anbefalinger skal være begrunnet.
+Rådene er offentlige, med mindre Senteret treffer en behørig begrunnet beslutning om noe annet.
 
 ---
 
 (Side 7)
 
-Art. 8. § 1. Het Centrum kan slechts beraadslagen indisk ti minste de merderheid van zijn leden aanwezig er. De belissingen worden genomen møtte absolutt merderheid. I geval van sejler der stammen, er de stenge van de voorzitter av i geval deze verhinderd, van zijn plaatsvervanger dørlaggevend.
+Art. 8. § 1. Senteret kan kun holde møter dersom minst flertallet av medlemmene er til stede. Beslutningene treffes med absolutt flertall. Ved stemmelikhet avgjør presidentens stemme, eller hvis han er forhindret, hans vara.
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten wergeven.
+De vedtatte rådene skal gjengi de ulike framlagte synspunkter.
 
-§2. Het Centrum mag beschikken over heter integrert stjernegrafisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordiers møtte het oog op de beleidvorming ter bestrijding van de onwettige praktijken van de sekten en van de gevaren ervan voor de samenleving en voor heter individuelle, inzonderheid voor de minderjarigen.
+§ 2. Senteret kan få tilgang til den fullstendige stenografiske beretningen fra de offentlige høringene til den parlamentariske undersøkelseskommisjon i Representantenes hus med sikte på utforming av politikk for å bekjempe sektanes ulovlige praksiser og farene de utgjør for samfunnet og for individet, særlig for mindreårige.
 
-Artikkel 9. Voor de uitvoering van al zijn oprachten kan heter Centrum een beroep doen op de medewerking van eksperten. De Koning bepaalt de modaliteiten van de vergoeding van deze eksperten.
+Art. 9. For gjennomføringen av alle sine oppgaver kan Senteret gjøre bruk av eksperters bistand.
+Kongen fastsetter vilkårene for godtgjørelse til disse ekspertene.
 
-Artikkel 10. Voor alle personen die werken møtte virvrouwelijke gegevens die door heter Centrum worden ingezameld, geldt het beroepsgeheim zoals bedoeld i artikel 458 van heter Strafwetboek. Dezelfde verplichting geldtook voor elkeen die niet tot heter Centrum behoort, maar als deskundige, onderzoeker av medewerker optreedt.
+Art. 10. For alle personer som arbeider med konfidensielle opplysninger som samles inn av Senteret, gjelder faglig taushetsplikt som ment i artikkel 458 i straffeloven. Samme plikt gjelder også for enhver som ikke hører til Senteret, men som opptrer som ekspert, forsker eller medarbeider.
 
-Artikkel 11. Heit Centrum stelt elke twee jaar een veralag van zijn aktiviteiten voor. Dit verslag ordt gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regringen van de Gemeen-schappen en Gewesten.
+Art. 11. Senteret utarbeider hvert annet år en beretning om sin virksomhet. Denne beretningen sendes til Ministerrådet, til de lovgivende kamre og til rådene og regjeringene i Fellesskapene og Regionene.
 
-Artikkel 12. Het Centrum beschikt over een sekretariatet.
+Art. 12. Senteret råder over et sekretariat.
 
-Het personeel ordt ter beschikking gestold door de minister van Justitie, na voorafgaand het advies van heter Centrum te hebben ngewonnen.
+Personalet gjøres tilgjengelig av justisministeren, etter forutgående råd fra Senteret.
 
-Het personeel staten onder heter heter rechtstreeks gezag van de voorzitter van heter Centrum. De wevingskosten van heter Centrum kom ti sene van de begroting van heterère van Justitie.
+Personalet står under det direkte ansvar for Senterets president. Driftskostnadene ved Senteret belastes Justisdepartementets budsjett.
 
-### HOOFDSTUK III. — Administrativt coördinatiecel inzake de striid tegen schadelijke sektarische organizaties
+### KAPITTEL III. — Administrativ koordinasjonsenhet for kampen mot skadelige sektariske organisasjoner
 
-Artikkel 13. Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties ordt bij hetereminister van Justitie opgitter.
+Art. 13. En administrativ koordinasjonsenhet for kampen mot skadelige sektariske organisasjoner opprettes ved Justisdepartementet.
 
-Artikkel 14. De minister van Justitie av zijn afgevaardigde neemt het voorzitterschap van de Adminstratieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administrateve coördi-natiecel bij een i Ministerraad overlegen besluit.
+Art. 14. Justisministeren eller hans representant fungerer som leder av den administrative koordinasjonsenheten.
+Kongen fastsetter sammensetningen av den administrative koordinasjonsenheten ved beslutning behandlet i Ministerrådet.
 
-Artikkel 15. Fra Administratieve coördinatiecel heeft de volgende oprach-ten:
+Art. 15. Den administrative koordinasjonsenheten har følgende oppgaver :
 
-1° De dør de bevoegde openbere diensten en overheden gevoerde akties coördineren;
+1° Å koordinere tiltakene iverksatt av de kompetente offentlige tjenester og myndigheter;
 
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
+2° Å undersøke utviklingen av de ulovlige praksisene til de skadelige sektariske organisasjoner;
 
-3° Maatregelen voorstellen die van aard zijn om de coordinatie en de effectiviteit van deze akties te verhogen;
+3° Å foreslå tiltak som kan øke koordineringen og effektiviteten av disse tiltakene;
 
-4° I overleg møtes de bevoegde diensten en bestruren een preventie-belieid voor de burgere tegen de aktivitéiten van de schadelijke sektarische organizaties, bevorderen;
+4° I samarbeid med de kompetente tjenester og myndigheter å fremme en forebyggingspolitikk for borgerne mot aktivitetene til de skadelige sektariske organisasjoner;
 
-5° Een nauwe samenwerking møtte heter Centrum opbouwen en de nodige maatregelen treffen teneindé de aanbevelingen en voorstellen van heter Centrum uit voeren.
+5° Å bygge opp et nært samarbeid med Senteret og treffe nødvendige tiltak for å iverksette Senterets anbefalinger og forslag.
 
 ---
 
 (Side 8)
 
-Artikkel 16. Fra Koning bepaalt de modaliteiten inzake de werking en de organizatie van de Administrateve coi:irdinatiecel bij een i Mmister Kondigen deze våt af, avsiden dat zij møtte 's Lands zegel zal orden beklede en dør heter Bclgisch Staatsblad zal orden bekendgemaakt.
+Art. 16. Kongen fastsetter modalitetene for driften og organiseringen av den administrative koordinasjonsenheten ved en beslutning behandlet i Ministerrådet. 
+Denne lov kunngjøres, beordrer at den skal være påført statens segl og kunngjøres i det Belgiske Statsblad. 
 
-Gegeven te Brussel, 2 juni 1998.
+Gitt i Brussel, 2. juni 1998. 
 
-ALBERT Van Koningswege: De Minister van Justitie T. VAN PARYS Met's Lands zegel gezegeld : De Minister van Justitie, T. VAN PARYS Note
+ALBERT 
+På Kongens vegne : 
+Justisministeren, 
+T. VAN PARYS
+Forseglet med statens segl : Justisministeren, 
+T. VAN PARYS
+Nota 
 
-(1) Gewone ziting 1996-1997.
+(1) Ordinær sesjon 1996-1997.
 
-Kamer van volksvertegenwoorders. Parliamentarisk stukken. - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nr. 1198/2 tot 7. - Tekst aangenomen døren til Kommisjonen, nr. 1198/9. -Tekst aangenomen i plenaire vergadering en overge Parliamentarisk Handelingen. Vergadering van 22. april 1998. -Aanneming. Vergadering van 28. april 1998. Senaat. Parliamentarisk stukken. -Ontwerp overgezonden door de Kamer van volksvertegenwoordiners, nr. 1-965/1-1997-1998. Ontwerp niet geëvo-cert dør de Senaat, nr. 1-965/1997-1998.
+Representantenes hus. 
+Parlamentariske dokumenter. - Lovforslag av herr Duquesne, nr. 1198/1. - Endringsforslag, nr. 1198/2 til 7. - Rapport av herr Willems, nr. 1198/8. - Tekst vedtatt av kommisjonen, nr. 1198/9. - Tekst vedtatt i plenum og oversendt til Senatet, nr. 1198/10. 
+Parlamentariske forhandlinger. - Debatt. Møte 22. april 1998. - Vedtak. Møte 28. april 1998. 
+Senatet. 
+Parlamentariske dokumenter. - Forslag oversendt av Representantenes hus, nr. 1-965/1-1997-1998. Forslaget ikke behandlet av Senatet, nr. 1-965/2-1997-1998. 
 
 ---
 
@@ -174,163 +198,164 @@ Kamer van volksvertegenwoorders. Parliamentarisk stukken. - Wetsvoorstel van de 
 
 ## DEL II
 
-Kongelig dekret av 8. november 1998 om opprettelse av sammensetningen, driften og organiseringen av den administrative enheten for koordinering av kampen mot skadelige sektariske organisasjoner (Moniteur belge, 9. desember 1998)
+Kongelig dekret av 8. november 1998 som fastsetter sammensetning, drift og organisering av den administrative koordineringsenheten i kampen mot skadelige sektariske organisasjoner (Moniteur belge 9. desember 1998)
 
 ---
 
 (Side 10)
 
-### WETTEN, DECRETEN, ORDER OG NORDER
+### LOVER, DEKRETER, ORDONNANSER OG REGLER
 
-DEPARTMENT VAN RIGITIE
+JUSTISDEPARTEMENTET
 
-N. 98 - 3277 \[S−C−98/09981\] 8 NOVEMBER 1998 — Koninklijk besluit houdende samenstelling, werking en organisatie van de Administrateve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisatories.
+Nr. 98 — 3277 [S−C−98/09981] 8. NOVEMBER 1998. — Kongelig beslutning om sammensetningen, virksomheten og organisasjonen av den Administrative koordineringsenheten for kampen mot skadelige sektariske organisasjoner.
 
-Albert II, Koning der Belgic, Aan allen die nu Zijn en hierna wezen zullen, Elleve Groet.
+ALBERT II, Belgias konge, Til alle nåværende og fremtidige, vår hilsen.
 
-Gelet op de våt van 2 juni 1998 Houdende opprichting van een Informatie-en Adviescentrum inzake schadelijke sektarische organisa-tes en Houdende opprichting van een Administrateve Coo ̈rdinatiecel inzake de strijd tegen schadelijke sektarische organisatories; Gelet op het advies van de Inspector van Financie ̈n, gigeven op 10 september 1998; Gelet op de watten van de Raad van State, gecoo ̈rdineered op 12 januar 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de watten van 9 august 1980, 16 juni 1989, 4 juli 1989 i 4 august 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast møtes de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor heter individuel en inzonderheid voor de minderjari-gen, de dringende noodzaak van de oprichting van een Informatie-en Adviescentrum en Administrateve Coo ̈rdinatiecel heeft opgeworpen, møtt han oog op de zo spoedig mogelijke creatie van een organ møtes als opdracht de opvolling van dit fenomen; Overwegende dat de våt Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo ̈rdinatiecel ondertekend werd door de
+Med hensyn til loven av 2. juni 1998 om opprettelse av et Informasjons- og Rådgivningssenter angående skadelige sektariske organisasjoner og om opprettelse av en Administrativ koordineringsenhet for kampen mot skadelige sektariske organisasjoner;
+Med hensyn til uttalelsen fra Finansinspektøren, gitt 10. september 1998;
+Med hensyn til lovene om Rådet av Staten, koordinert 12. januar 1973, særlig artikkel 3, § 1, endret ved lovene av 9. august 1980, 16. juni 1989, 4. juli 1989 og 4. august 1996;
+Med hensyn til den akutte nødvendighet;
+Under hensyn til at den parlamentariske undersøkelseskommisjon med ansvar for politikkformulering for bekjempelse av sekter og farene disse sektene utgjør for individet og særlig for mindreårige, har påpekt den presserende nødvendighet av opprettelsen av et Informasjons- og Rådgivningssenter og en Administrativ koordineringsenhet, med sikte på så snart som mulig å opprette et organ med oppgave å følge opp dette fenomenet;
+Under hensyn til at loven om opprettelse av et Informasjons- og Rådgivningssenter angående skadelige sektariske organisasjoner og av en administrativ koordineringsenhet ble undertegnet av
 
 ---
 
 (Side 11)
 
-Koning op 2 juni 1998 en dat heter derhalve aanbevelling verdient dat de våt en uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, teneinne het Informatie- en Adviecentrum en de Administrateve Coo ̈rdinatiecel i stat te stellen hun oprachten aan våtten møtte ingang van 1 januar 1999; Op de voordracht van Eleven Minister van Justitie en op het advies van Eleven i Raad vergadede ministre,
+Kongen 2. juni 1998 og at det derfor er tilrådelig at loven og gjennomføringsbeslutningene offentliggjøres så raskt som mulig, for å sette Informasjons- og Rådgivningssenteret og den Administrative koordineringsenheten i stand til å ta opp sine oppgaver fra 1. januar 1999;
+På forslag av vår Justisminister og etter råd fra våre ministre samlet i Rådet,
 
-Hebben Wij besloten en besluiten Wij :
+Har vi besluttet og beslutter :
 
-### HOOFDSTUK I. — Samfortelling van de Administrateve Coo ̈rdinatiecel
+### KAPITTEL I. — Sammensetning av den Administrative koordineringsenheten
 
-Artikel 1. De bij artikel 13 van de våt van 2 juni 1998 opghanistad Administrateve coo rdinatiecel er als volgt samengesteld :
+Artikkel 1. Den Administrative koordineringsenhet som opprettet ved artikkel 13 i loven av 2. juni 1998 er sammensatt som følger :
 
--   een vertgenwoordiger van heter College van Advokat-General;
--   een nasjonaal magistraat;
--   een vertgenwoordiger van de Rijkswacht;
--   een vertgenwoordiger van de Gerechtelijke politik;
--   een vertgenwoordiger van de Algemene Rijkspolitics van heter
+- en representant for Generaladvokatkollegiet;
+- en nasjonal dommer;
+- en representant for Rijkswacht;
+- en representant for den juridiske politiet;
+- en representant for Den generelle riks-politiet i Innenriksdepartementet;
 
-Van Binnenlandse Zaken;
+- en representant for Departementet for tjenestemenn;
+- en representant for Statens sikkerhetsadministrasjon;
+- en representant for Direktoratet for sivil lovgivning og trosspørsmål i Justisdepartementet;
+- en representant for Direktoratet for straffelovgivning og menneskerettigheter i Justisdepartementet;
+- en representant for Avdelingen for strafferettslig politikk i Justisdepartementet;
 
--   een vertgenwoordiger van heter Ministerie van Ambtenarenzaken;
--   een vertgenwoordiger van heter Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van heter Directoraat-general burgerlijke
+- en representant for Innenriksdepartementet;
+- en representant for Finansdepartementet;
+- en representant for Arbeids- og sysselsettingsdepartementet;
 
-Wetgeving en idiensten van heter Ministerie van Justitie;
+- en representant for Forsvarsdepartementet. Art. 2. For hver representant utpekes også en vararepresentant.
 
--   een vertgenwoordiger van het Directoraat-general strafwetgeving en rechten van de mens van heter Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van heter Ministerie van Justitie;
-    
--   een vertgenwoordiger van heter Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van heter Ministerie van Financien;
-    
--   een vertgenwoordiger van heter Ministerie van Tewerkstelling
-    
+Art. 3. Representantene og deres vararepresentanter utnevnes av Justisministeren, etter forslag fra de respektive myndigheter som de hører under.
 
-Arbeid;
+### KAPITTEL II. — Virksomhet i den Administrative koordineringsenheten
 
--   Een vertgenwoordiger van heter Ministerie van Landsverdediging. Artikkel 2. Voor elke virvelwoordiger ordt tevens een plaatsvervan-ger aangeduid.
+Art. 4. Presidenten fastsetter sted, dag og starttid for møtene og utarbeider dagsorden.
+Hvert av medlemmene har rett til å be presidenten sette punkter på dagsordenen.
+Presidenten for Informasjons- og Rådgivningssenteret angående skadelige sektariske organisasjoner har også rett til å be presidenten sette punkter på dagsordenen.
 
-Artikkel 3. Fra vertgenwoordyers til hun pleatsvervangers orden aangesteld dør av minister van Justitie, na voordracht dør de respektieve over Heden van wie zij afhangen.
+Art. 5. Med mindre det er presserende, skal innkallinger og dagsorden samt eventuelle dokumenter, etter underskrift av presidenten, sendes av sekretæren til medlemmene minst åtte dager i forveien.
 
-### HOOFDSTUK II. — Werking van de Administrativ Coo ̈rdinatiecel
+Art. 6. Medlemmer som er forhindret blir erstattet av sine vararepresentanter og sender dem selv dokumentene.
 
-Artikkel 4. De voorzitter bepaalt de pleats, de dag en heter aanvangsuur van de verdaringen en maakt de agenda op. Elk van de leden heeft heter de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van heter Informatie-en Adviescentrum inzake schade-lijke sektarische organizaties heeft eventeens heter de voorzitter te verzoeken punten på de agenda te plaatsen.
+Art. 7. Den Administrative koordineringsenheten er kun beslutningsdyktig når minst halvparten av medlemmene eller deres vararepresentanter er til stede.
+Hvis det ikke var flertall til stede, innkalles medlemmene på nytt; i så fall er den Administrative koordineringsenheten beslutningsdyktig, uavhengig av antall tilstedeværende medlemmer.
 
-Artikkel 5. Behoudens hoogdrengende worden de uitnodigingen en de agenda til og med muliggjør stukken, na onderteken door de voorzitter, door de secretaris ti minste acht dagen vooraf aan de leden toegezonden.
+Art. 8. Hvert medlem av den Administrative koordineringsenheten, og ved forfall hans vararepresentant, har én stemme.
+Beslutningene treffes ved enstemmighet blant de tilstedeværende medlemmer.
+Presidenten for Informasjons- og Rådgivningssenteret angående skadelige sektariske organisasjoner eller hans vararepresentant kan :
 
-Artikkel 6. De leden die verhinderd zijn, worden vervangen dør hun plaatsvervanger en støren hem zelf de stukken dør.
-
-Artikkel 7. De Administrative Coo ̈rdinatiecel vergadert sleschts geldig indian ti minste de helft van de leden av hun plaatsvervangers aanwezig er. Ingeval geen meerderheid aanwezig var, worden de leaden opnieuw uitgenodigd, i welk geval de Administrateve Coo ̈rdinatiecel geldig vergadert, wat look heter aantal aanwezige leden er.
-
-Artikkel 8. Elk lokk van de Administrateve Coo ̈rdinatiecel, i bij verhin-dering zijn plaatsvervanger, beschikt over een stamme. De belissingen orden bij unimititeit van de aanwezige leden genomen. De voorzitter van heter Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties av zijn plaatsvervanger kan :
-
--   unitgenodigd worden de vergaderingen van de Administratieve Coo ̈rdinatiecel bij te wonen;
--   Gehoord indiske ord på agenda sier vereist.
+- bli innkalt til å delta i møtene i den Administrative koordineringsenheten;
+- bli hørt dersom dagsordenen tilsier det.
 
 ---
 
 (Side 12)
 
-Artikkel 9. De sekretaris maakt proces-verbaal op van de vergaderingen. Het wordt na goedkeuring dør de voorzitter møttes de volgende uitnodiging megestuurd.
+Art. 9. Sekretæren fører protokoll fra møtene. Etter godkjenning av presidenten sendes den sammen med neste innkalling.
 
-De ledet brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee’n dag voor de vergadering.
+Medlemmene fremmer sine bemerkninger skriftlig innen siste frist én dag før møtet.
 
-Artikkel 10. De adviezen en aanbevelingen die heter Centrummet toepassing van artikel 6, § 1, 4° van de våt van 2 juni 1998 uitbrengt, worden door heter Centrumaan de voorzitter van de Administrateve Coo ̈rdinatiecel overgezonden.
+Art. 10. De råd og anbefalinger som Senteret avgir i henhold til artikkel 6, § 1, 4° i loven av 2. juni 1998, oversendes av Senteret til presidenten for den Administrative koordineringsenheten.
 
-De Administrateve Coo ̈rdinatiecel stert i overleg møtte heter Centrum store de wijze van:
+Den Administrative koordineringsenheten fastsetter i samråd med Senteret måten for :
 
--   coordinatie van mulige aktier;
--   regeling van heter toezicht op de uitvoering van de aanbevelingen en adviezen van heter Centrum voor zover ze onder hun bevoegdheden vallen.
+- koordinering av eventuelle aksjoner;
+- ordning av tilsynet med gjennomføringen av Senterets anbefalinger og råd så langt de faller inn under deres kompetanse.
 
-Artikkel 11. De maatregelen die de Administratieve Coo ̈rdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten av øyeblikkets, selvals aan de voorzitter van heter Centrum meegeeld.
+Art. 11. Tiltakene som den Administrative koordineringsenheten foreslår, meddeles skriftlig til de berørte tjenester eller instanser, samt til Senterets president.
 
-Artikkel 12. De Administrative Coo ̈rdinatiecel pleegt overleg møtte alle bevoegde diensten en bestruren binnen heter kater van Zijn oprachten. Ze kan ze onder mer uitnodigen en hen inlichtingen vragen. Av føderale overheden dienen de door de Administrateve Coo ̈rdinatiecel gevraagde inlichtingen te bezorgen.
+Art. 12. Den Administrative koordineringsenheten konsulterer alle kompetente tjenester og forvaltninger innen rammen av sine oppgaver. Den kan blant annet innkalle dem og be om opplysninger. De føderale myndigheter plikter å gi de opplysninger som den Administrative koordineringsenheten ber om.
 
-Artikkel 13. De Administrateve Coo ̈rdinatiecel vergadert minstens eenmaal om de twee maanden.
+Art. 13. Den Administrative koordineringsenheten har møte minst en gang hver annen måned.
 
-Fra Administratieve Coo ̈rdinatiecel bengt zesmaandelijks verslag uit aan heter Centrum nopens haar werkzaamheden.
+Den Administrative koordineringsenheten avgir halvårlig rapport til Senteret om sin virksomhet.
 
-### HOOFDSTUK III. — Organisasjon
+### KAPITTEL III. — Organisering
 
-Artikkel 14. Alle leder van de Administrateve Coo ̈rdinatiecelvormen heter 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+Art. 14. Alle medlemmer av den Administrative koordineringsenheten utgjør «Bureauet». «Bureauet» utpeker et daglig styre bestående av presidenten, som er medlem av dette i kraft av sin stilling, og to valgte medlemmer.
 
-Artikkel 15. De Administratieve Coo ̈rdinatiecel kan wanneer bijzondere opdrachten dit verandwoorden subgroepen binnen haar schoot oprichten.
+Art. 15. Den Administrative koordineringsenheten kan, når særlige oppgaver tilsier det, opprette undergrupper innen seg.
 
-Artikkel 16. De Minister van Justitie stelt administrator personeel, lokalen en de noodzakelijke byråbenogedhedden ter beschikking van de Adminstratieve Coo ̈rdinatiecel.
+Art. 16. Justisministeren stiller administrativt personell, lokaler og nødvendig kontorutstyr til disposisjon for den Administrative koordineringsenheten.
 
-Artikkel 17. De Artiklen 1 tot en meet 3 treden i werking op de dag waarop dit besluit wordt bekendgemaakt i heter Belgisch Staatsblad en de overige artikkelen op 1 januar 1999.
+Art. 17. Artiklene 1 til 3 trer i kraft på dagen dette dekretet kunngjøres i det Belgiske Statsblad, og de øvrige artiklene trer i kraft 1. januar 1999.
 
-Artikkel 18. Elleve minister van Justitie er vakker møtt de uitvoering van dit besluit.
+Art. 18. Vår Justisminister har ansvaret for gjennomføringen av dette dekret.
 
-Gegeven te Brussel, 8. november 1998.
+Gitt i Brussel, 8. november 1998.
 
-ALBERT Van Koningswege : De Minister van Justitie T. VAN PARYS
+ALBERT På Kongens vegne : Justisministeren,
+T. VAN PARYS
 
 ---
 
 (Side 13)
 
-## Del III
+## DEL III 
 
 ---
 
 (Side 14)
 
-## Relevante parlamentarikere og ANNAL DOKUMENTER
+## OVERSIKT OVER PARLAMENTARISKE DOKUMENTER OG ANNALER
 
-### A. Kontinuering av parlamentskomiteen
+### A. KONSTITUERING AV UNDERSØKELSESKOMMISJONEN
 
--   Dokumenter fra Representantenes Hus:
-    -   313 (1995-1996)
-        -   Nr. 1: Forslag fra Duqesne et al.
-        -   Forslag fra Duquesne og Moureaux og fru de Tserclas
-        -   Nr. 5 av Borin på vegne av justiskomiteen
-        -   nr. 6 Tekst vedtatt av justiskomiteen.
-    -   Annales i Representantenes Hus
-        -   13, 14 og 28 mars 1996.
+- Dokumenter fra Representantenes hus :
+  - 313 (1995-1996) 
+    - nr. 1 : Forslag fra herr Duquesne m.fl.
+    - nr. 2 til 4 : Endringsforslag fra herrene Duquesne og Moureaux og fru de T’Serclaes
+    - nr. 5 Rapport utarbeidet på vegne av Justiskommisjonen av herr Borin
+    - nr. 6 Tekst vedtatt av Justiskommisjonen.
+  - Annaler fra Representantenes hus
+    - 13., 14. og 28. mars 1996.
 
-### B. Det parlamentariske utvalgets arbeid
+### B. ARBEIDET I UNDERSØKELSESKOMMISJONEN
 
--   Dokumenter fra Representantenes Hus:
-    -   313 (1995-1996)
-        -   7 og 8 rapport utarbeidet på Messers vegne. Duquesne og Willems
-        -   9 Forslag vedtatt i plenarøkten
-    -   Annales i Representantenes Hus
-        -   30\. og 7. mai 1997.
+- Dokumenter fra Representantenes hus :
+  - 313 (1995-1996) 
+    - nr. 7 og 8 Rapport utarbeidet på vegne av kommisjonen av herrene Duquesne og Willems
+    - nr. 9 Forslag vedtatt i plenum
+  - Annaler fra Representantenes hus
+    - 30. april og 7. mai 1997.
 
-### C. ACT av 2 JUNE 1998
+### C. LOVEN AV 2. JUNI 1998
 
--   Dokumenter fra Representantenes Hus
-    -   1198 (1996-1997)
-        -   Nei. 1: Forslag av Duquesne
-        -   Nr. 2 til 7: Endringer av Messrs. J.-P. Viseur, Duquesne, Beaufays, Willems og regjeringen
-        -   Nr. 8: Willems rapport på vegne av justiskomiteen
-        -   9 Tekst vedtatt av justiskomiteen
-        -   Nr. 10: Tekst vedtatt i plenarøkten og videresendt til senatet.
-    -   Annales i Representantenes Hus
-        -   22\. og 28. april 1998
--   Senatdokumenter
-    -   1-965 (1997-1998)
-        -   Nr. 1 Utkast sendt av Representanthuset
-        -   2 Prosjekt ikke referert til av senatet.
+- Dokumenter fra Representantenes hus
+  - 1198 (1996-1997) 
+    - nr. 1 : Forslag fra herr Duquesne
+    - nr. 2 til 7 : Endringsforslag fra herrene J.-P. Viseur, Duquesne, Beaufays, Willems og regjeringen
+    - nr. 8: Rapport utarbeidet på vegne av Justiskommisjonen av herr Willems
+    - nr. 9 : Tekst vedtatt av Justiskommisjonen
+    - nr. 10 : Tekst vedtatt i plenum og oversendt til Senatet.
+  - Annaler fra Representantenes hus
+    - 22. og 28. april 1998
+- Dokumenter fra Senatet
+  - 1-965 (1997-1998) 
+    - nr. 1 Utkast oversendt av Representantenes hus
+    - nr. 2 Utkast ikke tatt opp i Senatet.

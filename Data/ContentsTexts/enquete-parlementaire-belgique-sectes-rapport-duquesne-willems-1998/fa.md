@@ -1,172 +1,199 @@
-(CHAMBER OF BELGIUM REPRESATIVES)
+(مجلس نمایندگان بلژیک) (صفحه 1)
 
-## URVEY
+## تحقیق پارلمانی
 
-توسعه یک سیاست برای مبارزه با شیوه های غیر قانونی فرقه ها و خطر آنها برای جامعه و افراد، به ویژه کودکان
+با هدف تدوین سیاستی برای مبارزه با رویه‌های غیرقانونی فرقه‌ها و خطری که آن‌ها برای جامعه و افراد، به‌ویژه افراد صغیر، به همراه دارند
 
 ---
 
 (صفحه 2)
 
-## RETENTS
+## فهرست مطالب
 
--   بخشی از قانون 2 ژوئن 1998 ایجاد یک مرکز اطلاعات و عقاید در سازمان های فرقه ای مضر و یک واحد هماهنگی اداری برای مبارزه با سازمان های فرقه ای مضر (Moniteur belge, 25 نوامبر 1998)
--   فرمان سلطنتی 8 نوامبر 1998 ایجاد ترکیب، عملیات و سازمان واحد اداری برای هماهنگی مبارزه با سازمان های هرمful Sectarian (Moniteur belge، 9 دسامبر 1998)
--   بیانیه نیمه سوم اسناد پارلمانی و سالانه
--   گزارش بخش چهارم به نمایندگی از کمیته مجلسی Inquiry توسط Messrs انجام شد. Duquesne و Willems
--   قسمت V Motion در plenary به تصویب رسید.
+- بخش اول: قانون ۲ ژوئن ۱۹۹۸ درباره ایجاد مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار و یک واحد اداری هماهنگی برای مبارزه با سازمان‌های فرقه‌ای زیان‌بار (روزنامه رسمی بلژیک، ۲۵ نوامبر ۱۹۹۸)
+- بخش دوم: فرمان سلطنتی ۸ نوامبر ۱۹۹۸ درباره تعیین ترکیب، کارکرد و سازمان واحد اداری هماهنگی مبارزه با سازمان‌های فرقه‌ای زیان‌بار (روزنامه رسمی بلژیک، ۹ دسامبر ۱۹۹۸)
+- بخش سوم: فهرست اسناد پارلمانی و مذاکرات
+- بخش چهارم: گزارشی که به نام کمیسیون تحقیق پارلمانی توسط آقایان دوکن (Duquesne) و ویلمس (Willems) تهیه شده است
+- بخش پنجم: طرح پیشنهادی تصویب‌شده در جلسه علنی
 
 ---
 
 (صفحه 3)
 
-قانون 2 ژوئن 1998 ایجاد یک مرکز اطلاعات و نظر در مورد سازمان های فرقه ای مضر و یک واحد هماهنگی اداری برای مبارزه با سازمان های فرقه ای مضر (Moniteur belge, 25 نوامبر 1998)
+قانون ۲ ژوئن ۱۹۹۸ درباره ایجاد مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار و یک واحد اداری هماهنگی برای مبارزه با سازمان‌های فرقه‌ای زیان‌بار (روزنامه رسمی بلژیک، ۲۵ نوامبر ۱۹۹۸)
 
 ---
 
 (صفحه 4)
 
-## ● STAATSBLAD
+## روزنامه رسمی پادشاهی بلژیک 
 
-نام فیلم : Prijs van een JearSubscription : بلژیک: F 4,260؛ buitenland: F 17283 Prijs در هر nummer: F 10 در هر Vel van acht bladzijden اشتراک Voor en voor verkoop در هر nummer kan U terecht Bij Het Bestuur van Het Belgisch Staatsblad، Leuvengeweg 40-42، 1000 Brusel. Telefoon 02'552 22 11
+بهای اشتراک سالانه:  
+بلژیک: ۴٬۲۶۰ فرانک؛ خارج از کشور: ۱۷٬۲۸۳ فرانک.  
+بهای هر شماره: ۱۰ فرانک برای هر برگ هشت‌صفحه‌ای. برای اشتراک و خرید تک‌شماره می‌توانید به اداره روزنامه رسمی بلژیک، خیابان لوون ۴۰-۴۲، ۱۰۰۰ بروکسل مراجعه کنید.  
+تلفن: ‎02/552 22 11.  
 
-168th JAARGANG
+سال ۱۶۸ام
 
-WOENSDAG 25 NOVEMBER 1998
+چهارشنبه ۲۵ نوامبر ۱۹۹۸ 
 
-دانلود فیلم Justitie
+وزارت دادگستری 
 
-Wet van 2 Juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de laadelijke sektarischeists en van een Admirustratie coéirdinatiecel inzake de strijdtegen Schadelijkeisches، عضو 37.
+قانون ۲ ژوئن ۱۹۹۸ درباره ایجاد مرکز اطلاعات و مشاوره در زمینه سازمان‌های فرقه‌ای زیان‌بار و یک واحد اداری هماهنگی در زمینه مبارزه با سازمان‌های فرقه‌ای زیان‌بار، ص. ۳۷۸۲ و بعد
 
 ---
 
 (صفحه 5)
 
-### دانلود بازی DEPARTER JUSTITIE
+### وزارت دادگستری
 
-2 JUNI 1998. - Wet Houdende oprichting van een Informatie- en Adviescentrum inzake de laadelijke sektarischeizaties en van een Administratieve Coördinatiecel inzake de strijdte strijdtegen Schadelijkestarisches1
+۲ ژوئن ۱۹۹۸ – قانون درباره ایجاد مرکز اطلاعات و مشاوره در زمینه سازمان‌های فرقه‌ای زیان‌بار و یک واحد اداری هماهنگی در زمینه مبارزه با سازمان‌های فرقه‌ای زیان‌بار (۱)
 
-ALBERT II، Koning der بلژیکی، Aan Allen در nu zijn در hierna Wezen zullen، یازده Groet می میرد.
+آلبرت دوم، پادشاه بلژیکی‌ها، به همه کسانی که اکنون هستند و بعداً خواهند بود، سلام ما.
 
-از Kamers Hebben aangenomen در Wij bekrachtigen hetgeen
+مجالس این قانون را تصویب کرده‌اند و ما آن را توشیح می‌کنیم:
 
-### دانلود زیرنویس فارسی فیلم The Voorafgaande bepalingen
+### فصل اول – مقررات مقدماتی
 
-Artikel 1 Deze Quiet regelt een aangelegenheid Als bedoeld در Artikel 78 ون de Grondwet.
+ماده ۱. این قانون بر موضوعی به معنای ماده ۷۸ قانون اساسی حاکم است.
 
-ماده 2. وor de toepassing van Onderhavige کلمه خیس در schadelijke sektarische ارگانiatie verstaan، Elke seepering ملاقات با een levensbeschouczcoeomijk of Goddiens doel، از مرگ zich als dudanigorvoetdo در یک عضو از zemezemezetegmenten.
+ماده ۲. برای اجرای این قانون، منظور از «سازمان فرقه‌ای زیان‌بار» هر گروهی است با هدف جهان‌بینی یا دینی، یا گروهی که خود را چنین معرفی می‌کند، و در تشکیلات یا رویه‌های خود به فعالیت‌های زیان‌بار و غیرقانونی می‌پردازد، به فرد یا جامعه آسیب می‌رساند یا شأن و کرامت انسانی را خدشه‌دار می‌کند.
 
-Het Schadelijk karakter van sektarische Bodyizatie Wordt Onderzocht بر اساس اصول Welke zijn Widegelegd در de Grondwet، deputen، de Wasten، دستورها در dee Verdragen بین المللی درza dekeming van dekee deching Welgerd.
+زیان‌بار بودن یک سازمان فرقه‌ای بر اساس اصول مندرج در قانون اساسی، قوانین، فرامین، دستورالعمل‌ها و معاهدات بین‌المللی مربوط به حمایت از حقوق بشر که به تصویب بلژیک رسیده‌اند، بررسی می‌شود.
 
-### HOOFDSTUK II - Informatie- en Adviescentrum inzake de Schadelijke sektarische ارگانیست
+### فصل دوم – مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار
 
-هنر 3.Bij Het وزارت ون Justitie Wordt onafhankelijk rum gericht Onder de naam "Informatie- en Adviescentrum inzake de Schadelijke sektarische به نام، hierna Centrum ژنamd. De zetel van Het Centrum در Het Administratief arrondissement " Brussel-Hoofdstad" است.
+ماده ۳. در وزارت دادگستری، مرکزی مستقل با عنوان «مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار»، که از این پس «مرکز» نامیده می‌شود، ایجاد می‌گردد.  
+محل استقرار مرکز در ناحیه اداری «بروکسل-پایتخت» است.
 
-ماده 4.§ 1. Het Centrum Bestaat uit twaalf گسترده منجر به twaalf Plaatvervangende منجر به مرگ een tweederde meerderheid در از Kamer van Volksvertegenwoordigers Worden aangewezen. Zes Wideleden en zes Plaatsvervangende منجر به کلمهen aangewezen voor-dracht van de Ministerraad en voor Elk van de te التماس حتی یک کلمهmbten tweeandidaten voorgedragen. Zowel voor de Rehtstreeks درب از Kamer Alsvoor de Fet voordracht van de Ministerraad aangewezen منجر به Wordt de Taalpari-teit tussen de Nederlandstalige در de Franstalige شد. ده دقیقه ای که به صورت گسترده ای در قفسه های آویزان شده اند kennen Duits.
+ماده ۴. § ۱. مرکز از دوازده عضو اصلی و دوازده عضو علی‌البدل تشکیل می‌شود که با اکثریت دو سوم از سوی مجلس نمایندگان تعیین می‌گردند. شش عضو اصلی و شش عضو علی‌البدل بنا به پیشنهاد هیئت وزیران تعیین می‌شوند و برای هر یک از سمت‌های خالی، دو نامزد پیشنهاد می‌گردد.  
+چه برای اعضایی که مستقیماً توسط مجلس و چه برای آن‌هایی که بنا به پیشنهاد هیئت وزیران تعیین می‌شوند، توازن زبانی میان اعضای هلندی‌زبان و فرانسوی‌زبان تضمین می‌شود.  
+حداقل یک عضو اصلی و یک عضو علی‌البدل باید زبان آلمانی بدانند.
 
-De Kamer van Volksvertegenwoordigers Kiest uit de Wideleden de voorzitter en de Plaatsvervande voorzitter.
+مجلس نمایندگان از میان اعضای اصلی، رئیس و نایب‌رئیس را انتخاب می‌کند.
 
-§2. De سربen Worden aangesteld voor een Termijn van vier Jaar، eenmaal hernieuwbaar، uit de Glorye Persoonlijkheden می میرند، Oille van hun kennis، erva en hun Interest voor deorm searordorzeorzeorzee sear. Zij می میرد Alle waarborgen te Bieden om hun Mandat در Volige Onafhankelijk - Heid در eengeest van Objectiviteit en inpartijdeid uitoefenen. از گسترده به Plaatsvervangende منجر شده است که Kun van hun Mandaat Ontheven Worden درب De Kamer van Volksvertegenwoordigers، indien zij tekortkomen در hunlichten از de waardigheid vanunctie در Het rangrengen.
+§ ۲. اعضا برای دوره‌ای چهار ساله، با امکان تمدید یک‌باره، از میان شخصیت‌های برجسته‌ای منصوب می‌شوند که به دلیل دانش، تجربه و علاقه‌شان به مسائل مربوط به گروه‌های فرقه‌ای زیان‌بار شناخته شده‌اند. آنان باید تمام تضمین‌های لازم را برای انجام مأموریت خود با استقلال کامل و با روحیه عینیت و بی‌طرفی ارائه دهند.  
+اعضای اصلی و علی‌البدل در صورتی که از انجام وظایف خود قصور ورزند یا شأن و آبروی سمت خویش را خدشه‌دار کنند، می‌توانند از سوی مجلس نمایندگان از سمت خود برکنار شوند.
 
-§3. Om Als گسترده ای از اسلیرماند دره کلمه ای که در آن غرق شده است، می میرد tehoden moeten de kandidaten aan de Volgende voorarden Voldoen:
+§ ۳. برای آنکه شخصی به عنوان عضو اصلی یا علی‌البدل منصوب شود و این سمت را حفظ کند، نامزدها باید شرایط زیر را دارا باشند:
 
-1 ° deburgerlijke en مودبke rechten genieten;
+۱° از حقوق مدنی و سیاسی برخوردار باشند؛
 
-2 ° geen در zijn van Het Europees پارلمان از ون de Wetgevende Kamers، Noch van een Gemeenschaps - از Gewestraad، Noch van de Federale Regering از ون eenschaps - غرب Geregering.
+۲° عضو پارلمان اروپا، یا یکی از مجالس قانون‌گذاری، یا یکی از شوراهای جوامع یا مناطق، یا دولت فدرال، یا یکی از دولت‌های جوامع یا مناطق نباشند.
 
 ---
 
 (صفحه 6)
 
-§4. Het deleden van Het Centrum Verboden aanwezig te zijn Bijraadslagingen بیش از onderwerpen indian zijerbij eenoonlijk از rechsttreeks belangen of waarbun از یک bloen از Heratean dedan decortreg den از هرندdg.
+§ ۴. به اعضای مرکز ممنوع است در شور و مشورت درباره موضوعاتی شرکت کنند که در آن‌ها خودشان ذی‌نفع شخصی یا مستقیم هستند، یا خویشاوندان نسبی یا سببی آنان تا درجه چهارم ذی‌نفع شخصی یا مستقیم باشند.
 
-§ 5. Wanneer een بزرگ در واقع از afwezig است، درب Het Vervangen zijn Plaatvervanger. Het vaset of Plaatsvervangend پلک ویروان Het Mandaat een einde voemt voor Het Ststrijken van Dar، Wordtgens de in de eerste paragraaf bedoelde روش Vervangeninset از vavertord Wordort de. De Koning Stelt de modaliteiten inzake de Vergoed van de Leaden van Het Centrum گسترده است.
+§ ۵. هرگاه یکی از اعضای اصلی معذور یا غایب باشد، توسط عضو علی‌البدل خود جایگزین می‌شود.  
+عضو اصلی یا علی‌البدلی که مأموریتش پیش از پایان دوره چهار ساله خاتمه یابد، طبق رویه مندرج در بند نخست، با یک عضو اصلی یا علی‌البدل دیگر که برای باقی‌مانده دوره منصوب می‌شود، جایگزین خواهد شد.  
+پادشاه شرایط مربوط به حق‌الزحمه اعضای مرکز را تعیین می‌کند.
 
-ماده 5 Het Centrum Stelt zijn shoshoudelijk تنظیم Dunen twee maanden zijn installatie. Het Wordt goedkeuring voorge-legd aan de Kamer van Volksvertegenwoordigers.
+ماده ۵. مرکز باید حداکثر ظرف دو ماه پس از آغاز به کار خود، آیین‌نامه داخلی‌اش را تدوین کند. این آیین‌نامه برای تأیید به مجلس نمایندگان ارائه می‌شود.
 
-هنر 6.§ 1. Het Centrum islast ملاقات de ولتgende opdrachten:
+ماده ۶. § ۱. مرکز مأمور انجام وظایف زیر است:
 
-1 ° Het Verschijnsel van Schadelijke sektarische در België en Hun بین المللی الزام آور.
+۱° مطالعه پدیده سازمان‌های فرقه‌ای زیان‌بار در بلژیک و پیوندهای بین‌المللی آن‌ها؛
 
-2 ° voor Hetmik togankelijk سنداتیسنتروم سازماندهی؛
+۲° ایجاد یک مرکز اسناد در دسترس عموم؛
 
-3 zorgen voor Het Onthaal en de informatie van Hetmik en ieder Persoon می میرد een vraag tot Het Centrum Richt، Inlichten بیش از zijn rechten plichten بیش از de Wijzea hirop zijnchten ژل دیرین؛
+۳° فراهم کردن پذیرش و اطلاع‌رسانی به عموم مردم و آگاه کردن هر شخصی که پرسشی به مرکز ارائه می‌کند، درخصوص حقوق و تکالیف وی و شیوه اعمال حقوقش؛
 
-4 ° Hetzij uit eigen beweging، Hetzij op Verzoek van Elkopenbaar Bestuur، Adviezen en aanbevelingen uitbrengen بیش از Het verschijnsel van de laadelijke sektarischeisas که او را بیش از حد در بدن اورده است؛
+۴° ارائه نظرات و توصیه‌ها، به ابتکار خود یا به درخواست هر اداره عمومی، درباره پدیده سازمان‌های فرقه‌ای زیان‌بار و به‌ویژه درباره سیاست مبارزه با این سازمان‌ها؛
 
-§2. Voor Het Vervullen van zijn Fedrachten سنگ شکن Het Centrum ertoe است:
+§ ۲. برای انجام مأموریت‌های خود، مرکز مجاز است:
 
-1 ° Alle beschikbare informatie te سرگیجه;
+۱° همه اطلاعات موجود را گردآوری کند؛
 
-2 ° مطالعات از Wetenschappelijke onderzoeken uit tevoeren مرگ Noodzakelijk zijn om zijn opdrachten quireet te kunnen uiteren؛
+۲° هرگونه مطالعه یا پژوهش علمی لازم برای اجرای مشخص مأموریت‌های خود را انجام دهد؛
 
-3 ° Elke archif - از سنداتیefonds و searvan het Onderwerp overeenstemt Metén van zijn opdrachten، بیش از te nemen؛
+۳° هر گونه آرشیو یا مجموعه اسنادی را که موضوع آن با یکی از مأموریت‌های مرکز منطبق است، در اختیار گیرد؛
 
-4 درجه است که در التماس کردن te verlenen aan instellingen، ارگانیست های enleners van Juridische Bijstand؛
+۴° به نهادها، سازمان‌ها و ارائه‌دهندگان کمک حقوقی، یاری و پشتیبانی ارائه کند؛
 
-5 ° op zijn Bijemsten vakbekwame verenigingen en personen raadplegen از uitnodigen می میرند Het acht te horen. وor Het Vervullen van zijn Opdrachten Werkt Het Centrumn ملاقات de Administratieve coördinatiecel.
+۵° انجمن‌ها و اشخاص متخصصی را که مفید می‌داند، در جلسات خود مورد مشورت قرار دهد یا دعوت کند تا نظراتشان را بشنود.  
+برای انجام مأموریت‌های خود، مرکز با واحد اداری هماهنگی همکاری می‌کند.
 
-§3. Het Centrum است ertoe جواهر achderd voor Het vervullen van zijn opdrachten bedoeld در § 1 درجه 3 °، persoonsgegevens te Verwerken شمارش شرط بندی به بیش از حد از فعالیت eiten کار levensbeschouwe-lijk از خدایانdienstig gebed zowerals در Artikel 6 ونور 8 دسامبر به 1992 becherming van de Verzorzeing در هر ونchevents.
+§ ۳. مرکز برای انجام مأموریت‌های مندرج در بند ۱، جزءهای ۱ و ۳، مجاز است داده‌های شخصی مربوط به عقاید یا فعالیت‌های مربوط به حوزه جهان‌بینی یا دین، به معنای ماده ۶ قانون ۸ دسامبر ۱۹۹۲ درباره حمایت از حریم خصوصی در ارتباط با پردازش داده‌های شخصی را پردازش کند.
 
-De Koning bepaalt، Bij een در وزیر امور خارجه بیش از حد، de waarborgen درzake vertrouijkheid enveiliging van de Persoons-gegs، Het قدوسیت در ون ges @ atelde voor de gevenegme de gandt de vant de Enting
+پادشاه با فرمانی که پس از شور در شورای وزیران اتخاذ می‌شود، تضمین‌های مربوط به محرمانگی و امنیت داده‌های شخصی، وضعیت و وظایف مأمور حفاظت از داده‌ها در درون مرکز و شیوه‌ای را که مرکز باید به کمیسیون حمایت از حریم خصوصی درباره پردازش داده‌های شخصی گزارش دهد، تعیین می‌کند.
 
-§4. De inlichtingen می میرند Het Centrum op aanvraag van Hetmilyk verstrekt، Steunen op inlichtingen undlichtingen Het Centrum beschi en mogen niet Worden voorgesteld در de vor vanjstenische سیستم بیش از حد ویت cadorische tareladia.
+§ ۴. اطلاعاتی که مرکز بنا به درخواست عموم در اختیار آن‌ها قرار می‌دهد، بر پایه اطلاعاتی است که در اختیار مرکز قرار دارد و نباید به صورت فهرست‌ها یا جداول نظام‌مند از سازمان‌های فرقه‌ای زیان‌بار ارائه شوند.
 
-ماده 7 از Adviezen تا de aanbevelingen van het Centrum zijn metalotiveerd De adviezen zijn Openbaar، behoudens behoorlijk جواهرساز وersluidende beslising van Het Centrum.
+ماده ۷. نظرات و توصیه‌های مرکز باید مستدل باشند.  
+نظرات، علنی هستند، مگر در صورت تصمیم خلاف به‌خوبی مستدلی که از سوی مرکز اتخاذ شده باشد.
 
 ---
 
 (صفحه 7)
 
-هنر. 8. § 1. Het Centrum kan poechts beraadslagen هندی 10 minte de meerderheid van zijn رهبری aanwezig است. De beslisingen Wordn با meerderheid مطلق ملاقات کرد. در geval van stracmen der ساقه، de ساقه ون de voorzitter در geval dehinderd است، ون zijn Pinatsvervanger درهایlaggevend.
+ماده ۸. § ۱. مرکز فقط زمانی می‌تواند وارد شور شود که دست‌کم اکثریت اعضای آن حضور داشته باشند. تصمیم‌ها با اکثریت مطلق اتخاذ می‌شوند. در صورت تساوی آرا، رأی رئیس، یا در صورت معذور بودن وی، رأی نایب‌رئیس تعیین‌کننده است.
 
-De anangenomen adviezen zullen de verschillende uiteengezette ایستادهpunten Weergeven.
+نظراتی که به تصویب رسیده‌اند باید دیدگاه‌های مختلف مطرح‌شده را بازتاب دهند.
 
-§2. Het Centrum mag beschikken over het integraal stenografisch Verslag van de Openbare hoorzittingen van de Parlementer onder-zoekscageie van de Kamer vanlttegenlordgers ملاقات کرد که او را به بهترین وجه فریب می دهد.
+§ ۲. مرکز می‌تواند نسخه کامل صورت‌جلسات مشروح جلسات استماع علنی کمیسیون تحقیق پارلمانی مجلس نمایندگان را که مأمور تدوین سیاست مبارزه با رویه‌های غیرقانونی فرقه‌ها و خطرات آنان برای جامعه و فرد، به‌ویژه برای افراد صغیر است، در اختیار داشته باشد.
 
-ماده 9. وor de uitvoering van al zijn opdrachten kan Het Centrum een beroep doen op de medewerking van Experten. De Koning bepaalt de modaliteiten van de Vergoeding van deze Experten
+ماده ۹. مرکز برای اجرای همه مأموریت‌های خود می‌تواند از همکاری کارشناسان بهره‌مند شود.  
+پادشاه شرایط مربوط به حق‌الزحمه این کارشناسان را تعیین می‌کند.
 
-ماده 10 وor alle personen می میرد Werken با vertrouwelijke gegevens می میرد در Het Centrum Worden ingezameld، ژلاتین Het beroepsgeheim در Artikel 458 و Het Strafwetboek. Dezelfde verplichting ژل گرفته شده voor Elkeen می میرد niet tot Het Het Centrum behoort، maar als Tableundige، Onderzoeker از medewerker Optreedt.
+ماده ۱۰. برای همه افرادی که با داده‌های محرمانه‌ای که از سوی مرکز گردآوری می‌شوند کار می‌کنند، راز حرفه‌ای مطابق ماده ۴۵۸ قانون جزا لازم‌الاجرا است. همین تعهد در مورد هر شخص دیگری که عضو مرکز نیست، ولی به‌عنوان کارشناس، پژوهشگر یا همکار عمل می‌کند نیز برقرار است.
 
-ماده 11 Het Centrum Stelt Elke twee een verslag van zijn Activiteiten voor. Dit Verslag Wordt gesuurd aan de Ministerraad، de Wetgevende Kamers در aan de Raden en Reeringen van de Gemeen-schappen در Ge Westernen.
+ماده ۱۱. مرکز هر دو سال یک بار گزارشی از فعالیت‌های خود ارائه می‌دهد. این گزارش به هیئت وزیران، مجالس قانون‌گذاری و شوراها و دولت‌های جوامع و مناطق ارسال می‌شود.
 
-ماده 12 Het Centrum بر روی دبیرخانه هایeen قرار دارد.
+ماده ۱۲. مرکز دارای یک دبیرخانه است.
 
-Het personeel Wordt ter beschikking در غیر وزیر ون Justitie، na vooobgaand Het advies van Het Centrum te hebben ingewonnen.
+کارکنان توسط وزیر دادگستری، پس از اخذ نظر قبلی مرکز، در اختیار آن گذاشته می‌شوند.
 
-Het personeel State onder Het rehtstreeks gezag van de voorzitter van het Centrum. De Wevingskosten van Het Centrum komen 10 دیر ون در حال کشاورزی و Het ministère van Justitie.
+کارکنان تحت اختیار مستقیم رئیس مرکز انجام وظیفه می‌کنند. هزینه‌های عملیاتی مرکز بر عهده بودجه وزارت دادگستری است.
 
-### HOOFDSTUK III
+### فصل سوم – واحد اداری هماهنگی مبارزه با سازمان‌های فرقه‌ای زیان‌بار
 
-ماده 13 Een Administratieve coördinatiecel inzake de strijd teijd tegene sektarische Bodyizat Bij Het ministère van Justitie opgericht.
+ماده ۱۳. یک «واحد اداری هماهنگی مبارزه با سازمان‌های فرقه‌ای زیان‌بار» در وزارت دادگستری ایجاد می‌شود.
 
-ماده 14 De Minister van Justitie از zijn afgevaardigde Neemt Het voorzitterschap van de Administratieve Coördinatiecel. De Koning bepaalt de Samenstelling van de Administratieve coördi-natiecel Bij een در خزانه داری بیش از حد شلوغ است.
+ماده ۱۴. وزیر دادگستری یا نماینده او ریاست واحد اداری هماهنگی را بر عهده دارد.  
+پادشاه ترکیب واحد اداری هماهنگی را با فرمانی که پس از شور در شورای وزیران اتخاذ می‌شود، تعیین می‌کند.
 
-ماده 15 از Administratieve coördinatiecel Heeft de Volgende opdrach-ten:
+ماده ۱۵. واحد اداری هماهنگی دارای مأموریت‌های زیر است:
 
-1 ° در د bevoegde Openbare می میردnsten enheden gevoerde عمل coördineren;
+۱° هماهنگ کردن اقداماتی که از سوی خدمات و مقامات عمومی ذی‌صلاح انجام می‌شود؛
 
-2 ° De evolutie van de Onwettige praktijken van de laadelijke sektarische درderzoeken؛
+۲° بررسی تحولات رویه‌های غیرقانونی سازمان‌های فرقه‌ای زیان‌بار؛
 
-3 درجه Maatregelen voorstellen می میرند و aard zijn om de Coördinatie en defluiviteit van deze Acties te verhogen؛
+۳° پیشنهاد تدابیری که بتوانند هماهنگی و کارایی این اقدامات را افزایش دهند؛
 
-4 ° در Overleg ملاقات د bevoegde می میرندnsten en Bestruren een Preventionie-beleid voor de burgers tegen de Activitéeiten de laadelijke sektarisches، bevorderen؛
+۴° ترویج یک سیاست پیشگیرانه برای شهروندان، در برابر فعالیت‌های سازمان‌های فرقه‌ای زیان‌بار، در مشورت با خدمات و ادارات ذی‌صلاح؛
 
-5 درجه Een nauwe یکسان با Het Centrum opbouwen en de Nodige maatregelen treffen 10einde de aanbevelingen en avoorstellen van hetrum uiteren.
+۵° ایجاد همکاری نزدیک با مرکز و اتخاذ تدابیر لازم جهت اجرای توصیه‌ها و پیشنهادهای مرکز.
 
 ---
 
 (صفحه 8)
 
-ماده 16 از Koning bepaalt de modaliteiten inzake de Werking en de Bodyizatie van de Administratieve coi:irdinatiecel Bij een در FINister Kondigen deze af مرطوب، bevelen dat zij ملاقات با "سرزمین های zegel zegel zeal Worden bekleed در در درب Het Bclgisch Staatsblad zal کلمهkendgemaakt.
+ماده ۱۶. پادشاه با فرمانی که پس از شور در شورای وزیران اتخاذ می‌شود، شرایط مربوط به کارکرد و سازمان واحد اداری هماهنگی را تعیین می‌کند.  
+این قانون را اعلام می‌کنیم، فرمان می‌دهیم که با مهر کشور ممهور شده و در روزنامه رسمی بلژیک منتشر شود.
 
-Gegeven te Brussssel، 2 Juni 1998.
+در بروکسل، در ۲ ژوئن ۱۹۹۸ صادر شد.
 
-ALBERT Van Koningswege: دانلود بازی De Minister van Justitie VAN PARYS دانلود بازی The Lands zegeld: De Minister van Justitie VAN PARYS توجه داشته باشید
+آلبرت  
+به فرمان پادشاه:  
+وزیر دادگستری،  
+ت. ون پاریس  
+با مهر کشور ممهور شد:  
+وزیر دادگستری،  
+ت. ون پاریس  
 
-(1) Gewone zitting 1996-1997
+یادداشت
 
-Kamer van Volksvertegenwoordigers مجلس عوام فریب Wetsvoorstel van de Heer Duquesne، nr. 1198/1.-آمendmenten، nrs. 1198/2 tot 7. - درب آپانژوئنوس کمیسیون، nr. 1198/9. -Tek anenomen در plenaire Vergadering بیش از حد شلوغ است. مجلس نمایندگان مجلس نمایندگان Vergadering van 22 آوریل 1998 معرفی Vergadering van 28 آوریل 1998 Senaat مجلس عوام فریب درب Ontwerp Overgezonden de Kamer van Volksvertegenwoordigers، nr 1.965/1/1-1997-2008. Ontwerp niet gevo-cerd درب de Senaat، nr. 1-965/1997-1998.
+(۱) دوره عادی ۱۹۹۶-۱۹۹۷.
+
+مجلس نمایندگان.  
+اسناد پارلمانی – طرح قانون آقای دوکن، شماره ۱/۱۱۹۸. – اصلاحیه‌ها، شماره‌های ۲/۱۱۹۸ تا ۷. – گزارش آقای ویلمس، شماره ۸/۱۱۹۸. – متن تصویب‌شده از سوی کمیسیون، شماره ۹/۱۱۹۸. – متن تصویب‌شده در جلسه علنی و ارسال‌شده به سنا، شماره ۱۰/۱۱۹۸.  
+مشروح مذاکرات پارلمانی – بحث: جلسه ۲۲ آوریل ۱۹۹۸. – تصویب: جلسه ۲۸ آوریل ۱۹۹۸.  
+
+سنا.  
+اسناد پارلمانی – طرح ارسال‌شده از سوی مجلس نمایندگان، شماره ۱-۹۶۵/۱ (۱۹۹۷-۱۹۹۸). – طرح مورد بررسی سنا قرار نگرفت، شماره ۱-۹۶۵/۲ (۱۹۹۷-۱۹۹۸).
 
 ---
 
@@ -174,163 +201,160 @@ Kamer van Volksvertegenwoordigers مجلس عوام فریب Wetsvoorstel van de
 
 ## بخش دوم
 
-فرمان سلطنتی 8 نوامبر 1998 ایجاد ترکیب، عملیات و سازمان واحد اداری برای هماهنگی مبارزه با سازمان های بومی هارمونی (Moniteur belge، 9 دسامبر 1998)
+فرمان سلطنتی ۸ نوامبر ۱۹۹۸ که ترکیب، کارکرد و سازمان واحد اداری هماهنگی مبارزه با سازمان‌های فرقه‌ای زیان‌بار را تعیین می‌کند (روزنامه رسمی بلژیک، ۹ دسامبر ۱۹۹۸)
 
 ---
 
 (صفحه 10)
 
-### DECRETEN، ORDERS و REGULATIONS
+### قوانین، فرامین، دستورالعمل‌ها و آیین‌نامه‌ها
 
-دانلود بازی DEPARTER JUSTITIE
+وزارت دادگستری
 
-N. 98 - 3277 \[S -C -98/0981\] 8 NOVEMBERBER 1998. - Koninklijk besluit houdende همانnstelling، ماrking en ارگانisatie van de Administratieve Coo @rdinatiecel درzake de strijd tegen Schadelijke sektarischeisas.
+شماره ۹۸-۳۲۷۷ ‎[S−C−98/09981]‎ ۸ نوامبر ۱۹۹۸ – فرمان سلطنتی درباره ترکیب، کارکرد و سازمان واحد اداری هماهنگی در زمینه مبارزه با سازمان‌های فرقه‌ای زیان‌بار.
 
-ALBERT II، Koning der بلژیکی، Aan Allen در nu zijn در hierna Wezen zullen، یازده Groet می میرد.
+آلبرت دوم، پادشاه بلژیکی‌ها، به همه کسانی که اکنون هستند و بعداً خواهند بود، سلام ما.
 
-Gelet op de Dig van 2 Juni 1998 Houdende مسحور کننده ون Informatie- en Adviescentrum inzake Schadelijke sektarischeisa-s en Houdende غناطیکینگ ون eenistratie Coistathie Coo rdinatiecel inza ke dekestrdijtegene Gelet Fevies van Financialie، gegeven op 10 سپتامبر 1998؛ Gelet Feten van de Raad van State، gecoo @rdineerd op 12 Januari 1973، Inzonderheid opikel 3، § 1 gewijzigd Bij de تالاب 9 augustus 1980، 16 Juni 1989، 4 Juli 1989 در 4ugutus 1996؛ دانلود زیرنویس فارسی فیلم Dringende noodzakelijkheid Overwegende dat de Parlementaire Onderzoekscomfeiie belast ملاقات کرد de beledsvorming ter Bestrijding van de sekten en gevaorren van rachezo voor Het indivoriduel enzonderheid pider aljari، Decumentie، Decing Incing Overwegende dadende lorichting van een Informatie-en Adviescentrum درzake de loadelijke en sektarische شناخته شده در ون een administratieve coo rdinatiecel Onderend
+با توجه به قانون ۲ ژوئن ۱۹۹۸ درباره ایجاد مرکز اطلاعات و مشاوره در زمینه سازمان‌های فرقه‌ای زیان‌بار و ایجاد واحد اداری هماهنگی در زمینه مبارزه با سازمان‌های فرقه‌ای زیان‌بار؛  
+با توجه به نظر بازرس مالی که در ۱۰ سپتامبر ۱۹۹۸ ارائه شده است؛  
+با توجه به قوانین شورای دولتی، یکپارچه‌شده در ۱۲ ژانویه ۱۹۷۳، به‌ویژه ماده ۳، § ۱، که با قوانین ۹ اوت ۱۹۸۰، ۱۶ ژوئن ۱۹۸۹، ۴ ژوئیه ۱۹۸۹ و ۴ اوت ۱۹۹۶ اصلاح شده است؛  
+با توجه به ضرورت فوری؛  
+با توجه به این‌که کمیسیون تحقیق پارلمانی که مأمور تدوین سیاستی برای مبارزه با فرقه‌ها و خطرات آن‌ها برای فرد، به‌ویژه برای افراد صغیر است، بر ضرورت فوری ایجاد یک مرکز اطلاعات و مشاوره و یک واحد اداری هماهنگی برای پیگیری هرچه سریع‌تر این پدیده تأکید کرده است؛  
+با توجه به این‌که قانون مربوط به ایجاد مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار و یک واحد اداری هماهنگی توسط پادشاه در ۲ ژوئن ۱۹۹۸ امضا شده و از این‌رو شایسته است که قانون و مقررات اجرایی آن در سریع‌ترین زمان ممکن منتشر شوند تا مرکز اطلاعات و مشاوره و واحد اداری هماهنگی بتوانند از اول ژانویه ۱۹۹۹ مأموریت‌های خود را آغاز کنند؛  
+به پیشنهاد وزیر دادگستری خود و با نظر وزرای ما که در شورای وزیران گرد آمده‌اند،
 
----
+تصمیم گرفته و مقرر می‌داریم:
 
-(صفحه 11)
+### فصل اول – ترکیب واحد اداری هماهنگی
 
-Koning Feni 1998 در Dat Het derhalve aanbeveling verdient dat de uitvoeringsbesluiten zo snel mogelijk Worden gepubliceerd، Teninde Het Informatie - envi Adescentrum de Administratie Cove در سال 1999 ملاقات کرد. voordracht van Justitie، وزیر امور خارجه، ون 11 را در وزرای Raad vergaderde،
+ماده ۱. واحد اداری هماهنگی که در ماده ۱۳ قانون ۲ ژوئن ۱۹۹۸ ایجاد شده است، به شرح زیر تشکیل می‌گردد:
 
-دانلود آهنگ Hebben Wij besluiten Wij:
+- یک نماینده از کالج دادستان‌های کل؛
+- یک قاضی ملی (دادستان ملی)؛
+- یک نماینده از ژاندارmeri (ژاندارمری / پلیس ژاندارم سابق)؛
+- یک نماینده از پلیس قضایی؛
+- یک نماینده از پلیس سراسری کشوری در وزارت کشور؛
+- یک نماینده از وزارت امور اداری (کارکنان دولت)؛
+- یک نماینده از اداره امنیت کشور؛
+- یک نماینده از اداره کل حقوق مدنی و امور دینی وزارت دادگستری؛
+- یک نماینده از اداره کل قانون کیفری و حقوق بشر وزارت دادگستری؛
+- یک نماینده از اداره سیاست کیفری وزارت دادگستری؛
+- یک نماینده از وزارت کشور؛
+- یک نماینده از وزارت دارایی؛
+- یک نماینده از وزارت کار و اشتغال؛
+- یک نماینده از وزارت دفاع.
 
-### HOOFDSTUK I
+ماده ۲. برای هر نماینده، یک عضو علی‌البدل نیز تعیین می‌شود.
 
-Artikel 1 De Bij Artikel 13 ون دو ون مرطوب 2 جونی 1998 opgericht Administratieve coo rdinatiecel Als Volgt همانngesteld است:
+ماده ۳. نمایندگان و اعضای علی‌البدل آنان توسط وزیر دادگستری، پس از پیشنهاد مقامات مربوطی که به آن‌ها وابسته‌اند، منصوب می‌شوند.
 
--   een vertgenwoordiger van Het College van دادستان کل؛
--   دانلود بازی کره ای؛
--   een vertgenwoordiger van de Rijkswacht
--   een vertgenwoordiger van de Gerechtelijke politice؛
--   een vertgenwoordiger van de Algemene Rijkspolitics
+### فصل دوم – کارکرد واحد اداری هماهنگی
 
-وزارت وان بننلند
+ماده ۴. رئیس، محل، روز و ساعت آغاز جلسات را تعیین و دستور جلسه را تنظیم می‌کند.  
+هر یک از اعضا حق دارد از رئیس بخواهد موضوعاتی را در دستور جلسه بگنجاند.  
+رئیس مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار نیز حق دارد از رئیس بخواهد موضوعاتی را در دستور جلسه قرار دهد.
 
--   een vertgenwoordiger van Het Ministerie van Ambtenarenzaken
--   een vertgenwoordiger van Het Bestuur Veiligheid van de Staat
--   een vertgenwoordiger van Het Directoraat-Generalburgerlijke
+ماده ۵. جز در موارد اضطرار شدید، دعوت‌نامه‌ها و دستور جلسه، همراه با هرگونه سند احتمالی، پس از امضای رئیس، دست‌کم هشت روز پیش از جلسه توسط دبیر برای اعضا ارسال می‌شود.
 
-دانلود بازی Wetgevediensten van Justitie
+ماده ۶. اعضایی که معذور هستند، توسط عضو علی‌البدل خودشان جایگزین می‌شوند و خود، اسناد را برای وی ارسال می‌کنند.
 
--   een vertgenwoordiger van Het Directoraat-General strafwetgeving enchten van de Mens van Hetie van Justitie؛
-    
--   een Vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van Hetie van Justitie
-    
--   een vertgenwoordiger van Het Ministerie van Binnenlandse Zachen
-    
--   een vertgenwoordiger van Het Ministerie van Financeien
-    
--   een vertgenwoordiger van Het Ministerie van Tewerkstelling
-    
+ماده ۷. واحد اداری هماهنگی فقط در صورتی می‌تواند به‌طور معتبر تشکیل جلسه دهد که دست‌کم نیمی از اعضا یا اعضای علی‌البدل آن‌ها حضور داشته باشند.  
+اگر اکثریت لازم حاصل نشود، اعضا دوباره دعوت می‌شوند که در این صورت، واحد اداری هماهنگی بدون توجه به تعداد اعضای حاضر، می‌تواند به‌طور معتبر تشکیل جلسه دهد.
 
-آری؛
+ماده ۸. هر یک از اعضای واحد اداری هماهنگی، و در صورت معذور بودن او، عضو علی‌البدل وی، دارای یک حق رأی است.  
+تصمیم‌ها با اتفاق آرای اعضای حاضر اتخاذ می‌شود.  
+رئیس مرکز اطلاعات و مشاوره درباره سازمان‌های فرقه‌ای زیان‌بار یا عضو علی‌البدل وی می‌تواند:
 
--   een vertgenwoordiger van Het Ministerie van Landsverdiging. ماده 2. وor Elke vertgenwoordiger کلمه tevensvervan-ger aangeduid.
-
-ماده ۳: از vertgenwoordigers تا hun Pinatsvervangers Worden aangesteld در توسط ون Justitie وزیر، درب na voordracht در احترام به بیش از Heden van Wie zij afhangen.
-
-### HOOFDSTUK II - Werking van de Administratieve Coo
-
-ماده ۴ De voorzitter bepaalt de Plaats، de dag en aanvangsuur van de Vergaderingen در دستور کار maakt de. Elk van de سربen Heeft reht de voorzitter te vragenten دستور کار dete Pinatsen. De voorzitter van Informatie- en Adviescentrum inzake Schade-lijke sektarische اعضای بدن Heeft Oreens Het ret reht de voorzitter te verzoekenten دستور کار teatsen.
-
-ماده 5 بهنس هاگینگدید کلمهن de uitnodigingen در دستور کار، حتی نهاییs stukken، indertekating درب de voorzitter، در غیر راز ده منت acht acht dagen voohuran deenegezonden.
-
-ماده 6. Deleden zijn، در وونوانگن دره هاوروانگر به نام Hem zelf de stukken درب می میرد.
-
-ماده ۷: De Administratieve Coo @rdinatiecel vergaderts ژلاتین در ده منت د Helft van de سرب از hun Pinatsvervangers aanwezig است. Ingeval geen meerderheid aanwezig بود، Worden deleden opnieuw uitgenodigdd، در Welk geval de Administratieve Coo @rdinatiecel ژلdigiggadert، و به نظر می رسد Heantal azigeen رهبری شده است.
-
-ماده 8. Elk der van de Administratieve Coo @rdinatiecel، در Bij verhin-dering zijn Plaatvervanger، beschikt over een ساقه. De beslisingen Worden Bij Unanimititeit van de ananwezige منجر به ژنوم شد. De voorzitter van Het Informatie- en Adviescentrum inzake Schade-lijke sektarische اعضای بدن از zijn Pinatsvervanger:
-
--   uitgenodigd Worden de Vergaderingen van de Administratieve Coo @rdinatiecel Bij te برنده؛
--   gehoord Indian Worden از دستور کار می گوید.
+- برای شرکت در جلسات واحد اداری هماهنگی دعوت شود؛
+- در صورت اقتضای دستور جلسه، مورد استماع قرار گیرد.
 
 ---
 
 (صفحه 12)
 
-ماده 9. De Secretaris maakt proces-verbaal op van de vergaderingen. Het Wordt na goedkeuring در de voorzitter ملاقات کرد de Volgende uitnodiging meegestuurd.
+ماده ۹. دبیر برای جلسات صورت‌جلسه تنظیم می‌کند. صورت‌جلسه، پس از تأیید توسط رئیس، همراه با دعوت‌نامه بعدی ارسال می‌شود.
 
-Deleden Brengen hun opmerkingen sch kennis tot uiterlijk ee 'n dag voor de vergadering.
+اعضا باید حداکثر تا یک روز پیش از جلسه، ملاحظات خود را به‌صورت کتبی اعلام کنند.
 
-ماده 10 De adviezen en aanbevelingen می میرد Het Centrummet toepassing van Artikel 6، § 1، 4 ° van de تالاب 2 uitbrengt 1998، درب کلمه Het Centrumaan van de voorzitter van de Administratieve Cordinalay Overgden.
+ماده ۱۰. نظرات و توصیه‌هایی که مرکز به موجب ماده ۶، § ۱، ۴° قانون ۲ ژوئن ۱۹۹۸ ارائه می‌کند، از سوی مرکز به رئیس واحد اداری هماهنگی ارسال می‌شود.
 
-De Administratieve Coo @rdinatiecel در Overleg ملاقات Het Centrum گسترده ای از Wijze van:
+واحد اداری هماهنگی، در مشورت با مرکز، شیوه‌های زیر را تعیین می‌کند:
 
--   هماهنگی و هماهنگی و اجرای احتمالی
--   regeling van het toezicht کار de uitvoering van de aanbevelingen enviezen van Het Centrum voor zover در hder bevoegdheden vallen.
+- هماهنگی اقدامات احتمالی؛
+- تنظیم نظارت بر اجرای توصیه‌ها و نظرات مرکز، تا جایی که در حیطه صلاحیت آن قرار دارد.
 
-ماده 11 De maatregelen می میرد de Administratieve Coo @rdinatiecel voorstelt، Worden disriftelijk aan de betrokken می میرند، حتی aan de voorzitter van het Cent meegedd.
+ماده ۱۱. تدابیری که واحد اداری هماهنگی پیشنهاد می‌کند، به‌صورت کتبی به خدمات یا نهادهای ذی‌ربط، و نیز به رئیس مرکز ابلاغ می‌شوند.
 
-ماده 12 De Administratieve Coo @rdinatiecel pleegt Overleg با تمامe bevoegde می میردnsten در Bestruren binnen Het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen درlichtingen vragen. از فدرالی که بیش از حد می میرد، در de Administratieve Coo @rdinatiecel gevraagde درlichtingen tezorgen.
+ماده ۱۲. واحد اداری هماهنگی در چارچوب مأموریت‌های خود با همه خدمات و ادارات ذی‌صلاح مشورت می‌کند. از جمله می‌تواند آن‌ها را دعوت کند و اطلاعاتی از آنان بخواهد.  
+ادارات فدرال موظف‌اند اطلاعاتی را که واحد اداری هماهنگی درخواست کرده است، در اختیار آن قرار دهند.
 
-ماده 13 De Administratieve Coo @rdinatiecel vergadert mins eenmaal om de twee maanden.
+ماده ۱۳. واحد اداری هماهنگی دست‌کم هر دو ماه یک‌بار تشکیل جلسه می‌دهد.
 
-از Administratieve Coo @rdinatiecel zesmaandelijks uit aan Het Centrum nopens Haar Werkzaamheden.
+واحد اداری هماهنگی هر شش ماه یک بار گزارشی درباره فعالیت‌های خود به مرکز ارائه می‌کند.
 
-### HOOFDSTUK III
+### فصل سوم – سازمان
 
-ماده 14 Alle van de Administratieve Coo @rdinatiecel vormen Het 2Office2 را رهبری کرد. Het 2 Office2 Wijst een dagelijks Bestuur aan، همانngesteld uit de voorzitter می میرند، Trehtswege deel van uitmaakt en twee gekozenen.
+ماده ۱۴. همه اعضای واحد اداری هماهنگی «دفتر» را تشکیل می‌دهند. «دفتر» هیئت رئیسه‌ای برای امور جاری تعیین می‌کند که از رئیس – که خودبه‌خود جزو آن است – و دو عضو منتخب تشکیل می‌شود.
 
-ماده 15 De Administratieve Coo @rdinatiecel kan wanneer Bijzondere Fedrachten dit Veranدوorden subgroepen binnen seoot Ferichten.
+ماده ۱۵. واحد اداری هماهنگی می‌تواند هرگاه مأموریت‌های ویژه‌ای این امر را توجیه کند، در درون خود گروه‌های فرعی تشکیل دهد.
 
-ماده 16 De Minister van Justitie Stelt administratief personeel، lokalen en de noodzakelijke Bureaubenogedheden ter beschikking van de Administratieve Coo @rdinatiecel.
+ماده ۱۶. وزیر دادگستری کارکنان اداری، محل کار و ملزومات دفتری ضروری را در اختیار واحد اداری هماهنگی قرار می‌دهد.
 
-ماده 17 De Artikelen 1 tot en با 3 treden در Werking op de Dag waarop dit besluit Wordt در Het Belgisch Staatsblad در بیش از حد ازige Artikelen Fenuari 1999.
+ماده ۱۷. مواد ۱ تا ۳ از روز انتشار این فرمان در روزنامه رسمی بلژیک لازم‌الاجرا می‌شوند و سایر مواد از اول ژانویه ۱۹۹۹ به اجرا درمی‌آیند.
 
-ماده 18 ون Justitie، یازده وزیر، زیبا و زیبا با Deuitvoering van dit besluit است.
+ماده ۱۸. وزیر دادگستری ما مأمور اجرای این فرمان است.
 
-Gegeven te Brussssel، 8 نوامبر 1998.
+در بروکسل، در ۸ نوامبر ۱۹۹۸ صادر شد.
 
-ALBERT Van Koningswege: De Minister van Justitie VAN PARYS
+آلبرت  
+به فرمان پادشاه:  
+وزیر دادگستری،  
+ت. ون پاریس  
 
 ---
 
 (صفحه 13)
 
-## بخش سوم
+## بخش سوم 
 
 ---
 
 (صفحه 14)
 
-## خلاصه و ترجمه فارسی : ANNAL DOCU
+## فهرست اسناد پارلمانی و مذاکرات
 
-### ج) عدم رعایت امور
+### الف) تشکیل کمیسیون تحقیق پارلمانی
 
--   اسناد مجلس نمایندگان:
-    -   313 (1995-1996)
-        -   1: پیشنهاد توسط آقای Duqesne et al.
-        -   شماره 2 تا 4: اصلاحیه توسط آقای دوسک و آقای مولو و خانم د Tserclaes
-        -   گزارش ۵ توسط آقای بورین به نمایندگی از کمیته عدالت
-        -   هیچ 6 متن تصویب شده توسط کمیته عدالت
-    -   آنالز از مجلس نمایندگان
-        -   13، 14 و 28 مارس 1996
+- اسناد مجلس نمایندگان:
+  - ۳۱۳ (۱۹۹۵-۱۹۹۶)  
+    - شماره ۱: پیشنهاد آقای دوکن و همکاران  
+    - شماره‌های ۲ تا ۴: اصلاحیه‌های آقایان دوکن و مورو و خانم دو تسرکلاس  
+    - شماره ۵: گزارش تنظیم‌شده به نام کمیسیون دادگستری توسط آقای بورن  
+    - شماره ۶: متن تصویب‌شده توسط کمیسیون دادگستری
+  - مشروح مذاکرات مجلس نمایندگان  
+    - ۱۳، ۱۴ و ۲۸ مارس ۱۹۹۶
 
-### ب) کارهایی که به صورت خلاصه انجام می شود
+### ب) کارهای کمیسیون تحقیق پارلمانی
 
--   اسناد مجلس نمایندگان:
-    -   313 (1995-1996)
-        -   گزارش شماره 7 و 8 به نمایندگی از کمیته توسط Messrs مطرح شد. Duquesne و Willems
-        -   9 حرکت در جلسه مقدماتی
-    -   آنالز از مجلس نمایندگان
-        -   30 آوریل و 7 می 1997
+- اسناد مجلس نمایندگان:
+  - ۳۱۳ (۱۹۹۵-۱۹۹۶)  
+    - شماره‌های ۷ و ۸: گزارش تنظیم‌شده به نام کمیسیون توسط آقایان دوکن و ویلمس  
+    - شماره ۹: طرح پیشنهادی تصویب‌شده در جلسه علنی
+  - مشروح مذاکرات مجلس نمایندگان  
+    - ۳۰ آوریل و ۷ مه ۱۹۹۷
 
-### C ACT OF 2 JUNE 1998
+### ج) قانون ۲ ژوئن ۱۹۹۸
 
--   اسناد مجلس نمایندگان
-    -   1198 (1996-1997)
-        -   نه. 1: پیشنهاد توسط آقای Duquesne
-        -   شماره 2 تا 7 اصلاحیه توسط Messrs. J.-P. Viseur، Duquesne، Beaufays، Willems و دولت
-        -   ۸- گزارش آقای ویلمز به نمایندگی از کمیته عدالت
-        -   9: متن تصویب شده توسط کمیته عدالت
-        -   10: متن تصویب شده در جلسه پر زرق و برق و به جلو به سنا.
-    -   آنالز از مجلس نمایندگان
-        -   22 و 28 آوریل 1998
--   اسناد مجلس سنا
-    -   1-965 (1997-1998)
-        -   1 پیش نویس ارسال شده توسط مجلس نمایندگان
-        -   2 پروژه ای که توسط مجلس سنا ذکر نشده است.
+- اسناد مجلس نمایندگان
+  - ۱۱۹۸ (۱۹۶-۱۹۹۷)  
+    - شماره ۱: پیشنهاد آقای دوکن  
+    - شماره‌های ۲ تا ۷: اصلاحیه‌های آقایان ژان-پل ویزور، دوکن، بوفه، ویلمس و دولت  
+    - شماره ۸: گزارش تنظیم‌شده به نام کمیسیون دادگستری توسط آقای ویلمس  
+    - شماره ۹: متن تصویب‌شده توسط کمیسیون دادگستری  
+    - شماره ۱۰: متن تصویب‌شده در جلسه علنی و ارسال‌شده به سنا
+  - مشروح مذاکرات مجلس نمایندگان  
+    - ۲۲ و ۲۸ آوریل ۱۹۹۸
+- اسناد سنا
+  - ۱-۹۶۵ (۱۹۹۷-۱۹۹۸)  
+    - شماره ۱: طرح ارسال‌شده از سوی مجلس نمایندگان  
+    - شماره ۲: طرحی که از سوی سنا مورد بررسی قرار نگرفت.

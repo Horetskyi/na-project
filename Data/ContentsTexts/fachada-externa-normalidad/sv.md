@@ -1,9 +1,9 @@
-# Den "External Fachada" av normal
+# Den «externa fasaden» av normalitet
 
-> Är det inte möjligt att vi genom att göra många aktiviteter som står inför utsidan kan ge en relativ prestige, eller snarare en prestigemask, förlorar möjligheten att ge våra medlemmar nödvändig uppmärksamhet och kontroll?
+> Finns det inte en möjlighet att vi, genom att ägna oss åt många utåtriktade aktiviteter som kan ge ett visst anseende, eller snarare en «prestigemask», håller på att förlora möjligheten att ge våra medlemmar den nödvändiga uppmärksamheten och kontrollen?
 > 
-> Det är min uppfattning att vi skulle ha National Mands, som är att fokusera på ett mycket sanningsenligt och frånvarande urval av personliga preferenser om externa aktiviteter som om de å ena sidan ger oss att "mask" av eklektisk aktivitet, å andra sidan tar de bort identitet från oss med våra egna principer och ideal.
+> Jag anser att vi, de nationella ledningarna, bör ägna oss åt ett mycket sanningsenligt urval fritt från personliga preferenser när det gäller externa aktiviteter; ty om de å ena sidan ger oss den där «masken» av eklektisk aktivitet, så berövar de oss å andra sidan identiteten i förhållande till våra egna Principer och Ideal.
 > 
-> Jag tror att om vi fortsätter att ägna oss så mycket åt "fasaden" av vår institution genom att försumma de människor som redan utgör den, kommer den årliga förlusten av medlemmar att fortsätta.
+> Jag tror att om vi fortsätter att ägna oss så mycket åt institutionens «fasad» och försummar människorna som redan utgör den, kommer den årliga förlusten av medlemmar att fortsätta.
 > 
-> \- *Kommando nr 14: Hur fångar och behåller du medlemmar? Jorge Ángel Livraga*
+> — *Mando nr 14: Hur fånga och behålla medlemmar? Jorge Ángel Livraga*

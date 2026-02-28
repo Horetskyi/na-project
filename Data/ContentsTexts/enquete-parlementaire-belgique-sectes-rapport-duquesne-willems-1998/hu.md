@@ -1,8 +1,8 @@
-(BELGIUM KÉPVISELŐI KÍSÉRŐ) (1. oldal)
+(BELGIUM KÉPVISELŐHÁZA) (1. oldal)
 
-## FELÜLVIZSGÁLAT
+## PARLAMENTI VIZSGÁLAT
 
-a szekták illegális gyakorlatai és a társadalomra és az egyénekre, különösen a kiskorúakra jelentett veszélyek elleni küzdelemre irányuló politika kidolgozása,
+amelynek célja olyan politika kidolgozása, amely a szekták jogellenes gyakorlatai és azoknak a társadalomra és az egyénekre, különösen a kiskorúakra jelentett veszélyei elleni küzdelemre irányul
 
 ---
 
@@ -10,163 +10,187 @@ a szekták illegális gyakorlatai és a társadalomra és az egyénekre, külön
 
 ## TARTALOM
 
--   I. rész: A káros szektariánus szervezetek információs és véleményezési központjának és a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egység létrehozásáról szóló, 1998. június 2-i törvény (Moniteur belge, 1998. november 25.)
--   A káros Sectarian szervezetek elleni küzdelem koordinációjával foglalkozó igazgatási egység összetételének, működésének és szervezetének megállapításáról szóló, 1998. november 8-i királyi rendelet (Moniteur belge, 1998. december 9.)
--   III. RÉSZ Parlamenti és éves dokumentumok nyilatkozata
--   IV. RÉSZ Jelentés a parlamenti vizsgálóbizottság nevében Duquesne és Willems
+-   I. RÉSZ A 1998. június 2-i törvény a káros szektariánus szervezetekről szóló Információs és Tanácsadó Központ létrehozásáról és a káros szektariánus szervezetek elleni küzdelem igazgatási koordinációs egységének létrehozásáról (Moniteur belge, 1998. november 25.)
+-   II. RÉSZ A 1998. november 8-i királyi rendelet a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egység összetételének, működésének és szervezetének megállapításáról (Moniteur belge, 1998. december 9.)
+-   III. RÉSZ Parlamenti dokumentumok és jegyzőkönyvek jegyzéke
+-   IV. RÉSZ Jelentés a parlamenti vizsgálóbizottság nevében Duquesne és Willems urak által
 -   V. RÉSZ A plenáris ülésen elfogadott indítvány.
 
 ---
 
 (3. oldal)
 
-1998\. június 2-i törvény a káros szektariánus szervezetek információs és véleményezési központjának és a káros szektariánus szervezetek elleni küzdelemre szolgáló igazgatási koordinációs egység létrehozásáról (Moniteur belge, 1998. november 25.)
+A 1998. június 2-i törvény a káros szektariánus szervezetekről szóló Információs és Tanácsadó Központ létrehozásáról és a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egység létrehozásáról (Moniteur belge, 1998. november 25.)
 
 ---
 
 (4. oldal)
 
-## Constellation name (optional)
+## BELGIUM HIVATALOS KÖZLÖNY
 
-Prijs van een jaarSubscription: Belgium: F 4,260; buitenland: F 17,283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor subscriptionen en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40- 42, 1000 Brussel. Telefoon 02 '552 22 11.
+Éves előfizetés ára:
+Belgium: F 4 260; külföld: F 17 283.
+Ára számonként: F 10 nyolc oldalas ívenként. Előfizetések és szám szerinti vásárlás esetén a Belgiumi Hivatalos Közlöny Igazgatóságához fordulhat, Leuvenseweg 40–42, 1000 Brüsszel.
+Telefon 02'552 22 11.
 
-168\. cikk JAARGANG
+168. ÉVFOLYAM
 
-WOENSDAG 25 NOVEMBER 1998
+SZERDA, 1998. NOVEMBER 25.
 
-Ministerie van Justitie
+Igazságügyi Minisztérium
 
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organistics, bl. 3782- t
+1998. június 2-i törvény, amely létrehozza a káros szektariánus szervezetekről szóló Információs és Tanácsadó Központot és a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egységet, o. 3782–t
 
 ---
 
 (5. oldal)
 
-### SZÁLLÍTÁSI VAN JUSTIE
+### IGAZSÁGÜGYI MINISZTÉRIUM
 
-1998\. JÚNIUS 2.
+1998. JÚNIUS 2. — Törvény a káros szektariánus szervezetekről szóló Információs és Tanácsadó Központ és a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egység létrehozásáról (1)
 
-ALBERT II, Koning der Belga, Aan Allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, a belgák királya, Mindenkinek, aki most van és aki ezután lesz, Üdvözletünk.
 
-Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
+A kamarák elfogadták és Mi megerősítjük a következőt:
 
-### HOOFDSTUK I. - Voorafgaande bepalingen
+### I. FEJEZET — Előzetes rendelkezések
 
-Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
+1. cikk Ez a törvény a Alkotmány 78. cikkében említett ügyet szabályozza.
 
-2\. cikk Voor de toepassing van onderhavige wet wordt onder schadelijke sektarische organiatie verstaan, elke groetering met een levensbeschouwelijk of godsdiensig doel, of die zich als dusdanig voordoet en die zich in haar organiatie of praktijken, overgeeft aan schadelijke onwetige activiteiten, het indiving schaadt of samenleving of de menselijke waiteid aast.
+2. cikk E jelen törvény alkalmazásában káros szektariánus szervezet alatt minden olyan csoportosulás értendő, amely világnézeti vagy vallási céllal rendelkezik, vagy annak tünteti fel magát, és amely szervezetében vagy gyakorlatában káros, jogellenes tevékenységeknek hódol, kárt okoz az egyénnek vagy a társadalomnak, vagy sérti az emberi méltóságot.
 
-Het schadelijk karakter van een sektarische organisatie wordt onderzocht op base van de principles welke zijn vastgelegd in de Grondwet, de wetten, de regulten, commandies en in de internationale verdragen inzake de bescherming van de rechten van de mens welke door België werden geratificeerd.
+Egy szektariánus szervezet káros jellegét az Alkotmányban, a törvényekben, a rendeletekben, az ordonanncákban és a Belgium által ratifikált nemzetközi emberi jogi egyezményekben rögzített elvek alapján vizsgálják.
 
-### HOOFDSTUK II. - Informatia- en Adviescentrum inzake de schadelijke sektarische organistics
+### II. FEJEZET — A káros szektariánus szervezetekről szóló Információs és Tanácsadó Központ
 
-cikk 3. Bij het ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizations", hierna Centrum geneamd. De zetel van het Centrum is gevestigd in het administratief arrondissement "Brussel- Hoofdstad".
+3. cikk Az Igazságügyi Minisztériumnál független központ jön létre „Információs és Tanácsadó Központ a káros szektariánus szervezetek ügyében” néven, a továbbiakban Központnak nevezve.
+A Központ székhelye a „Brüsszel-Főváros” igazgatási körzetben található.
 
-4\. cikk, 1. pont Het Centrum bestaat uit twaalf hatalmas leden en twaalf plaatsvervangende leden die met een tweederde meerderheid door de Kamer van volksvertegenwoordigers worden aangewezen. Zes hatalmas leden en zes plaatsvervangende leden worden aangewezen op voor- dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten voorgedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. Tíz menste een hatalmas fedél en een plaatsvervangend lid kennen Duits.
+4. cikk § 1. A Központ tizenkét rendes tagból és tizenkét helyettesítő tagból áll, akiket kétharmados többséggel a Képviselőház jelöl ki. Hat rendes tagot és hat helyettesítő tagot a Minisztertanács jelölésére neveznek ki, és minden kiadható posztra két jelöltet ajánlanak.
+Akár a Képviselőház, akár a Minisztertanács jelölése alapján kijelölt tagok esetében garantálni kell a nyelvi egyensúlyt a hollandul és franciául beszélő tagok között.
+Legalább egy rendes tagnak és egy helyettesítő tagnak ismernie kell a német nyelvet.
 
-De Kamer van volksvertegenwoordigers kiest uit de huge leden de voorzitter en de plaatsvervangende voorzitter.
+A Képviselőház a rendes tagok közül választja meg az elnököt és az alelnököt.
 
-2\. § De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de eminente persoonlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problemmatiek van de schadelijke sektarische groeperingen. Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk- heid en in een geest van objectiviteit en onpartijdigheid te kunnen uitoefenen. A hatalmas és plaatsvervangende leden kunnen van hun mandaat onteven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichten of de waardgheid van hun functie in het gedrang brengen.
+§ 2. A tagokat négyéves időtartamra nevezik ki, egyszer megújítható mandátummal, olyan kiemelkedő személyiségek közül, akik ismertek tudásukról, tapasztalatukról és a káros szektariánus csoportok problémája iránti érdeklődésükről. Tartaniuk kell minden garanciát ahhoz, hogy mandátumukat teljes függetlenségben, objektivitás és pártatlanság szellemében gyakorolhassák.
+A rendes és a helyettesítő tagok felmenthetők mandátumuk alól a Képviselőház által, ha kötelezettségeikben mulasztanak vagy a tisztségük méltóságát veszélyeztetik.
 
-3\. § Om als hatalmas waarnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen:
+§ 3. Ahhoz, hogy valakit rendes vagy helyettesítő tagnak nevezzenek ki és ahhoz, hogy ezt a minőséget megtartsa, a jelölteknek a következő feltételeknek kell megfelelniük:
 
-1 ° de burgerlijke en politeke rechten genieten;
+1° a polgári és politikai jogokkal rendelkeznek;
 
-2 ° geen lid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewestering.
+2° nem tagjai az Európai Parlamentnek vagy a törvényhozó kamaráknak, sem egy Közösségi vagy Régió Tanácsnak, sem a Szövetségi Kormánynak vagy egy Közösségi vagy Régiói kormánynak.
 
 ---
 
 (6. oldal)
 
-4\. § Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een persoonlijk of rechtstreeks belang hebben.
+§ 4. A Központ tagjainak tilos részt venniük olyan napirendi pontok megtárgyalásánál, amelyekben személyes vagy közvetlen érdekeltségük van, vagy amelyekben vérrokonaik vagy házastársi rokonaik a negyedik fokig személyes vagy közvetlen érdekeltséggel rendelkeznek.
 
-5\. § Wentier een hatalmas fedél verhinderd of afwezig is, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend lid waarvan het mandaat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend lid da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteiten inzake de vergoeding van de leden van het Centrum hatalmas.
+§ 5. Ha egy rendes tag akadályoztatva vagy távol van, helyettesét jelölik ki a helyére.
+A rendes vagy helyettesítő tagot, akinek mandátuma a négyéves időtartam lejárta előtt megszűnik, a korábban említett eljárás szerint egy rendes vagy helyettesítő tag váltja, akit a fennmaradó időtartamra neveznek ki.
+A Király határozza meg a Központ tagjainak díjazására vonatkozó részleteket.
 
-5\. cikk Het Centrum stelt zijn huishoudelijk regulation op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge- legd aan de Kamer van volksvertegenwoordigers.
+5. cikk A Központ két hónapon belül megalkotja belső szabályzatát az alakulását követően. A szabályzat jóváhagyásra bemutatásra kerül a Képviselőháznak.
 
-6\. § § 1. Het Centrum is belast met de volgende opdrachten:
+6. cikk § 1. A Központ a következő feladatokkal van megbízva:
 
-1 ° het verschijnsel van schadelijke sektarische organisations in België en hun international bindingen bestuderen;
+1° tanulmányozni a káros szektariánus szervezetek jelenségét Belgiumban és azok nemzetközi kapcsolatait;
 
-2 ° een voor het publiek toegankelijk documentatiecentrum organisen;
+2° nyilvánosan hozzáférhető dokumentációs központot szervezni;
 
-3 ° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waarop hij zijn rechten kan laten gelden;
+3° gondoskodni a nyilvánosság fogadásáról és tájékoztatásáról, és minden olyan személyt, aki a Központhoz fordul, tájékoztatni jogairól és kötelességeiről, valamint arról, hogyan érvényesítheti jogait;
 
-4 ° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisatives en het beleid inzake de strijd tegen dete organistiers;
+4° saját kezdeményezésére vagy bármely közigazgatási szerv kérésére véleményeket és ajánlásokat adni a káros szektariánus szervezetek jelenségéről, különösen ezen szervezetek elleni küzdelem politikájáról;
 
-2\. § Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd:
+§ 2. Feladatai ellátása érdekében a Központ jogosult:
 
-1 ° alle beschikbare informatie te verzamelen;
+1° minden rendelkezésre álló információt begyűjteni;
 
-2 ° alle studies of wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
+2° minden olyan tanulmányt vagy tudományos kutatást elvégezni, amely szükséges feladatai konkrét végrehajtásához;
 
-3 ° elke archiv- of documentatiefonds waarvan het onderwerp overeensemt metén van zijn opdrachten, over te nemen;
+3° minden olyan levéltári vagy dokumentációs anyagot átvenni, amely témájában megfelel valamely feladatának;
 
-4 ° steun en begeleiding te verlenen aan instellingen, organisents en verleners van juridische bijstand;
+4° támogatást és iránymutatást nyújtani intézményeknek, szervezeteknek és jogi segítséget nyújtó szolgáltatóknak;
 
-5 ° op zijn bijeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum samen met de Administratieve coördinatiecel.
+5° ülésein hivatásos egyesületeket és személyeket meghallgatni vagy meghívni, akiket hasznosnak tart meghallgatni.
+Feladatainak ellátásához a Központ együttműködik az Igazgatási Koordinációs Egységgel.
 
-§ 3. Het Centrum is ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1, 1 ° en 3 °, persoonsgegevens te verwerken met betrekking tot de overtuing of activityeiten op levensbeschouwe- lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8 December 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.
+§ 3. A személyes adatok kezelésére vonatkozóan, amelyek a világnézeti vagy vallási meggyőződésre vagy tevékenységekre vonatkoznak, a Központ jogosult a 1992. december 8-i, a személyes adatok adatkezelésével kapcsolatos magánélet védelméről szóló törvény 6. cikkében foglaltaknak megfelelően adatokat kezelni a § 1. 1° és 3° pontok végrehajtása érdekében.
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwelijkheid en beveiliging van de persoons- gegevens, het statut en de take van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commisie voor de bescherming van de personlijke venssenssensfeer over de verking van de personegendemens.
+A Király rendeletben, Minisztertanácsi egyetértéssel határozza meg a személyes adatok bizalmas kezelésére és védelmére vonatkozó garanciákat, a Központon belül létrehozandó adatvédelmi megbízott státuszát és feladatait, valamint azt, hogyan kell a Központnak jelentést tennie a Személyes Adatok Védelméért Felelős Bizottságnak az adatkezelésről.
 
-4\. § De inlichtingen die Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voorgesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organicals.
+§ 4. A Központ által a nyilvánosság részére kérésre nyújtott tájékoztatás a Központ rendelkezésére álló információkon alapul, és nem mutatható be listák vagy a káros szektariánus szervezetek rendszerszerű felsorolásai formájában.
 
-7\. cikk Adviezentől de aanbevelingen van het Centrum zijn gemoineerd. De adviezen zijn openbaar, behoudens behoorlijk getoineerde andersluidende beslissing van het Centrum.
+7. cikk A Központ véleményei és ajánlásai indokoltak.
+A vélemények nyilvánosak, kivéve, ha a Központ megalapozottan másként dönt.
 
 ---
 
 (7. oldal)
 
-8\. § 1. §. Het Centrum kan slechts beraadslagen indian ten minste de meerderheid van zijn leden aanwezig is. De beslissingen worden genomen met abszolút meerderheid. In geval van staking der stemmen, is de stem van de voorzitter of in geval deze verhinderd is, van zijn plaatsvervanger doorslaggevend.
+8. cikk § 1. A Központ csak akkor tárgyalhat, ha tagjainak legalább a többsége jelen van. A döntéseket egyszerű többséggel hozzák. Szavazategyenlőség esetén az elnök szavazata, illetve akadályoztatása esetén az alelnök szavazata döntő.
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten weergeven.
+A elfogadott vélemények tükrözni fogják a kifejtett különböző álláspontokat.
 
-2\. § A Het Centrum mag beschikken over het integraal stenografizch verslag van de openbare hoorzittingen van de parlementaire ondder- zoekscomplie van de Kamer van volksvertegenwoordigers met het oog op de beleidsvorming ter bestrijding van de onwettige praktijken van de sekten en van de geveren ervan voor de samenleving en voor het indivuelle, inzonderheid voor minderigen.
+§ 2. A Központ rendelkezhet a Képviselőház parlamenti vizsgálóbizottságának a szekták jogellenes gyakorlataival és azoknak a társadalomra és az egyénre, különösen a kiskorúakra jelentett veszélyeire vonatkozó politikai iránymutatás céljából tartott nyilvános meghallgatásainak teljes jegyzőkönyvével.
 
-9\. cikk Voor de uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de medewerking van professenten. De Koning bepaalt de modaliteiten van de vergoeding van dege szakértő.
+9. cikk Munkájának végrehajtása érdekében a Központ szakértők közreműködését kérheti.
+A Király határozza meg ezen szakértők díjazásának részleteit.
 
-10\. cikk Voor alle personen die werken met vertrowelijke gegevens die door het Centrum worden ingezameld, geldt het beroepsgeheim zoals bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting geldtake voor elkeen die niet het Centrum behoort, maar als deskundige, onderzoeker of medewerker optreedt.
+10. cikk Minden olyan személyre, aki bizalmas adatokkal dolgozik, amelyeket a Központ gyűjtött össze, a büntető törvénykönyv 458. cikkében meghatározott szakmai titoktartás vonatkozik. Ugyanez a kötelezettség vonatkozik minden olyan személyre is, aki nem a Központ tagja, de szakértőként, kutatóként vagy munkatársként vesz részt.
 
-11\. cikk Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag wordt gesuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen- schate en Gewesten.
+11. cikk A Központ kétévente tevékenységéről jelentést készít. E jelentést a Minisztertanácsnak, a Törvényhozó Kamaráknak, valamint a Közösségek és Régiók Tanácsainak és Kormányainak küldik meg.
 
-12\. cikk Het Centrum beschikt over een conservatat.
+12. cikk A Központ titkársággal rendelkezik.
 
-Egy személyes szó, ami a gesturellbe vezet, de lelkész van Justitie, na voorafgaand het advies van het Centrum te hebben ingewonnen.
+A személyzetet az igazságügyi miniszter bocsátja rendelkezésre, miután előzetesen kikérte a Központ véleményét.
 
-Het personeel state onder het rechtstreeks gezag van de voorzitter van het Centrum. De wevingskosten van het Centrum komen ten late van de begroting van het ministère van Justitie.
+A személyzet közvetlenül a Központ elnökének utasítása alá tartozik. A Központ működési költségei az Igazságügyi Minisztérium költségvetését terhelik.
 
-### HOOFDSTUK III. - Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organisations
+### III. FEJEZET — Az igazgatási koordinációs egység a káros szektariánus szervezetek elleni küzdelemben
 
-13\. cikk Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organisatives wordt bij het ministère van Justitie opgericht.
+13. cikk Az Igazságügyi Minisztériumnál létrehoznak egy a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egységet.
 
-14\. cikk De minister van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de samenstelling van de Administratieve coördi- natiecel bij een in Ministerraad overlegd besluit.
+14. cikk Az igazságügyi miniszter vagy megbízottja tölti be az Igazgatási Koordinációs Egység elnöki tisztségét.
+A Király Minisztertanácsi egyetértéssel határozza meg az igazgatási koordinációs egység összetételét.
 
-15\. cikk Administratieve coördinatiecel heeft de volgende opdrach- ten:
+15. cikk Az Igazgatási Koordinációs Egység a következő feladatokat látja el:
 
-1 ° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
+1° koordinálni a hatáskörrel rendelkező közigazgatási szolgálatok és hatóságok által végzett intézkedéseket;
 
-2 ° De evolutie van de onwettige praktijken van de schadelijke sektarische organizations onderzoeken;
+2° vizsgálni a káros szektariánus szervezetek jogellenes gyakorlataiban bekövetkezett változásokat;
 
-3 ° Maatregelen voorstellen die van aard zijn om de coördinatie en de de efutitiviteit van deze acties te verhogen;
+3° intézkedéseket javasolni, amelyek célja ezen intézkedések koordinációjának és hatékonyságának növelése;
 
-4 ° In overleg met de bevoegde diensten en behurren een preventie- beleid voor de burger tegen de activitéeiten van de schadelijke sektarische organizations, bevorderen;
+4° a hatáskörrel rendelkező szolgálatokkal és hatóságokkal együttműködve elősegíteni a polgárok védelmét célzó megelőzési politikát a káros szektariánus szervezetek tevékenységei ellen;
 
-5 ° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum uit voeren.
+5° szoros együttműködést kialakítani a Központtal és megtenni a szükséges intézkedéseket a Központ ajánlásainak és javaslatainak végrehajtása érdekében.
 
 ---
 
 (8. oldal)
 
-16\. cikk Koning bepaalt de modaliteiten inzake de werking en de organisatie van de Administratieve coi: irdinatiecel bij een in Mister Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het BClgisch Staatsblad zal worden bekendgemaakt.
+16. cikk A Király Minisztertanácsi egyetértéssel határozza meg az Igazgatási Koordinációs Egység működésére és szervezetére vonatkozó részletszabályokat.
+E törvény kihirdettetésre kerül, utasítva, hogy állami pecséttel legyen ellátva és a Belgiumi Hivatalos Közlönyben közzéteendő.
 
-Gegeven te Brussel, 1998.
+Kelt Brüsszelben, 1998. június 2-án.
 
-ALBERT Van Koningswege: De Minister van Justitie, T. VAN PAYS Met 's Lands zegel gezegeld: De Minister van Justitie, T. VAN PAYS Megjegyzés
+ALBERT
+A Király nevében:
+az igazságügyi miniszter,
+T. VAN PARYS
+Állami pecséttel hitelesítve: az igazságügyi miniszter,
+T. VAN PARYS
+Megjegyzés
 
-(1) Gewone zting 1996-1997.
+(1) Rendes ülésszak 1996–1997.
 
-Kamer van volksvertegenwoordigers. Parlimentarian sükken. - Wetsvoorstel van de heer Duquesne, nr. 1198 / 1.-consigmenten, nrs. 1198 / 2 tot 7. - Tekst aangenomen door of Commission, nr. 1198 / 9. - Tekst aangenomen in plenaire vergadering en overge - A parlamenti Handelingen. Vergadering van 22 Április 1998. - Aanneming. Vergadering van 28 Április 1998. Senaat. Parlimentarian sükken. -Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-965 / 1-1997-1998. Ontwerp niet geëvo- cerd door de Senaat, nr. 1-965 / 2 / 1997-1998.
+A Képviselőház.
+Parlamenti iratok. — Duquesne úr törvényjavaslata, 1198/1. sz. — Módosítások, 1198/2–7. sz. — Willems úr jelentése, 1198/8. — A Bizottság által elfogadott szöveg, 1198/9. — A plenáris ülésen elfogadott és a Szenátushoz továbbított szöveg, 1198/10.
+Parlamenti jegyzőkönyvek. — Vita. Ülés 1998. április 22. — Elfogadás. Ülés 1998. április 28.
+Szenátus.
+Parlamenti iratok. — A Képviselőház által továbbított tervezet, 1-965/1-1997-1998. — A Szenátus által nem tárgyalt tervezet, 1-965/2-1997-1998.
 
 ---
 
@@ -174,118 +198,115 @@ Kamer van volksvertegenwoordigers. Parlimentarian sükken. - Wetsvoorstel van de
 
 ## II. RÉSZ
 
-A káros Sectarian szervezetek elleni küzdelem koordinációjával foglalkozó igazgatási egység összetételének, működésének és szervezetének megállapításáról szóló, 1998. november 8-i királyi rendelet (Moniteur belge, 1998. december 9.)
+A 1998. november 8-i királyi rendelet a káros szektariánus szervezetek elleni küzdelemmel foglalkozó igazgatási koordinációs egység összetételének, működésének és szervezetének megállapításáról (Moniteur belge, 1998. december 9.)
 
 ---
 
 (10. oldal)
 
-### NYUGDÍJAK, SZABÁLYOK ÉS SZABÁLYOK
+### TÖRVÉNYEK, RENDELETEK, ORDONNANCÁK ÉS SZABÁLYOK
 
-SZÁLLÍTÁSI VAN JUSTIE
+IGAZSÁGÜGYI MINISZTÉRIUM
 
-N. 98 - 3277 \[S -C − 98 / 09981\] 8 NOVEMBER 1998. - Koninklijk besluit houdende samenstelling, werking en organisatie van de Administratieve Coo dinatiecel inzake de strijd tegen schadelijke sektarische organistics.
+N. 98 — 3277 [S−C−98/09981] 1998. NOVEMBER 8. — Királyi rendelet az Igazgatási Koordinációs Egység összetételéről, működéséről és szervezetéről a káros szektariánus szervezetek elleni küzdelem érdekében.
 
-ALBERT II, Koning der Belga, Aan Allen die nu zijn en hierna wezen zullen, Eleven Groet.
+ALBERT II, a belgák királya, Mindenkinek, aki most van és aki ezután lesz, Üdvözletünk.
 
-Gelet op de wet van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa- ties en Houdende oprichting van een Administratieve Coo rdinatiecel inzake de strijd tegen schadelijke sektarische organistifications; Gelet op het advies van de Inspector van Financie), gegeven op 10 September 1998; Gelet op de wetten van de Raad van State, gecoo werdineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de wetten van 9 augustus 1980, 16 juni 1989, 4 juli 1989 in 4 augustus 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommende belast met de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individuel en inzonderheid voor de minderjari- gen, de dringde noodzaak van de oprichting van een Informatie- en Adviescentrum en Administratieve Coo dinatiecel heeft opgeworpen, met het het oog op de zo spoedig mogelijke creatie van drändrändrändrändrät, Overwegende dat de wet Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke en sektarische organisatives en een administratieve coo dinatiecel ondertekend werd door de
+Tekintettel a 1998. június 2-i törvényre, amely létrehozza a káros szektariánus szervezetekről szóló Információs és Tanácsadó Központot és az igazgatási koordinációs egységet a káros szektariánus szervezetek elleni küzdelem érdekében;
+Tekintettel a Pénzügyi Felügyelő véleményére, amelyet 1998. szeptember 10-én adott;
+Tekintettel az Államtanács törvényeire, amelyek 1973. január 12-én kerültek összehangolásra, különös tekintettel a 3. cikk § 1-re, amelyet a 1980. augusztus 9-i, 1989. június 16-i, 1989. július 4-i és 1996. augusztus 4-i törvények módosítottak;
+Tekintettel a sürgős szükségre;
+Mivel a Képviselőház parlamenti vizsgálóbizottsága, amely a szekták elleni politikai fellépést és ezen szekták egyénre, különösen a kiskorúakra gyakorolt veszélyét tárgyalta, felhívta a figyelmet egy Információs és Tanácsadó Központ és egy Igazgatási Koordinációs Egység sürgős létrehozásának szükségességére, annak érdekében, hogy a lehető legrövidebb időn belül létrejöhessen egy olyan szerv, amely a jelenség nyomon követéséért felel;
+Mivel a káros és szektariánus szervezetekről szóló Információs és Tanácsadó Központ és az igazgatási koordinációs egység létrehozásáról szóló törvényt a király 1998. június 2-án aláírta, ezért indokolt, hogy a törvény és végrehajtási rendeletei a lehető leghamarabb kihirdetésre kerüljenek, hogy az Információs és Tanácsadó Központ és az Igazgatási Koordinációs Egység 1999. január 1-jétől megkezdhesse feladatainak ellátását;
+A mi Igazságügyi Miniszterünk előterjesztésére és a Mi Tanácsunkban konzultált Miniszterek véleményére,
 
----
+Elhatároztuk és elhatározzuk:
 
-(11. oldal)
+### I. FEJEZET — Az Igazgatási Koordinációs Egység összetétele
 
-Koning op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo dinatiecel in stat te stellen hun opdrachten aan te vatten met ingang van 1 januari 1999; Op de voordracht van Eleven Minister van Justitie en op het advies van Eleven in Raad vergaderde Ministers,
+1. cikk A 1998. június 2-i törvény 13. cikke alapján létrehozott Igazgatási Koordinációs Egység összetétele a következő:
 
-Hebben Wij besloten en besluiten Wij:
+- egy képviselő a Főügyészek Testületétől;
+- egy nemzeti bíró;
+- egy képviselő a Királyi Gárdától (Rijkswacht);
+- egy képviselő a Bírósági Rendőrségtől;
+- egy képviselő a Belügyminisztérium Általános Állami Rendőrségétől;
 
-### HOOFDSTUK I. - Samenstelling van de Administratieve Coo Registratiecel
+- egy képviselő a Közszolgálati Ügyek Minisztériumától;
+- egy képviselő az Állam Biztonsági Igazgatóságától;
+- egy képviselő az Igazságügyi Minisztérium Polgári Jogi és Egyházi Ügyek Főigazgatóságától;
+- egy képviselő az Igazságügyi Minisztérium Büntetőjogi és Emberi Jogi Főigazgatóságától;
+- egy képviselő az Igazságügyi Minisztérium Büntetőjogi Politikai Szolgálatától;
 
-Artikel 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt samengesteld:
+- egy képviselő a Belügyminisztériumtól;
+- egy képviselő a Pénzügyminisztériumtól;
+- egy képviselő a Foglalkoztatási és Munkaügyi Minisztériumtól;
 
--   Een vertgenwoordiger van het College van Personney- General;
--   Een nationaal magistraat;
--   Een vertgenwoordiger van de Rijkswacht;
--   Een vertgenwoordiger van de Gerechtelijke politice;
--   Een vertgenwoordiger van de Algemene Rijkspolitics van het
+- egy képviselő a Honvédelmi Minisztériumtól.
 
-Ministry van Binnenlandse Zaken;
+2. cikk Minden képviselőhöz egy helyettesítő is van kijelölve.
 
--   Een vertgenwoordiger van het Ministerie van Ambtenarenzaken;
--   Een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   Een vertgenwoordiger van het Directoraat - General Burgerlijke
+3. cikk A képviselőket és helyettesítőiket az igazságügyi miniszter nevezi ki, az illetékes hatóságok előterjesztésére.
 
-Wetgeing en erediensten van het Ministerie van Justitie;
+### II. FEJEZET — Az Igazgatási Koordinációs Egység működése
 
--   Een vertgenwoordiger van het Directoraat- general strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   Een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   Een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   Een vertgenwoordiger van het Ministerie van Financien;
-    
--   Een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
+4. cikk Az elnök meghatározza az ülések helyét, napját és kezdési idejét, és összeállítja a napirendet.
+A tagok bármelyike jogosult kérni az elnöktől, hogy napirendi pontokat vegyen fel.
+A Káros Szektariánus Szervezetek Információs és Tanácsadó Központjának elnöke szintén jogosult kérni az elnöktől, hogy napirendi pontokat vegyen fel.
 
-Arbeid;
+5. cikk Kivételes sürgősség hiányában a meghívókat és a napirendet, valamint az esetleges dokumentumokat az elnök aláírása után a titkár legalább nyolc nappal előre megküldi a tagoknak.
 
--   Een vertgenwoordiger van het Ministerie van Landsverdediging. 2. cikk Voor elke vertgenwoorger wordt tevens een plaatsvervan- ger aangeduid.
+6. cikk Azok a tagok, akik akadályoztatva vannak, helyettesüket küldik, és maguk küldik el neki az iratokat.
 
-3\. cikk A vertgenwoordigers-től a hun plaatsvervanders worden aangesteld door by Minister van Justitie, na voordracht door de respectieve overheden van wie zij afhangen.
+7. cikk Az Igazgatási Koordinációs Egység csak akkor ülésezhet érvényesen, ha a tagok vagy helyetteseik legalább fele jelen van.
+Ha nincs jelen többség, a tagokat ismét meghívják; ilyen esetben az Igazgatási Koordinációs Egység érvényesen ülésezik, bármennyi tag is jelen legyen.
 
-### HOOFDSTUK II. - Werking van de Administratieve Coo
+8. cikk Az Igazgatási Koordinációs Egység minden tagjának, illetve akadályoztatás esetén helyettesének, egy szavazata van.
+A döntéseket az összes jelen lévő tag egyhangúságával hozzák.
+A Káros Szektariánus Szervezetekről szóló Információs és Tanácsadó Központ elnökét vagy helyettesét:
 
-4\. cikk De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de agenda op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van het Informatie- en Adviescentrum inzake shade- lijke sektarische organizations heeft eveneens het recht de voorzitter te verzoeken punten op de agenda te plaatsen.
-
-5\. cikk Behoudens hoogdringendheid worden de uitnodigingen en de agenda evens eventuales stukken, na ondertekening door de voorzitter, door de secretis ten minste acht dagen vooraf aan de leden toegezonden.
-
-6\. cikk De leden die verhinderd zijn, worden vervangen door hun plaatsvervanger en turen hem zelf de sükken door.
-
-7\. cikk De Administratieve Coo dinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun plaatsvervanders aanwezig is. Ingeval geen meerderheid aanwezig worden de leden opnieuw uitgenodigd, in welk geval de Administratieve Coo dinatiecel geldig vergadert, wat look het aantal aanwezige leden is.
-
-8\. cikk Elk lid van de Administratieve Coo rdinatiecel, in bij verhin- dering zijn plaatsvervanger, beschikt over een sum. De beslissingen worden bij consolutiteit van de aanwezige leden genomen. De voorzitter van het Informatie- en Adviescentrum inzake shade- lijke sektarische organizations of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo dinatiecel bij te wonen;
--   Gehoord Indian worden of agenda says vereist.
+- meghívhatják az Igazgatási Koordinációs Egység üléseire való részvételre;
+- meghallgathatják, ha a napirend megkívánja.
 
 ---
 
 (12. oldal)
 
-9\. cikk De titkárság maakt proces- verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorzitter met de volgende uitnodiging meegestuurd.
+9. cikk A titkár jegyzőkönyvet készít az ülésekről. A jegyzőkönyvet az elnök jóváhagyása után a következő meghívóval együtt küldik meg.
 
-De leden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee dag voor de vergadering.
+A tagok legkésőbb az ülés előtti egy napig írásban terjeszthetik elő észrevételeiket.
 
-10\. cikk De adviezen en aanbevelingen die het Centrammet toepassing van artikel 6, § 1, 4 ° van de wet van 2 juni 1998 uitbrengt, worden door het Centumaan de voorzitter van de Administratieve Coo dinatiecel overgezonden.
+10. cikk Azokat a véleményeket és ajánlásokat, amelyeket a Központ a 1998. június 2-i törvény 6. cikke § 1. 4° pontja alkalmazásában ad, a Központ megküldi az Igazgatási Koordinációs Egység elnökének.
 
-De Administratieve Coo dinatiecel stelt in overleg met het Centrum might de wijze van:
+Az Igazgatási Koordinációs Egység a Központtal konzultálva megállapítja:
 
--   koordinátie van lehetséges caces;
--   regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+- a lehetséges intézkedések koordinációjának módját;
+- a Központ ajánlásainak és véleményeinek végrehajtására vonatkozó ellenőrzés megszervezését, amennyiben azok az egység hatáskörébe tartoznak.
 
-11\. cikk De maatregelen die de Administratieve Coo dinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of instanties, evenals aan de voorzitter van het Centrum meegedeeld.
+11. cikk Azok az intézkedések, amelyeket az Igazgatási Koordinációs Egység javasol, írásban közlésre kerülnek az érintett szolgálatoknak vagy intézményeknek, valamint a Központ elnökének.
 
-12\. cikk De Administratieve Coo 'rdinatiecel pleegt overleg met alle bevoegde diensten en bestrurren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. A Federale overheden dienen de door de Administratieve Coo dinatiecel gevraagde inlichtingen te bezorgen.
+12. cikk Az Igazgatási Koordinációs Egység konzultál minden illetékes szolgálattal és hatósággal a feladatkörén belül. Meghívhatja őket és információt kérhet tőlük. A szövetségi hatóságok kötelesek megadni az Igazgatási Koordinációs Egység által kért információkat.
 
-13\. cikk De Administratieve Coo dinatiecel vergadert minstens eenmaal om de twee maanden.
+13. cikk Az Igazgatási Koordinációs Egység legalább kéthetente egyszer ülésezik.
 
-Az Administratieve Coo dinatiecel bengt zesmaandelijks verslag uit aan het Centrum nopens haar werkzaamheden.
+Az Igazgatási Koordinációs Egység félévente jelentést tesz a Központnak tevékenységéről.
 
-### HOOFDSTUK III. - Szervezet
+### III. FEJEZET — Szervezet
 
-14\. cikk Alle leden van de Administratieve Coo Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+14. cikk Az Igazgatási Koordinációs Egység minden tagja alkotja a „Hivatalt”. A „Hivatal” kinevez egy napi vezetést, amely az elnökből, aki jog szerint tagja annak, és két választott tagból áll.
 
-15\. cikk De Administratieve Coo 'rdinatiecel kan wanneer bijzondere opdrachten dit verantweorden subgroepen binnen haar schoot oprichten.
+15. cikk Az Igazgatási Koordinációs Egység szükség esetén, különleges feladatok indokoltsága esetén alkalcsoportokat hozhat létre magán belül.
 
-16\. cikk De Minister van Justitie stelt administratief personeel, lokalen en de noodzakelijke buresaubenogedheden ter beschikking van de Administratieve Coo dinatiecel.
+16. cikk Az igazságügyi miniszter biztosítja az Igazgatási Koordinációs Egység részére a közigazgatási személyzetet, helyiségeket és a szükséges irodaszereket.
 
-17\. cikk De artikelen 1 tot en met 3 treden in werking op de dag waarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+17. cikk Az 1–3. cikkek hatályba lépnek a rendelet Belgiumi Hivatalos Közlönyben történő közzétételének napján, a többi cikk 1999. január 1-jén lép hatályba.
 
-18\. cikk Tizenegy miniszter van Justitie gyönyörű, de uitvoering van dit besluit.
+18. cikk Igazságügyi Miniszterünk felelős ezen rendelet végrehajtásáért.
 
-Gegeven te Brussel, 1998. november 8.
+Kelt Brüsszelben, 1998. november 8-án.
 
-ALBERT Van Koningswege: De Minister van Justitie, T. VAN PAYS
+ALBERT A Király nevében: az igazságügyi miniszter,
+T. VAN PARYS
 
 ---
 
@@ -297,40 +318,40 @@ ALBERT Van Koningswege: De Minister van Justitie, T. VAN PAYS
 
 (14. oldal)
 
-## REGIONÁLIS ÉS ANNAL DOKUMENTUMOK
+## PARLAMENTI DOKUMENTUMOK ÉS JEGYZŐKÖNYVEK JEGYZÉKE
 
-### A. A GAZDASÁGI BIZOTTSÁG ALKOTMÁNYA
+### A. A PARLAMENTI VIZSGÁLÓBIZOTTSÁG LÉTREHOZÁSA
 
--   A képviselőház dokumentumai:
-    -   313 (1995- 1996)
-        -   No. 1: Promotion by Mr. Duqesne et al.
-        -   2-4. szám: Duquesne úr, Moureaux úr és de Tserclaes asszony módosításai
-        -   sz. Borin úr jelentése az Igazságügyi Bizottság nevében
-        -   sz. Az Igazságügyi Bizottság által elfogadott szöveg.
-    -   Annales a képviselőházból
-        -   1996\. március 13., 14. és 28.
+- A Képviselőház dokumentumai:
+  - 313 (1995–1996)
+    - 1. szám: Duquesne úr és társai indítványa
+    - 2–4. szám: Duquesne és Moureaux urak, valamint de T’Serclaes asszony módosításai
+    - 5. szám: Jelentés az Igazságügyi Bizottság nevében Borin úr által
+    - 6. szám: Az Igazságügyi Bizottság által elfogadott szöveg.
+  - A Képviselőház jegyzőkönyvei
+    - 1996. március 13., 14. és 28.
 
-### B. A GAZDASÁGI BIZOTTSÁG MUNKÁJA
+### B. A PARLAMENTI VIZSGÁLÓBIZOTTSÁG MUNKÁJA
 
--   A képviselőház dokumentumai:
-    -   313 (1995- 1996)
-        -   A 7. és 8. sz. Duquesne és Willems
-        -   9 A plenáris ülésen elfogadott indítvány
-    -   Annales a képviselőházból
-        -   1997\. április 30.
+- A Képviselőház dokumentumai:
+  - 313 (1995–1996)
+    - 7. és 8. szám: Jelentés a bizottság nevében Duquesne és Willems urak által
+    - 9. szám: A plenáris ülésen elfogadott indítvány
+  - A Képviselőház jegyzőkönyvei
+    - 1997. április 30. és 1997. május 7.
 
-### C. AZ 1998. JÚNIUS 2.
+### C. 1998. JÚNIUS 2-I TÖRVÉNY
 
--   A képviselőház dokumentumai
-    -   1198 (1996-1997)
-        -   Nem. 1: Mr. Duquesne javaslata
-        -   2-7. szám: J.-P. Viseur, Duquesne, Beaufays, Willems és a kormány módosításai
-        -   8\. szám: Willems úr jelentése az Igazságügyi Bizottság nevében
-        -   9\. szám: Az Igazságügyi Bizottság által elfogadott szöveg
-        -   10.: A plenáris ülésen elfogadott és a Szenátusnak továbbított szöveg.
-    -   Annales a képviselőházból
-        -   1998\. április 22. és 28.
--   Szenátusi dokumentumok
-    -   1-965 (1997- 1998)
-        -   1\. A képviselőház által továbbított tervezet
-        -   A szenátus által nem említett projekt.
+- A Képviselőház dokumentumai
+  - 1198 (1996–1997)
+    - 1. szám: Duquesne úr javaslata
+    - 2–7. szám: J.-P. Viseur, Duquesne, Beaufays, Willems és a kormány módosításai
+    - 8. szám: Jelentés az Igazságügyi Bizottság nevében Willems úr által
+    - 9. szám: Az Igazságügyi Bizottság által elfogadott szöveg
+    - 10. szám: A plenáris ülésen elfogadott és a Szenátushoz továbbított szöveg.
+  - A Képviselőház jegyzőkönyvei
+    - 1998. április 22. és 28.
+- A Szenátus dokumentumai
+  - 1-965 (1997–1998)
+    - 1. szám: A Képviselőház által továbbított tervezet
+    - 2. szám: A Szenátus által nem tárgyalt tervezet.

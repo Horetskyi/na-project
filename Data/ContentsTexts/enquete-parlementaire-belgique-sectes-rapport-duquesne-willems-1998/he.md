@@ -1,336 +1,354 @@
-(הופנה מהדף 1)
+(בית הנבחרים של בלגיה) (עמוד 1)
 
-## תגית: SURVEY
+## חקירה פרלמנטרית
 
-לפתח מדיניות למאבק בפרקטיקה הבלתי חוקית של כתות ובסכנה שהן מציבות לחברה ולאנשים, במיוחד קטינים
+שבה המטרה לגבש מדיניות למאבק בפרקטיקות הבלתי־חוקיות של כתות ובסכנה שהן מהוות לחברה ולפרטים, ובפרט לקטינים
 
 ---
 
 (עמוד 2)
 
-## המונחים
+## תוכן
 
--   חלק I Act of 2 ביוני 1998 הקמת מרכז מידע ודעה על ארגונים כתמיים מזיקים ויחידת תיאום מנהלית למאבק נגד ארגונים כתניים מזיקים (Moniteur belge, 25 בנובמבר 1998)
--   PART זה צו מלכותי של 8 בנובמבר 1998 הקמת ההרכבה, התפעול והארגון של היחידה המנהלית לתיאום המאבק נגד הארגונים הרודניים (Moniteur belge, 9 בדצמבר 1998)
--   PART III Statement of Parliamentary and annual Documents
--   דו"ח PART IV עשה בשם הוועדה הפרלמנטרית של חקירה על ידי מסרס. Duquesne ו-Willems
--   PART V Motion אומץ ב plenary.
+- חלק I חוק מ־2 ביוני 1998 הקובע הקמת מרכז מידע והיוועצות על ארגונים כתתיים מזיקים ויחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים (המוניטור הבלגי של 25 בנובמבר 1998)  
+- חלק II צו מלכותי מ־8 בנובמבר 1998 הקובע את הרכב, תפקוד וארגון יחידת התיאום המנהלית למאבק נגד ארגונים כתתיים מזיקים (המוניטור הבלגי של 9 בדצמבר 1998)  
+- חלק III רישום המסמכים הפרלמנטריים והרשומות  
+- חלק IV דוח הוכן בשם ועדת החקירה הפרלמנטרית על ידי מר דוקסן וורילמס  
+- חלק V הצעה שאומצה במושב מליאה.
 
 ---
 
 (עמוד 3)
 
-חוק של 2 ביוני 1998 הקמת מרכז מידע ודעה על ארגונים כתות מזיקים ויחידת תיאום מנהלית למאבק בארגונים כתתיים מזיקים (Moniteur belge, 25 בנובמבר 1998)
+חוק מ־2 ביוני 1998 הקובע הקמת מרכז מידע והיוועצות על ארגונים כתתיים מזיקים ויחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים (המוניטור הבלגי של 25 בנובמבר 1998)
 
 ---
 
 (עמוד 4)
 
-## להאמין ל-IntsBLAD
+## הגזיטא הבלגית
 
-Prijs van een jaarSubscription: בלגיה: F 4,260; Buitenland: F 17,283. פריג'ס ל-nummer: F 10 לכל vel van acht bladzijden. Voor מנויen en voor verkoop per nummer kan U terecht bij het Bestuur ואן het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. טלפוון 02'552 22, 11
+מחיר מנוי שנתי :  
+בלגיה : F 4 260; חו"ל: F 17 283.  
+מחיר למספר: F 10 לכל דף של שמונה עמודים. לקבלת מנויים ולמכירה לפי מספר יש לפנות למינהל הגזיטא הבלגית, Leuvenseweg 40-42, 1000 בְּרוּסֶל.  
+טלפון 02'552 22 11.
 
-168 JAARGANG
+מהדורה 168
 
-WOENSDAG 25 NoVזוכר 1998
+יום רביעי 25 נובמבר 1998
 
-שרי ואן Justitie
+משרד המשפטים
 
-Wet van 2 Juru 1998 Houdeling van een Informatie- en Adviescentrum inzake de schadelijke sektarische Organistes en van een Admirustratieve coéirdinatiecel inzake de strijd schadele sektarischeisa, 37bl-82t.
+חוק מ־2 ביוני 1998 הקובע הקמת מרכז מידע והיוועצות בנוגע לארגונים כתתיים מזיקים ויחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים, עמ' 3782־t
 
 ---
 
 (עמוד 5)
 
-### תגית: VAN JUSTITIE
+### משרד המשפטים
 
-2JNI 1998. - Wet Houdende אוrichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische Organizaes en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarisches (1)
+2 ביוני 1998. — חוק הקובע הקמת מרכז מידע והיוועצות בנוגע לארגונים כתתיים מזיקים ויחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים (1)
 
-אלברט השני, קונינג דר בלגי, Aan allen Die nu zijn en Hierna wezen zullen, Eleven Groet.
+אלברט השני, מלך הבלגים, לכל הנמצאים וכאלה שיהיו, דברי ברכה מאתנו.
 
-מתוך Kamers Hebben aangenomen en Wij bekrachtigen hetgeen Volgt:
+הבתי הפרלמנטריים קיבלו ואנו מאשרים את אשר להלן:
 
-### HOOFDSTUK I - Voorafgaande bepalingen
+### פרק I. — הוראות מקדימות
 
-Artikel 1. Deze רטוב regelt een aangelegenheid als bedoeld באמנותikel 78 ואן דה Grondwet.
+סעיף 1. חוק זה מסדיר עניין כאמור בסעיף 78 של החוקה.
 
-סעיף 2. Voor de toepassing van Onder schadelijke sektarische Organiatie vstaan, elke groepering met een levensbeschwelijk of Godsdiens doel, of Die zichs dusdenig voordoet מת zich in haaria of a haca of a rät of ange of a py of ange de chaer, a acte de chat of a icht, a ijk of a per icht of a icht of ange de a per ijk of ange, a per icht of ange de a per icht of a per icht of a pát of a per icht of a p.
+סעיף 2. לצורך יישום חוק זה ייחשב כאחר ארגון כתתי מזיק, כל קבוצה שיש לה מטרה דתית או רעיונית או המציגה עצמה כך, ובארגונה או בפרקטיקותיה נוטלת חלק בפעילויות מזיקות ובלתי־חוקיות, הפוגעות בפרט או בחברה או מערערות את כבוד האדם.
 
-Het schadelijk karakter van sektarische Balazatie wordt onderzocht בסיס ואן דה עקרונות Welke zijn עצוםgelegd in de Grondwet, de Wetten, de decreten, de decreten, Commandies en de Internationale verdragen inza de bescherming de Rechten de Men de Weke , de Weke ngern de Weke.
+אופיו המזיק של ארגון כתתי נבחן על בסיס העקרונות הקבועים בחוקה, בחוקים, בתקנות, בפקודות ובאמנות הבינלאומיות להגנה על זכויות האדם שאותן רבותה בלגיה.
 
-### HOOFDSTUK II - Informatie- en Adviescentrum inzake de schadelijke sektarisches
+### פרק II. — מרכז המידע והייעוץ בנוגע לארגונים כתתיים מזיקים
 
-אמנות 3. Bij Het Office van Justitie wordt een Onafhankelijksrum Opgericht Onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische Organizas", Hierna Comoamd. דה zetel van Hetoku הוא gevestiged in het administief arrondissement « Brussel-Hoofdstad»
+סעיף 3. במשרד המשפטים יוקם מרכז עצמאי בשם «מרכז מידע והייעוץ בנוגע לארגונים כתתיים מזיקים», להלן: המרכז. מקום מושב המרכז ייקבע במחוז המנהלי «בריסל־עיר».
 
-סעיף 4. § 1. Hetoku Bestaat uit twaalf גדול הובילen en twaalf plaatsvervangende הובילen למות פגש een tweederde meerderheid הדלת דה Kamer van Volksvertegenwoordigers מלהen aangewezen. זס גדול הוביל en zes plaatsvervande הוביל את המילה aangewezen או voor-dracht ואן דה שראד en voor elk van de te begeven ambten worden twee kandidaten vodgen. Zowel voor de rehtstreeks הדלת דה Kamer als voor de voordracht ואן דה שראד aangewezen הובילen Wordt de taalpari-teit tussen de Cablestalige en de Franstalige הוביל gewaarborgd. 10 דקות een עצום en pla plaatsvervangend Lid kennen Duits.
+סעיף 4. § 1. המרכז מורכב מתריסר חברים קבועים ותריסר חברי מילואים המיועדים, שיוחלו ברוב של שני שלישים על ידי בית הנבחרים. שישה חברים קבועים ושישה חברי מילואים ימונו על פי הצעת מועצת השרים ובכל תפקיד שיימסר יועמדו שני מועמדים.
+גם החברים שמונו ישירות על ידי בית הנבחרים וגם אלה שמונו על פי הצעת מועצת השרים יבטיחו שוויון לשוני בין החברים דוברי ההולנדית והחברים דוברי הצרפתית.
+לפחות חבר קבוע וחבר מילואים ידעו גרמנית.
 
-דה Kamer van Volksvertegenwoordigers kest uit דה voorzitter en de plaatsvervangende voorzitter.
+בית הנבחרים בוחר מתוך החברים הקבועים את היושב־ראש ואת יושב־ראש המשנה.
 
-§2. De הובילen Worden aangesteld voor eenמונחijn van vier jaar, eenmaal Hernieubaar, uit de soonlijkheden Die bekend staan omwille van hun kenen kennis, ervaring enun un un עניין voor de Problemmek de van ijkschastar ijksek ijksek ijksek . . Zij Dienen Alle warborgen te bieden om hun mandat in volledige Onafhankelijk-heid en in een geest van Objectivite en a Onpartijdigheid te kunnen uitoefenen. ממרחקים עד plaatsvervande הובילen kunnen van hun Mandaat Ontheven Worden הדלת דה Kamer van Volksvertegenwoordigers, ind zij ekortkomen in hun plichten of de wardigheid van hun kunctie in het gedrang bren.
+§ 2. החברים ממונים לתקופת כהונה של ארבע שנים, שניתן לחדש אותה פעם אחת, מתוך אישים נכבדים הידועים בידע, בניסיון ובעניין שלהם בבעיית הארגונים הכתתיים המזיקים. עליהם להציע כל ערובה שתאפשר להם למלא את המנדט באופן עצמאי ולפעול ברוח אובייקטיבית וחפה מפוליטיקה.
+חברים קבועים וחברי מילואים יכולים להיות מפוטרים ממנדטם על ידי בית הנבחרים, אם יסייעו באי־מילוי חובותיהם או אם יערערו את הדרת תפקידם.
 
-§3
+§ 3. כדי להתמנות כחבר קבוע או כממלא מקום ולשמר מעמד זה, על המועמדים לעמוד בתנאים הבאים:
 
-1° דה burgerlijke en Nichten genieten;
+1° להנות מהזכויות האזרחיות והפוליטיות;
 
-2 geen lid Zijn van Het Europees הפרלמנט של ואן דה Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemschaps- of Geore.
+2° לא להיות חבר הפרלמנט האירופי או של בתי הנבחרים, ולא של מועצה קהילתית או ארצית, ולא של הממשלה הפדרלית או של ממשלה קהילתית או ארצית.
 
 ---
 
 (עמוד 6)
 
-§4
+§ 4. למרכז אסור להשתתף בדיונים בסוגיות שבהן יש לחבר עניין אישי או ישירות, או כאשר קרובים בדם או בקשר חמישי עד הדרגה הרביעית בעלי עניין אישי או ישיר.
 
-§ 5. Wanneer een vast עצום של afwezig הוא, Wordt het vervangen הדלת zijn plaatsvervanger. Het vaset of plaatsvervand Lid warvan het mandaat een einde emt voor het vstrijken van de termijn van jear, wordt volgens de in de eerste paragraaf bedoelde הליך vervangen vaset של eenplasatsvergenar, Word de zenn de t. De Koning stelt de Modaliteiten inzake de vergoed ואן דה הוביל ואן Hetoku עצום.
+§ 5. כאשר חבר קבוע מנוע או נעדר, הוא מוחלף על ידי חבר המילואים שלו.
+חבר קבוע או חבר מילואים שמנדטו מסתיים לפני תום תקופת ארבע השנים יוחלף לפי ההליך המפורט בסעיף הראשון בחבר קבוע או במילואים שיועמד עד שארית התקופה.
+המלך קובע את האופן של תגמולי החברים במרכז.
 
-סעיף 5 Hetoku stelt Zijn huishodelijk תקנה או binnen twee maanden na Zijn להתקין אתatie. Het wordt ter goedkeuring voorge-leged aan de Kamer van Volksvertegenwoordigers.
+סעיף 5. המרכז מקבל את תקנון עבודתו תוך חודשיים ממועד הקמתו. תקנון זה יוגש לאישור בית הנבחרים.
 
-אמנות 6. § 1. Hetoku is belast met de volgende Opdrachten:
+סעיף 6. § 1. המרכז מופקד על המשימות הבאות:
 
-1° Het vschijnsel van schadelijke sektarische איבריזות ב België en hun בינלאומי מחייב את הטובריאן;
+1° לחקור את תופעת הארגונים הכתתיים המזיקים בבלגיה ואת הקשרים שלהם ברמה הבינלאומית;
 
-2 een een voor Het פאבליק toegankelijk Documentatiecentrum לארגן;
+2° לארגן ספרייה ותיעוד הנגישים לציבור;
 
-2 Zorgen voor Het Onthaal en de Informatie van Het Fabliek en ieder Persoon Die een vraag tot hetoku עשירt, inlichten over zijn rechten en plich en over de wijze waropjhhhhhhhjhhhhhhhhhhhhhhjn rechn rechten kan מאוחר ג'n;
+3° לדאוג לקליטה ולמידע לציבור ולכל אדם הפונה למרכז, להודיע לו על זכויותיו וחובותיו ועל האופן שבו ניתן לממש את זכויותיו;
 
-4° Hetzij uit eigen beweging, hetzij verzoek van elk openbaar הטובuur, adviezen en aanbevelingen uitbrengen over Het vschijnsel van de schadelijke sektarische Organisas en Het bijder over het beleid inza de strzegenes;
+4° ביוזמתו או לפי בקשה של רשות ציבורית, להביע חוות דעת והמלצות בנוגע לתופעת הארגונים הכתתיים המזיקים ובפרט לגבי מדיניות המאבק בארגונים אלה;
 
-§2.Vor Het vervullen van Zijn Opdrachten הוא hetoku ertoe פנינהכטד:
+§ 2. למילוי משימותיו, המרכז מוסמך:
 
-1° Alle beschikbare informatie te verzamelen;
+1° לאסוף את כל המידע הזמין;
 
-2 מחקרים על Wetenschappelijke Onderzoeken uit te voeren Die noodzakelijk zijn om zijn Odrachten concreet te kunnen uitvoeren;
+2° לקיים את כל המחקרים או הבדיקות המדעיות הנחוצות לביצוע משימותיו במלואן;
 
-2 elke Archif- of Documentatiefonds warvan het Onderwerp Overeenstemt metén van Zijn Opdrachten, over te nemen;
+3° לרכוש כל ארכיון או מאגר תיעוד שעיסוקו תואם לאחת ממשימותיו;
 
-4° steun en begeleiding te verlenen aan instellingen, איברים en verleners ואן המשפטדische bijstand;
+4° להעניק תמיכה וליווי למוסדות, ארגונים ולנותני סיוע משפטי;
 
-5 ° opjn bijeenkomsten vakbekwame verenigingen en Personen raadplegen of uitnodigen Die het te acht te horen. וואור היט חשוף את ואן ז'יג'ן אודרצ'טן Werkt Hetoku אותו פגש דה Administratieve coördinatiecel.
+5° לזמן לאספותיו איגודים ואנשים מקצועיים ולשמועם לפי צורך.
+לצורך יישום משימותיו משתף המרכז פעולה עם יחידת התיאום המנהלית.
 
-§3. Hetoku הוא ertoe Penachtigd voor het vervullen van zijn Opdrachten bedoeld in § 1, 1 ° en en 3°, Persoonsgegevens te verwerken נפגשו betrekking tot de overtuing של פעילותeiten op levensbeschou-lijk of Goddienstig gebiated zoals bedoeld in Artikel 6 ואן דה רטוב 8 דצמבר 1992 tot bescherming van de Persjlike lsfesers Tentsteensans de unsans de versteensert.
+§ 3. למרכז מותר, לצורך ביצוע משימותיו האמורות בסעיף 1, קטנות 1° ו־3°, לעבד נתונים אישיים הנוגעים לאמונות או לפעילויות בתחום ההשקפה או הדת, כפי שמוגדר בסעיף 6 לחוק מ־8 בדצמבר 1992 להגנת חיי הפרט ביחס לעיבוד נתונים אישיים.
 
-De Koning bepaalt, bij een שראד יתר על המידה besluit, דה warborgen inzake vertrouwelijkheid en beveiliging de persoons-gevens, het en de לקחת van en agestelde voor de gegevensbescherming de schoot הוא en en en en en de zet de zet de zejer ken de uen de zegerjer ken de zegjer ken de zejer ken de zejer ken de waen de vulgjer ken de vulger ken de vulgans de vulger ken de vulgans de vulgen de vulger ken de vulgen de vulgans de la vulgans de vulger ken de vuljer ken de vulgans de vulgans de vulgjern de vulgans de vulgans de la vulgans de vulgjen de vulg
+המלך יקבע, בהחלטה שהתייעצה במועצת השרים, את הערבויות בנוגע לסודיות ואבטחת הנתונים האישיים, את מעמדו ותפקידיו של ממונה על הגנת הנתונים במרכז ואת אופן הדיווח של המרכז לוועדה להגנת חיי הפרט על עיבוד הנתונים האישיים.
 
-§4. De inlichtingen Die Het Sup aanvraag van Het Fabliek vstrekt, steunen Op de inlichtingen warover hetoku beschikt en mogen niet worden voorgesteld in de vorm van Lijsten of systematischesichten schadele sekastaria .
+§ 4. המידע שהמרכז מספק לפי בקשת הציבור יתבסס על המידע שבידו ואסור להציגו כקבצים או כמנויים שיטתיים של ארגונים כתתיים מזיקים.
 
-סעיף 7: מ adviezen to de aanbevelingen van Hetž Zijn gemotiveerd. De adviezen Zijn Openbaar, behoudens behoorlijk gemotiveerde וersluidende beslissing van hetoku.
+סעיף 7. חוות הדעת וההמלצות של המרכז יהיו מנוסחות ומנומקות.
+חוות הדעת יהיו ציבוריות, אלא אם המרכז יקבל החלטה מנומקת אחרת.
 
 ---
 
 (עמוד 7)
 
-אמנות. 8. § 1. Het kan Scechts beraadslagen Indian Ten Minste de meerderheid van Zijn הוביל את ananwezig הוא. דה beslisingen worden גנום פגש מלדרייד מוחלט. ב-geval van sing derגזעmen, הוא דה ואן דה voorzitter של ב-geval deze verhinderd הוא, ואן Zijn plaatsververger דלתותlaggevend.
+סעיף 8. § 1. המרכז רשאי להתכנס רק אם לפחות מחצית ואף יותר מחברי המרכז נוכחים. ההחלטות מתקבלות ברוב מוחלט. במקרה של שוויון קולות, לבעל־תפקיד היושב־ראש — או, אם הוא מנוע, ליושב־ראש הממלא — קול מכריע.
 
-De aangenomen adviezen Zullen de vschillende uiteengezette Standpunten weergeven.
+ההמלצות המאומצות ישקפו את העמדות השונות שהוצגו.
 
-§2. Hetoku mag beschikken מעל het integraal stenografisch מול ואן דה Openbare hoorzittingen van de parlementaire onder-zoekscommissie de Kamer Vanksvertegenwoords פגש het oog de beleidsming הטוב ביותרjding van de kunt de ken de er de er ener er ener ener ener er er ener er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er jart enoevarevarevarevarevarevarevarevarevarevaren er er
+§ 2. המרכז יכול לקבל את תמלילי הכתיבה המלאים של השימועים הפומביים של ועדת החקירה הפרלמנטרית של בית הנבחרים לצורך עיצוב מדיניות למאבק בפרקטיקות הבלתי־חוקיות של הכתות ובסכנותיהן לחברה ולפרט, ובמיוחד לקטינים.
 
-סעיף 9.Vor de uitvoering van al zijn Opdrachten kan hetžeen beroep doen de medewerking vanמומחה. De Koning bepaalt de Modaliteiten van de vergoed van deze מומחהen.
+סעיף 9. לצורך ביצוע כל משימותיו יכול המרכז להיעזר במומחים.
+המלך יקבע את שיטות התגמול של מומחים אלה.
 
-סעיף 10 Voor Alle Personen Die Werken פגש vertrouwele gegevens Die Door hetoku worden ingezameld, ג'לדט het beroepsgeheim zoeld באמנותikel 458 ואן het Strafwetboek. Dezelfde verchting ג'לדקוק voor elkeen Die niet tot hetoku behoort, maar als Deskundige, Onderzoeker of medewerker Optreedt.
+סעיף 10. על כל מי שעושה עבודה עם נתונים חסויים שאסף המרכז חל חובת הסודיות המקצועית כמקובל בסעיף 458 של החוק הפלילי. חובת זה חלה גם על כל מי שאינו שייך למרכז אך משתתף בו כמומחה, חוקר או עובד.
 
-סעיף 11 Hetoku stelt elke twee jaar een מול ואן zijn אקטiviteiten voor. דיאט לעומת המילה gesurd aan de Serraad, דה Wetgevende Kamers en aan de Raden en Regeringen ואן דה Gemeen-schappen en Gewesten.
+סעיף 11. המרכז יגיש דו״ח על פעולותיו כל שנתיים. דו״ח זה יישלח למועצת השרים, לבתי המחוקקים ולמועצות ולממשלות הקהילות והמחוזות.
 
-סעיף 12 Hetoku beschikt Over een secretariatat.
+סעיף 12. למרכז יש מזכירות.
 
-Het Personeel wordt ter beschikking Door deשר ואן Justitie, na voorafgaand het advies van Het te Hebben ingewonnen.
+הצוות יסופק על ידי שר המשפטים, לאחר קבלת חוות דעת מוקדמת של המרכז.
 
-Het Personeel state onder het rechtstreeks gezag van de voorzitter van Hetoku. De Wevingskosten van Hetž komen 10 מאוחר ואן דה מתפתל ואן Het Ministère van Justitie.
+הצוות יהיה תחת סמכותו הישירה של יושב־ראש המרכז. הוצאות התפעול של המרכז יחולו על תקציב משרד המשפטים.
 
-### HOOFDSTUK III - Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische Organizaties
+### פרק III. — יחידת התיאום המנהלית למאבק נגד ארגונים כתתיים מזיקים
 
-סעיף 13 Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarisches Wordt bij het Ministère van Justitie gericht.
+סעיף 13. במשרד המשפטים תוקם יחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים.
 
-סעיף 14 דה שר ואן Justitie של zijn afgevaardigde neemt het voorzitterschap ואן דה Administratieve coördinatiecel war. De Koning bepaalt de Samenstelling van de Administratieve coördi-natiecel bij een in שריםraad overleged besluit.
+סעיף 14. שר המשפטים או נציגו יכהן כנשיא יחידת התיאום המנהלית.
+המלך יקבע בהרכב מועצת השרים את הרכב יחידת התיאום המנהלית.
 
-סעיף 15 מתוך Administratieve coördinatiecel heeft de volgende Opdrach-ten:
+סעיף 15. ליחידת התיאום המנהלית משימות אלה:
 
-1° דה דלת דה Bevoegde Openbare Diensten en overheden gevoerde Acties coördineren;
+1° לתאם את הפעולות המתבצעות על ידי השירותים והרשויות המוסמכות;
 
-2 - De evolutie van de Onwettige praktijken van de schadelijke sektarische Organizas Onderzoeken;
+2° לחקור את התפתחותן של הפרקטיקות הבלתי־חוקיות של הארגונים הכתתיים המזיקים;
 
-3° 3° mitgelen voorstellen Die van aard zijn om de coördinatie en de de אפקטivite van deze acties te verhogen;
+3° להציע אמצעים שנועדו להגביר את התיאום ואת היעילות של פעולות אלה;
 
-4° In Overleg נפגשו דה Bevoegde Diensten en Bestruren een מונעie-beleid voor de burgers tegen de Activitéeiten van de schadelijke sektarische איברים, bevorderen;
+4° לקדם, בהתייעצות עם השירותים והרשויות המוסמכות, מדיניות מניעה לאזרחים מפני פעילויות הארגונים הכתתיים המזיקים;
 
-5° Een nauwe אותו-nwerking פגש את Het Como bouwen en de nodige maatregelen treffen Teneinde de aanbevelingen en voorstellen van Hetoku uit voeren.
+5° לבסס שיתוף פעולה הדוק עם המרכז ולנקוט את הצעדים הדרושים ליישום ההמלצות וההצעות של המרכז.
 
 ---
 
 (עמוד 8)
 
-סעיף 16 מ-Koning bepaalt de Modaliteiten inzake de Werking en de Organizatie van de Administratieve coi:irdinatiecel bij een in Mmister קונדגן דזה רטוב, bevelen dat zij פגש את "לנדs zegel zal worden bekleed en הדלת het Bclgisch Staatsbl zal worden bekendgemaakt.
+סעיף 16. המלך יקבע בהרכב מועצת השרים את האופן שבו תפעל ותאורגן יחידת התיאום המנהלית.  
+החוק יוכרז, מזומנת לו חותמת המדינה וינפרסם בגזיטא הבלגית.
 
-Gegeven te Brussel, 2 ג'וני 1998.
+נחתם בבריסל, 2 ביוני 1998.
 
-אלברט ואן קונינגסנג: דה שר ואן טוטיי, אנגלית: VAN PARYS Met 's Lands zegel gezegeld: De השר ואן Justitie, אנגלית: VAN PARYS Note
+אלברט  
+מתוקף המלוכה:  
+שר המשפטים,  
+T. VAN PARYS  
+חותם במדינתנו: שר המשפטים,  
+T. VAN PARYS
 
-(ג'ון זיטינג 1996-1997)
+הערה
 
-Kamer van Volksvertegenwoordigers הפרלמנט ההונגרי. - Wetsvoorstel van de Heer Duquesne, nr. 1198/1.-Amendmenten, nrs. 1198/2 tot 7. - דלת אנגנומן של הוועדה, nr. 1198/99. - tekst aangenomen in plenga verdering en overge overge overge Overgeen en Overgeer הפרלמנטרי Handelingen - Bespreking Vergadering van 22 באפריל 1998. - קנאה Vergadering van 28 באפריל 1998. סאנט. הפרלמנט ההונגרי. - Ontwerp Overgezonden Door de Kamer van Volksvertegenwoordigers, nr. 1-965/1-1998. Ontwerp Niet geëvo-cerd Door de Senaat, nr. 1-965/2/1997-1998.
+(1) מושב רגיל 1996–1997.
+
+בית הנבחרים.  
+מסמכים פרלמנטריים. — הצעת חוק של מר דוקסן, מס' 1198/1. — תיקונים, מס' 1198/2 עד 7. — דוח של מר וילמס, מס' 1198/8. — נוסח שאומץ בוועדה, מס' 1198/9. — נוסח שאומץ במושב מליאה ונדון בסנאט, מס' 1198/10.  
+פרוטוקולים פרלמנטריים. — דיון. ישיבה מיום 22 אפריל 1998. — קבלה. ישיבה מיום 28 אפריל 1998.  
+סנאט.  
+מסמכים פרלמנטריים. — פרויקט ששלח בית הנבחרים, מס' 1‑965/1‑1997‑1998. פרויקט שלא נדון בסנאט, מס' 1‑965/2‑1997‑1998.
 
 ---
 
 (עמוד 9)
 
-## PART II
+## חלק II
 
-צו מלכותי של 8 בנובמבר 1998 הקמת ההרכבה, התפעול והארגון של היחידה המנהלית לתיאום המאבק נגד הארגונים הרודניים (Moniteur belge, 9 בדצמבר 1998)
+צו מלכותי מ־8 בנובמבר 1998 הקובע את הרכב, תפקוד וארגון יחידת התיאום המנהלית למאבק נגד ארגונים כתתיים מזיקים (המוניטור הבלגי של 9 בדצמבר 1998)
 
 ---
 
 (עמוד 10)
 
-### WeTTEN, DECRETEN, REGULATION
+### חוקים, צווים, תקנות ותקנונים
 
-תגית: VAN JUSTITIE
+משרד המשפטים
 
-N. 98 - 3277 \[S-C-98/09981\] 8 NOVזוכר 1998 - Koninklijk besluit houdende אותםnstelling, werking en Organisatie van de Administratieve Coo americainatiecel inzake de strijd tegen schadelijke sektarische Organisas.
+מס' 98 — 3277 [S−C−98/09981] 8 נובמבר 1998. — צו מלכותי הקובע את הרכב, תפקוד וארגון יחידת התיאום המנהלית למאבק נגד ארגונים כתתיים מזיקים.
 
-אלברט השני, קונינג דר בלגי, Aan allen Die nu zijn en Hierna wezen zullen, Eleven Groet.
+אלברט השני, מלך הבלגים, לכל הנמצאים וכאלה שיהיו, דברי ברכה מאתנו.
 
-Gelet de רטוב ואן 2 ג'וני 1998 Houdende richting van een Informatie- en Adviescentrum inzake schadelijke sektarische s en Houdende richting van een Administratieve Coo americainatiecel inzake de strijd strijd tegenschasdele sekstarischesאורגן; Gelet Op het advies van de Inspector van Financie , gegeven 5 בספטמבר 1998; Gelet de Wetten van de Raad van State, gecoo ́rdineerd Op 12 Januari 1973, Inzonderheid Op artikel 3, § 1, gewijzigd bij de Wetten van 9 augustus 1980, 16 Juni 1989, 4 Juli 1989 ב 4 asugutus 1996; שם הסרטון: Gelet de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast met de beledsvorming ter Bestrijding van de sekten en van de gevaren van Die sekten voor het individging en inonderheid vot de Minderjari-gen, de Coinge noodzaak de s op op op op op rum rum , , , , , , , , , , , , , Overwegende dat de schadelijke en sektarische Organizas en van een Informatie-en Adviescentrum inzake de schadelijke en sektarische Organizaties en van een administieve coo ,inatiecel Ondercastend Werd Door de Werd de Werd de Werd de Werd Door de Werd de Werd de Werd de Werd Door de Werd de Werd de Werd de Werd de sektarisches
+לאחר התייחסות לחוק מ־2 ביוני 1998 הקובע הקמת מרכז מידע והייעוץ בנוגע לארגונים כתתיים מזיקים ולהקמת יחידת תיאום מנהלית למאבק נגד ארגונים כתתיים מזיקים;  
+לאחר קבלת חוות דעת מפקח האוצר, שניתנה ב־10 בספטמבר 1998;  
+לאחר התייחסות לחוקי מועצת המדינה המתואמים מ־12 בינואר 1973, ובפרט לסעיף 3, § 1, כפי שתוקן בחוקים מ־9 באוגוסט 1980, 16 ביוני 1989, 4 ביולי 1989 ו־4 באוגוסט 1996;  
+לאחר שיקול הדחיפות;  
+על יסוד העובדה שוועדת החקירה הפרלמנטרית המוטלת עליה המשימה לעצב מדיניות למאבק בכתות ובסכנותיהן לפרט ובייחוד לקטינים, הצביעה על הצורך הדחוף בהקמת מרכז מידע והייעוץ וביחידת תיאום מנהלית, במטרה לאפשר יצירת גופים אלה במהירות האפשרית לצורך מעקב אחר התופעה;  
+לאחר שהתברר שהחוק להקמת מרכז מידע והייעוץ ויחידת התיאום המנהלית נחתם על ידי המלך ב־2 ביוני 1998 וכי יש לפרסם את החוק והצווי היישום במהירות, כדי לאפשר למרכז וליחידה להתחיל במילוי משימותיהם החל מ־1 בינואר 1999;  
+על פי הצעת שר המשפטים ועם חוות דעת השרים שהתכנסו במועצה,
 
----
+החלטנו ומחליטים:
 
-(עמוד 11)
+### פרק I. — הרכב יחידת התיאום המנהלית
 
-קונלינג 2 ג'וני 1998 dat het derhalve aanbeveling verdient dat דה רטוב en de uitvoeringsbesluiten zo snel Mogel diijk worden gePubliceerd, Teneinde Het Informatie- en Adviescent en de Administratieve Co , Jardinacel in te te te te te st h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h h אופוס דה voordracht Eleven השר ואן Justitie en Ot advies van Eleven ב Raad vergaderde שרים,
+סעיף 1. יחידת התיאום המנהלית שהוקמה לפי סעיף 13 של חוק מ־2 ביוני 1998 מורכבת כדלקמן:
 
-Hebben Wij besloten ensluiten Wij:
+- נציג של מועצת התובעים הכללית;
+- שופט ברמה לאומית;
+- נציג של המשמר הלאומי;
+- נציג של המשטרה הפלילית;
+- נציג של המשטרה הארצית הכללית של משרד הפנים;
 
-### HOOFDSTUK I - Samenstelling van de Administratieve Coo americainatiecel
+- נציג של משרד המנהל הציבורי (משרדי עובדי הציבור);
+- נציג של רשות ביטחון המדינה;
+- נציג של המנהל הכללי לחקיקה אזרחית ופולחנים של משרד המשפטים;
+- נציג של המנהל הכללי לחקיקה פלילית וזכויות האדם של משרד המשפטים;
+- נציג של שירות המדיניות הפלילית של משרד המשפטים;
 
-Artikel 1. De bij artikel 13 ואן דה רטוב ואן 2 ג'וני 1998 opricht Administratieve coo rdinatiecel הוא als wgt אותוngesteld:
+- נציג של משרד הפנים;
+- נציג של משרד האוצר;
+- נציג של משרד התעסוקה והעבודה;
 
--   ראו vertgenwoordiger van Het College van Attorney General;
--   שם מקור: Nationaal magistraat;
--   ראו vertgenwoordiger van de Rijkswacht;
--   ראו vertgenwoordiger van de Gerechtelijke politice;
--   ראו vertgenwoordiger van de Algemene Rijkspolitics
+- נציג של משרד ההגנה.
 
-המשרד ואן Binnenlandse Zaken
+סעיף 2. לכל נציג ימונה גם ממלא מקום.
 
--   ראו vertgenwoordiger van Hetשרie van Ambtenarenzaken;
--   ראו vertgenwoordiger van Het Bestuur Veiligheid van de Staat;
--   ראו vertgenwoordiger van Het Directoraat- General burgerlijke
+סעיף 3. הנציגים וממלאי מקומם ימונו על ידי שר המשפטים, לאחר הצעה מהרשויות מהן הם תלויים.
 
-Wetgeving en erediensten van Het השרי ואן Justitie;
+### פרק II. — פעילות יחידת התיאום המנהלית
 
--   ראו vertgenwoordiger van Het Directoraat- General strafwetgeving en rechten van de Mens van Hetשרi;
-    
--   ראו vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van Hetשרie van Justitie;
-    
--   ראו vertgenwoordiger van Hetשרie van Binnenlandse Zaken;
-    
--   ראו vertgenwoordiger van Hetשרie van Financien;
-    
--   שם הסרטון: vertgenwoordiger van Het Sarahie van Tewerkstelling
-    
+סעיף 4. היושב־ראש קובע את מקום, את היום ואת שעת תחילת הישיבות ומנסח את סדר היום. לכל אחד מהחברים הזכות לבקש מהיושב־ראש להכניס נקודות לסדר היום. יושב־ראש מרכז המידע והייעוץ בענייני ארגונים כתתיים מזיקים זכאי אף הוא לבקש מהיושב־ראש להכניס נקודות לסדר היום.
 
-ערש;
+סעיף 5. אלא אם כן מדובר בדחיפות, ההזמנות וסדרי היום וכן המסמכים, לאחר חתימת היושב־ראש, יישלחו על־ידי המזכיר לפחות שמונה ימים מראש לחברים.
 
--   ראו vertgenwoordiger van Hetשרie van Landsverdediging. סעיף 2. Voor elke vertgenwoordiger Wordt tevens plaatsvervan-ger aangeduid.
+סעיף 6. חברים שמונעים מלהתייצב מוחלפים על־ידי ממלאי מקומם והם אלה ששולחים להם בעצמם את המסמכים.
 
-סעיף 3. from vertgenwoordigers to hun plaatsvervangers Worden aangesteld הדלת על ידי השר ואן Justitie, דלת voordracht de Honoureve overheden van wie zij afhangen.
+סעיף 7. יחידת התיאום המנהלית מתכנסת בתוקף רק אם לפחות מחצית מהחברים או ממלאי מקומם נוכחים. אם לא הושגה רוב נוכחים, יוזמנו החברים שנית, ובפעם השנייה תיחשב הישיבה לתקפה ללא תלות במספר הנוכחים.
 
-### HOOFDSTUK II - Werking van de Administratieve Coo americainatiecel
+סעיף 8. לכל חבר ביחידת התיאום המנהלית, ובמקרה שממלא מקומו נוכח – גם לו, יש קול אחד. ההחלטות מתקבלות פה אחד של החברים הנוכחים.
+יושב־ראש מרכז המידע והייעוץ בנוגע לארגונים כתתיים מזיקים או ממלא מקומו יכול:
 
-סעיף 4 דה voorzitter bepaalt de plaats, de dag en het aanvangsuur ואן דה vergaderingen en maakt de סדר היום. Elk van De הובילen heeft reht de voorzitter te vragen punten או de Agenda te plaatsen. דה voorzitter ואן Het Informatie- en Adviescentrum inzake schade-lijke sektarisches heeft Eveneens het recht de voorzitter te verzoeken punten de סדר היום te te plaatsen.
-
-סעיף 5 Behoudens hoogdingendheid Worden de uitnodigingen en de סדר היום אפילו בסופו של דבר stukken, na ondercasting הדלת דה voorzitter, דלת de secretaris 10 דקות acht dagen vooraf aan de הוביל toegezonden.
-
-סעיף 6.De הובילen Die verhinderd zijn, Worden vervangen הדלת hun plaatsvervanger en sturen hem zelf de stukken הדלת.
-
-סעיף 7. De Administratieve Coo èrdinatiecel vergadert סלפטים ג'לדיג אינדיאני 10 Minste de helft van de הובילen של hun plaatsvergers aanwezig הוא. Ingeval geen meerderheid aanwezig היה, Worden de הוביל את האופין uitgenodigd, in Welk geval de Administratieve Coo americainatiecelig verga vergadert, wt נראה het aantal aanwezige הובילen הוא.
-
-סעיף 8. Elk Lid van de Administratieve Coo americainatiecel, in bij verhin-dering zijn plaatsvervanger, beschikt over een. De beslisingen worden bij unanimititeit van de ananwezige הוביל גנום. De voorzitter van Het Informatie- en Adviescentrum inzake schade-lijke sektarisches of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen ואן דה Administratieve Coo americainatiecel bij te winen;
--   המילה ההודית של סדר היום אומרת אמת.
+- להיות מוזמן להשתתף בישיבות יחידת התיאום המנהלית;
+- להישמע כאשר סדר היום מחייב זאת.
 
 ---
 
 (עמוד 12)
 
-סעיף 9: De secretaris maakt Proces-verbaal van de vergaderingen. Het wordt na goedkeuring הדלת דה voorzitter פגש דה נדנדה uitnodiging meegestuurd.
+סעיף 9. המזכיר מנפיק פרוטוקול של הוועידות. הפרוטוקול נשלח עם ההזמנה הבאה לאחר אישורו על־ידי היושב־ראש.
 
-דה הובילן brengen hun conmerkingen schriftelijk ter kennis tot uiterlijk ee 'n dag voor de vergadering.
+החברים מעלים את הערותיהם בכתב לכל המאוחר יום אחד לפני הישיבה.
 
-סעיף 10 De adviezen en aanbevelingen Die hetoku toepassing van Artikel 6, § 1, 4° ואן דה רטוב 2 ג'וני 1998 uitbrengt, Worden דלת hetokuan de voorzitter ואן דה Administratieve Coo ânceltieceltie Overgezonden.
+סעיף 10. חוות הדעת וההמלצות שהמרכז מנפיק בהתאם לסעיף 6, § 1, 4° לחוק מ־2 ביוני 1998 יועברו על ידי המרכז ליושב־ראש יחידת התיאום המנהלית.
 
-דה Administratieve Coo americainatiecel סטאט ב overleg פגש את Hetoku עצום דה wijze ואן:
+יחידת התיאום המנהלית מצביעה, בהתייעצות עם המרכז, על האופן הבא:
 
--   Coordinatie van Acties
--   Regeling van het toezicht או de uitvoering van de aanbevelingen en adviezen van Het voor Zover ze onder hun bevoegdheden vallen.
+- תיאום פעולות אפשריות;
+- הסדרת המעקב אחר יישום המלצות וחוות הדעת של המרכז ככל שהן בתחום סמכויותיה.
 
-סעיף 11 De maatregelen Die de Administratieve Coo americainatiecel voorstelt, Worden schriftelijk aan de betrokken Diensten of minuteies, Evenals aan de voorzitter ואן hetoku meegedeeld.
+סעיף 11. האמצעים שיחידת התיאום המנהלית מציעה יידעו בכתב לשירותים או הגופים המעורבים וכן ליושב־ראש המרכז.
 
-סעיף 12 דה Administratieve Coo americainatiecel pleegt Overegt פגש את Alle bevoegde Diensten en Bestruren binnen het kader van zijn Opdrachten. Z kan ze Onder meer uitnodigen en Hen inlichtingen vragen. של הפדרלי overheden Dienen de Door de Administratieve Coo americainatiecel gevraagde inlichtingen te bezorgen.
+סעיף 12. יחידת התיאום המנהלית מנהלת התייעצויות עם כל השירותים והרשויות המוסמכות במסגרת משימותיה. היא רשאית בין היתר לזמן אותם ולבקש מהם מידע. הרשויות הפדרליות חייבות לספק את המידע הנדרש על ידי יחידת התיאום המנהלית.
 
-סעיף 13 דה Administratieve Coo americainatiecel vergadert Minstens eenmaal de twee maanden.
+סעיף 13. יחידת התיאום המנהלית מתכנסת לפחות פעם בחודשיים.
 
-מתוך Administratieve Coo americainatiecel bengt zesmaandelijks לעומת uit aan hetoku nopens haar Werkzaamheden.
+יחידת התיאום המנהלית תגיש דו״ח חצי שנתי למרכז על פעולותיה.
 
-### HOOFDSTUK III
+### פרק III. — ארגון
 
-סעיף 14 אלן הוביל את ואן דה Administratieve Coo,rdinatiecel vormen Het 2Office2. Het 2Office2 wijst een dagelijks Bestuur aan, אותוngesteld uit de voorzitter Die er van uitmaakt en twee gekozen הובילen.
+סעיף 14. כל חברי יחידת התיאום המנהלית מהווים את ה״בְּיוּרוֹ״. ה״בְּיוּרוֹ״ ממנה הנהלה יומית, המורכבת מהיושב־ראש (שמחויב לקחת חלק בה כזכות משרה) ושני חברים הנבחרים.
 
-סעיף 15 דה Administratieve Coo americainatiecel kan wanneer bijzondere Opdrachten dit verantwoorden subgroepen binnen haar schoot glorich.
+סעיף 15. יחידת התיאום המנהלית רשאית, כאשר משימות מיוחדות מחייבות זאת, להקים תתי־קבוצות בתוך מסגרתה.
 
-סעיף 16 דה השר ואן Justitie stelt administief Personeel, lokalen en de noodzakelijke Bureaubenogedheden ter beschikking van de Administratieve Coo americainatiecel.
+סעיף 16. שר המשפטים יספק לצורך פעילות יחידת התיאום המנהלית צוות מנהלי, משרדים וחומרי מִנהל נדרשים.
 
-סעיף 17 דה Artikelen 1 tot en פגש 3 treden in werking op de dag warop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 Januari 1999.
+סעיף 17. הסעיפים 1 עד 3 יכנסו לתוקף ביום פרסום צו זה בגזיטא הבלגית, ושאר הסעיפים יכנסו לתוקף ב־1 בינואר 1999.
 
-סעיף 18 11 השר ואן Justitie הוא יפה נפגשו דה יוכוורינג ואן דיוטי.
+סעיף 18. שר המשפטים מופקד על ביצוע צו זה.
 
-Gegeven te Brussel, 8 בנובמבר 1998.
+ניתן בבריסל, 8 בנובמבר 1998.
 
-אלבר ואן קונינגסנג: דה שר ואן דייטי, אנגלית: VAN PARYS
+אלברט  
+מתוקף המלוכה: שר המשפטים,  
+T. VAN PARYS
 
 ---
 
 (עמוד 13)
 
-## PART III
+## חלק III
 
 ---
 
 (עמוד 14)
 
-## ReELEVANT PALLIAMENTS
+## רישום המסמכים הפרלמנטריים והרשומות
 
-### שם מקור: The PAILIAMENT COMMITTEE
+### א. הקמת ועדת החקירה הפרלמנטרית
 
--   מסמכים של בית הנבחרים:
-    -   313 (1995-1996)
-        -   מס' 1: הצעה מאת מר דוקסנה ואל.
-        -   2 עד 4: תיקונים מאת מר דוקסין ומר מוסו וגברת דה טיסרקלאס
-        -   לא דיווח של מר בורין מטעם הוועדה לצדק
-        -   אין 6 הודעות שאומץ על ידי הוועדה לצדק.
-    -   בית הנבחרים
-        -   13 ו-28 במרץ 1996
+- מסמכי בית הנבחרים :  
+  - 313 (1995‑1996)  
+    - מס' 1 : הצעה של מר דוקסן ושותפיו  
+    - מס' 2 עד 4 : תיקונים של מר דוקסן ומר מורו וגברת דה ט'סרקלס  
+    - מס' 5 דוח שהוכן בשם ועדת המשפט על ידי מר בורין  
+    - מס' 6 נוסח שאומץ על ידי ועדת המשפט.  
+  - פרוטוקולים של בית הנבחרים  
+    - 13, 14 ו־28 במרץ 1996.
 
-### עבודה משותפת
+### ב. עבודת ועדת החקירה הפרלמנטרית
 
--   מסמכים של בית הנבחרים:
-    -   313 (1995-1996)
-        -   דו"ח מס' 7 ו-8 עלה מטעם הוועדה על ידי מסרס. Duquesne ו-Willems
-        -   No. 9 Motion אומץ בפגישה חגיגית
-    -   בית הנבחרים
-        -   30 באפריל ו-7 במאי 1997
+- מסמכי בית הנבחרים :  
+  - 313 (1995‑1996)  
+    - מס' 7 ו־8 דוח שהוכן בשם הוועדה על ידי מר דוקסן ומר וילמס  
+    - מס' 9 הצעה שאומצה במושב מליאה  
+  - פרוטוקולים של בית הנבחרים  
+    - 30 באפריל ו־7 במאי 1997.
 
-### C. ACT OF 2 JUNE 1998
+### ג. חוק מ־2 ביוני 1998
 
--   מסמכים של בית הנבחרים
-    -   1198 (1996-1997)
-        -   לא. הצעה מאת מר דוקסין
-        -   2 עד 7: תיקונים של מסרס J.-P Viseur, Duquesne, Beaufays, Willems והממשלה
-        -   לא 8: דיווח של וילמס מטעם הוועדה לצדק
-        -   לא 9: טקסט שהתקבל על ידי הוועדה לצדק
-        -   10: טקסט מאומצ בפגישה חגיגית ועבר לסנאט.
-    -   בית הנבחרים
-        -   22 באפריל 1998
--   מסמכי הסנאט
-    -   1-965 (1997-1998)
-        -   לא.1 דראף הועבר על ידי בית הנבחרים
-        -   פרויקט 2 לא התייחס לסנאט.
+- מסמכי בית הנבחרים  
+  - 1198 (1996‑1997)  
+    - מס' 1 : הצעה של מר דוקסן  
+    - מס' 2 עד 7 : תיקונים של מרים J.-P. Viseur, Duquesne, Beaufays, Willems והממשלה  
+    - מס' 8 : דוח שהוכן בשם ועדת המשפט על ידי מר וילמס  
+    - מס' 9 : נוסח שאומץ על ידי ועדת המשפט  
+    - מס' 10 : נוסח שאומץ במושב מליאה והועבר לסנאט.  
+  - פרוטוקולים של בית הנבחרים  
+    - 22 ו־28 אפריל 1998  
+- מסמכי הסנאט  
+  - 1‑965 (1997‑1998)  
+    - מס' 1 טיוטה שהועברה על ידי בית הנבחרים  
+    - מס' 2 טיוטה שלא נדונה בסנאט.

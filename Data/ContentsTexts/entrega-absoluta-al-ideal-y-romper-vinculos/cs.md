@@ -1,25 +1,25 @@
-## Absolutní dodání do ideální a lámání odkazy na vnější
+## Naprosté odevzdání ideálu a přerušení vazeb s vnějškem
 
-Každý den, každá hodina, která uplyne, každá minuta, která uplyne, ji musíš věnovat Akropolis. Každý den musíme pracovat pro Akropolis, a pokusit se udělat člena, vložit plakáty, provádět všechny potřebné práce překlady, výměn, které nám umožní mít více a více bratrů, více rukou spojených, více zbraní vysoko, že ukazuje na horizont.
+Každý den, každou hodinu, každou minutu musíš věnovat zcela Nové Akropolis. Každý den musíme pracovat pro Novou Akropolis a snažit se získat člena, lepit plakáty, vykonávat všechny potřebné práce překladů a výměn, které nám umožní mít stále více bratrů, více spojených rukou, více vztyčených paží, které ukazují k horizontu.
 
-> Bastion č. 60-1: Nový rok zprávy od GM. JAL. Leden 1982. Jorge Ángel Livraga
-
----
-
-V našem hnutí vás nežádáme o to, abyste byli anakoreta, ale začíná to lámat zbytečné řetězy s přáteli a přáteli, kteří se neúčastní vašeho ideálu, i když to vědí, a se všemi, ať už je to kdokoliv, aby se stavěli proti vašemu současnému duchovnímu vidění, protože zachování těchto starých vztahů ublíží vám a těm lidem, kteří se ještě neprobudili jako filozofové, kteří by se za Tebe styděli nebo se zesměšnili tím, co máš z nejsvatějšího: Tvého Akropolisu Ideální.
-
-> Bastion č. 30: Některé praktické tipy pro nové Acropolis. Únor 1979. Jorge Ángel Livraga
+> Bastión č. 60-1: Novoroční poselství MM. JAL. Leden 1982. Jorge Ángel Livraga
 
 ---
 
-Musíme se vyhnout psychologické pasti "Kamamány", abychom cítili čas věnovaný Nové Akropolis jako něco "odtrženého" v našich životech. Pravda je pravý opak; jediné užitečné hodiny naší současné inkarnace jsou ty, které jsou zasvěcené ideálu. Všechno ostatní je prach, který vítr života má na starosti šíření.
+V našem Hnutí od tebe nežádáme, abys byl anachoret, ale začni přerušovat zbytečné řetězy s přáteli a přítelkyněmi, kteří se nepodílejí na tvém ideálu, přestože ho znají, a se všemi osobami, ať už kýmkoli jsou, které se staví proti tvému současnému duchovnímu vidění; protože udržování těchto starých vztahů uškodí tobě i těmto lidem, kteří se ještě neprobudili jako filozofové; kteří by se za tebe styděli nebo by se posmívali tomu, co máš nejsvatějšího: tvému akropolitnímu ideálu.
 
-> Bastion č. 63-3: Jak používat čas. Květen 1982. Jorge Ángel Livraga
+> Bastión č. 30: Několik praktických rad pro nové akropolisty. Únor 1979. Jorge Ángel Livraga
 
 ---
 
-Myšlenka, že musíte být "připraveni" tvořit učedníky, by se neměla omezovat na intelektuální, dokonce kulturní přípravu. To je více stojí za odhodlané a budíček-up vůle, která umožňuje skutečnou dohodu s NATURALEZA a bohů... Čas "encyklopedismu" skončil!
+Musíme se vyvarovat psychologické pasti nastražené "Kama-manas", která vede k pocitu, že čas věnovaný Nové Akropolis je něco "odtrženého" od našich životů. Pravda je pravý opak; jediné užitečné hodiny naší současné inkarnace jsou ty, které jsou zasvěceny ideálu. Všechno ostatní je prach, který vítr života roznáší.
 
-A pokud existují "staří učedníci", kteří tomu nerozumí, musíme je přesunout do Centra a dát jim vědeckou práci, ponechanou první linii, sbírku a obranu ideálu ostatním mladším v srdci, více "agresivní" a silnější. Potřebujeme v "řezných hranách" Impéria, kteří jsou plně obdařeni ideálními, jednoduchými a jasnými myšlenkami, přirozenou vzestupnou silou, které nedělají žádné větší problémy vůbec.
+> Bastión č. 63-3: Jak využít čas. Květen 1982. Jorge Ángel Livraga
 
-> Velení č. 26: Vztah NM a učedníků. Jorge Ángel Livraga
+---
+
+Myslet si, že je třeba být "připraven" k formování učedníků, by se nemělo omezovat na intelektuální, ba ani na kulturní přípravu. Více stojí odhodlaná a probuzená vůle, která umožní SKUTEČNÝ KONTAKT S PŘÍRODOU A S BOHY… Éra "encyklopedismu" je už pryč!
+
+A pokud jsou "staří učedníci", kteří tomu nerozumějí, je třeba je přesunout do Centra a svěřit jim školské práce, ponechávaje práce první linie, získávání a obrana ideálu, jiným mladším v srdci, více "agresivním" a energickým. Potřebujeme na "řezných hranách" Impéria osoby zcela odevzdané ideálu, s jednoduchými a jasnými myšlenkami, s přirozenou vzestupnou silou, které si z ničeho nedělají větší starosti.
+
+> Velení č. 26: Vztah MN a učedníků. Jorge Ángel Livraga

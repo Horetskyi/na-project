@@ -1,336 +1,361 @@
-(Strana 1)
+(Snemovňa zástupcov Belgicka) (Strana 1)
 
-## PARLAMENTNÉ PRIESKUM
+## PARLAMENTNÝ PRIESKUM
 
-vypracovať politiku boja proti nezákonným praktikám sekt a nebezpečenstvu, ktoré predstavujú pre spoločnosť a jednotlivcov, najmä maloletých
+s cieľom vypracovať politiku boja proti nezákonným praktikám sekt a nebezpečenstvu, ktoré predstavujú pre spoločnosť a pre osoby, predovšetkým maloletých
 
 ---
 
-(strana 2)
+(Strana 2)
 
 ## OBSAH
 
--   Časť I zákona z 2. júna 1998, ktorým sa zriaďuje Informačné a marketingové centrum pre škodlivé sektárske organizácie a oddelenie administratívnej koordinácie pre boj proti škodlivým sektárskym organizáciám (Moniteur belge, 25. novembra 1998)
--   ČASŤ I Kráľovský dekrét z 8. novembra 1998, ktorým sa ustanovuje zloženie, prevádzka a organizácia správnej jednotky pre koordináciu boja proti škodlivým sektárskym organizáciám (Moniteur belge, 9. december 1998)
--   ČASŤ III Vyhlásenie Parlamentu a ročné dokumenty
--   ČASŤ IV Správa vypracovaná v mene parlamentného vyšetrovacieho výboru pánom. Duquesne a Willems
--   ČASŤ V Návrh prijatý v pléne.
+- PART I Zákon z 2. júna 1998, ktorým sa zriaďuje Centrum informácií a poradenstva o škodlivých sektárskych organizáciách a Administratívna koordinačná bunka pre boj proti škodlivým sektárskym organizáciám (Belgický vestník zo 25. novembra 1998)
+- PART II Kráľovské nariadenie z 8. novembra 1998, ktorým sa upravuje zloženie, fungovanie a organizácia Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám (Belgický vestník zo 9. decembra 1998)
+- PART III Prehľad parlamentných dokumentov a zápisníc
+- PART IV Správa vypracovaná v mene parlamentného vyšetrovacieho výboru pánmi Duquesne a Willems
+- PART V Návrh prijatý na plenárnom zasadnutí.
 
 ---
 
-(strana 3)
+(Strana 3)
 
-Zákon z 2. júna 1998, ktorým sa zriaďuje Informačné a marketingové centrum pre škodlivé sektárske organizácie a oddelenie administratívnej koordinácie na boj proti škodlivým sektárskym organizáciám (Moniteur belge, 25. november 1998)
-
----
-
-(strana 4)
-
-## BELGISCH STATSBLAD
-
-Prijs van een jaarScription: Belgicko: F 4,260; Buitenland: F 17,283. Prijs per nummer: F 10 per vel van acht bladzijden. Voor predplatné en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
-
-168\. JAARGANG
-
-WOENSDAG 25 NOVEMBRA 1998
-
-Ministerie van Justitie
-
-Wet van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirrustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+Zákon z 2. júna 1998, ktorým sa zriaďuje Centrum informácií a poradenstva o škodlivých sektárskych organizáciách a Administratívna koordinačná bunka pre boj proti škodlivým sektárskym organizáciám (Belgický vestník zo 25. novembra 1998)
 
 ---
 
-(strana 5)
+(Strana 4)
 
-### DÔCHODOK VAN JUSTITIE
+## BELGICKÝ ÚRADNÝ VESTNÍK
 
-2 JUNI 1998.
+Cena ročného predplatného:
+Belgicko: F 4 260; zahraničie: F 17 283.
+Cena za číslo: F 10 za list o ôsmich stranách. Pre predplatné a pre predaj jednotlivých čísel sa môžete obrátiť na Správu Belgického úradného vestníka, Leuvenseweg 40-42, 1000 Brusel.
+Telefón 02'552 22 11.
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Jedenásť Groet.
+168. ROČNÍK
 
-Od Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
+STREDA 25. NOVEMBER 1998
 
-### HOOFDSTUK I.
+Ministerstvo spravodlivosti
 
-Artikel 1. Deze wet regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
-
-Článok 2. Voor de toepassing van onderhavige wet wordt onder schhalelijke sektarische organiatie verstaan, elke greepering met een levensbeschouwalijk of godsdienstig doel, of die zich als dasdanig voordoet en die zich in haar organiatie of praktijken, overgeeft aan schadelijke onwettige activiten, het individual of samenleving schaadt of de menselijke waardigheid aantast.
-
-Het schadelijk karakter van een sektarische organizatie wordt onderzocht op base van de principles welke zijn vastgelegd in de Grondwet, de wetten, de decreten, commandies en in de internationale verdragen inzake de bescherming van de rechten van de mens welke door België werden geratificeeeerd.
-
-### HOOFDSTUK II.
-
-Art. 3. Bij het Ministry van Justitie wordt een onafhankelijk centrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties," hierna Centrum geneamd. De zetel van het Centrum is gevestigd in het administrationtief arrondissement
-
-Článok 4. ods. 1. Het Centrum bestaat uit twaalf over leden en twaalf plaatsvervangende leden die met een tweederde meerderheid door de Kamer van volksvertegenwoordigers worden aangewezen. Zes road leden en zes plaatsvervangende leden worden aangewezen op voor-dracht van de Ministerraad en voor elk van de te begeven ambten worden twee kandidaten vogedragen. Zowel voor de rechtstreeks door de Kamer als voor de op de voordracht van de Ministerraad aangewezen leden wordt de taalpari-teit tussen de Nederlandstalige en de Franstalige leden gewaarborgd. Ten minste een bast lid en een plaatsvervangend lid kennen Duits.
-
-De Kamer van volksvertegenwoordigers kiest uit de vast leden de voorzitter en de plaatsvervangende voorzitter.
-
-§2. De leden worden aangesteld voor een termijn van vier jaar, eenmaal hernieuwbaar, uit de excelencia persoonlijkheden die bekend staan omwille van hun kennis, ervaring en hun interest voor de problemmatiek van de schadelijke sektarische greeperingen. Zij dién alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en in een geest van objectiviteit en onpartijdigheid te kunnen uitoefenen. Od rozľahlých až po plaatsvervangende leden kunnen van hun mandatat ontheven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun prichten de waardigheid van hun functie in het gedrang brengen.
-
-§3. Om als overload of waarnemend lid te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen:
-
-1° de burgerlijke en zdvorile rechten genieten;
-
-2° geen lid zijn van het Europees Parliament of van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Gemeenschaps- of Gewestregering.
+Zákon zo 2. júna 1998 o zriadení Informačného a poradného centra pre škodlivé sektárske organizácie a Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám, str. 3782-t
 
 ---
 
-(strana 6)
+(Strana 5)
 
-§4. Het is de leden van het Centrum verboden aanwezig te zijn bij de beraadslagingen over onderwerpen indian zij hierbij een persoonlijk of rechststreeks belang hebben of waarbij hun bloed- of aanverwanten tot de vierde grad een persoonlijk of rechtstreeks belang hebben.
+### MINISTERSTVO SPRAVODLIVOSTI
 
-§ 5. Wanner een obrovský vek verhindard afwezig je, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend lid waarvan het mandatat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde procedure vervangen door een vaset of een plaatsvervangend lid da voor de rest van de termijn wordt aangewezen. De Koning stelt de modaliteiten inzake de vergoeding van de leden van het Centrum obrovský.
+2. JÚN 1998. — Zákon o zriadení Informačného a poradného centra pre škodlivé sektárske organizácie a Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám (1)
 
-Článok 5. Het Centrum stelt zijn huishoudelijk nariadenie op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+ALBERT II, kráľ Belgov, Všetkým, ktorí sú teraz a ktorí budú, náš pozdrav.
 
-§ 6 ods. 1 Het Centrum sa nachádza na druhom mieste:
+Komory prijali a my schvaľujeme toto:
 
-1° het verschijnsel van schadelijke sektarische organizanies in België en hun international bindingen bestuderen;
+### KAPITOLA I. — Úvodné ustanovenia
 
-2° een voor het publiek toegankelijk documentatiecentrum organizen;
+Článok 1. Tento zákon upravuje záležitosť podľa článku 78 Ústavy.
 
-3° zorgen voor het onthaal en de informatie van het publiek en ieder persoon die een vraag tot het Centrum richt, inlichten over zijn rechten en plichten en over de wijze waaarop hij zijn rechten kan laten gelden;
+Čl. 2. Pre účely tohto zákona sa pod pojmom škodlivá sektárska organizácia rozumie každé združenie s filozofickým alebo náboženským cieľom, alebo ktoré sa ako také prezentuje, a ktoré sa vo svojej organizácii alebo praktikách uchyľuje k škodlivým nezákonným činnostiam, poškodzujúcim jednotlivca alebo spoločnosť alebo narušujúcim ľudskú dôstojnosť.
 
-4° hetzij uit eigen beweging, hetzij op verzoek van elk openbaar bestuur, adviezen en aanbevelingen uitbrengen over het verschijnsel van de schadelijke sektarische organisaties en het bijzonder over het beleid inzake de strijd tegen deze organisaties;
+Škodlivý charakter sektárskej organizácie sa skúma na základe princípov stanovených v Ústave, zákonoch, dekrétoch, nariadeniach a v medzinárodných dohodách o ochrane ľudských práv, ktoré Belgicko ratifikovalo.
 
-§ 2. Voor het vervullen van zijn opdrachten is het Centrum ertoe gemachtigd:
+### KAPITOLA II. — Informačné a poradné centrum o škodlivých sektárskych organizáciách
 
-1° alle beschikbare informatie te verzamelen;
+Čl. 3. Pri Ministerstve spravodlivosti sa zriaďuje nezávislé centrum s názvom „Informačné a poradné centrum o škodlivých sektárskych organizáciách“, ďalej len Centrum.
+Sídlo Centra je v administratívnom obvode „Brusel-Hlavné mesto“.
 
-2° všetky štúdie wetenschappelijke onderzoeken uit te voeren die noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
+Čl. 4. § 1. Centrum sa skladá z dvanástich stálych členov a dvanástich náhradníkov, ktorých s dvojtretinovou väčšinou vymenuje Snemovňa zástupcov. Šesť stálych členov a šesť náhradníkov sa vymenúva na návrh Rady ministrov a na každú z obsadzovaných funkcií sa navrhnú dvaja kandidáti.
+Pri výbere členov menovaných priamo Snemovňou i členov menovaných na návrh Rady ministrov sa zabezpečí jazyková vyváženosť medzi nizozemsky hovoriacimi a francúzsky hovoriacimi členmi.
+Aspoň jeden stály člen a jeden náhradný člen ovláda nemčinu.
 
-3° elke archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, over te nemen;
+Snemovňa zástupcov zvolí z radov stálych členov predsedu a podpredsedu.
 
-4° steun en begeleiding te verlenen aan installingen, organisaties en verleners van juridische bijstand;
+§ 2. Členovia sú vymenovaní na funkčné obdobie štyroch rokov, raz obnoviteľné, z významných osobností, známych svojimi znalosťami, skúsenosťami a záujmom o problematiku škodlivých sektárskych skupín. Musia poskytovať všetky záruky, aby mohli vykonávať svoj mandát v plnej nezávislosti a v duchu objektivity a nestrannosti.
+Stálych aj náhradných členov môže Snemovňa zástupcov odvoliť z ich mandátu, ak nesplnia svoje povinnosti alebo ohrozia dôstojnosť svojej funkcie.
 
-5° op zijn bijeenkomsten vakbekwame verenigingen en personen raadplegen of uitnodigen die het nuttig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum samen met de Administratieve coördinatiecel.
+§ 3. Aby boli kandidáti vymenovaní za stálych alebo náhradných členov a aby túto kvalitu aj zachovali, musia spĺňať tieto podmienky:
 
-§ 3. Het Centrum je ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld v § 1, 1° en 3°, persoonsgegevens te verwerken met betrekking tot de overtuing of activityeiten op levensbeschouwe-lijk of godsdienstig gebied zoals bedoeld in artikel 6 van de wet van 8. decembra 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.
+1° tešiť sa občianskym a politickým právam;
 
-De Koning bepaalt, bij een in Ministerraad overlegd besluit, de waarborgen inzake vertrouwalijkheid en beveiliging van de persoons-gegegevens, het statut en de taken van een angestelde voor de gegevensbescherming in de schoot van het Centrum en de wijze waarop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van de personsonlijke levenssfeer over de verwerking van de personsgegevens.
-
-§ 4. De inlichtingen die het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worgesteld in de vorm van lijsten of systematische overzichten van schdelijke sektarische organiaties.
-
-Článok 7. Z adviezen de aanbevelingen van het Centrum zijn gemotivaverd. De adviezen zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslising van het Centrum.
-
----
-
-(strana 7)
-
-Článok 8. § 1. Het Centrum kan slechts beraadslagen Indian ten minste de meerderheid van zijn leden aanwezig is. De beslissingen worden genomen stretol absolútne Meerderheid. V geval van staking der seten, is de stem van de voorzitter of in geval deze verhinderd is, van zijn plaatsvervanger doorslaggevend.
-
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten wergeven.
-
-§2. Het Centrum mag beschikken over het integral stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordigers met het oog op de beleidsvorming ter bestrijding van de onwettige praktijken van de sekten en van de gevaren ervan voor de samenleving en voor het individuelle, inzonderheid voor de minderjarigen.
-
-Článok 9. Voor de uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de mediwerking van experten. De Koning bepaalt de modaliteiten van de vergoeding van deze experten.
-
-Článok 10. Voor alle personen die werken met vertrouwalijke gegevens die door het Centrum worden ingezameld, geldt het beroepsgeheim zoals bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting geldtook voor elkeen die niet tot het Centrum behoort, maar als Serviceundige, onderzoeker of medewerker optreedt.
-
-Článok 11. Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag wordt gesuuurd aan de Ministerraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
-
-Článok 12. Het Centrum beschikt cez sekretariát.
-
-Het personeel wordt ter beschikking gestold door de minister van Justitie, na voerafgaand het advies van het Centrum te hebben ingewonnen.
-
-Het personeel state onder het rechtstreeks gezag van de voorzitter van het Centrum. De wevinskosten van het Centrum komen desat van de begroting van het ministère van Justitie.
-
-### HOOFDSTUK III.
-
-Článok 13. Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizacies wordt bij het ministère van Justitie opgericht.
-
-Článok 14. De minister van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de samensteller van de Administratieve coördi-natiecel bij een in Ministerraad overlegd besluit.
-
-Článok 15. Z Administratieve coördinatiecel heeft de volgende opdrach-ten:
-
-1° De door de bevoegde openbare diensten en overheden gevoerde acties coördineren;
-
-2° De evolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
-
-3° Maatregelen voorstellen die van aard zijn om de coördinatie en de de effectiviteit van deze acties te verhogen;
-
-4° In overleg met de bevoegde diensten en bestruren een preventie-beleid voor de burggers tegen de activitéeiten van de schadelijke sektarische organizaties, bevorderen;
-
-5° Een nauwe samenwerking met het Centrum opbouwen en de nodige maatregelen treffen teneinde de aanbevelingen en voorstellen van het Centrum uit voeren.
+2° nesmú byť členmi Európskeho parlamentu ani zákonodarných komôr, ani Rady komunity alebo regionálnej rady, ani Federálnej vlády alebo vlády komunity či regiónu.
 
 ---
 
-(strana 8)
+(Strana 6)
 
-Článok 16. Od Koning bepaalt de modaliteiten inzake de werking en de organizatie van de Administratieve coi:irdinatiecel bij een in Mmister Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Bclgisch Staatsblad zal worden bekendgemaakt.
+§ 4. Je členom Centra zakázané zúčastňovať sa rokovaní o témach, pri ktorých má osobný alebo priamy záujem, alebo pri ktorých ich príbuzní v línii či v krvom zväzku do štvrtého stupňa majú osobný alebo priamy záujem.
 
-Gegeven te Brussel, 2 Juni 1998.
+§ 5. Ak je stály člen prekážaný alebo neprítomný, nahradí ho jeho náhradník.
+Stály alebo náhradný člen, ktorého mandát skončí pred uplynutím štvorročného obdobia, sa nahradí podľa postupov uvedených v prvom odseku stálym alebo náhradným členom, ktorý bude vymenovaný na zostávajúce obdobie.
+Kráľ stanoví podmienky odmeny členov Centra.
 
-ALBERT Van Koningswege: De Minister van Justitie, T. VAN PARES Met 's Lands zegel gezegeld: De Minister van Justitie, T. VAN PARES Poznámka
+Čl. 5. Centrum vypracuje svoj prevádzkový poriadok do dvoch mesiacov od svojho ustanovenia. Predloží ho na schválenie Snemovni zástupcov.
 
-(1) Gewone ziting 1996-1997.
+Čl. 6. § 1. Centru sú zverené tieto úlohy:
 
-Kamer van volksvertegenwoordigers. Parlamentný štukken. - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nr. 1198/2 tot 7. - Tekst aangenomen door of Commission, nr. 1198/9. -Tekst aangenomen in plenaire vergadering en overge Parlamentný Handelingen. Vergadering van 22. apríl 1998. -Anneming. Vergadering van 28. apríla 1998. Senaat. Parlamentný štukken. -Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd door de Senaat, nr. 1-965/2/1997-1998.
+1° skúmať fenomén škodlivých sektárskych organizácií v Belgicku a ich medzinárodné väzby;
 
----
+2° organizovať dokumentačné centrum prístupné verejnosti;
 
-(strana 9)
+3° zabezpečiť prijatie a informovanie verejnosti a každú osobu, ktorá sa obráti na Centrum, informovať o jej právach a povinnostiach a o spôsoboch uplatnenia práv;
 
-## ČASŤ II
+4° z vlastnej iniciatívy alebo na žiadosť ktoréhokoľvek verejného orgánu vydávať stanoviská a odporúčania o fenoméne škodlivých sektárskych organizácií a najmä o politike boja proti týmto organizáciám;
 
-Kráľovský dekrét z 8. novembra 1998, ktorým sa ustanovuje zloženie, prevádzka a organizácia správnej jednotky pre koordináciu boja proti škodlivým sektárskym organizáciám (Moniteur belge, 9. decembra 1998)
+§ 2. Na plnenie svojich úloh je Centrum oprávnené:
 
----
+1° zhromažďovať všetky dostupné informácie;
 
-(strana 10)
+2° vykonávať všetky štúdie alebo vedecké výskumy potrebné na konkrétne vykonanie jeho úloh;
 
-### BLÍZKY, DECRETEN, UKAZOVATELE A PREDPISY
+3° prevziať každý archívny alebo dokumentačný fond, ktorého predmet zodpovedá jednej z jeho úloh;
 
-DÔCHODOK VAN JUSTITIE
+4° poskytovať podporu a sprevádzanie inštitúciám, organizáciám a poskytovateľom právnej pomoci;
 
-98 - 3277 \[S-C-98/09981\] 8 NOVEMBRA 1998.
+5° na svojich stretnutiach konzultovať alebo pozývať kvalifikované združenia a osoby, ktoré považuje za vhodné vypočuť.
+Pri plnení svojich úloh Centrum spolupracuje s Administratívnou koordinačnou bunkou.
 
-ALBERT II, Koning der Belgian, Aan allen die nu zijn en hierna wezen zullen, Jedenásť Groet.
+§ 3. Centrum je pri plnení úloh uvedených v § 1, bode 1° a 3° oprávnené spracúvať osobné údaje týkajúce sa presvedčenia alebo činností v oblasti náboženstva alebo ideológie, ako je uvedené v článku 6 zákona z 8. decembra 1992 o ochrane osobného života pri spracovaní osobných údajov.
 
-Gelet op de wet van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo Łrdinatiecel inzake de strijk tegen schadelijke sektarische organisaties; Gelet op het advies van de Inspector van Financie, gegeven op 10 September 1998; Gelet op de wetten van de Raad van State, gecoo Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast met de beledsvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individuel en inzonderheid voor de minderjari-gen, de dringende noodzaak van de oprichting van een Informatie- en Adviescentrum en Administratieve Coo Łrdinatiecel heeft opgevorpen, met oog op de zo spoedig mogelijke creatie van een organ met als opdracht de opvolging van dit fenomen; Overwegende dat de wet Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administrative coo Łrdinatiecel ondertekend werd door de
+Kráľ určí, rozhodnutím prerokovaným v Rade ministrov, záruky týkajúce sa dôvernosti a zabezpečenia osobných údajov, štátus a úlohy poverenca na ochranu údajov v rámci Centra a spôsob, akým má Centrum podávať správu Komisii na ochranu osobného života o spracovaní osobných údajov.
 
----
+§ 4. Informácie, ktoré Centrum poskytne na požiadanie verejnosti, vychádzajú z informácií, ktorými Centrum disponuje, a nesmú byť prezentované vo forme zoznamov alebo systematických prehľadov škodlivých sektárskych organizácií.
 
-(strana 11)
-
-Koning op 2 juni 1998 en dat het derhalve aanbeveling verdient dat de wet en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceeerd, teneinde het Informatie- en Adviescentrum en de Administratieve Coo Łrdinatiecel in stat te stellen hun opdrachten aan te vatten met ingang van 1 januari 1999; Op de voordracht van jedenásť minister van Justitie en op het advies van jedenásť v Raad vergaderde ministri,
-
-Hebben Wij besloten en besluiten Wij:
-
-### HOOFDSTUK I.
-
-Artikel 1. De bij artikel 13 van de wet van 2 juni 1998 opgericht Administratieve coo rdinatiecel is als volgt samengesteld:
-
--   Een vertgenwoordiger van het College van Procedure-General;
--   een nationaal magistraat;
--   Een vertgenwoordiger van de Rijkswacht;
--   een vertgenwoordiger van de Gerechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
-
-Ministerstvo van Binnenlandse Zaken;
-
--   een vertgenwoordiger van het Ministerie van Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het Directoraat- general burgerlijke
-
-Wetgeving en erediensten van het Ministerie van Justitie;
-
--   een vertgenwoordiger van het Directoraat-general strafwetgeving en rechten van de mens van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Ministerie van Justitie;
-    
--   een vertgenwoordiger van het Ministerie van Binnenlandse Zaken;
-    
--   een vertgenwoordiger van het Ministerie van Financien,
-    
--   een vertgenwoordiger van het Ministerie van Tewerkstelling en
-    
-
-Arbeid;
-
--   Een vertgenwoordiger van het Ministerie van Landsverdediging. Článok 2. Voor elke vertgenwoordiger wordt tevens een plaatsvervan- ger aangeduid.
-
-Článok 3. Od vertgenwoordigers hun plaatsvervangers worden aangesteld door by Minister van Justitie, na voordracht door de respectieve overheden van wie zij afhangen.
-
-### HOOFDSTUK II.
-
-Článok 4. De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de agenda op. Elk van de leden heeft het recht de voorzitter te vragen punten op de Agenda te plaatsen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te verzoeken punten op de agenda te plaatsen.
-
-Článok 5. Behoudens hoogdringendheid worden de uitnodigingen en de agenda eventuals eventuals stukken, na ondertekening door de voorzitter, dver de secretaris ten minste acht dagen vooraf aan de leden toegezonden.
-
-Článok 6. De leden die verhindred zijn, worden vervangen door hun plaatsvervanger en sturen hem zelf de strukken door.
-
-Článok 7. De Administratieve Coo Ördinatiecel vergadert slechts geldig indian ten minste de helft van de leden of hun plaatsvervangers aanwezig is. Ingeval geen meerderheid aanwezig was, worden de leden opnieuw uitgenodigd, in welk geval de Administratieve Coo Łrdinatiecel geldig vergadert, wat look het aantal aanwezige leden is.
-
-Článok 8. Elk lid van de Administratieve Coo Łrdinatiecel, in bij verhin-dering zijn plaatsvervanger, beschikt over een stock. De beslissingen worden bij unimititeit van de aanwezige leden genomen. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizations of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo Łrdinatiecel bij te wonen;
--   gehoord indický worden programu hovorí vereist.
+Čl. 7. Stanoviská a odporúčania Centra musia byť odôvodnené.
+Stanoviská sú verejné, pokiaľ Centrum nepredloží patrične odôvodnené rozhodnutie o opaku.
 
 ---
 
-(strana 12)
+(Strana 7)
 
-Článok 9. De secretaris maakt process-verbaal op van de vergaderingen. Het wordt na goedkeuring door de voorzitter met de volgende uitnodiging meegestuurd.
+Čl. 8. § 1. Centrum môže rokovať len vtedy, keď je prítomná aspoň väčšina jeho členov. Rozhodnutia sa prijímajú absolútnou väčšinou. V prípade rovnosti hlasov je rozhodujúci hlas predsedu alebo, ak je tento prekážaný, jeho zástupcu.
 
-De leden brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee
+Prijaté stanoviská budú odrážať rôzne vyjadrené stanoviská.
 
-Článok 10. De adviezen en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de wet van 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo êrdinatiecel overgezonden.
+§ 2. Centrum môže mať k dispozícii úplný stenografický záznam verejných pojednávaní parlamentného vyšetrovania Snemovne zástupcov s cieľom na tvorbu politík boja proti nezákonným praktikám sekt a proti ich nebezpečenstvám pre spoločnosť a pre jednotlivca, najmä pre maloletých.
 
-De Administratieve Coo Ördinatiecel stelt in overleg met het Centrum vast de wijze van:
+Čl. 9. Pri vykonávaní svojich úloh sa Centrum môže obrátiť na spoluprácu expertov.
+Kráľ určí podmienky odmeny týchto expertov.
 
--   Coordinatie van možné činy;
--   regeling van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+Čl. 10. Pre všetky osoby, ktoré pracujú s dôvernými údajmi zhromaždenými Centrom, platí služobné tajomstvo podľa článku 458 Trestného zákonníka. Rovnaká povinnosť sa vzťahuje aj na každého, kto nepatrí do Centra, ale vystupuje ako odborník, výskumník alebo spolupracovník.
 
-Článok 11. De maatregelen die de Administratieve Coo ërdinatiecel voorstelt, worden schriftelijk aan de betrokken diensten of instanties, evens aan de voorzitter van het Centrum meegedeeld.
+Čl. 11. Centrum predkladá každé dva roky správu o svojej činnosti. Táto správa sa zasiela Rade ministrov, zákonodarným komorám a radám a vládám spoločenstiev a regiónov.
 
-Článok 12. De Administratieve Coo Ördinatiecel pleegt overleg met alle bevoegde diensten en bestruren binnen het kader van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. Federale overheden dién de door de Administratieve Coo Łrdinatiecel gevraagde inlichtingen te bezorgen.
+Čl. 12. Centrum má k dispozícii sekretariát.
 
-Článok 13. De Administratieve Coo -rdinatiecel vergadert minstens eenmaal om de twee maanden.
+Personál je sprístupnený ministrom spravodlivosti po predchádzajúcom vypočutí stanoviska Centra.
 
-Od Administratieve Coo Ördinatiecel bengt zesmaandelijks verslag uit aan het Centrum nopens haar werkzaamheden.
+Personál je pod priamou autoritou predsedu Centra. Prevádzkové náklady Centra sú hradené z rozpočtu Ministerstva spravodlivosti.
 
-### HOOFDSTUK III.
+### KAPITOLA III. — Administratívna koordinačná bunka pre boj proti škodlivým sektárskym organizáciám
 
-Článok 14. Alle leden van de Administratieve Coo Łrdinatiecel vormen het 2Office2. Het 2Office2 wijst een dagelijks bestuur aan, samengesteld uit de voorzitter die er van rechtswege deel van uitmaakt en twee gekozen leden.
+Čl. 13. Pri Ministerstve spravodlivosti sa zriaďuje Administratívna koordinačná bunka pre boj proti škodlivým sektárskym organizáciám.
 
-Článok 15. De Administratieve Coo Ördinatiecel kan wanneer bijzondere opdrachten dit verantwoorden subgroepen binnen haar schoot oprichten.
+Čl. 14. Minister spravodlivosti alebo jeho zástupca predsedá Administratívnej koordinačnej bunke.
+Kráľ určí zloženie Administratívnej koordinačnej bunky rozhodnutím prerokovaným v Rade ministrov.
 
-Článok 16. De Minister van Justitie stelt administrativetief personeel, lokalen en de noodzakelijke bureaubenogedheden ter beschikking van de Administratieve Coo Łrdinatiecel.
+Čl. 15. Administratívnej koordinačnej bunke sú zverené tieto úlohy:
 
-Článok 17. De artikelen 1 tot en met 3 treden in werking op de dag waaarop dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+1° koordinovať opatrenia vedené príslušnými verejnými službami a orgánmi;
 
-Článok 18. Jedenásť ministra van Justitie je krásne stretol de uitvoering van dit besluit.
+2° skúmať vývoj nezákonných praktík škodlivých sektárskych organizácií;
 
-Gegeven te Brussel, 8. novembra 1998.
+3° navrhovať opatrenia, ktoré môžu zvyšovať koordináciu a účinnosť týchto opatrení;
 
-ALBERT Van Koningswege: De Minister van Justitie T. VAN PARES
+4° v spolupráci s príslušnými službami a orgánmi podporovať preventívnu politiku pre občanov proti aktivitám škodlivých sektárskych organizácií;
 
----
-
-(strana 13)
-
-## ČASŤ III
+5° vybudovať úzku spoluprácu s Centrom a prijať potrebné opatrenia na vykonávanie odporúčaní a návrhov Centra.
 
 ---
 
-(strana 14)
+(Strana 8)
 
-## PRÍSLUŠNÉ PARLAMENTNÉ A ANNÁLNE DOKUMENTY
+Čl. 16. Kráľ určí podmienky fungovania a organizácie Administratívnej koordinačnej bunky rozhodnutím prerokovaným v Rade ministrov.
+Na vyhlásenie tohto zákona prikazujeme, aby bolo opatrené štátnym pečatidlom a zverejnené v Belgickom úradnom vestníku.
 
-### A. ÚSTAVA PARLAMENTNÉHO VÝBORU
+Dané v Bruseli, 2. júna 1998.
 
--   Dokumenty Snemovne zástupcov:
-    -   313 (1995 - 1996)
-        -   1: Návrh pána Duqesnea a kol.
-        -   č. 2 až 4: pozmeňovacie návrhy pána Duquesna a pána Moureauxa a pani de Tserclaesovej
-        -   5 Správa pána Borina v mene Výboru pre spravodlivosť
-        -   č. 6 Text prijatý Výborom pre spravodlivosť.
-    -   Annales z Snemovne reprezentantov
-        -   13., 14. a 28. marca 1996.
+ALBERT
+V mene kráľa:
+Minister spravodlivosti,
+T. VAN PARYS
+Opatrené štátnym pečatidlom: Minister spravodlivosti,
+T. VAN PARYS
+Poznámka
 
-### B. PRÁCA PARLAMENTNÉHO VÝBORU
+(1) Riadne zasadanie 1996–1997.
 
--   Dokumenty Snemovne zástupcov:
-    -   313 (1995 - 1996)
-        -   Správa č. 7 a 8 vypracovaná v mene výboru pánom. Duquesne a Willems
-        -   9 Návrh prijatý na plenárnom zasadnutí
-    -   Annales z Snemovne reprezentantov
-        -   30\. apríla a 7. mája 1997.
+Snemovňa zástupcov.
+Parlamentné dokumenty. — Návrh zákona pána Duquesne, č. 1198/1. — Pozmeňujúce návrhy, č. 1198/2 až 7. — Správa pána Willemsa, č. 1198/8. — Text prijatý Výborom, č. 1198/9. — Text prijatý na pléne a zaslaný Senátu, č. 1198/10.
+Parlamentné zápisy. — Diskusia. Jednanie zo 22. apríla 1998. — Schválenie. Jednanie z 28. apríla 1998.
+Senát.
+Parlamentné dokumenty. — Návrh zaslaný Snemovňou zástupcov, č. 1-965/1-1997-1998. Návrh neprejednaný Senátom, č. 1-965/2-1997-1998.
 
-### C. AKT Z 2. JÚNA 1998
+---
 
--   Dokumenty Snemovne zástupcov
-    -   1198 (1996 - 1997)
-        -   Nie. 1: Návrh pána Duquesna
-        -   č. 2 až 7: Zmeny a doplnenia pána J.-P. Viseura, Duquesneho, Beaufaysa, Willemsa a vlády
-        -   č. 8: Správa pána Willemsa v mene Výboru pre spravodlivosť
-        -   č. 9: Text prijatý Výborom pre spravodlivosť
-        -   10: Text prijatý na plenárnom zasadnutí a zaslaný senátu.
-    -   Annales z Snemovne reprezentantov
-        -   22\. a 28. apríla 1998
--   Dokumenty senátu
-    -   1 - 965 (1997 - 1998)
-        -   1 Návrh predložený snemovňou zástupcov
-        -   2 Projekt, ktorý Senát neuviedol.
+(Strana 9)
+
+## PART II
+
+Kráľovské nariadenie z 8. novembra 1998, ktorým sa upravuje zloženie, fungovanie a organizácia Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám (Belgický vestník zo 9. decembra 1998)
+
+---
+
+(Strana 10)
+
+### ZÁKONY, DEKRÉTY, NARIADENIA A PREDPISY
+
+MINISTERSTVO SPRAVODLIVOSTI
+
+Č. 98 — 3277 [S−C−98/09981] 8. NOVEMBER 1998. — Kráľovské nariadenie upravujúce zloženie, fungovanie a organizáciu Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám.
+
+ALBERT II, kráľ Belgov, Všetkým, ktorí sú teraz a ktorí budú, náš pozdrav.
+
+Na základe zákona zo 2. júna 1998 o zriadení Informačného a poradného centra pre škodlivé sektárske organizácie a o zriadení Administratívnej koordinačnej bunky pre boj proti škodlivým sektárskym organizáciám;
+Na základe stanoviska Inšpektora financií, vydaného 10. septembra 1998;
+Na základe zákonov Rady štátu, koordinovaných 12. januára 1973, najmä článku 3, § 1, zmeneného zákonmi z 9. augusta 1980, 16. júna 1989, 4. júla 1989 a 4. augusta 1996;
+Vzhľadom na naliehavosť;
+S prihliadnutím na to, že Parlamentný vyšetrovecí výbor poverený tvorbou politiky na boj proti sektám a proti nebezpečenstvám týchto sekt pre jednotlivca, najmä pre maloletých, poukázal na naliehavú potrebu zriadenia Informačného a poradného centra a Administratívnej koordinačnej bunky s cieľom čo najskoršieho vytvorenia orgánu povereného sledovaním tohto fenoménu;
+S prihliadnutím na to, že zákon o zriadení Informačného a poradného centra o škodlivých sektárskych organizáciách a administratívnej koordinačnej bunky bol podpísaný kráľom
+
+---
+
+(Strana 11)
+
+2. júna 1998 a že preto je vhodné, aby zákon a vykonávacie opatrenia boli čo najskôr zverejnené, aby mohli Informačné a poradné centrum a Administratívna koordinačná bunka začať plniť svoje úlohy od 1. januára 1999;
+Na návrh nášho ministra spravodlivosti a na základe stanoviska našich ministrov zištnutých v Rade,
+
+Rozhodli sme a rozhodujeme:
+
+### KAPITOLA I. — Zloženie Administratívnej koordinačnej bunky
+
+Článok 1. Administratívna koordinačná bunka zriadená článkom 13 zákona zo 2. júna 1998 sa skladá nasledovne:
+
+- zástupca Kolegia generálnych prokurátorov;
+- národný sudca;
+- zástupca Kráľovskej žandarmy;
+- zástupca súdnej polície;
+- zástupca Generálnej kráľovskej polície Ministerstva vnútra;
+
+- zástupca Ministerstva pre verejnú správu;
+- zástupca Správy štátnej bezpečnosti;
+- zástupca Generálneho riaditeľstva občianskeho práva a náboženských služieb Ministerstva spravodlivosti;
+- zástupca Generálneho riaditeľstva trestného práva a práv človeka Ministerstva spravodlivosti;
+- zástupca Oddelenia pre trestnoprávnu politiku Ministerstva spravodlivosti;
+
+- zástupca Ministerstva vnútra;
+- zástupca Ministerstva financií;
+- zástupca Ministerstva zamestnanosti a práce;
+
+- zástupca Ministerstva obrany. Čl. 2. Pre každého zástupcu sa určí aj náhradník.
+
+Čl. 3. Zástupcovia a ich náhradníci sa vymenú ministerom spravodlivosti na návrh príslušných orgánov, od ktorých závisia.
+
+### KAPITOLA II. — Fungovanie Administratívnej koordinačnej bunky
+
+Čl. 4. Predseda určuje miesto, deň a začiatok rokovaní a zostavuje program.
+Každý člen má právo požiadať predsedu, aby zaradil body na program.
+Predseda Informačného a poradného centra o škodlivých sektárskych organizáciách má rovnako právo požiadať predsedu, aby zaradil body na program.
+
+Čl. 5. Ak nejde o naliehavosť, pozvánky a program ako aj prípadné dokumenty, po podpise predsedu, zasiela tajomník členom najmenej osem dní vopred.
+
+Čl. 6. Členovia, ktorí sú prekážaní, sú nahradení svojimi náhradníkmi a sami im zasielajú dokumenty.
+
+Čl. 7. Administratívna koordinačná bunka rokovala platne len vtedy, keď je prítomná aspoň polovica členov alebo ich náhradníkov.
+Ak prítomnosť väčšiny nie je dosiahnutá, členovia sa opätovne pozvú, pričom v takom prípade Administratívna koordinačná bunka rokovala platne bez ohľadu na počet prítomných členov.
+
+Čl. 8. Každý člen Administratívnej koordinačnej bunky a v prípade jeho prekážky jeho náhradník má jeden hlas.
+Rozhodnutia sa prijímajú jednomyseľne prítomnými členmi.
+Predseda Informačného a poradného centra o škodlivých sektárskych organizáciách alebo jeho zástupca môže:
+
+- byť pozvaný zúčastniť sa rokovaní Administratívnej koordinačnej bunky;
+- byť vypočutý, ak to vyžaduje program.
+
+---
+
+(Strana 12)
+
+Čl. 9. Tajomník vyhotovuje zápisnice z rokovaní. Po schválení predsedom sa zasielajú spolu s nasledujúcou pozvánkou.
+
+Členovia predkladajú svoje pripomienky písomne najneskôr jeden deň pred rokovaním.
+
+Čl. 10. Stanoviská a odporúčania, ktoré Centrum vydáva podľa článku 6, § 1, 4° zákona zo 2. júna 1998, Centrum predloží predsedovi Administratívnej koordinačnej bunky.
+
+Administratívna koordinačná bunka v spolupráci s Centrom určí spôsob:
+
+- koordinácie prípadných opatrení;
+- usporiadania dohľadu nad vykonávaním odporúčaní a stanovísk Centra v rozsahu ich právomocí.
+
+Čl. 11. Opatrenia navrhované Administratívnou koordinačnou bunkou sa písomne oznámia dotknutým službám alebo inštitúciám, ako aj predsedovi Centra.
+
+Čl. 12. Administratívna koordinačná bunka konzultuje všetky príslušné služby a orgány v rámci svojich úloh. Môže ich napríklad pozývať a žiadať od nich informácie. Federálne orgány sú povinné poskytnúť informácie požadované Administratívnou koordinačnou bunkou.
+
+Čl. 13. Administratívna koordinačná bunka sa schádza najmenej raz za dva mesiace.
+
+Administratívna koordinačná bunka predkladá každých šesť mesiacov Centru správu o svojej činnosti.
+
+### KAPITOLA III. — Organizácia
+
+Čl. 14. Všetci členovia Administratívnej koordinačnej bunky tvoria „Bureau“. „Bureau“ vymenuje výkonný výbor zložený z predsedu, ktorý je jeho členom z titulu funkcie, a dvoch zvolených členov.
+
+Čl. 15. Administratívna koordinačná bunka môže, ak to odôvodňujú zvláštne úlohy, zriaďovať podskupiny vo svojom rámci.
+
+Čl. 16. Minister spravodlivosti poskytne Administratívnej koordinačnej bunke administratívny personál, priestory a potrebné kancelárske vybavenie.
+
+Čl. 17. Články 1 až 3 nadobúdajú účinnosť dňom zverejnenia tohto rozhodnutia v Belgickom úradnom vestníku a ostatné články dňom 1. januára 1999.
+
+Čl. 18. Náša minister spravodlivosti je poverený vykonaním tohto rozhodnutia.
+
+Dané v Bruseli, 8. novembra 1998.
+
+ALBERT V mene kráľa: Minister spravodlivosti,
+T. VAN PARYS
+
+---
+
+(Strana 13)
+
+## PART III
+
+---
+
+(Strana 14)
+
+## PREHĽAD PARLAMENTNÝCH DOKUMENTOV A ZÁPISNÍC
+
+### A. ZRIADENIE VYŠETROVACIEHO PARLAMENTNÉHO VÝBORU
+
+- Dokumenty Snemovne zástupcov:
+  - 313 (1995–1996)
+    - č. 1: Návrh pána Duquesne a kolektívu
+    - č. 2 až 4: Pozmeňujúce návrhy pánov Duquesne a Moureaux a pani de T’Serclaes
+    - č. 5: Správa vypracovaná v mene Výboru pre spravodlivosť pánom Borinom
+    - č. 6: Text prijatý Výborom pre spravodlivosť.
+  - Zápisnice Snemovne zástupcov
+    - 13., 14. a 28. marca 1996.
+
+### B. PRÁCA VYŠETROVACIEHO PARLAMENTNÉHO VÝBORU
+
+- Dokumenty Snemovne zástupcov:
+  - 313 (1995–1996)
+    - č. 7 a 8: Správa vypracovaná v mene výboru pánmi Duquesne a Willems
+    - č. 9: Návrh prijatý na plenárnom zasadnutí
+  - Zápisnice Snemovne zástupcov
+    - 30. apríla a 7. mája 1997.
+
+### C. ZÁKON Z 2. JÚNA 1998
+
+- Dokumenty Snemovne zástupcov
+  - 1198 (1996–1997)
+    - č. 1: Návrh pána Duquesne
+    - č. 2 až 7: Pozmeňovacie návrhy pánov J.-P. Viseur, Duquesne, Beaufays, Willems a vlády
+    - č. 8: Správa vypracovaná v mene Výboru pre spravodlivosť pánom Willems
+    - č. 9: Text prijatý Výborom pre spravodlivosť
+    - č. 10: Text prijatý na plenárnom zasadnutí a predaný Senátu.
+  - Zápisnice Snemovne zástupcov
+    - 22. a 28. apríla 1998
+- Dokumenty Senátu
+  - 1-965 (1997–1998)
+    - č. 1: Návrh zaslaný Snemovňou zástupcov
+    - č. 2: Návrh, ktorý Senát neprejednal.

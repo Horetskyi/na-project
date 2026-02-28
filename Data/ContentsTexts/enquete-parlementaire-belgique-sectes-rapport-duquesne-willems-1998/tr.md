@@ -1,336 +1,355 @@
-(CHAMBER OF BELGIUM REPRESENTATIVES) (Page 1)
+(BELÇİKA TEMSİLCİLER MECLİSİ) (Sayfa 1)
 
-## PARLIAMENTARY
+## PARLAMENTO SORUŞTURMASI
 
-Gizli uygulamalarla savaşmak için bir politika geliştirmek ve topluma ve insanlara, özellikle küçüklere, özellikle de küçüklere karşı ortaya çıkan tehlikeyi geliştirmek
-
----
-
-(Page 2)
-
-## CONTENTS
-
--   Bölüm I Act of 2 Haziran 1998 zararlı gizlilik örgütleri ve zararlı gizli örgütlere karşı mücadele için bir Yönetim Koordinasyon Birimi kurdu (Moniteurible, 25 Kasım 1998)
--   28 Kasım 1998 Kraliyet Kararları, Harmful Sectarian Organizasyonlara Karşı Mücadele Koordinasyonu için İdari Birimin Kombinasyon, Operasyon ve Organizasyonu (MoniteurZY, 9 Aralık 1998) kurdu.
--   EC III Parlamento ve Yıllık Belgeler
--   IV Raporu Messrs tarafından yapılan Parlamento Komitesi adına yapılmıştır. Duquesne ve Willems
--   PART V Hareketi plenary'de kabul edildi.
+gizli uygulamaların yasa dışı uygulamalarıyla mücadele etmek ve bunların toplum ve kişilere, özellikle reşit olmayanlara, oluşturduğu tehlikeye karşı bir politika geliştirmeyi amaçlayan
 
 ---
 
-(Page 3)
+(Sayfa 2)
 
-2 Haziran 1998'in Yasası zararlı gizli örgütler ve zararlı gizli örgütlerle savaşmak için bir Bilgi ve Görüş Merkezi kurdu (MoniteurZY, 25 Kasım 1998)
+## İÇİNDEKİLER
 
----
-
-(Page 4)
-
-## BELGISCH STAATSBLAD
-
-Prijs van een jaarSubscription: Belçika: F 4,260; buitenland: F 17,283. nummer'ta Prijs: F 10 per vel van acht bladzijden. Voor aboneliken en voor verkoop per nummer kan U terecht bij het Bestuur van het Belgisch Staatsblad, Leuvengeweg 40-42, 1000 Brussel. Telefoon 02'552 22 11.
-
-168th JAARGANG
-
-WOENSDAG 25 NOVEMBER 1998
-
-Bakanie van Justitie
-
-Van 2 juru 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organistes en van een Admirustratieve coéirdinatiecel inzake de strijd tegen schadelijke sektarische organisaties, bl. 3782-t
+- BÖLÜM I 2 Haziran 1998 tarihli, zararlı tarikat örgütleri hakkında Bir Bilgi ve Görüş Merkezi ile zararlı tarikat örgütlerine karşı mücadeleyi koordine eden bir İdari Koordinasyon Hücresi kurulmasına dair Kanun (Moniteur belge, 25 Kasım 1998)
+- BÖLÜM II 8 Kasım 1998 tarihli, zararlı tarikat örgütlerine karşı mücadeleyi koordine eden İdari Koordinasyon Hücresinin bileşimini, işleyişini ve örgütlenmesini belirleyen Kraliyet Kararı (Moniteur belge, 9 Aralık 1998)
+- BÖLÜM III Parlamento belgeleri ve tutanakların dökümü
+- BÖLÜM IV Parlamento soruşturma komisyonu adına Bay Duquesne ve Bay Willems tarafından hazırlanan rapor
+- BÖLÜM V Genel Kurulda kabul edilen önerge.
 
 ---
 
-(Page 5)
+(Sayfa 3)
 
-### DEPARTMENT VAN JUSTITIE
-
-2 JUNI 1998 - Wet Houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties (1)
-
-ALBERT II, Koning der Belçika, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
-
-Kamers hebben aangenomen en Wij bekrachtigen hetgeen volgt:
-
-### HOOFDSTUK I. – Voorafgaande
-
-Artikel 1. Deze ıslak regelt een aangelegenheid als bedoeld in artikel 78 van de Grondwet.
-
-Madde 2. Voor de toepassing van onderhavige ıslak kelimet onder schadelijke sektarische Organiatie verstaan, elkeepering bir araya geldi, heen poensbeskouwelijk of Goddienstig doel, die zich alsdanigordoet is die zich in haar Organiatie of praktijken, overgeef.
-
-Het schadelijk karakterleri van een sektarische organizatie kelimet onderzocht op temeli van de ilkeleri Welke zijn widegelegd in de Grondwet, de ıslakten, decreten, komutlar en azından uluslararası bir şekilde dekore edilmiş van de rechten van de menscherming van de rechten van de mens welke door België werden Gericeerd.
-
-### HOOFDSTUK II. - Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties
-
-Sanat. 3. Bij het bakanlık van Justitie wordt een onafhankelijk sentrum opgericht onder de naam "Informatie- en Adviescentrum inzake de schadelijke sektarische organizaties", hierna Centrum genamd. De zetel van het Centrum het administratief arrondissement « Brussel-Hoofdstad » .
-
-Madde 4. § 1. Het Centrum bestaat uit twaalf geniş bir liderdi en twaalf plaatsvervangende ölü ölülerle een tweederde meerheid kapısı de Kamer van volksvertegenwoordigers kelimesien aangewezen. Zes wide leaden en zes plaatsvervantde, aangewezen op voor-dracht van de Bakanraad en voor elk van de te begeven ambten worden twee kandidaten voorged Zowel voor de rechtstreeks kapısı de Kamer als voor de voordracht van de Bakanraad aangewezen kelimesi de taalpari-teit tussen de Nederlandstalige en de Franstalige öncülük etti. On minste een büyük kapak en een plaatsvervangend kapak kennen Duits.
-
-De Kamer van volksvertegenwoordigers kiest uit de large leaden de voorzitter en de plaatsvervangende voorzitter.
-
-§2. De, aangesteld voor een termijn van vier jaar, eenmaal hisnieuwbaar, uit de majorente persoonlijkheden die bekend staan omwille van hun kennis, hevaring en hun ilgi voor de problemmatiek van de schadelijke sektarischeeperingen. Zij dienen alle waarborgen te bieden om hun mandat in volledige onafhankelijk-heid en iyi en geest van objectiviteit en çok partijdigheid te kunnen uitoefenen. Büyük to plaatsvervangende kunnen van hun mandaat ontheven worden door de Kamer van volksvertegenwoordigers, indien zij tekortkomen in hun plichten of de waardigheid van hun functie in het rang brengen.
-
-§3. Om als large of waarnemend cover te worden aangesteld en om die hoedanigheid te behouden moeten de kandidaten aan de volgende voorwaarden voldoen:
-
-1° de burgerlijke en kibarke rechten meneten;
-
-2° geen kapak zijn van het Europees van de Wetgevende Kamers, noch van een Gemeenschaps- of Gewestraad, noch van de Federale Regering of van een Geme
+2 Haziran 1998 tarihli, zararlı tarikat örgütleri hakkında Bir Bilgi ve Görüş Merkezi ile zararlı tarikat örgütlerine karşı mücadeleyi koordine eden bir İdari Koordinasyon Hücresi kurulmasına dair Kanun (Moniteur belge, 25 Kasım 1998)
 
 ---
 
-(Page 6)
+(Sayfa 4)
 
-§4. Het is de leaden van het Centrum verboden aanwezig te zijn bij de beraadslagingen overderwerpen indian zij hierbij een perstreeks belang hebben
+## BELÇİKA RESMİ GAZETESİ
 
-§ 5. Wanneer büyük bir kapak sohinderd of afwezig is, wordt het vervangen door zijn plaatsvervanger. Het vaset of plaatsvervangend cover waarvan het mandaat een einde neemt voor het verstrijken van de termijn van vier jaar, wordt volgens de in de eerste paragraaf bedoelde process vervangent De Koning stelt de modaliteiten inzake depregoeding van de leaden van het Centrum genişledi.
+Yıllık abonelik ücreti :
+Belçika : F 4.260; yurt dışı: F 17.283.
+Sayı başına fiyat: sekiz sayfalık bir yaprak için F 10. Abonelikler ve tek tek satış için Belçika Resmi Gazetesi İdaresi'ne, Leuvenseweg 40-42, 1000 Brüksel adresinden başvurulabilir.
+Telefon 02'552 22 11.
 
-5\. Madde 5. Het Centrum stelt zijn huishoudelijk düzenleme op binnen twee maanden na zijn installatie. Het wordt ter goedkeuring voorge-legd aan de Kamer van volksvertegenwoordigers.
+168. SAYI
 
-Art. 6. § 1. Het Centrum, pgende opdrachten ile sonuncu:
+ÇARŞAMBA 25 KASIM 1998
 
-1° het verschijnsel van schadelijke sektarische organizaties in België en iyi yüz uluslararası bağlayıcı
+Adalet Bakanlığı
 
-2° een voor ot publiek toegankelijk belgesiatiecentrum organizen;
-
-3° zorgen voor het onthaal en de bilgiatie van het publiek en ieder persoon ölü een vraag tot Centrum richt, inlichten over zijn rechten en plichten en iyi wijze waarop hij zijn jelden;
-
-4° hetzij uit eigen asweshing, hetzij op verzoek van elk openbaar bestuur, advie en ananbevelingen uitbrengen van de schadelijke sektarische organisaties het beleid inzake de strijd tegen deze organisaties;
-
-§2. Voor het vervullen van zijn opdrachten ot Centrum ertoe gemachtigd:
-
-1° alle beschikbare bilişimatie te verzamelen;
-
-2° wetenschappelijke onderzoeken uit te voeren ölü noodzakelijk zijn om zijn opdrachten concreet te kunnen uitvoeren;
-
-3° elke Archif- of documentatiefonds waarvan het onderwerp overeenstemt metén van zijn opdrachten, over te nemen;
-
-4° steun en begeleiding tebuted aan instellingen, organisaties en verleners van juridische bijstand;
-
-5° op zijn bijeenkomsten vakbekwame sovingen en personen raadplegen of uitnodigen die hetig acht te horen. Voor het vervullen van zijn opdrachten werkt het Centrum aynın de Administratieve coördinatiecel ile tanıştı.
-
-§3. Het Centrum ertoe gemachtigd voor het vervullen van zijn opdrachten bedoeld in § 1 3°, persoonsgegevens te verwerken, Van de persoonlijke'nin ortadan kaldırılması için bahisle tanıştı.
-
-De Koning bepaalt, Bij een in Bakanraad overlegd besluit, de waarborgen inzake vetrouwelijkheid van de persoons-gevens, het statut en de scherming van het Centrum en de wijzearop het Centrum verslag moet uitbrengen aan de Commissionie voor de bescherming van het
-
-§4. De inlichtingen Öldü het Centrum op aanvraag van het publiek verstrekt, steunen op de inlichtingen waarover het Centrum beschikt en mogen niet worden voesteld in de vorm van lijsten of systematische overzichten van schadelijke sektarische organiaties.
-
-Madde 7. Fvie'den aanbevelingen van het Centrum zijn gemotiveerd. De advie zijn openbaar, behoudens behoorlijk gemotiveerde andersluidende beslissing van het Centrum.
+2 Haziran 1998 tarihli, zararlı tarikat örgütleri hakkında Bir Bilgi ve Görüş Merkezi ile zararlı tarikat örgütlerine karşı mücadeleyi koordine eden bir İdari Koordinasyon Hücresi kurulmasına dair Kanun, s. 3782-t
 
 ---
 
-(Page 7)
+(Sayfa 5)
 
-8\. § 1. Het Centrum kan slechts beraadslagen Hint on minste de meerderheid van zijn aanwezig yönetti. De beslissingen kelimesi genomun mutlak meerderheid ile tanıştı. geval van sing der kökmen, geval deze verhinderd'de kök van de voorzitter, van zijn plaatsvervanger kapılarlaggevend.
+### ADALET BAKANLIĞI
 
-De aangenomen adviezen zullen de verschillende uiteengezette standpunten weergeven.
+2 HAZİRAN 1998. — Zararlı tarikat örgütleri hakkında Bir Bilgi ve Görüş Merkezi ile zararlı tarikat örgütlerine karşı mücadeleyi koordine eden bir İdari Koordinasyon Hücresi kurulmasına dair Kanun (1)
 
-§2. Het Centrum mag beschikken over het integraal stenografisch verslag van de openbare hoorzittingen van de parlementaire onder-zoekscommissie van de Kamer van volksvertegenwoordigers met het goril, inzonderheid voor de
+ALBERT II, Belçika Kralı, şimdi ve sonrasında bulunacak herkese selamlarımızı gönderir.
 
-Madde 9. Voor de Uitvoering van al zijn opdrachten kan het Centrum een beroep doen op de medewerking van uzmanen. De Koning bepaalt de modaliteiten van depregoeding van deze uzmanen.
+Meclisler kabul etmiş ve Bizler aşağıdaki metni onaylarız :
 
-Madde 10. Voor alle personen, odt het beroepsgeheim zoals bedoeld in artikel 458 van het Strafwetboek. Dezelfde verplichting jeldtook voor elkeen ot Centrum behoort, maar als deskundige, medewerker optreedt.
+### BÖLÜM I. — Ön Hükümler
 
-11\. Madde 11. Het Centrum stelt elke twee jaar een verslag van zijn activiteiten voor. Dit verslag kelimesi gesuurd aan de Bakanraad, de Wetgevende Kamers en aan de Raden en Regeringen van de Gemeen-schappen en Gewesten.
+Madde 1. Bu kanun, Anayasa'nın 78. maddesinde bahis konusu edilen bir konuyu düzenler.
 
-Madde 12. Het Centrum een Secretariatat üzerinde sert değildir.
+Madde 2. Bu kanunun uygulanması bakımından "zararlı tarikat örgütü" ile kastedilen, dünya görüşü veya dinsel amaç taşıyan veya kendini böyle tanıtan ve örgütlenmesi veya uygulamaları bakımından zararlı, yasa dışı faaliyetlere başvuran, bireye veya topluma zarar veren veya insan onurunu zedeleyen her türlü topluluktur.
 
-Het personeel, bakanı van Justitie, na voorafga ve het advies van het Centrum te hebben ingewonnennennen.
+Bir tarikat örgütünün zararlı niteliği, Anayasa'da, kanunlarda, tüzüklerde ve Belçika tarafından onaylanmış olan insan haklarının korunmasına ilişkin uluslararası sözleşmelerde yer alan ilkelere göre incelenir.
 
-Het personeel state onder het rechtstreeks37ag van de voorzitter van het Centrum. De wevingskosten van het Centrum komen on late van de begroting van het ministère van Justitie.
+### BÖLÜM II. — Zararlı tarikat örgütleri hakkında Bilgi ve Görüş Merkezi
 
-### HOOFDSTUK III. - Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organizaties
+Madde 3. Adalet Bakanlığı bünyesinde "Zararlı tarikat örgütleri hakkında Bilgi ve Görüş Merkezi" adıyla bağımsız bir merkez kurulmuştur; bundan sonra Merkez olarak anılacaktır.
+Merkezin merkezi "Brüksel-Başkent" idari bölgesindedir.
 
-Madde 13. Een Administratieve coördinatiecel inzake de strijd tegen de schadelijke sektarische organizaties wordt bij het minière van Justitie opgericht.
+Madde 4. § 1. Merkez, Temsilciler Meclisi tarafından üçte iki çoğunlukla atanacak on iki asil üye ve on iki yedek üyeden oluşur. Altı asil üye ve altı yedek üye Bakanlar Kurulu'nun önerisi üzerine atanır ve her bir verilecek görev için iki aday gösterilir.
+Hem Meclis tarafından doğrudan hem de Bakanlar Kurulu önerisiyle atanan üyeler arasında Felemenkçe konuşan ve Fransızca konuşan üyeler arasında dil dengesi sağlanır.
+En az bir asil üye ve bir yedek üye Almanca bilmektedir.
 
-Madde 14. Bakan van Justitie of zijn afgevaardigde neemt het voorzitterschap van de Administratieve coördinatiecel waar. De Koning bepaalt de aynınstelling van de Administratieve coördi-natiecel bij een in Bakanraad overlegd besluit.
+Temsilciler Meclisi, asil üyeler arasından başkanı ve başkan yardımcısını seçer.
 
-Madde 15. Administratieve coördinatiecel heeft de volgende opdrach-ten:
+§ 2. Üyeler dört yıllık bir süre için atanır; bu süre bir kez yenilenebilir. Adaylar, zararlı tarikat grupları konusundaki bilgi, deneyim ve ilgileri ile tanınmış seçkin şahsiyetler arasından seçilirler. Mandatlarını tam bağımsızlık, nesnellik ve tarafsızlık ruhu içinde yürütebilmelerini sağlayacak tüm güvenceleri taşımalıdırlar.
+Asil ve yedek üyeler, görevlerini yerine getirmemeleri ya da görevlerinin saygınlığını tehlikeye atmaları halinde Temsilciler Meclisi tarafından görevden alınabilirler.
 
-1° De door de bevoegde openbare diensten en overheden gevoerde eylemleri
+§ 3. Asil veya yedek üye olarak atanabilmek ve bu sıfatı koruyabilmek için adayların aşağıdaki koşulları sağlaması gerekir :
 
-2° De homeolutie van de onwettige praktijken van de schadelijke sektarische organizaties onderzoeken;
+1° medeni ve siyasal haklara sahip olmak;
 
-3° Maatregelen voorstellen ölü van aard zijn om de coördinatie en de etkili van deze hareketleri te verhogen;
-
-4° In overleg, de bevoegde diensten en bestruren een preventie-beleid voor de burgers tegen de activitéeiten van de schadelijke sektarische organizaties, bevorderen;
-
-5° Een nauwe aynınwerking, ot Centrum opbouwen en de nodige maatregelen treffen oneinde de aanbevelingen en voorsen van het Centrum uit voeren.
-
----
-
-(Page)
-
-Madde 16. Koning bepaalt de modaliteiten inzake de en de organizatie van de Administratieve coi:irdinatiecel bij een in Mmister Kondigen deze ıslak bir af, bevelen dat zij, 's Lands zegel zal worden fındık en kapı het Bclgisch Staatsblad zal worden bekendgemaakt.
-
-Gegeven te Brussel, 2 Juni 1998.
-
-ALBERT Van Koningswege: Bakan van Justitie, T. VAN PARYS Met 's Lands zegel147egeld: De Bakan van Justitie, T. VAN PARYS Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not Not NotNote
-
-(1) Gewone zitting 1996-1997.
-
-Kamer van volksvertegenwoordigers. Parlamenter stukken. - Wetsvoorstel van de heer Duquesne, nr. 1198/1.-Amendmenten, nrs. 1198/2 tot 7. - Tekst aangenomen Komisyon kapısı, nr. 1198/9. Pararian Handelingen - Bespreking. Van 22 Nisan 1998'i hedefle. -Aanneming. 28 Nisan 1998'i caydırmak. Senaat. Parlamenter stukken. -Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-965/1-1997-1998. Ontwerp niet geëvo- cerd kapısı de Senaat, nr. 1-965/2/1997-1998.
+2° Avrupa Parlamentosu'nun veya yasama meclislerinin, bir Topluluk veya Bölge Konseyi ile Federal Hükûmetin veya bir Topluluk ya da Bölge Hükûmetinin üyesi olmamak.
 
 ---
 
-(Page 9)
+(Sayfa 6)
 
-## II.
+§ 4. Merkez üyelerinin, şahsi veya doğrudan bir çıkarları bulunduğu konularda ya da dördüncü dereceye kadar kan veya kayın hısımları için şahsi veya doğrudan çıkar söz konusu olduğunda görüşmelerde bulunmaları yasaktır.
 
-Royal Decree 8 Kasım 1998, Harmful Sectarian Organizasyonlara Karşı Mücadele Koordinasyonu için İdari Birimin kompozisyonunu, operasyonunu ve organizasyonunu kurdu (MoniteurZY, 9 Aralık 1998)
+§ 5. Bir asil üye engelliyse veya yoksa, yerine yedek üyesi geçer.
+Asil ya da yedek üyenin dört yıllık süresi dolmadan görevine son verilmesi halinde, ilk paragrafta belirtilen usule göre, geri kalan süre için atanan bir asil veya yedek üye ile yerine getirilir.
+Kral, Merkez üyelerinin ücretlendirilmesine ilişkin usulleri belirler.
 
----
+Madde 5. Merkez, kuruluşunu izleyen iki ay içinde içtüzüğünü hazırlar. Bu içtüzük onay için Temsilciler Meclisi'ne sunulur.
 
-(Page 10)
+Madde 6. § 1. Merkezin görevleri şunlardır :
 
-### WETTEN, DECRETEN, ORDERS AND LULATIONS
+1° Belçika'daki zararlı tarikat örgütleri olgusunu ve bunların uluslararası bağlantılarını incelemek;
 
-DEPARTMENT VAN JUSTITIE
+2° halka açık bir dokümantasyon merkezi organize etmek;
 
-N. 98 - 3277 \[S-C-98/09981\] 8 NOVEMBER 1998. - Koninklijk besluit houdende samenstelling, werking en organisatie van de Administratieve Coo cientinatiecel inzake de strijd tegen schadelijke sektarische organisaties.
+3° karşılanan kamuoyuna ve Merkeze başvuran her kişiye bilgilendirme ve danışma hizmeti vermek; onların hak ve yükümlülükleri ile haklarını nasıl kullanabilecekleri konusunda bilgi sağlamak;
 
-ALBERT II, Koning der Belçika, Aan allen die nu zijn en hierna wezen zullen, Eleven Groet.
+4° ister kendi inisiyatifiyle ister her kamu idaresinin talebi üzerine, zararlı tarikat örgütleri olgusu ve özellikle bu örgütlerle mücadele politikası hakkında görüş ve tavsiyeler sunmak;
 
-Gelet op de ıslak van 2 juni 1998 Houdende oprichting van een Informatie- en Adviescentrum inzake schadelijke sektarische organisa-ties en Houdende oprichting van een Administratieve Coo urrdinacel inzake de strijd tegen schadelijke sektarische organisaties; Gelet op het advies van de Inspector van Financie ulun, gegeven op 10 Eylül 1998; Gelet op de ıslak van de Raad van State, gecoo urrdineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, gewijzigd bij de ıslakten van 9 augustus 1980, 16 juni 1989, 4 juli 1989, 4 augustus 1996; Gelet op de dringende noodzakelijkheid; Overwegende dat de Parlementaire Onderzoekscommissie belast met demvorming ter bestrijding van de sekten en van de gevaren van die sekten voor het individly heeftheid voor de minderjari-gen, de dringende noodzaak van de oprichting van een Informatie- en Adviescentrum Administratieve Coo Overwegende dat de ıslak Houdende oprichting van een Informatie-en Adviescentrum inzake de schadelijke en sektarische organizaties en van een administratieve coo urrdinatiecel ondertekend werdinatie
+§ 2. Görevlerini yerine getirebilmek için Merkez yetkilidir :
 
----
+1° mevcut tüm bilgileri toplamak;
 
-(Page 11)
+2° görevlerini somut olarak yerine getirebilmek için gerekli tüm çalışmalar ve bilimsel araştırmaları yürütmek;
 
-2 juni 1998 en dat het bootve aanbeveling bir Lady dat de ıslak en de uitvoeringsbesluiten zo snel mogelijk worden gepubliceerd, oneinde het Informatie- en Adviescentrum en de Administratieve Coo urrdinatiecel inancachten aan te vatten 1 januarid 1999; Op de voordracht van Eleven Bakan van Justitie, Raad vergaderde Bakanları'nda 11 yaşındaki muhalifi kınadı,
+3° konusu görevlerinden biriyle ilgili olan her türlü arşiv veya dokümantasyon fonunu devralmak;
 
-Hebben Wij besloten en besluiten Wij :
+4° kurumlara, kuruluşlara ve hukuki yardım sağlayanlara destek ve rehberlik sağlamak;
 
-### HOOFDSTUK I. – Samenstelling van de Administratieve Coo rinirdinatiecelcelcel
+5° toplantılarında işin uzmanı dernekleri ve kişileri danışmak veya dinlemek üzere davet etmek.
+Görevlerini yerine getirirken Merkez, İdari Koordinasyon Hücresi ile işbirliği yapar.
 
-Artikel 1. De bij artikel 13 van de ıslak van 2 juni 1998 opgericht Administratieve coo rdinatiecel aynıngesteld:
+§ 3. Merkez, § 1'de belirtilen 1° ve 3° bentlerinde yer alan görevlerini yerine getirebilmek için, 8 Aralık 1992 tarihli kişisel verilerin işlenmesine ilişkin özel hayatın korunması kanununun 6. maddesinde belirtilen inanç veya dinsel faaliyetlere ilişkin kişisel verileri işlemeye yetkilidir.
 
--   een vertgenwoordiger van het College van Avukat-General;
--   Een Nationaal magistraat;
--   Een vertgenwoordiger van de Rijkswacht;
--   Een vertgenwoordiger van de Gerechtelijke politice;
--   een vertgenwoordiger van de Algemene Rijkspolitics van het
+Kral, Bakanlar Kurulu'nda görüşülerek alınacak bir kararla, kişisel verilerin gizliliği ve güvenliğine ilişkin güvenceleri, Merkez bünyesinde bir veri koruma görevlisinin statüsünü ve görevlerini, ile Merkezin kişisel verilerin işlenmesine ilişkin olarak Kişisel Hayatın Korunması Komisyonu'na nasıl rapor vereceğini belirler.
 
-Bakanlık van Binnenlandse Zaken;
+§ 4. Merkezin kamu talebi üzerine verdiği bilgiler, Merkezin elindeki bilgilere dayanır ve zararlı tarikat örgütlerinin listeleri veya sistematik dökümleri şeklinde sunulamaz.
 
--   Een vertgenwoordiger van het Bakanie van Ambtenarenzaken;
--   een vertgenwoordiger van het Bestuur Veiligheid van de Staat;
--   een vertgenwoordiger van het Yönetmenaat- general burgerlijke
-
-Wetgeving en erediensten van het Bakanie van Justitie;
-
--   Een vertgenwoordiger van het Yönetmenaat- general strafwetgeving en rechten van de mens van het Bakanie van Justitie;
-    
--   Een vertgenwoordiger van de Dienst voor Strafrechterlijk Beleid van het Bakanie van Justitie;
-    
--   Een vertgenwoordiger van het Bakanie van Binnenlandse Zaken;
-    
--   Een vertgenwoordiger van het Bakanie van Financien;
-    
--   een vertgenwoordiger van het Bakanie van Tewerkstelling en çok
-    
-
-Arbeid;
-
--   Een vertgenwoordiger van het Bakanie van Landsveryiş. Madde 2. Voor elke vertgenwoordiger kelimesi, Tianens een plaatsvervan- ger aangeduid.
-
-Madde 3. vertgenwoordigers'tan hun plaatsvervangers'a, Bakan van Justitie'ye, na voordracht kapısına saygı gösterdi.
-
-### HOOFDSTUK II. – Van de Administratieve Coo ukrdinatiecelcelcel
-
-Madde 4. De voorzitter bepaalt de plaats, de dag en het aanvangsuur van de vergaderingen en maakt de gündemi op. Elk van de heeft'i recht de voorzitter te vragen punten op de Agenda te plaatsen'i yeniden canlandırdı. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties heeft eveneens het recht de voorzitter te tökezken sten op de gündemi te plaatsen.
-
-5\. Madde 5. Behoudens hoogdringendheid worden de uitnodigingen en de gündem bile olaylı stukken, na onderteking door de voorzitter, door de secretaris on minste acht dagen vooraf aan de leaden toegezonden.
-
-Madde 6. De, Verhinderd zijn'i yönetti, worden vervangen kapısı hun plaatsvervanger hem sturen hem zelf de stukken kapısı.
-
-Madde 7. De Administratieve Coo urrdinatiecel vergadert slechts geldig indian on minste de helft van de hun plaatsvervangers aanwezig. Ingeval geen meerderheid aanwezig was, worden de leaden opnieuw uitgenodigd, in welk geval de Administratieve Coo ulurdinatiecel cameg vergadert, wat look het aantal aanwezige hasen.
-
-8\. Elk kapak van de Administratieve Coo urrdinatiecel, bij verhin-dering zijn plaatsvervanger, een kök üzerinde dur. De beslissingen bij unanimititeit van de aanwezige genomu yönetti. De voorzitter van het Informatie- en Adviescentrum inzake schade-lijke sektarische organizaties of zijn plaatsvervanger kan:
-
--   uitgenodigd worden de vergaderingen van de Administratieve Coo urrdinatiecel bij te kazandı;
--   ge ge . . . . . ..
+Madde 7. Merkezin görüş ve tavsiyeleri gerekçelidir.
+Görüşler, Merkezin aksi yönde gerekçeli bir kararına kadar açıktır.
 
 ---
 
-(Page 12)
+(Sayfa 7)
 
-Madde 9. De secretaris maakt proces-söz aal op van de vergaderingen. Ot na goedkeuring door de voorzitter, pgende uitnodiging meegestuurd ile tanıştı.
+Madde 8. § 1. Merkez yalnızca üyelerinin çoğunluğu hazır bulunduğunda toplanabilir. Kararlar salt çoğunlukla alınır. Eşitlik halinde başkanın veya onun engeli halinde başkan yardımcısının oyuna üstünlük tanınır.
 
-De brengen hun opmerkingen schriftelijk ter kennis tot uiterlijk ee'n dag voor de vergadering.
+Benimsenen görüşler, ortaya konulan farklı görüşleri yansıtacaktır.
 
-Madde 10. De advie en aanbevelingen die het Centrummet toepassing van artikel 6, § 1, 4° van de ıslak van 2 juni 1998 uitbrengt, worden door het Centrumaan de voorzitter van de Administratieve Coo uchrdinatiecel overgezonden.
+§ 2. Merkez, Temsilciler Meclisi'nin tarikatların yasa dışı uygulamalarına ve bunların toplum ile bireyler, özellikle reşit olmayanlar üzerindeki tehlikelerine karşı politika geliştirilmesi amacıyla kurulan parlamento soruşturma komisyonunun açık oturumlarının tam stenografik tutanağına, politika geliştirme maksadıyla erişebilir.
 
-De Administratieve Coo urrdinatiecel stelt in overleg met het Centrum large de wijze van:
+Madde 9. Merkez, tüm görevlerini yürütürken uzmanların yardımına başvurabilir.
+Kral, bu uzmanların ücretlendirilmesine ilişkin usulleri belirler.
 
--   Coordinatie van olası eylemler;
--   van het toezicht op de uitvoering van de aanbevelingen en adviezen van het Centrum voor zover ze onder hun bevoegdheden vallen.
+Madde 10. Merkez tarafından toplanan gizli verilere erişen tüm kişiler için, Ceza Kanunu'nun 458. maddesinde belirtilen meslek sırrı hükmü uygulanır. Aynı yükümlülük, Merkez üyesi olmayan fakat uzman, araştırmacı veya personel olarak görev yapan herkes için de geçerlidir.
 
-11\. Madde 11. De maatregelen ölü de Administratieve Coo urrdinatiecel voorstelt, kelimesi schriftelijk aan de betrokken diensten of anlıkies, evenals aan de voorzitter van het Centrum meegedeeld.
+Madde 11. Merkez her iki yılda bir faaliyet raporu hazırlar. Bu rapor Bakanlar Kurulu'na, Yasama Meclislerine ve Topluluk ve Bölge Konseyleri ile Hükümetlerine gönderilir.
 
-Madde 12. De Administratieve Coo urrdinatiecel pleegt overleg, alle bevoegde diensten en bestruren binnen het fate van zijn opdrachten. Ze kan ze onder meer uitnodigen en hen inlichtingen vragen. federale overheden dienen de door de Administratieve Coo urrdinatiecel gevraagde inlichtingen te bezorgen.
+Madde 12. Merkezin bir sekretaryası vardır.
 
-Madde 13. De Administratieve Coo urrdinatiecel vergadert minstens eenmaal om de twee maanden.
+Personel, Merkezin görüşü önceden alındıktan sonra Adalet Bakanı tarafından temin edilir.
 
-Administratieve Coo urrdinatiecel, zesmaandelijks verslag uit aan het Centrum nopens haar werkzaamheden.
+Personel, Merkez başkanının doğrudan yetkisi altındadır. Merkezin işletme giderleri Adalet Bakanlığı bütçesinden karşılanır.
 
-### HOOFDSTUK III. - Organizasyon
+### BÖLÜM III. — Zararlı tarikat örgütleriyle mücadelede İdari Koordinasyon Hücresi
 
-Madde 14. Alle, van de Administratieve Coo urrdinatiecel vormen 2Office2'yi reddetti. Het 2Office2 wijst een dagelijks bestuur aan, aynıngesteld uit de voorzitter, er van rechtswege deel van uitmaakt twee gekozen liderlik etti.
+Madde 13. Zararlı tarikat örgütleriyle mücadelede İdari Koordinasyon Hücresi Adalet Bakanlığı nezdinde kurulur.
 
-Madde 15. De Administratieve Coo urrdinatiecel kan wanneer bijzondere opdrachten dit veran twoorden subgroepen binnen haar schoot oprichten.
+Madde 14. İdari Koordinasyon Hücresinin başkanlığını Adalet Bakanı veya yetkilendireceği temsilci yürütür.
+Kral, Bakanlar Kurulu kararıyla İdari Koordinasyon Hücresinin bileşimini belirler.
 
-Madde 16. De Bakan van Justitie stelt administratief personeel, Poden en de noodzakelijke bürokratik bürokrat van de Administratieve Coo uchrdinatiecel.
+Madde 15. İdari Koordinasyon Hücresinin görevleri şunlardır :
 
-Madde 17. De artikelen 1 tot en iyi 3 treden in werking op de dag waarop dit bekendgemaakt in het Belgisch Staatsblad en de overige artikelen op 1 januari 1999.
+1° Yetkili kamu hizmetleri ve idareler tarafından yürütülen eylemleri koordine etmek;
 
-Madde 18. 11 Bakan van Justitie güzel bir met de uitvoering van dit besluit.
+2° Zararlı tarikat örgütlerinin yasa dışı uygulamalarının seyrini incelemek;
 
-Gegeven te Brussel, 8 Kasım 1998.
+3° Bu eylemlerin koordinasyonunu ve etkinliğini artırmaya yönelik önlemler önermek;
 
-ALBERT Van Koningswege: Bakan van Justitie, T. VAN PARYS
+4° Yetkili hizmetler ve idareler ile istişare ederek vatandaşları zararlı tarikat örgütlerinin faaliyetlerine karşı korumaya yönelik bir önleme politikası geliştirilmesini teşvik etmek;
 
----
-
-(Page 13)
-
-## III.
+5° Merkez ile yakın işbirliği kurmak ve Merkezin öneri ve tavsiyelerinin uygulanmasına yönelik gerekli önlemleri almak.
 
 ---
 
-(Page 14)
+(Sayfa 8)
 
-## RELEVANT PARLIAMENTARY AND ANNAL DOCUMENTS
+Madde 16. Kral, İdari Koordinasyon Hücresinin işleyişi ve örgütlenmesine ilişkin usulleri Bakanlar Kurulu kararıyla belirler.
+Bu kanunun ilanını, ülke mührü ile mühürlenmesini ve Belçika Resmi Gazetesi'nde yayımlanmasını emrederiz.
 
-### A. PARLIAMENTARY
+Brüksel'de verilmiştir, 2 Haziran 1998.
 
--   Temsilciler Meclisi Belgeleri:
-    -   313 (1995-1996)
-        -   No. 1: Mr. Duqesne ve al.
-        -   2 ila 4: Bay Duquesne ve Bay Moureaux ve Bayan de Tserclaes
-        -   Adalet Komisyonu adına Bay Borin'in 5 Raporu
-        -   Adalet Komitesi tarafından kabul edilen 6 Text.
-    -   Temsilciler Meclisi'nin Annales
-        -   13 14 ve 28 Mart 1996.
+ALBERT
+Kraliyet adına :
+Adalet Bakanı,
+T. VAN PARYS
+Ülke mührüyle mühürlenmiştir : Adalet Bakanı,
+T. VAN PARYS
+Not
 
-### B. PARLIAMENTARY
+(1) Olağan oturum 1996-1997.
 
--   Temsilciler Meclisi Belgeleri:
-    -   313 (1995-1996)
-        -   7 ve 8 Raporu Messrs tarafından komite adına hazırlandı. Duquesne ve Willems
-        -   No. 9 Hareket plenary oturumda kabul edildi
-    -   Temsilciler Meclisi'nin Annales
-        -   30 Nisan ve 7 Mayıs 1997.
+Temsilciler Meclisi.
+Parlamento belgeleri. - Bay Duquesne tarafından verilen yasa önerisi, nr. 1198/1. - Değişiklikler, nr. 1198/2 ila 7. - Bay Willems tarafından yapılan rapor, nr. 1198/8. - Komisyonca kabul edilen metin, nr. 1198/9. - Genel kurulda kabul edilen ve Senato'ya gönderilen metin, nr. 1198/10.
+Parlamento tutanakları. - Görüşme. 22 Nisan 1998 toplantısı. - Kabul. 28 Nisan 1998 toplantısı.
+Senato.
+Parlamento belgeleri. - Temsilciler Meclisi tarafından gönderilen tasarı, nr. 1-965/1-1997-1998. Senato tarafından gündeme alınmayan tasarı, nr. 1-965/2-1997-1998.
 
-### C. 2 JUNE 1998
+---
 
--   Temsilciler Meclisinin Belgeleri
-    -   1198 (1996-1997)
-        -   Hayır. 1: Bay Duquesne tarafından
-        -   Nos 2 to 7: Messrs. J.-P. Viseur, Duquesne, Beaufays, Willems ve Hükümet
-        -   8: Adalet Komitesi adına Bay Willems tarafından rapor
-        -   9: Adalet Komitesi tarafından kabul edilen metin
-        -   No. 10: Text plenary oturumda kabul edildi ve Senato'ya gönderildi.
-    -   Temsilciler Meclisi'nin Annales
-        -   22 ve 28 Nisan 1998
--   Senato belgeleri
-    -   1-965 (1997-1998)
-        -   No. 1 Taslağı Temsilciler Meclisi tarafından
-        -   No. 2 Proje Senato tarafından adlandırılmadı.
+(Sayfa 9)
+
+## BÖLÜM II
+
+8 Kasım 1998 tarihli Kraliyet Kararı; zararlı tarikat örgütlerine karşı mücadeleyi koordine eden İdari Koordinasyon Hücresinin bileşimini, işleyişini ve örgütlenmesini belirleyen Karar (Moniteur belge, 9 Aralık 1998)
+
+---
+
+(Sayfa 10)
+
+### KANUNLAR, DEKRETLER, KARARNAMELER VE YÖNETMELİKLER
+
+ADALET BAKANLIĞI
+
+N. 98 — 3277 [S−C−98/09981] 8 KASIM 1998. — Zararlı tarikat örgütlerine karşı mücadelede İdari Koordinasyon Hücresinin bileşimi, işleyişi ve örgütlenmesine ilişkin Kraliyet Kararı.
+
+ALBERT II, Belçika Kralı, şimdi ve sonrasında bulunacak herkese selamlarımızı gönderir.
+
+2 Haziran 1998 tarihli, zararlı tarikat örgütleri hakkında Bir Bilgi ve Görüş Merkezi ile zararlı tarikat örgütlerine karşı mücadeleyi koordine eden İdari Koordinasyon Hücresi kurulmasına dair Kanun göz önünde tutularak;
+10 Eylül 1998'de verilen Maliye Müfettişi görüşü dikkate alınarak;
+12 Ocak 1973'te koordine edilen Devlet Konseyi kanunları, özellikle 3. madde, § 1 göz önünde tutularak ve 9 Ağustos 1980, 16 Haziran 1989, 4 Temmuz 1989 ve 4 Ağustos 1996 tarihli kanunlarla yapılan değişiklikler dikkate alınarak;
+acil zorunluluk göz önünde bulundurularak;
+Parlamento Soruşturma Komisyonu'nun, tarikatların bireyler, özellikle reşit olmayanlar üzerindeki tehlikelerine karşı politika geliştirme görevi çerçevesinde, bir Bilgi ve Görüş Merkezi ile İdari Koordinasyon Hücresi kurulmasının acil gereksinimini ortaya koyduğu değerlendirilerek; bu olguyu izlemekle görevlendirilecek bir kurumun en kısa sürede oluşturulması amacıyla;
+2 Haziran 1998 tarihinde Kral tarafından imzalanmış olan ve bu nedenle Kanun ile yürütme kararlarının mümkün olan en kısa sürede yayımlanmasının uygun görüldüğü, böylece Bilgi ve Görüş Merkezi ile İdari Koordinasyon Hücresinin 1 Ocak 1999 tarihinden itibaren görevlerine başlamalarının sağlanması gerektiği düşünülerek;
+Adalet Bakanımızın önerisi ve Bakanlar Kurulunda görüşülen Bakanlarımızın görüşü üzerine,
+
+Karar verdik ve kararlaştırdık :
+
+### BÖLÜM I. — İdari Koordinasyon Hücresinin Bileşimi
+
+Madde 1. 2 Haziran 1998 tarihli kanunun 13. maddesiyle kurulan İdari Koordinasyon Hücresi aşağıdaki şekilde oluşturulur :
+
+- Başsavcılar Kurulu temsilcisi;
+- bir ulusal yargıç;
+- Jandarma temsilcisi;
+- Ceza Polisi temsilcisi;
+- İçişleri Bakanlığı Genel Polis temsilcisi;
+- Kamu Görevlileri Bakanlığı temsilcisi;
+- Devlet Güvenliği İdaresi temsilcisi;
+- Adalet Bakanlığı Sivil Hukuk ve İbadet Hizmetleri Genel Müdürlüğü temsilcisi;
+- Adalet Bakanlığı Ceza Hukuku ve İnsan Hakları Genel Müdürlüğü temsilcisi;
+- Adalet Bakanlığı Ceza Politikası Hizmetleri temsilcisi;
+- İçişleri Bakanlığı temsilcisi;
+- Maliye Bakanlığı temsilcisi;
+- İstihdam ve Çalışma Bakanlığı temsilcisi;
+- Savunma Bakanlığı temsilcisi.
+
+Madde 2. Her temsilci için ayrıca bir yedek üye de belirlenir.
+
+Madde 3. Temsilciler ve bunların yedekleri, bağlı bulundukları ilgili idarelerin önerileri üzerine Adalet Bakanı tarafından atanır.
+
+### BÖLÜM II. — İdari Koordinasyon Hücresinin İşleyişi
+
+Madde 4. Başkan, toplantıların yeri, günü ve başlama saatini belirler ve gündemi hazırlar.
+Her üyenin başkana gündeme madde eklenmesini isteme hakkı vardır.
+Zararlı tarikat örgütleri hakkında Bilgi ve Görüş Merkezi başkanı da gündeme madde konulmasını talep etme hakkına sahiptir.
+
+Madde 5. Acil durumlar hariç olmak üzere, davetler ve gündem ile varsa belgeler, başkan tarafından imzalandıktan sonra sekreter tarafından üyelerden en az sekiz gün önce gönderilir.
+
+Madde 6. Katılamayan üyeler yedekleri tarafından temsil edilir ve belgeleri kendileri yedeklerine iletirler.
+
+Madde 7. İdari Koordinasyon Hücresi, üyelerin veya onların yedeklerinin en az yarısı hazır olmadıkça geçerli şekilde toplanamaz.
+Çoğunluk yoksa üyeler yeniden davet edilir; bu durumda, hazır bulunan üye sayısı ne olursa olsun İdari Koordinasyon Hücresi geçerli şekilde toplanır.
+
+Madde 8. İdari Koordinasyon Hücresi'nin her üyesi ve engel halinde onun yedeği birer oya sahiptir.
+Kararlar hazır bulunan üyelerin oybirliği ile alınır.
+Zararlı tarikat örgütleri hakkında Bilgi ve Görüş Merkezi başkanı veya onun yedeği :
+
+- İdari Koordinasyon Hücresi toplantılarına davet edilebilir;
+- gündem gerektirdiğinde dinlenebilir.
+
+---
+
+(Sayfa 12)
+
+Madde 9. Sekreter toplantı tutanaklarını düzenler. Bunlar başkan tarafından onaylandıktan sonra bir sonraki davetle birlikte gönderilir.
+
+Üyeler, toplantıdan en geç bir gün önce yazılı olarak görüşlerini bildirebilirler.
+
+Madde 10. 2 Haziran 1998 tarihli kanunun 6. maddesi, § 1, 4° kapsamında Merkez tarafından verilen görüş ve tavsiyeler Merkez tarafından İdari Koordinasyon Hücresi başkanına iletilir.
+
+İdari Koordinasyon Hücresi, Merkez ile istişare içinde, aşağıdaki usulleri kararlaştırır :
+
+- olası eylemlerin koordinasyonu;
+- Merkezin tavsiye ve görüşlerinin, yetkileri dahilinde olması halinde uygulanmasının denetlenmesine ilişkin düzenlemeler.
+
+Madde 11. İdari Koordinasyon Hücresi tarafından önerilen önlemler, ilgili hizmet veya kurumlara ve Merkez başkanına yazılı olarak bildirilir.
+
+Madde 12. İdari Koordinasyon Hücresi, görevleri çerçevesinde tüm yetkili hizmet ve idarelerle istişarede bulunur. Bunları davet edebilir ve bilgi talep edebilir. Federal idareler, İdari Koordinasyon Hücresi'nin talep ettiği bilgileri sağlamakla yükümlüdür.
+
+Madde 13. İdari Koordinasyon Hücresi en az iki ayda bir kez toplantı yapar.
+
+İdari Koordinasyon Hücresi, çalışmalarına dair altı aylık bir raporu Merkeze sunar.
+
+### BÖLÜM III. — Örgütlenme
+
+Madde 14. İdari Koordinasyon Hücresi'nin tüm üyeleri "Büro"yu oluşturur. "Büro", doğal üyesi olan başkan ile seçilmiş iki üyeden oluşan günlük yönetim organını atar.
+
+Madde 15. İdari Koordinasyon Hücresi, özel görevler gerektirdiğinde bünyesinde alt gruplar kurabilir.
+
+Madde 16. Adalet Bakanı, İdari Koordinasyon Hücresi'ne idari personel, mekân ve gerekli ofis malzemelerini sağlar.
+
+Madde 17. 1 ila 3. maddeler, bu kararın Belçika Resmi Gazetesi'nde yayımlandığı tarihte yürürlüğe girer; diğer maddeler ise 1 Ocak 1999 tarihinde yürürlüğe girer.
+
+Madde 18. Bu kararın uygulanmasından Adalet Bakanımız sorumludur.
+
+Brüksel'de verilmiştir, 8 Kasım 1998.
+
+ALBERT
+Kraliyet adına : Adalet Bakanı,
+T. VAN PARYS
+
+---
+
+(Sayfa 13)
+
+## BÖLÜM III
+
+---
+
+(Sayfa 14)
+
+## PARLAMENTO BELGELERİ VE TUTANAK DÖKÜMÜ
+
+### A. SORUŞTURMA KOMİSYONUNUN KURULUŞU
+
+- Temsilciler Meclisi belgeleri :
+  - 313 (1995-1996)
+    - no 1 : Bay Duquesne ve diğerleri tarafından sunulan öneri
+    - nos 2 à 4 : Bay Duquesne ve Bay Moureaux ile Bayan de T'Serclaes tarafından verilen değişiklik önerileri
+    - no 5 : Bay Borin tarafından Adalet Komisyonu adına hazırlanan rapor
+    - no 6 : Adalet Komisyonu tarafından kabul edilen metin.
+  - Temsilciler Meclisi zabıtları
+    - 13, 14 ve 28 Mart 1996.
+
+### B. PARLAMENTO SORUŞTURMA KOMİSYONUNUN ÇALIŞMALARI
+
+- Temsilciler Meclisi belgeleri :
+  - 313 (1995-1996)
+    - nos 7 et 8 : Bay Duquesne ve Bay Willems tarafından komisyon adına hazırlanan rapor
+    - no 9 : Genel kuruldaki oturumda kabul edilen önerge
+  - Temsilciler Meclisi zabıtları
+    - 30 Nisan ve 7 Mayıs 1997.
+
+### C. 2 HAZİRAN 1998 KANUNU
+
+- Temsilciler Meclisi belgeleri
+  - 1198 (1996-1997)
+    - no 1 : Bay Duquesne tarafından sunulan öneri
+    - nos 2 à 7 : Bay J.-P. Viseur, Bay Duquesne, Bay Beaufays, Bay Willems ve hükümet tarafından sunulan değişiklikler
+    - no 8 : Bay Willems tarafından Adalet Komisyonu adına hazırlanan rapor
+    - no 9 : Adalet Komisyonu tarafından kabul edilen metin
+    - no 10 : Genel kurulda kabul edilen ve Senato'ya iletilen metin.
+  - Temsilciler Meclisi zabıtları
+    - 22 ve 28 Nisan 1998
+- Senato belgeleri
+  - 1-965 (1997-1998)
+    - no 1 : Temsilciler Meclisi tarafından gönderilen tasarı
+    - no 2 : Senato tarafından ele alınmayan tasarı.
