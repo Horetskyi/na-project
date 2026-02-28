@@ -1,69 +1,72 @@
-# \[ Gambar di hlm.
+# Penafian / Perundangan
 
-## 1) Situs web independen (tanpa afiliasi)
+## 1) Laman web bebas (tiada afiliasi)
 
-Situs web ini adalah **Sumber daya informasi independen yang independensial** Dia diciptakan untuk analisis, kritik, dan diskusi publik.
+Laman web ini adalah sebuah **sumber maklumat bebas** yang diwujudkan untuk analisis, kritikan, dan perbincangan berkepentingan awam.
 
-Ini adalah **tidak berafiliasi dengan, didukung oleh, disponsori oleh, atau dioperasikan** Di kota Akropolis Baru (juga dikenal sebagai \\" Akropolis Baru\\", \\"Nouvelle Acropole\\", \\"Nueva Acropolis\\") atau salah satu perwakilan, cabang, atau entitas terkaitnya.
+Ia **tidak berafiliasi dengan, disokong oleh, disponsori oleh, atau dioperasikan** oleh Akropolis Baharu (juga dikenali sebagai “New Acropolis”, “Nouvelle Acropole”, “Nueva Acrópolis”) atau mana-mana wakil, cawangan, atau entiti berkaitan.
 
-Jika Anda mencari informasi resmi, silakan gunakan situs web resmi dan saluran komunikasi organisasi.
+Jika anda mencari maklumat rasmi, sila gunakan laman web rasmi organisasi dan saluran komunikasi mereka.
 
-## 2) Penggunaan nama dan merek dagang (identifikasi saja)
+## 2) Penggunaan nama dan tanda dagang (pengenalan sahaja)
 
-Apa saja referensi di situs ini untuk ”**Akropolis Baru**” dan nama, istilah, logo, atau merek dagang yang berkaitan ” dibuat **semata-mata untuk tujuan mengidentifikasi organisasi yang sedang dibahas** Dan menyediakan komentar.
+Sebarang rujukan di laman ini kepada ”**Akropolis Baharu**” dan nama, istilah, logo, atau tanda dagang yang berkaitan dibuat **semata-mata untuk tujuan mengenal pasti organisasi yang sedang dibincangkan** dan menyediakan ulasan.
 
-Semua merek dagang, tanda jasa, dan logo adalah milik pemiliknya masing-masing. Situs web ini **Kekhalifahan tidak mengklaim kepemilikan apapun** Dari merek dagang pihak ketiga dan tidak menggunakannya untuk menyiratkan sponsorship, kemitraan, atau dukungan.
+Semua tanda dagang, tanda perkhidmatan, dan logo adalah hak milik pemilik masing-masing.
+Laman web ini **tidak menuntut sebarang pemilikan** terhadap tanda dagang pihak ketiga dan tidak menggunakannya untuk menyiratkan tajaan, perkongsian, atau sokongan.
 
-## 3) Tidak ada peniruan / tidak ada perwakilan resmi
+## 3) Tiada penyamaran / tiada perwakilan rasmi
 
-Kami tidak memperkenalkan diri sebagai Akropolis Baru, ataupun wakil, karyawan, agen, atau mitra yang berwenang dari Akropolis Baru.
+Kami tidak mempersembahkan diri kami sebagai Akropolis Baharu, mahupun sebagai wakil, pekerja, ejen, atau rakan yang diberi kuasa oleh Akropolis Baharu.
 
-Desain, tata letak, dan isi situs web ini diciptakan secara independen dan dimaksudkan untuk menghindari kebingungan dengan sumber daya resmi apapun.
+Reka bentuk, susun atur, dan kandungan laman web ini dicipta secara bebas dan bertujuan untuk mengelakkan kekeliruan dengan mana-mana sumber rasmi.
 
-## 4) Tujuan dan keterbatasan Konten
+## 4) Tujuan dan keterbatasan kandungan
 
-Konten di situs ini disediakan untuk **Informasi dan tujuan pendidikan**Ini mencerminkan analisis dan interpretasi dari:
+Kandungan di laman ini disediakan untuk **tujuan maklumat dan pendidikan**. Ia mencerminkan analisis dan interpretasi daripada:
 
--   Sumber yang tersedia di publik,
--   Dokumen yang dikutip,
--   kesaksian atau pernyataan yang diberikan kepada kami,
--   Bahasa Arab dan bahan lainnya digunakan dalam konteks komentar.
+- sumber yang tersedia untuk umum,
+- dokumen yang dirujuk,
+- testimoni atau kenyataan yang diberikan kepada kami,
+- dan bahan lain yang digunakan dalam konteks ulasan.
 
-Meskipun kita bertujuan untuk akurat dan adil, kita tidak dapat menjamin bahwa semua informasi lengkap, terkini, atau bebas dari kesalahan. Tak ada apapun di situs ini yang harus dipahami sebagai nasihat hukum profesional.
+Walaupun kami berusaha untuk tepat dan adil, kami tidak dapat menjamin bahawa semua maklumat adalah lengkap, terkini, atau bebas daripada kesilapan.
+Tiada apa-apa di laman ini yang harus difahami sebagai nasihat undang-undang profesional.
 
-## 5) Pendapat dan pernyataan
+## 5) Pendapat dan kenyataan
 
-Kecuali secara eksplisit dinyatakan sebagai kutipan langsung dari sumber, bagian dari situs web ini mungkin berisi **pendapat, analisis, dan komentar**konten tersebut disediakan dengan itikad baik dan ditujukan untuk diskusi umum.
+Kecuali dinyatakan secara eksplisit sebagai petikan langsung daripada sumber, bahagian laman web ini mungkin mengandungi **pendapat, analisis, dan ulasan**. Kandungan sedemikian disediakan dengan itikad baik dan bertujuan untuk perbincangan awam.
 
-## \[6\] Sambungan luar
+## 6) Pautan luaran
 
-Situs web ini mungkin termasuk link ke situs web pihak ketiga untuk referensi. Kami tidak mengendalikan situs web tersebut dan tidak bertanggung jawab atas konten, ketersediaan, atau kebijakan mereka.
+Laman web ini mungkin termasuk pautan ke laman web pihak ketiga untuk rujukan. Kami tidak mengawal laman web tersebut dan tidak bertanggungjawab ke atas kandungan, ketersediaan, atau dasar mereka.
 
-## 2) Hak cipta dan penggunaan / kutipan yang adil
+## 7) Hak cipta dan penggunaan wajar / petikan
 
-Kami menghormati hak kekayaan intelektual. Di mana bahan-bahan pihak ketiga digunakan, bahan-bahan tersebut digunakan untuk tujuan seperti kritik, komentari, penelitian, dan identifikasi, dan biasanya disertai dengan konteks dan/atau referensi.
+Kami menghormati hak harta intelek. Apabila bahan pihak ketiga digunakan, ia digunakan untuk tujuan seperti kritikan, ulasan, penyelidikan, dan pengenalpastian, dan biasanya disertakan dengan konteks dan/atau rujukan.
 
-Jika Anda percaya bahwa setiap konten di situs web ini melanggar hak cipta atau hak lainnya, silakan hubungi kami dengan rincian spesifik (lihat \\"Kontak\\" di bawah). Kita akan tinjau permintaan substansi.
+Jika anda percaya bahawa sebarang kandungan di laman web ini melanggar hak cipta atau hak anda yang lain, sila hubungi kami dengan butiran spesifik (lihat “Kontak” di bawah). Kami akan mengkaji permintaan yang disokong.
 
-## Pembetulan, kanan balasan, dan permintaan pengambilan
+## 8) Pembetulan, hak balas, dan permintaan penurunan
 
-Kami mengambil ketepatan serius. Jika Anda percaya bahwa konten di situs web ini tidak akurat, menyesatkan, atau secara tidak sah diterbitkan, silakan kirim pesan termasuk:
+Kami mengambil ketepatan dengan serius. Jika anda percaya bahawa sebarang kandungan di laman web ini tidak tepat, mengelirukan, atau diterbitkan secara tidak sah, sila hantar mesej yang merangkumi:
 
--   \[ Gambar di hlm.
--   Pernyataan spesifik yang Anda berdebat,
--   Penjelasan yang jelas mengapa Anda percaya itu tidak akurat atau haram,
--   2008 dan mendukung bukti (dokumen, tautan, atau sumber lain yang dapat diverifikasi).
+- URL tepat halaman yang dipertikaikan,
+- kenyataan khusus yang anda pertikaikan,
+- penjelasan jelas mengapa anda percaya ia tidak tepat atau menyalahi undang-undang,
+- dan bukti sokongan (dokumen, pautan, atau sumber lain yang boleh disahkan).
 
-Kami akan meninjau permintaan Anda dan, di mana sesuai, menerbitkan koreksi, klarifikasi, atau memperbarui konten. Permintaan yang berlebihan, kabur, atau tidak didukung mungkin tidak mendapat tanggapan.
+Kami akan mengkaji permintaan anda dan, di mana sesuai, menerbitkan pembetulan, penjelasan, atau mengemas kini kandungan.
+Permintaan yang bersifat menyerang, samar, atau tidak disokong mungkin tidak menerima jawapan.
 
-## Kontak 9)
+## 9) Hubungi
 
-Untuk pemberitahuan hukum, permintaan pembetulan, atau pertanyaan yang benar, kontak:
+Untuk notis undang-undang, permintaan pembetulan, atau pertanyaan hak untuk membalas, hubungi:
 
 **againstmanipulations@gmail.com**
 
-(Silakan termasuk baris subjek: \\"Permintaan Pembetulan dan Pembetulan”.)
+(Sila sertakan baris subjek: “Perundangan / Permintaan Pembetulan”.)
 
-## 2 Changes4\] Perubahan kepada halaman ini
+## 10) Perubahan pada halaman ini
 
-Kita dapat memperbarui halaman Disclaimer / Legal ini sebagai website berkembang. Versi terbaru adalah yang diterbitkan di halaman ini.
+Kami mungkin mengemas kini halaman Penafian / Perundangan ini selaras dengan perkembangan laman web. Versi terkini adalah yang diterbitkan di halaman ini.

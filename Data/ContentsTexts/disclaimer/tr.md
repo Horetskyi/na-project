@@ -1,69 +1,69 @@
 # Feragatname / Yasal
 
-## 1) Bağımsız web sitesi (bağlantı yok)
+## 1) Bağımsız web sitesi (bağlantısı yok)
 
-Bu web sitesi bir an **bağımsız bilgi kaynakları** Analiz, eleştiri ve halk ilgi çekici tartışma için yaratıldı.
+Bu web sitesi analiz, eleştiri ve kamu yararıyla ilgili tartışmalar için oluşturulmuş bir **bağımsız bilgi kaynağıdır**.
 
-Bu **Buna bağlı değil, sponsorluğunda ya da işletilmedi** Yeni Akropolis (ayrıca “Yeni Akropolis”, “Nouvelle Akropole”, “Nueva Acrópolis”) veya temsilcilerinin, şubelerinin veya ilgili varlıkların herhangi biri olarak da bilinir.
+Bu web sitesi, Yeni Akropolis (aynı zamanda “Yeni Akropolis”, “Nouvelle Acropole”, “Nueva Acrópolis”) veya onun temsilcileri, şubeleri veya ilişkili kuruluşları tarafından **bağlı değildir, onaylanmamıştır, sponsorluğunu taşımamaktadır veya işletilmemektedir**.
 
-Resmi bilgi arıyorsanız lütfen organizasyonun resmi web siteleri ve iletişim kanallarını kullanın.
+Resmi bilgi arıyorsanız lütfen kuruluşun resmi web sitelerini ve iletişim kanallarını kullanın.
 
-## 2) İsimlerin ve markaların Kullanımı (yalnızca anonimleştirme)
+## 2) İsimlerin ve markaların kullanımı (yalnızca tanımlama amacıyla)
 
-Bu sitedeki herhangi bir referanslar “**Yeni Akropolis**" ve ilgili isimler, terimler, logolar veya markalar yapılır. **Sadece organizasyonun tartışılması amacı için** Ve yorum yapmak.
+Bu sitede “**Yeni Akropolis**” ve ilgili isimler, terimler, logolar veya ticari markalara yapılan her referans, **sadece tartışılan kuruluşu tanımlama ve yorum sağlamaya yöneliktir**.
 
-Tüm markalar, hizmet işaretleri ve logolar ilgili sahiplerinin mülküdür. Bu web sitesi **Herhangi bir mülkiyet iddia etmiyor** Üçüncü taraf markalarından ve onları sponsorluk, ortaklık veya ciro ima etmek için kullanmaz.
+Tüm ticari markalar, hizmet işaretleri ve logolar ilgili sahiplerinin mülkiyetindedir. Bu web sitesi üçüncü taraf ticari markaları üzerinde **herhangi bir mülkiyet iddiasında bulunmaz** ve bunları sponsorluk, ortaklık veya onay ima etmek için kullanmaz.
 
-## 3) Yetkisiz değil / resmi bir temsil
+## 3) Taklit yok / resmi temsil yok
 
-Kendimizi Yeni Akropolis olarak, ne de temsilciler, çalışanlar, ajanlar veya Yeni Akropolis'in yetkili ortakları olarak sunmuyoruz.
+Kendimizi Yeni Akropolis olarak ya da Yeni Akropolis’in temsilcileri, çalışanları, ajanları veya yetkili ortakları olarak tanıtmıyoruz.
 
-Bu web sitesinin tasarımı, düzeni ve içeriği bağımsız olarak yaratılmıştır ve herhangi bir resmi kaynakla karışıklıktan kaçınmak amaçlanmaktadır.
+Bu web sitesinin tasarımı, düzeni ve içeriği bağımsız olarak oluşturulmuştur ve herhangi bir resmi kaynakla karışıklık oluşmasını önlemeyi amaçlamaktadır.
 
 ## 4) İçerik amacı ve sınırlamaları
 
-Bu sitedeki içerik için sağlanmaktadır. **Bilgi ve eğitim amaçları**. Bu analizleri ve yorumlarını yansıtıyor:
+Bu sitedeki içerik **bilgilendirme ve eğitim amaçlı** sunulmaktadır. Aşağıdakilerin analizini ve yorumunu yansıtır:
 
--   Açık kaynaklar,
--   Belgeler,
--   Bize sağlanan referanslar veya ifadeler,
--   ve diğer malzemeler yorum bağlamında kullanılır.
+- kamuya açık kaynaklar,
+- atıf yapılan belgeler,
+- bize sağlanan tanıklıklar veya ifadeler,
+- ve yorum bağlamında kullanılan diğer materyaller.
 
-Doğru ve adil olmayı amaçlasak, tüm bilgilerin tamam, mevcut veya hatalardan ücretsiz olduğunu garanti edemeyiz. Bu sitede hiçbir şey profesyonel yasal tavsiye olarak anlaşılmamalıdır.
+Doğru ve adil olmaya çalışsak da, tüm bilgilerin eksiksiz, güncel veya hatalardan arındırılmış olduğunu garanti edemeyiz. Bu sitedeki hiçbir şey profesyonel hukuki tavsiye olarak anlaşılmamalıdır.
 
 ## 5) Görüşler ve ifadeler
 
-Bir kaynaktan doğrudan alıntı olarak belirtilmedikçe, bu web sitesinin kısımları içerebilir **görüşler, analiz ve yorum**Bu tür içerik iyi inançta sağlanır ve halk tartışması için tasarlanmıştır.
+Açıkça bir kaynaktan doğrudan alıntı olarak belirtilmedikçe, bu web sitesinin bölümleri **görüşler, analizler ve yorumlar** içerebilir. Bu tür içerikler iyi niyetle sunulur ve kamu tartışması amaçlıdır.
 
 ## 6) Dış bağlantılar
 
-Bu web sitesi referans için üçüncü taraf web sitelerine bağlantılar içerebilir. Bu web siteleri kontrol etmiyoruz ve onların içerik, kullanılabilirlik veya politikalarından sorumlu değiliz.
+Bu web sitesi referans amacıyla üçüncü taraf web sitelerine bağlantılar içerebilir. Bu siteleri kontrol etmiyoruz ve içeriklerinden, erişilebilirliklerinden veya politikalarından sorumlu değiliz.
 
-## 7) Copyright ve adil kullanım / alıntı
+## 7) Telif hakkı ve adil kullanım / alıntı
 
-Fikri mülkiyet haklarına saygı duyuyoruz. Üçüncü taraf malzemeleri nerede kullanılır, eleştiri, yorum, araştırma ve kimlik gibi amaçlar için kullanılır ve genellikle bağlam ve / veya referanslar eşlik eder.
+Fikri mülkiyet haklarına saygı gösteriyoruz. Üçüncü taraf materyaller kullanıldığında, bunlar eleştiri, yorum, araştırma ve tanımlama gibi amaçlarla kullanılmakta ve genellikle bağlam ve/veya kaynaklarla eşlik edilmektedir.
 
-Bu web sitesindeki herhangi bir içeriğin telif haklarını veya diğer haklarını ihlal ettiğine inanıyorsanız, lütfen aşağıdaki özel ayrıntılarla iletişime geçin (aşağıdaki "İletişim"). Substantiated istekleri inceleyeceğiz.
+Bu web sitesindeki herhangi bir içeriğin telif hakkınızı veya diğer haklarınızı ihlal ettiğine inanıyorsanız, lütfen belirli ayrıntılarla bizimle iletişime geçin (aşağıdaki “İletişim” bölümüne bakın). Desteklenen talepleri inceleyeceğiz.
 
-## 8 Düzeltmeler, cevap hakkı ve feragat talepleri
+## 8) Düzeltmeler, cevap hakkı ve içerik kaldırma talepleri
 
-Doğruyu ciddiye alıyoruz. Bu web sitesinde herhangi bir içeriğin yanlış, yanıltıcı veya yasadışı bir şekilde yayınlanması gerektiğine inanıyorsanız, lütfen de bir mesaj gönderin:
+Doğruluğu ciddiye alıyoruz. Bu web sitesindeki herhangi bir içeriğin yanlış, yanıltıcı veya hukuka aykırı şekilde yayımlandığına inanıyorsanız, lütfen şu bilgileri içeren bir mesaj gönderin:
 
--   Sayfanın (s) tam URL (s) sorusu,
--   Özel ifade (s) tartışıyorsunuz,
--   Bunun neden suçsuz veya yasadışı olduğuna inandığınızın açık bir açıklaması,
--   Ve kanıtları (documents, bağlantılar veya diğer doğrulanabilir kaynakları destekler).
+- ilgili sayfanın(ların) tam URL(leri),
+- itiraz ettiğiniz belirli ifade(ler),
+- bunun neden yanlış veya hukuka aykırı olduğunu düşündüğünüzün açık bir açıklaması,
+- ve destekleyici kanıtlar (belgeler, bağlantılar veya diğer doğrulanabilir kaynaklar).
 
-İsteknizi inceleyeceğiz ve nerede uygun, bir düzeltme, clarification yayınlayacağız veya içeriği güncelleyeceğiz. Abusive, belirsiz veya desteklenmeyen istekler bir cevap almayabilir.
+Talebinizi gözden geçireceğiz ve uygun olduğunda bir düzeltme, açıklama yayınlayacak veya içeriği güncelleyeceğiz. Kötü niyetli, belirsiz veya desteklenmeyen talepler yanıt almayabilir.
 
 ## 9) İletişim
 
-Yasal farklar için, düzeltme talepleri veya doğru-of-reply soruşturmalar, temas:
+Yasal bildirimler, düzeltme talepleri veya cevap hakkı başvuruları için iletişim:
 
 **againstmanipulations@gmail.com**
 
-(Lütfen konu çizgisini ekleyin: “Yasal / Düzeltme İstek”.)
+(Lütfen konu satırına: “Yasal / Düzeltme Talebi” yazın.)
 
 ## 10) Bu sayfaya değişiklikler
 
-Bu Feragatname / Yasal sayfası web sitesi geliştikçe güncelleyebiliriz. En son sürüm bu sayfada yayınlanan kişidir.
+Web sitesi geliştikçe bu Feragatname / Yasal sayfasını güncelleyebiliriz. En son sürüm, bu sayfada yayımlanan sürümdür.

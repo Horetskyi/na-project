@@ -1,39 +1,40 @@
-# Disclaimer / Legal
+# Declarație de responsabilitate / Legal
 
-## 1) Site-ul web independent (fără afiliere)
+## 1) Site web independent (fără afiliere)
 
-Acest site este un **resursă informaţională independentă** creat pentru analiză, critică și discuții de interes public.
+Acest site este o **resursă informațională independentă** creată pentru analiză, critică și discuții de interes public.
 
-Este **care nu sunt afiliate, aprobate, sponsorizate sau exploatate** de către New Acropolis (cunoscut și sub numele de New Acropolis
+Nu este **afiliat, aprobat, sponsorizat sau operat** de către **Noua Acropolă** (cunoscută și sub numele de “New Acropolis”, “Nouvelle Acropole”, “Nueva Acrópolis”) sau de vreunul dintre reprezentanții, filialele sau entitățile sale conexe.
 
-Dacă sunteți în căutarea pentru informații oficiale, vă rugăm să utilizați site-urile web oficiale ale organizației și canalele de comunicare.
+Dacă sunteți în căutarea informațiilor oficiale, vă rugăm să folosiți site-urile oficiale și canalele de comunicare ale organizației.
 
-## 2) Utilizarea numelor și a mărcilor comerciale (numai identificarea)
+## 2) Utilizarea numelor și a mărcilor comerciale (numai în scopul identificării)
 
-Orice referinţe de pe acest site la**Acropolis nou** **numai în scopul identificării organizației discutate** și furnizarea de comentarii.
+Orice referințe pe acest site la “**Noua Acropolă**” și la nume, termeni, logo-uri sau mărci înrudite sunt făcute **exclusiv în scopul identificării organizației discutate** și pentru a oferi comentarii.
 
-Toate mărcile comerciale, mărcile de serviciu și logo-urile sunt proprietatea proprietarilor respectivi. Acest site web **nu are dreptul de proprietate** de mărci comerciale terțe și nu le utilizează pentru a implica sponsorizare, parteneriat sau aprobare.
+Toate mărcile comerciale, mărcile de serviciu și logo-urile sunt proprietatea deținătorilor lor. Acest site web **nu revendică niciun drept de proprietate** asupra mărcilor comerciale ale terților și nu le utilizează pentru a sugera sponsorizare, parteneriat sau aprobare.
 
-## 3) Fără personificare/fără reprezentare oficială
+## 3) Fără personificare / fără reprezentare oficială
 
-Nu ne prezentăm ca New Acropolis, nici ca reprezentanţi, angajaţi, agenţi sau parteneri autorizaţi ai New Acropolis.
+Nu ne prezentăm ca Noua Acropolă, nici ca reprezentanți, angajați, agenți sau parteneri autorizați ai Nouvelle Acropole.
 
-Designul, aspectul și conținutul acestui site sunt create independent și sunt destinate pentru a evita confuzia cu orice resurse oficiale.
+Designul, aspectul și conținutul acestui site sunt create independent și sunt destinate să evite confuzia cu orice resurse oficiale.
 
 ## 4) Scopul conținutului și limitările
 
-Conținutul pe acest site este furnizat **scopuri informatice și educaționale**Reflectă analiza şi interpretarea:
+Conținutul de pe acest site este furnizat în scopuri **informaționale și educaționale**. Reflectă analiza și interpretarea:
 
--   surse accesibile publicului;
--   documentele citate;
--   mărturii sau declarații furnizate pentru noi,
--   și alte materiale utilizate în contextul comentariilor.
+- surse disponibile publicului,
+- documente citate,
+- mărturii sau declarații furnizate nouă,
+- și alte materiale utilizate în contextul comentariilor.
 
-Deşi dorim să fim corect şi corect, nu putem garanta că toate informaţiile sunt complete, actuale sau lipsite de erori. Nimic pe acest site nu ar trebui să fie înțeles ca consiliere juridică profesională.
+Deși urmărim să fim corecți și imparțiali, nu putem garanta că toate informațiile sunt complete, actuale sau lipsite de erori.
+Nimic de pe acest site nu ar trebui înțeles ca un sfat juridic profesionist.
 
-## 5) Avize și declarații
+## 5) Opinii și declarații
 
-Cu excepția cazului în care se precizează în mod explicit ca citat direct dintr-o sursă, părțile acestui site pot conține **avize, analize și comentarii**Acest conţinut este furnizat cu bună credinţă şi destinat discuţiilor publice.
+Cu excepția cazului în care se precizează în mod expres ca fiind citat direct dintr-o sursă, părți ale acestui site pot conține **opinii, analize și comentarii**. Astfel de conținuturi sunt furnizate cu bună credință și sunt destinate discuțiilor publice.
 
 ## 6) Legături externe
 
@@ -41,29 +42,30 @@ Acest site web poate include link-uri către site-uri terțe pentru referință.
 
 ## 7) Drepturi de autor și utilizare corectă / cotație
 
-Respectăm drepturile de proprietate intelectuală. În cazul în care sunt utilizate materiale terțe, acestea sunt utilizate în scopuri precum critică, comentarii, cercetare și identificare și sunt de obicei însoțite de context și/sau referințe.
+Respectăm drepturile de proprietate intelectuală. În cazurile în care sunt utilizate materiale ale terților, acestea sunt folosite în scopuri precum critică, comentariu, cercetare și identificare și sunt, de obicei, însoțite de context și/sau referințe.
 
-Dacă credeți că orice conținut de pe acest site vă încalcă drepturile de autor sau alte drepturi, vă rugăm să ne contactați cu detalii specifice (a se vedea Vom revizui cererile justificate.
+Dacă considerați că orice conținut de pe acest site vă încalcă drepturile de autor sau alte drepturi, vă rugăm să ne contactați cu detalii specifice (vezi “Contact” mai jos). Vom analiza cererile justificate.
 
-## 8) Corectările, dreptul de răspuns și cererile de preluare
+## 8) Corectări, dreptul de răspuns și cererile de preluare
 
-Luăm acurateţea în serios. Dacă credeți că orice conținut de pe acest site este incorect, înșelătoare sau publicat în mod ilegal, vă rugăm să trimiteți un mesaj incluzând:
+Luăm acuratețea în serios. Dacă considerați că orice conținut de pe acest site este inexact, înșelător sau publicat ilegal, vă rugăm să trimiteți un mesaj care să includă:
 
--   URL-ul exact (s) al paginii respective;
--   declarația (declarațiile) specifică pe care o contestați;
--   o explicaţie clară a motivului pentru care credeţi că este incorect sau ilegal,
--   și dovezi justificative (documente, legături sau alte surse verificabile).
+- URL-ul exact al paginii (sau paginilor) în cauză,
+- declarația (declarațiile) specifică pe care o contestați,
+- o explicație clară a motivului pentru care considerați că este inexactă sau ilegală,
+- și dovezi justificative (documente, linkuri sau alte surse verificabile).
 
-Vom revizui cererea dvs. și, după caz, vom publica o corecție, o clarificare sau vom actualiza conținutul. Cererile abuzive, vagi sau nesusţinute nu pot primi un răspuns.
+Vom revizui cererea dvs. și, după caz, vom publica o corecție, o clarificare sau vom actualiza conținutul.
+Cereri abuzive, vagi sau nesuportate pot să nu primească un răspuns.
 
 ## 9) Contact
 
-Pentru anunțurile juridice, cererile de corectare sau anchetele privind dreptul de răspuns, contactați:
+Pentru notificări legale, cereri de corectare sau solicitări privind dreptul la replică, contactați:
 
 **againstmanipulations@gmail.com**
 
-(Vă rugăm să includeți linia de subiect:
+(Vă rugăm să includeți linia de subiect: “Legal / Cerere de corectare”.)
 
 ## 10) Modificări la această pagină
 
-Putem actualiza această pagină Disclaimer / Legal ca site-ul evoluează. Ultima versiune este cea publicată pe această pagină.
+Putem actualiza această pagină Declarație de responsabilitate / Legal pe măsură ce site-ul evoluează. Cea mai recentă versiune este cea publicată pe această pagină.

@@ -1,69 +1,69 @@
-# Disclaimer / Legal
+# Haftungsausschluss / Rechtliches
 
 ## 1) Unabhängige Website (keine Zugehörigkeit)
 
-Diese Website ist eine **unabhängige Informationsressource** erstellt für Analyse, Kritik und Public-Interest-Diskussion.
+Diese Website ist eine **unabhängige Informationsressource**, die für Analyse, Kritik und Diskussionen von öffentlichem Interesse erstellt wurde.
 
-Es ist **nicht mit, von gesponsert oder betrieben** von New Acropolis (auch bekannt als “New Acropolis”, “Nouvelle Acropole”, “Nueva Acrópolis”) oder einer seiner Vertreter, Zweige oder verwandte Wesen.
+Sie ist **nicht verbunden mit, nicht gebilligt von, nicht gesponsert von und wird nicht betrieben von** Neue Akropolis (auch bekannt als „New Acropolis“, „Nouvelle Acropole“, „Nueva Acrópolis“) oder einem ihrer Vertreter, Zweige oder verbundenen Einrichtungen.
 
 Wenn Sie nach offiziellen Informationen suchen, nutzen Sie bitte die offiziellen Websites und Kommunikationskanäle der Organisation.
 
-## 2) Verwendung von Namen und Marken (nur Identifizierung)
+## 2) Verwendung von Namen und Marken (nur zur Identifizierung)
 
-Alle Hinweise auf dieser Seite zu “**Neue Akropolis**” und verwandte Namen, Begriffe, Logos oder Marken werden hergestellt **ausschließlich zum Zwecke der Identifizierung der diskutierten Organisation** und einen Kommentar abgeben.
+Alle Verweise auf dieser Seite auf „**Neue Akropolis**“ und verwandte Namen, Begriffe, Logos oder Marken erfolgen **ausschließlich zum Zweck der Identifizierung der diskutierten Organisation** und zur Kommentierung.
 
-Alle Marken, Servicemarken und Logos sind Eigentum ihrer jeweiligen Eigentümer. Diese Website **erhebt kein Eigentum** von Marken Dritter und verwendet sie nicht, um Sponsoring, Partnerschaft oder Unterstützung implizieren.
+Alle Marken, Servicemarken und Logos sind Eigentum ihrer jeweiligen Inhaber. Diese Website **erhebt keinen Anspruch auf Eigentum** an Marken Dritter und verwendet sie nicht, um Sponsoring, Partnerschaft oder Unterstützung zu implizieren.
 
-## 3) Keine Person / keine offizielle Vertretung
+## 3) Keine Vortäuschung / keine offizielle Vertretung
 
-Wir präsentieren uns nicht als New Acropolis, noch als Vertreter, Mitarbeiter, Agenten oder autorisierte Partner von New Acropolis.
+Wir geben uns nicht als Neue Akropolis aus, noch als deren Vertreter, Mitarbeiter, Agenten oder autorisierte Partner.
 
-Design, Layout und Inhalt dieser Website werden unabhängig erstellt und sollen Verwechslungen mit allen offiziellen Ressourcen vermeiden.
+Design, Layout und Inhalt dieser Website werden unabhängig erstellt und sollen Verwechslungen mit offiziellen Ressourcen vermeiden.
 
-## 4) Inhalt Zweck und Einschränkungen
+## 4) Zweck der Inhalte und Einschränkungen
 
-Der Inhalt dieser Seite ist für **Informations- und Bildungszwecke**. Es spiegelt die Analyse und Interpretation von:
+Die Inhalte dieser Seite werden zu **Informations- und Bildungszwecken** bereitgestellt. Sie spiegeln Analysen und Interpretationen von:
 
--   öffentlich zugängliche Quellen,
--   zitierte Dokumente,
--   Zeugnisse oder Erklärungen, die uns vorgelegt werden,
--   und andere Materialien, die im Kontext des Kommentars verwendet werden.
+- öffentlich zugänglichen Quellen,
+- zitierten Dokumenten,
+- Zeugenaussagen oder Erklärungen, die uns vorgelegt werden,
+- und anderen Materialien, die im Kontext von Kommentaren verwendet werden.
 
-Wir wollen zwar genau und fair sein, aber wir können nicht garantieren, dass alle Informationen vollständig, aktuell oder fehlerfrei sind. Nichts auf dieser Seite sollte als professionelle Rechtsberatung verstanden werden.
+Obwohl wir um Genauigkeit und Fairness bemüht sind, können wir nicht garantieren, dass alle Informationen vollständig, aktuell oder fehlerfrei sind. Nichts auf dieser Seite sollte als professionelle Rechtsberatung verstanden werden.
 
-## 5) Stellungnahmen und Stellungnahmen
+## 5) Meinungen und Stellungnahmen
 
-Sofern nicht ausdrücklich als direktes Zitat aus einer Quelle angegeben, können Teile dieser Website enthalten **Stellungnahmen, Analysen und Kommentare**. Solche Inhalte werden in gutem Glauben bereitgestellt und zur öffentlichen Diskussion bestimmt.
+Sofern nicht ausdrücklich als direktes Zitat aus einer Quelle gekennzeichnet, können Teile dieser Website **Meinungen, Analysen und Kommentare** enthalten. Solche Inhalte werden in gutem Glauben bereitgestellt und sind für die öffentliche Diskussion bestimmt.
 
 ## 6) Externe Links
 
-Diese Website kann Links zu Websites Dritter zur Referenz enthalten. Wir kontrollieren diese Websites nicht und sind nicht für ihre Inhalte, Verfügbarkeit oder Richtlinien verantwortlich.
+Diese Website kann Links zu Websites Dritter zur Referenz enthalten. Wir kontrollieren diese Websites nicht und sind nicht verantwortlich für deren Inhalte, Verfügbarkeit oder Richtlinien.
 
-## 7) Urheberrecht und faire Nutzung / Angebot
+## 7) Urheberrecht und faire Nutzung / Zitat
 
-Wir respektieren Rechte an geistigem Eigentum. Werden Fremdmaterialien verwendet, werden sie zu Zwecken wie Kritik, Kommentar, Forschung und Identifikation verwendet und werden typischerweise von Kontext und/oder Referenzen begleitet.
+Wir respektieren Rechte an geistigem Eigentum. Werden Materialien Dritter verwendet, geschieht dies zu Zwecken wie Kritik, Kommentar, Forschung und Identifikation und wird typischerweise von Kontext und/oder Quellenangaben begleitet.
 
-Wenn Sie glauben, dass Inhalte auf dieser Website Ihr Urheberrecht oder andere Rechte verletzen, kontaktieren Sie uns bitte mit bestimmten Details (siehe unten „Kontakt“). Wir werden fundierte Anfragen überprüfen.
+Wenn Sie der Ansicht sind, dass Inhalte auf dieser Website Ihr Urheberrecht oder andere Rechte verletzen, kontaktieren Sie uns bitte mit konkreten Angaben (siehe „Kontakt“ unten). Wir werden begründete Anfragen prüfen.
 
-## 8) Berichtigungen, Antwortrecht und Rücknahmeanträge
+## 8) Berichtigungen, Recht auf Gegendarstellung und Löschanträge
 
-Wir nehmen die Genauigkeit ernst. Wenn Sie der Meinung sind, dass Inhalte auf dieser Website ungenau, irreführend oder unrechtmäßig veröffentlicht sind, senden Sie bitte eine Nachricht einschließlich:
+Wir nehmen Genauigkeit ernst. Wenn Sie der Meinung sind, dass Inhalte auf dieser Website ungenau, irreführend oder unrechtmäßig veröffentlicht sind, senden Sie bitte eine Nachricht einschließlich:
 
--   die genauen URL(s) der betreffenden Seite(n),
--   die spezifischen Erklärungen, die Sie bestreiten,
--   eine klare Erklärung, warum Sie glauben, dass es ungenau oder unrechtmäßig ist,
--   und unterstützende Beweise (Dokumente, Links oder andere nachweisbare Quellen).
+- die genauen URL(s) der betreffenden Seite(n),
+- die spezifischen Aussagen, die Sie bestreiten,
+- eine klare Erklärung, warum Sie glauben, dass es ungenau oder unrechtmäßig ist,
+- und unterstützende Beweise (Dokumente, Links oder andere verifizierbare Quellen).
 
-Wir werden Ihre Anfrage überprüfen und gegebenenfalls eine Korrektur, Klärung oder Aktualisierung der Inhalte veröffentlichen. Falsche, vage oder nicht unterstützte Anträge können keine Antwort erhalten.
+Wir werden Ihre Anfrage überprüfen und gegebenenfalls eine Korrektur, Klarstellung oder Aktualisierung der Inhalte veröffentlichen. Missbräuchliche, vage oder nicht unterstützte Anträge erhalten möglicherweise keine Antwort.
 
 ## 9) Kontakt
 
-Für gesetzliche Mitteilungen, Korrekturanträge oder rechtsverbindliche Anfragen wenden Sie sich bitte an:
+Für gesetzliche Mitteilungen, Korrekturanträge oder Anfragen zum Recht auf Gegendarstellung wenden Sie sich bitte an:
 
 **againstmanipulations@gmail.com**
 
-(Bitte beinhalten Sie die Betreffzeile: “Recht / Berichtigungsanfrage”.)
+(Bitte geben Sie die Betreffzeile an: „Recht / Berichtigungsanfrage“.)
 
 ## 10) Änderungen an dieser Seite
 
-Wir können diese Disclaimer / Legal-Seite aktualisieren, wie die Website entwickelt. Die neueste Version ist die auf dieser Seite veröffentlicht.
+Wir können diese Seite Haftungsausschluss / Rechtliches aktualisieren, während sich die Website weiterentwickelt. Die jeweils aktuelle Version ist die auf dieser Seite veröffentlichte.

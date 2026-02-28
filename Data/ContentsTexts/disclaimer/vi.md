@@ -1,69 +1,69 @@
-# Người tuyên bố hoặc hợp pháp
+# Tuyên bố miễn trừ trách nhiệm / Pháp lý
 
-## 1) Nơi Mạng Độc lập (không phụ thuộc)
+## 1) Trang web độc lập (không có liên kết)
 
-Trang web này là một **Tài nguyên thông tin độc lập** được tạo ra để phân tích, phê bình, và thảo luận lợi ích công cộng.
+Trang web này là một **nguồn thông tin độc lập** được tạo ra nhằm phân tích, phê bình và thảo luận vì lợi ích công chúng.
 
-Đúng vậy. **Không được hỗ trợ, ủng hộ bởi, được tài trợ, hoặc hoạt động** của tờ New Accrulis (cũng được biết đến như “New Accri lớn),“ Nouville Acropple, “Nueva Acóolis ” hay bất cứ người đại diện, chi nhánh hoặc các thực thể liên quan.
+Nó **không liên kết, không được ủng hộ, không được tài trợ, hoặc vận hành** bởi Tân Acropolis (còn được biết đến như “Tân Acropolis”, “Nouvelle Acropole”, “Nueva Acrópolis”) hoặc bất kỳ đại diện, chi nhánh, hay thực thể liên quan nào.
 
-Nếu bạn đang tìm kiếm thông tin chính thức, xin vui lòng dùng các trang web và kênh liên lạc chính thức của tổ chức.
+Nếu bạn đang tìm thông tin chính thức, xin vui lòng sử dụng các trang web và kênh truyền thông chính thức của tổ chức.
 
-## 2) Dùng tên và nhãn hiệu (chỉ xác định)
+## 2) Sử dụng tên và nhãn hiệu (chỉ để nhận diện)
 
-Bất cứ đề cập nào trên trang web này là “**Thành phố mới**Tên, từ ngữ, biểu tượng hoặc nhãn hiệu liên hệ được tạo ra **Chỉ vì mục đích nhận diện tổ chức đang được thảo luận** và đưa ra bình luận.
+Bất kỳ tham chiếu nào trên trang này tới “**Tân Acropolis**” và các tên, thuật ngữ, biểu tượng hoặc nhãn hiệu liên quan đều được thể hiện **chỉ nhằm mục đích nhận diện tổ chức đang được thảo luận** và để cung cấp bình luận.
 
-Mọi nhãn hiệu, dấu hiệu dịch vụ, và logo là tài sản của mỗi người chủ. Trang web này **không đòi hỏi quyền sở hữu** các nhãn hiệu bên thứ ba và không sử dụng chúng để ngụ ý tài trợ, hợp tác, hoặc ủng hộ.
+Mọi nhãn hiệu, dấu hiệu dịch vụ và logo đều là tài sản của chủ sở hữu tương ứng. Trang web này **không tuyên bố quyền sở hữu** đối với các nhãn hiệu của bên thứ ba và không sử dụng chúng để ngụ ý tài trợ, hợp tác, hay ủng hộ.
 
-## 3) Không giả mạo / không có đại diện chính thức
+## 3) Không mạo danh / không đại diện chính thức
 
-Chúng tôi không tự giới thiệu mình là thành viên New Accricon, cũng không phải đại diện, nhân viên, đặc vụ, hoặc những cộng sự có thẩm quyền của New Accrum.
+Chúng tôi không tự trình bày là Tân Acropolis, cũng không phải là đại diện, nhân viên, đại lý, hoặc đối tác được ủy quyền của Tân Acropolis.
 
-Thiết kế, bố trí, và nội dung của trang web này được tạo ra độc lập và nhằm mục đích tránh nhầm lẫn với bất kỳ nguồn lực chính thức nào.
+Thiết kế, bố cục và nội dung của trang web này được tạo độc lập và nhằm tránh nhầm lẫn với bất kỳ nguồn lực chính thức nào.
 
-## 4) Mục đích và giới hạn
+## 4) Mục đích và giới hạn của nội dung
 
-Nội dung trên trang này được cung cấp cho **Mục đích giáo dục và thông tin**Nó phản ánh sự phân tích và giải thích của:
+Nội dung trên trang này được cung cấp cho **mục đích thông tin và giáo dục**. Nó phản ánh phân tích và diễn giải của:
 
--   Các nguồn tin công khai,
--   Tài liệu được viện dẫn,
--   Các bằng chứng hoặc lời khai được cung cấp cho chúng tôi,
--   và những vật liệu khác được dùng trong văn cảnh bình luận.
+- các nguồn công khai,
+- các tài liệu được trích dẫn,
+- lời khai hoặc tuyên bố được cung cấp cho chúng tôi,
+- và các tài liệu khác được sử dụng trong bối cảnh bình luận.
 
-Trong khi chúng ta nhắm đến sự chính xác và công bằng, chúng ta không thể bảo đảm rằng mọi thông tin đều đầy đủ, hiện tại hoặc không có lỗi. Không có gì trên trang này nên được hiểu là lời khuyên pháp lý chuyên nghiệp.
+Trong khi chúng tôi cố gắng chính xác và công bằng, chúng tôi không thể đảm bảo rằng tất cả thông tin đều đầy đủ, hiện tại hoặc không có lỗi. Không có gì trên trang này nên được hiểu là lời khuyên pháp lý chuyên nghiệp.
 
-## 5) Ý kiến và lời tuyên bố
+## 5) Ý kiến và tuyên bố
 
-Trừ khi được nêu rõ ràng như một trích dẫn trực tiếp từ một nguồn, một phần của trang web này có thể chứa **ý kiến, phân tích và bình luận**Nội dung như thế được cung cấp với đức tin tốt và có mục đích thảo luận trước công chúng.
+Trừ khi được nêu rõ ràng là trích dẫn trực tiếp từ một nguồn, một số phần của trang web này có thể chứa **ý kiến, phân tích và bình luận**. Những nội dung như vậy được cung cấp với thiện chí và nhằm mục đích thảo luận công cộng.
 
-## 6) Liên kết ngoài
+## 6) Liên kết bên ngoài
 
-Trang web này có thể bao gồm liên kết đến các trang web thứ ba để tham khảo. Chúng tôi không kiểm soát những trang web đó và không chịu trách nhiệm về nội dung, tính sẵn có hoặc chính sách của họ.
+Trang web này có thể bao gồm liên kết tới các trang web của bên thứ ba để tham khảo. Chúng tôi không kiểm soát các trang đó và không chịu trách nhiệm về nội dung, tính khả dụng hoặc chính sách của họ.
 
-## 7) Tác quyền và sử dụng công bằng / trích dẫn
+## 7) Bản quyền và sử dụng hợp lý / trích dẫn
 
-Chúng tôi tôn trọng quyền sở hữu trí tuệ. Nơi sử dụng vật liệu bên thứ ba, chúng được sử dụng cho mục đích như phê bình, bình luận, nghiên cứu, và nhận diện, và thường đi kèm với văn cảnh và tham khảo.
+Chúng tôi tôn trọng quyền sở hữu trí tuệ. Khi sử dụng tài liệu của bên thứ ba, chúng được dùng cho mục đích như phê bình, bình luận, nghiên cứu và nhận diện, và thường đi kèm bối cảnh và/hoặc tài liệu tham khảo.
 
-Nếu bạn tin rằng bất cứ nội dung nào trên trang web này vi phạm bản quyền của bạn hoặc các quyền khác, xin vui lòng liên lạc với chúng tôi với các chi tiết cụ thể (Xem“ Contactactact quái bên dưới). Chúng tôi sẽ xem lại những yêu cầu không xác thực.
+Nếu bạn cho rằng bất kỳ nội dung nào trên trang web này xâm phạm bản quyền hoặc quyền khác của bạn, xin vui lòng liên hệ với chúng tôi kèm theo chi tiết cụ thể (xem “Liên hệ” bên dưới). Chúng tôi sẽ xem xét các yêu cầu có căn cứ.
 
-## 8) Sửa chữa, đúng câu trả lời và đưa ra yêu cầu
+## 8) Sửa chữa, quyền phản hồi và yêu cầu gỡ bỏ
 
-Chúng tôi rất nghiêm túc. Nếu bạn tin rằng bất kỳ nội dung trên trang web này là không chính xác, đánh lạc hướng, hoặc không hợp pháp xuất bản, xin vui lòng gửi một thông điệp bao gồm:
+Chúng tôi xem trọng độ chính xác. Nếu bạn cho rằng bất kỳ nội dung nào trên trang web này là không chính xác, gây hiểu lầm, hoặc được xuất bản bất hợp pháp, xin hãy gửi một thông báo bao gồm:
 
--   địa chỉ URL chính xác của trang web trong câu hỏi,
--   các tuyên bố cụ thể bạn tranh cãi,
--   Một lời giải thích rõ ràng về lý do tại sao bạn tin rằng nó không chính xác hay bất hợp pháp,
--   và hỗ trợ bằng chứng (các tài liệu, liên kết hoặc các nguồn có thể kiểm chứng).
+- địa chỉ URL chính xác của trang (hoặc các trang) có vấn đề,
+- những tuyên bố cụ thể mà bạn phản đối,
+- một giải thích rõ ràng về lý do bạn cho rằng nó không chính xác hoặc trái pháp luật,
+- và bằng chứng hỗ trợ (tài liệu, liên kết, hoặc các nguồn có thể kiểm chứng).
 
-Chúng tôi sẽ xem xét lại yêu cầu của bạn và nếu thích hợp, hãy công bố một sự sửa trị, làm sáng tỏ hoặc cập nhật nội dung. Những lời cầu xin vô căn cứ, mơ hồ hoặc không được hỗ trợ có thể không được đáp ứng.
+Chúng tôi sẽ xem xét yêu cầu của bạn và, nếu phù hợp, công bố một sửa đổi, làm rõ hoặc cập nhật nội dung. Những yêu cầu lạm dụng, mơ hồ hoặc không có cơ sở có thể sẽ không được phản hồi.
 
-## Contact & mới
+## 9) Liên hệ
 
-Đối với thông báo pháp lý, yêu cầu sửa chữa, hoặc quyền yêu cầu, liên lạc:
+Đối với thông báo pháp lý, yêu cầu sửa chữa, hoặc thắc mắc về quyền phản hồi, xin liên hệ:
 
 **againstmanipulations@gmail.com**
 
-( Xin vui lòng thêm phần chủ đề: “Legal / Recition.)
+(Vui lòng ghi dòng chủ đề: “Pháp lý / Yêu cầu sửa chữa”.)
 
-## 10) Thay đổi sang trang này
+## 10) Thay đổi đối với trang này
 
-Chúng ta có thể cập nhật trang Invier / Pháp luật này khi trang web tiến hóa. Phiên bản mới nhất là phiên bản được đăng trên trang này.
+Chúng tôi có thể cập nhật trang Tuyên bố miễn trừ trách nhiệm / Pháp lý này khi trang web phát triển. Phiên bản mới nhất là phiên bản được đăng trên trang này.

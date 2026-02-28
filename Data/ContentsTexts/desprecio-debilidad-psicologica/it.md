@@ -1,13 +1,13 @@
-# Trascurare la debolezza psicologica
+# Disprezzo per la debolezza psicologica
 
-> Nel nostro consiglio agli Acropolitani, spesso riaffermiamo la necessità di una marcia determinata, una volontà inaspettata, il valore dei simboli e degli standard magici. Ma ci dimentichiamo che il nostro popolo, per la maggior parte, ha bisogno anche di un po' di affetto, di attenzione anche se è loro piccoli ad imparare a superarli, ad ascoltare la loro follia in modo che possano vederli e superare le fastidiose barriere. Voglio che la mia MM nazionale si renda conto che non stanno guidando la "corsa scelta", perché non ci sono gare scelte. Stanno solo guidando alcuni semi della Sesta Subraza, spesso mescolati con quantità di letame... ma il letame è fertilizzante e i semi ne hanno bisogno. Quindi, invece di sembrare disgustoso, impara a ruotare la Terra della Vita.
-> 
-> \- No. *Comando n. 42: necessità di promuovere buone relazioni nelle strutture. Jorge Ángel Livraga*
+> Nei nostri consigli agli acropolisti, tendiamo a ribadire molto la necessità di una marcia decisa, di una volontà incrollabile, del valore dei simboli magici e degli stendardi. Ma dimentichiamo che il nostro popolo, per la gran parte, ha anche bisogno di un po' di affetto, di attenzione anche per le loro piccolezze affinché imparino a superarle, che ascoltino le loro sciocchezze in modo che le possano vedere come tali e superare le fastidiose barriere. Voglio che i miei MM Nazionali si rendano conto che non stanno conducendo la «razza eletta», poiché non esistono razze elette. Stanno soltanto conducendo poche sementi della Sesta Sottorazza, spesso mescolate con quantità di letame… ma il letame è concime e le sementi ne hanno bisogno. Così, invece di fare il muso disgustato, imparino ad arar la Terra della Vita.
+>
+> — *Comando nº 42: Necessità di promuovere buone relazioni nelle strutture. Jorge Ángel Livraga*
 
-> L'acropolitano deve sapere come far tacere il suo manas Kama e pulirsi da quegli elementi feminoidi (nel senso peggiore della parola) che lo precipitano nelle braccia di animalitÃ subconscio; dello spirito di fuga, di voltare le spalle alla vita e di essere rapito dalle Forze Oscure. Dovete evitare quel tipo di stupro psichico in modo che non siano nati, allora, all'interno del vostro corpo astrale e mentale, le larve elementali che risuonano l'Anima.
-> 
-> \- No. *Bastione n. 61-3: sulla fragilità psicologica di alcuni acropolitani. Febbraio 1982. Jorge Ángel Livraga*
+> L'acropolista deve sapere come far tacere il suo Kama-manas e purificarsi da quegli elementi feminoidi (nel peggior senso della parola) che lo precipitano nelle braccia dell'animalità subconscia; dallo spirito di fuga, dal voltare le spalle alla vita e dal lasciarsi rapire dalle Forze Tenebrose. Deve evitare quella sorta di violenza psichica affinché non nascano, poi, dentro il suo corpo astrale e mentale, le larve elementali che seccheranno l'Anima.
+>
+> — *Bastione nº 61-3: Sulla fragilità psicologica di alcuni acropolisti. Febbraio del 1982. Jorge Ángel Livraga*
 
-> In uno spirito sensibile, la malattia del suo Corpo Astrale lo rende sensibile, e nel mezzo della feroce battaglia che abbiamo combattuto contro le Forze Oscure, è la porcellana già schiacciata dentro e fuori, che ostacola i piedi di coloro che lavorano e li fa muovere con grande cura in modo da non strappare la fragile struttura psicologica dei colpiti. Chiede costantemente affetto e comprensione, ma non dà a chi lo circonda la stessa cosa che chiede, o lo fa da impulsi eccessivi che nascono dal suo istinto fortemente sviluppato da questa forma di peste invisibile. In costante squilibrio, crede che gli altri abbiano l'obbligo morale di prendersi cura di lui e tenerlo in piedi, non preoccupandosi mai di rafforzare le proprie gambe psichiche.
-> 
-> \- No. *Bastione n. 70-1: Pericolo: Fragilità. Dicembre 1982. Jorge Ángel Livraga*
+> Di spirito sensibile, la malattia del suo Corpo Astrale lo rende sdolcinato, e in mezzo alla feroce battaglia che combattiamo contro le Forze Tenebrose, è porcellana già incrinata dentro e fuori, che ostacola i piedi di chi lavora e li costringe a muoversi con somma cautela per non sfiorare la fragile struttura psicologica dell'interessato. Chiede costantemente affetto e comprensione, ma non dà a chi lo circonda ciò che chiede, o lo fa per impulsi esagerati che nascono dal suo istinto fortemente sviluppato da questa forma di peste invisibile. In costante squilibrio, crede che gli altri abbiano l'obbligo morale di prendersi cura di lui e tenerlo in piedi, senza preoccuparsi mai di rafforzare le proprie gambe psichiche.
+>
+> — *Bastione nº 70-1: Pericolo: La fragilità. Dicembre 1982. Jorge Ángel Livraga*

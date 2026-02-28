@@ -1,13 +1,13 @@
 # Förakt för psykisk svaghet
 
-> I vårt råd till Akropoliterna bekräftar vi ofta mycket behovet av en bestämd marsch, en orubblig vilja, värdet av magiska symboler och standarder. Men vi glömmer att vårt folk, för det mesta, också behöver lite kärlek, uppmärksamhet även om det är deras små att lära sig att övervinna dem, att lyssna på deras dårskap så att de kan se dem och att övervinna de irriterande barriärerna. Jag vill att min nationella MM ska inse att de inte kör den "valda rasen", eftersom det inte finns några utvalda raser. De kör bara några sjätte Subraza frön, ofta blandade med mängder gödsel ... men gödsel är gödselmedel och frön behöver det. Så i stället för att se grovt, lär dig att rotera livets jord.
-> 
-> \- *Kommando nr 42: Behov av att främja goda relationer i strukturer. Jorge Ángel Livraga*
+> I våra råd till akropolisterna brukar vi ofta kraftigt bekräfta behovet av en beslutsam marsch, en orubblig vilja, värdet av magiska symboler och fanor. Men vi glömmer att vårt folk, i stor utsträckning, också behöver lite kärlek, uppmärksamhet även för sina småsaker för att lära sig att övervinna dem, att få sina dårskaper hörda så att de som sådana kan ses och för att övervinna irriterande barriärer. Jag vill att mina nationella MM ska inse att de inte leder den "utvalda rasen", för det finns inga utvalda raser. De leder bara några frön av den sjätte underrasen, ofta blandade med mängder av gödsel… men gödsel är gödselmedel och fröna behöver det. Så istället för att se föraktfullt, lär er att plöja livets jord.
+>
+> — *Kommando nº 42: Behovet av att främja goda relationer i strukturerna. Jorge Ángel Livraga*
 
-> Akropolitan måste veta hur man tystar hans Kama-människor och rengör sig från de feminoida elementen (i ordets värsta bemärkelse) som utlöser honom i armarna av undermedveten djuritet; av andan av flykt, att vända ryggen på livet och att kidnappas av de mörka krafterna. Du måste undvika den typen av psykisk våldtäkt så att de inte är födda, då, inom din astrala och mentala kropp, den elementära larver som kommer att lösa själen.
-> 
-> \- *Bastion nr 61-3: På vissa akropoliters psykologiska bräcklighet. februari 1982. Jorge Ángel Livraga*
+> Akropolisten måste kunna tysta sin Kama-manas och rena sig från dessa feminoida element (i ordets värsta bemärkelse) som kastar honom i armarna på den undermedvetna animaliteten; från flyktsandan, att vända ryggen åt livet och att låta sig rövas bort av de mörka krafterna. Han måste undvika denna sortens psykiska våldtäkt så att det senare inte föds inom hans astrala och mentala kropp de elementarlarver som kommer att uttorka hans själ.
+>
+> — *Bastión nº 61-3: Om den psykologiska bräckligheten hos vissa akropolister. Februari 1982. Jorge Ángel Livraga*
 
-> I en känslig anda gör sjukdomen i hans Astral Body honom känslig, och mitt i den hårda strid vi kämpade mot de mörka krafterna, är det porslin som redan slashed inuti och utanför, vilket hindrar fötterna på dem som arbetar och gör dem röra sig med stor omsorg för att inte plocka den ömtåliga psykologiska strukturen hos de drabbade. Han ber ständigt om tillgivenhet och förståelse, men han ger inte dem omkring honom samma sak som han frågar, eller han gör det genom överdrivna impulser som är födda av hans instinkt starkt utvecklad av denna form av osynlig pest. I ständig obalans tror han att andra har en moralisk skyldighet att ta hand om honom och hålla upp honom, aldrig oroa sig för att stärka sina egna psykiska ben.
-> 
-> \- *Bastion nr. 70-1: Fragilitet. december 1982. Jorge Ángel Livraga*
+> Med en känslig ande gör sjukdomen i hans astralkropp honom sentimental, och mitt i den hårda strid vi för mot de mörka krafterna är han porslin redan sprucket inifrån och ut, vilket försvårar fötterna hos dem som arbetar och får dem att röra sig med största försiktighet för att inte beröra den drabbades ömtåliga psykologiska struktur. Han ber ständigt om ömhet och förståelse, men ger inte dem omkring sig detsamma som han ber om, eller gör det genom överdrivna impulser som föds ur hans starkt utvecklade instinkt på grund av denna form av osynlig pest. I ständig obalans tror han att andra har den moraliska skyldigheten att vårda honom och hålla honom uppe, utan att någonsin bekymra sig om att stärka sina egna psykiska ben.
+>
+> — *Bastión nº 70-1: Fara: Bräcklighet. December 1982. Jorge Ángel Livraga*

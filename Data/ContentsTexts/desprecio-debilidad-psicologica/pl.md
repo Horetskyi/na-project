@@ -1,13 +1,13 @@
-# Brak szacunku dla słabości psychologicznych
+# Brak szacunku dla słabości psychologicznej
 
-> W naszej radzie dla Akropolitów często potwierdzamy potrzebę zdecydowanego marszu, niezachwianej woli, wartości magicznych symboli i standardów. Ale zapominamy, że nasi ludzie, w większości, potrzebują również odrobiny uczucia, uwagi, nawet jeśli to ich małe dzieci nauczyć się je pokonać, słuchać ich szaleństwa, aby mogli je zobaczyć i pokonać irytujące bariery. Chcę, aby mój National MM zdał sobie sprawę, że nie są one jazdy "wybranej rasy", ponieważ nie ma wybranych ras. Jeżdżą tylko kilkoma nasionami z 6. Subrazy, często mieszanymi z ilością nawozu, ale nawóz jest nawozem i nasiona go potrzebują. Więc zamiast wyglądać obrzydliwie, naucz się obracać Ziemią Życia.
-> 
-> \- *Dowództwo nr 42: Potrzeba promowania dobrych relacji w strukturach. Jorge Ángel Livraga*
+> W naszych radach dla akropolitów często podkreślamy potrzebę zdecydowanego marszu, niezachwianej woli, wartości magicznych symboli i sztandarów. Ale zapominamy, że nasi ludzie, w przeważającej większości, także potrzebują odrobiny czułości i uwagi, nawet względem swoich drobnych słabości, by nauczyli się je przezwyciężać, by wysłuchać ich głupstw i dzięki temu jako takie je zobaczyli i przezwyciężyli irytujące bariery. Chcę, aby moi MM narodowi zdali sobie sprawę, że nie prowadzą „wybranej rasy”, bo nie ma ras wybranych. Prowadzą jedynie kilka nasion Szóstej Subrasy, często zmieszanych z ilością obornika… ale obornik jest nawozem i nasiona go potrzebują. Więc zamiast krzywić się z obrzydzenia, nauczcie się orać Ziemię Życia.
+>
+> — *Rozkaz nr 42: Potrzeba promowania dobrych relacji w strukturach. Jorge Ángel Livraga*
 
-> Akropolita musi wiedzieć, jak uciszyć Kamamanas i oczyścić się z elementów feminoidalnych (w najgorszym znaczeniu tego słowa), które wrzucają go w ramiona podświadomej animacji; ducha ucieczki, odwrócenia się od życia i porwania przez Mroczne Siły. Musisz unikać tego rodzaju psychicznego gwałtu tak, że nie rodzą się, a następnie, w twoim ciele astralnym i psychicznym, larwy elementarne, które będą odświeżać duszę.
-> 
-> \- *Bastion No. 61-3: O psychicznej kruchości niektórych akropolitan. Luty 1982. Jorge Ángel Livraga*
+> Akropolita powinien umieć uciszyć swój Kama-manas i oczyścić się z tych elementów feminoidalnych (w najgorszym znaczeniu tego słowa), które popychają go w ramiona podświadomej animalności; ducha ucieczki, odwracania się od życia i pozwalania się porwać Mrocznym Siłom. Powinien unikać tego rodzaju psychicznego gwałtu, aby potem w jego ciele astralnym i umysłowym nie narodziły się larwy elementarne, które wysuszą jego duszę.
+>
+> — *Bastion nr 61-3: O psychicznej kruchości niektórych akropolitów. Luty 1982. Jorge Ángel Livraga*
 
-> W wrażliwym duchu, choroba jego ciała astralnego czyni go wrażliwym, a w środku ostrej bitwy walczyliśmy z Siłami Ciemnymi, to porcelana już pocięta wewnątrz i na zewnątrz, co hamuje stopy tych, którzy pracują i sprawia, że poruszają się z wielką starannością, aby nie wyrwać kruchą strukturę psychiczną dotkniętych. Nieustannie prosi o uczucie i zrozumienie, ale nie daje tym wokół siebie tego samego, o co prosi, lub czyni to poprzez nadmierne impulsy, które rodzą się z jego instynktu silnie rozwinięte przez tę formę niewidzialnej plagi. W ciągłym braku równowagi uważa, że inni mają moralny obowiązek dbać o niego i utrzymać go na nogach, nigdy nie martwiąc się o wzmocnienie własnych psychicznych nóg.
-> 
-> \- *Bastion No. 70-1: Danger: Fragility. Grudzień 1982. Jorge Ángel Livraga*
+> O wrażliwym duchu, choroba jego Ciała Astralnego czyni go nadmiernie sentymentalnym, a pośród zaciekłej bitwy, którą toczymy z Mrocznymi Siłami, jest porcelaną już pękniętą wewnątrz i na zewnątrz, co hamuje kroki tych, którzy pracują, i sprawia, że poruszają się z wielką ostrożnością, by nie naruszyć kruchej struktury psychicznej osoby dotkniętej. Stale prosi o czułość i zrozumienie, lecz nie daje tym, którzy go otaczają, tego samego, o co prosi, albo robi to pod wpływem przesadnych impulsów, które rodzą się z jego silnie rozwiniętego instynktu spowodowanego tą formą niewidzialnej zarazy. W ciągłym stanie nierównowagi uważa, że inni mają moralny obowiązek opiekować się nim i podtrzymywać go, nigdy nie troszcząc się o wzmocnienie własnych psychicznych nóg.
+>
+> — *Bastion nr 70-1: Niebezpieczeństwo: Kruchość. Grudzień 1982. Jorge Ángel Livraga*

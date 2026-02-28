@@ -1,13 +1,13 @@
-# Neatsižvelgimas į psichologinį silpnumą
+# Panieka psichologiniam silpnumui
 
-> Savo patarime akropolitiečiams dažnai dar kartą patvirtiname, kad reikia ryžtingo žygio, ryžtingos valios, magijos simbolių ir standartų vertės. Bet mes pamirštame, kad mūsų žmonės, didžiąja dalimi, taip pat reikia šiek tiek meilės, dėmesio, net jei tai yra jų vaikai išmokti juos įveikti, klausytis jų kvailystė, kad jie galėtų juos pamatyti ir įveikti erzinančių kliūčių. Noriu, kad mano nacionalinis MM suprastų, jog jie nevairuoja "pasirinktų lenktynių", nes nėra pasirinktų rasių. Jie vairuoja tik kelias Šeštąsias subrazų sėklas, dažnai sumaišytas su mėšlo kiekiu... bet mėšlas yra trąšos ir sėkloms jų reikia. Taigi, užuot žiūrėję šlykščiai, išmokstame pasukti gyvybės Žemę.
-> 
-> \- *Komanda Nr. 42: Reikia skatinti gerus santykius struktūrose. Jorge Ángel Livaga*
+> Savo patarimuose akropolietams mes dažnai stipriai pabrėžiame ryžtingos eigos, nepalaužiamos valios, magiškų simbolių ir vėliavų svarbą. Tačiau pamirštame, kad mūsų žmonės, didžioji jų dalis, taip pat reikia truputėlio meilės ir dėmesio, net ir dėl jų smulkmenų, kad išmoktų jas įveikti; kad būtų išklausyti jų kvailumai, kad jie kaip tokie juos pamatytų ir įveiktų erzinančias kliūtis. Noriu, kad mano nacionaliniai MM suprastų, jog jie neveda „išrinktos rasės“, nes tokių nėra. Jie veda tik kelias Šeštosios subrazės sėklas, dažnai sumaišytas su mėšlo kiekiais… bet mėšlas yra trąša ir sėkloms jo reikia. Taigi, užuot rodę pasibjaurėjimą, išmokite arti Gyvybės Žemę.
+>
+> — *Įsakymas Nr. 42: Reikalinga skatinti gerus santykius struktūrose. Jorge Ángel Livraga*
 
-> Acropodion turi žinoti, kaip nutildyti savo kam- manas ir nusivalyti save nuo tų feminoidinių elementų (blogiausia žodžio prasme), kurie skatina jį į pasąmonės animalumo ginklų; iš pabėgimo dvasia, sukant nugarą į gyvenimą ir yra pagrobtas Tamsiųjų pajėgų. Jūs turite išvengti tokio psichinio išprievartavimo, kad jie nebūtų gimę, tada, jūsų astraliniame ir protiniame kūne, elementarinės lervos, kurios užgrius sielą.
-> 
-> \- *61-3: Dėl kai kurių akropolitų psichologinio trapumo. 1982 m. vasario mėn. Jorge Ángel Livaga*
+> Akropolietis turi mokėti nutildyti savo Kama-manas ir apsivalyti nuo tų feminoidinių elementų (blogiausia šio žodžio prasme), kurie jį stumia į pasąmoninį gyvuliškumą; nuo pabėgimo dvasios, nuo nugaros atsukimo gyvenimui ir pasidavimo Tamsiosioms Jėgoms. Jis turi vengti tokio psichinio išprievartavimo, kad vėliau jo astraliniame ir protiniame kūne neišsivystytų elementarinės lervos, kurios išdžiovins Jo Sielą.
+>
+> — *Bastión Nr. 61-3: Dėl kai kurių akropolietų psichologinio trapumo. 1982 m. vasaris. Jorge Ángel Livraga*
 
-> Jautrioje dvasioje, jo Astral Body liga daro jį jautrų, ir įniršio mūšio viduryje mes kovojome prieš Tamsiąsias Jėgas, tai porcelianas jau nusmuko viduje ir už jos ribų, kuris trukdo tiems, kurie dirba ir daro juos judėti labai atsargiai, kad neplyštų trapi psichologinė struktūra nukentėjusių. Jis nuolat prašo meilės ir supratimo, bet jis neduoda tiems aplink jį to paties, ką jis prašo, arba jis tai daro per daug impulsų, kurie gimsta iš jo instinktas stipriai išvystyta šios nematomo maro forma. Nuolatinio disbalanso, jis mano, kad kiti turi moralinę pareigą rūpintis juo ir jį išlaikyti, niekada nerimauti dėl stiprinti savo psichines kojas.
-> 
-> \- *Baseinas Nr. 70-1: Pavojus: trapumas. 1982 m. gruodžio mėn. Jorge Ángel Livaga*
+> Jautrios dvasios asmenyje jo Astralinis Kūnas serga ir paverčia jį sentimentaliniu; o vidury žiaurios kovos, kurią vykdome prieš Tamsiąsias Jėgas, jis yra porcelianas, jau įtrūkęs iš vidaus ir išorės, kuris trukdo dirbančiųjų žingsnius ir verčia juos judėti labai atsargiai, kad nepalietų paveiktojo trpios psichologinės struktūros. Jis nuolat prašo meilės ir supratimo, bet negrąžina aplinkiniams to, ko prašo, arba daro tai perteklinėmis aistromis, kylamomis iš to instinkto, stipriai išvystyto šios nematomos maro formos. Nuolat disbalansuotas, jis mano, kad kiti turi moralinę pareigą juo rūpintis ir jį išlaikyti, niekada nesirūpindamas stiprinti savo psichinių kojų.
+>
+> — *Bastión Nr. 70-1: Pavojus: Trapumas. 1982 m. gruodis. Jorge Ángel Livraga*

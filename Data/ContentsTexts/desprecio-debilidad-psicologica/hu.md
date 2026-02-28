@@ -1,13 +1,13 @@
-# A pszichológiai gyengeség figyelmen kívül hagyása
+# A pszichológiai gyengeség megvetése
 
-> Az akropolitanoknak adott tanácsunkban gyakran megerősítjük, hogy határozott menetre van szükség, megingathatatlan akaratra, a mágikus szimbólumok és szabványok értékére. De elfelejtjük, hogy a népünknek is szüksége van egy kis szeretetre, figyelemre, még akkor is, ha a kicsikről van szó, hogy megtanulják legyőzni őket, hogy meghallgassák ostobaságukat, hogy láthassák őket, és leküzdjék az idegesítő akadályokat. Szeretném, ha a Nemzeti MM-em rájönne, hogy nem ők vezetik a "kiválasztott versenyt", mert nincsenek kiválasztott versenyek. Csak néhány hatodik Subraza magot vezetnek, gyakran keverve trágyával, de a trágya műtrágya, és a magoknak szükségük van rá. Szóval ahelyett, hogy undorítóan néznél ki, tanuld meg elfordítani az Élet Földjét.
-> 
-> \- *42\. Parancsnokság: Támogatni kell a jó kapcsolatokat a struktúrákban. Jorge Ángel Livraga*
+> Akropolistáknak adott tanácsainkban gyakran hangsúlyozzuk a határozott menet szükségességét, a megingathatatlan akaratot, valamint a mágikus szimbólumok és a zászlók értékét. De elfelejtjük, hogy népünk nagy többsége egy kis szeretetre, figyelemre is szorul, még apróságaikra figyelmet igényel, hogy megtanulják legyőzni azokat; hogy meghallgassák ostobaságaikat, hogy mint ilyeneket lássák őket, és leküzdjék az idegesítő akadályokat. Azt akarom, hogy a nemzeti MM-jeim rájöjjenek, hogy nem a „kiválasztott fajt” vezetik, mert nincsenek kiválasztott fajok. Csak néhány magot vezetnek a hatodik alraszból, gyakran trágyával keverve… de a trágya műtrágya, és a magoknak szükségük van rá. Tehát ahelyett, hogy undorodó arckifejezést vágnának, tanuljanak meg megművelni az Élet földjét.
+>
+> — *Mando nº 42: Necesidad de promover buenas relaciones en las estructuras. Jorge Ángel Livraga*
 
-> Az akropolisznak tudnia kell, hogyan hallgattassa el a Kama- manát, és tisztítsa meg magát azoktól a feminoid elemektől (a szó legrosszabb értelmében), amelyek a tudatalatti animáció karjaiba juttatják; a menekülés szellemébe, az élet hátat fordításába és a Sötét Erők elrablásába. El kell kerülnöd ezt a fajta lelki erőszakot, hogy ne születjenek meg, aztán az asztrális és mentális testedben, az elemi lárvák, amik a Lelket fogják felfújni.
-> 
-> \- *613.-as bástya: Néhány akropolita pszichológiai törékenységéről. 1982. február. Jorge Ángel Livraga*
+> Az akropolistának tudnia kell elcsitítani a Kama-manasát és megtisztulni azoktól a feminoid elemekből (a szó legrosszabb értelmében), amelyek a tudatalatti animalitás karjaiba taszítják; a menekülés lelkétől, az élettől való hátat fordítástól és attól, hogy a Sötét Erők elrabolják. El kell kerülnie ezt a fajta pszichikai megerőszakolást, hogy aztán asztrális és mentális testébe ne szülessenek meg azok az elemi lárvák, amelyek kiszárítanák a Lelkét.
+>
+> — *Bastión nº 61-3: Sobre la fragilidad psicológica de algunos acropolitanos. Febrero del 1982. Jorge Ángel Livraga*
 
-> Érzékeny szellemben az asztrális testének betegsége teszi őt érzékenysé, és a sötét erők ellen vívott heves harc közepette a porcelán már belül és kívül is feldarabolta, ami hátráltatja a dolgozók lábát, és nagy gondossággal mozgatja őket, hogy ne szakítsa meg az érintettek törékeny pszichológiai szerkezetét. Folyamatosan kéri a szeretetet és a megértést, de nem adja meg a körülötte lévőknek ugyanazt, amit kér, vagy ezt túlzott impulzusokkal teszi, amelyek az ösztöneiből születnek, amelyeket a láthatatlan pestis e formája által erősen kifejlett. A folyamatos egyensúlyhiány, úgy gondolja, hogy mások erkölcsi kötelessége, hogy vigyázzon rá, és tartsa fenn, soha nem aggódik megerősítése saját látnoki lábát.
-> 
-> \- *701: Veszély: törékenység. 1982. december. Jorge Ángel Livraga*
+> Érzékeny lélek esetén az asztrális teste betegsége érzelgőssé teszi, és a Sötét Erők elleni heves harc közepette olyan, mint belülről és kívülről megrepedt porcelán, amely hátráltatja a dolgozók lábát, és arra kényszeríti őket, hogy rendkívüli óvatossággal mozogjanak, nehogy megsértsék az érintett törékeny pszichológiai szerkezetét. Folyamatosan szeretetet és megértést követel, de nem adja meg a körülötte lévőknek ugyanazt, amit kér, vagy csak túlzásba vitt impulzusokból ad, amelyek ösztöneiből fakadnak, és amelyeket ez az áttetsző járványforma erősen kifejlesztett. Állandó egyensúlyhiányban hiszi, hogy másoknak erkölcsi kötelességük gondoskodni róla és fenntartani őt, soha nem törődve saját pszichikai lábainak megerősítésével.
+>
+> — *Bastión nº 70-1: Peligro: La fragilidad. Diciembre 1982. Jorge Ángel Livraga*

@@ -1,69 +1,72 @@
-# Vyloučení / právní
+# Vyloučení odpovědnosti / Právní
 
-## 1) Nezávislé internetové stránky (bez členství)
+## 1) Nezávislé webové stránky (bez afiliace)
 
-Tato stránka je **nezávislý informační zdroj** vytvořené pro analýzu, kritiku a diskusi o zájmu veřejnosti.
+Tyto webové stránky jsou **nezávislý informační zdroj** vytvořený pro analýzu, kritiku a diskusi ve veřejném zájmu.
 
-To je. **nejsou přidruženy, podporovány, sponzorovány nebo provozovány** by New Acropolis (také známý jako "New Acropolis", "Nouvelle Acropole", "Nueva Akrópolis") nebo některý z jejích zástupců, poboček, nebo souvisejících subjektů.
+Tyto stránky **nejsou přidruženy, neschváleny, nesponzorovány ani provozovány** Novou Akropolí (také známou jako „Nová Akropolis“, „Nouvelle Acropole“, „Nueva Acrópolis“) nebo některým z jejích zástupců, poboček či souvisejících subjektů.
 
-Pokud hledáte oficiální informace, použijte oficiální webové stránky a komunikační kanály organizace.
+Pokud hledáte oficiální informace, použijte prosím oficiální webové stránky a komunikační kanály organizace.
 
 ## 2) Používání názvů a ochranných známek (pouze identifikace)
 
-Jakékoliv odkazy na této stránce na "**New Acropolis**"a související názvy, termíny, loga nebo ochranné známky jsou vyrobeny **pouze pro účely identifikace organizace, o níž se jedná** a poskytování komentářů.
+Jakékoli odkazy na tomto webu na „**Nová Akropolis**“ a související názvy, termíny, loga nebo ochranné známky jsou použity **výhradně za účelem identifikace organizace, o níž se jedná** a poskytování komentářů.
 
-Všechny ochranné známky, služební značky a loga jsou vlastnictvím jejich příslušných majitelů. Tato stránka **nepožaduje vlastnictví** z ochranných známek třetích stran a nepoužívá je k tomu, aby naznačovaly sponzorství, partnerství nebo podporu.
+Všechny ochranné známky, služební značky a loga jsou vlastnictvím jejich příslušných majitelů.
+Tato webová stránka **neprohlašuje vlastnictví** ochranných známek třetích stran a nepoužívá je tak, aby naznačovala sponzorství, partnerství nebo podporu.
 
 ## 3) Žádné napodobování / žádné oficiální zastoupení
 
-Neprezentujeme se jako New Acropolis, ani jako zástupci, zaměstnanci, agenti nebo autorizovaní partneři New Acropolis.
+Nepředstupujeme jako Nová Akropolis ani jako její zástupci, zaměstnanci, agenti nebo autorizovaní partneři.
 
-Návrh, uspořádání a obsah těchto webových stránek jsou vytvořeny nezávisle a jsou určeny k tomu, aby se zabránilo záměně s jakýmikoli oficiálními zdroji.
+Design, rozvržení a obsah těchto webových stránek jsou vytvořeny nezávisle a mají za cíl zabránit záměně s jakýmikoli oficiálními zdroji.
 
-## 4) Obsah účelu a omezení
+## 4) Účel a omezení obsahu
 
-Obsah na této stránce je uveden pro **informační a vzdělávací účely**Odráží analýzu a výklad:
+Obsah na této stránce je poskytován pro **informační a vzdělávací účely**. Odráží analýzu a výklad:
 
--   veřejně dostupné zdroje,
--   citované dokumenty,
--   svědectví nebo prohlášení, která nám byla předložena,
--   a jiné materiály použité v kontextu komentáře.
+- veřejně dostupné zdroje,
+- citované dokumenty,
+- svědectví nebo prohlášení, která nám byla předložena,
+- a jiné materiály použité v kontextu komentáře.
 
-Zatímco chceme být přesní a spravedliví, nemůžeme zaručit, že všechny informace jsou úplné, aktuální nebo bez chyb. Nic na této stránce by se nemělo chápat jako profesionální právní poradenství.
+I když usilujeme o přesnost a spravedlnost, nemůžeme zaručit, že všechny informace jsou úplné, aktuální nebo bez chyb.
+Nic na této stránce by se nemělo chápat jako profesionální právní poradenství.
 
-## 5) Stanoviska a prohlášení
+## 5) Názory a prohlášení
 
-Pokud není výslovně uvedeno jako přímý citát ze zdroje, části těchto stránek mohou obsahovat **stanoviska, analýza a komentář**. Tento obsah je poskytován v dobré víře a určen pro veřejnou diskusi.
+Pokud není výslovně uvedeno jako přímý citát ze zdroje, části těchto stránek mohou obsahovat **názory, analýzu a komentáře**. Tento obsah je poskytován v dobré víře a je určen pro veřejnou diskusi.
 
 ## 6) Externí odkazy
 
-Tato webová stránka může obsahovat odkazy na internetové stránky třetích stran pro referenci. Nekontrolujeme tyto webové stránky a nejsme zodpovědní za jejich obsah, dostupnost nebo politiky.
+Tato webová stránka může obsahovat odkazy na weby třetích stran pro referenci. Nekontrolujeme tyto weby a nejsme zodpovědní za jejich obsah, dostupnost nebo zásady.
 
-## 7) Copyright a spravedlivé použití / kotace
+## 7) Autorská práva a spravedlivé použití / citace
 
-Respektujeme práva duševního vlastnictví. Pokud se používají materiály třetích stran, používají se pro účely, jako je kritika, komentář, výzkum a identifikace, a jsou obvykle doprovázeny souvislostmi nebo odkazy.
+Respektujeme práva duševního vlastnictví. Když jsou použity materiály třetích stran, jsou využity pro účely, jako je kritika, komentář, výzkum a identifikace, a jsou obvykle doprovázeny souvislostí a/nebo odkazy.
 
-Pokud se domníváte, že jakýkoli obsah na těchto stránkách porušuje vaše autorská práva nebo jiná práva, kontaktujte nás se specifickými údaji (viz "Kontakt" níže). Přezkoumáme odůvodněné žádosti.
+Pokud se domníváte, že jakýkoli obsah na této webové stránce porušuje vaše autorská práva nebo jiná práva, kontaktujte nás se specifickými údaji (viz níže „Kontakt“). Přezkoumáme odůvodněné žádosti.
 
-## 8) Opravy, právo na odpověď a vyřizování žádostí
+## 8) Opravy, právo na odpověď a žádosti o odstranění
 
-Bereme přesnost vážně. Pokud se domníváte, že jakýkoli obsah na těchto stránkách je nepřesný, zavádějící nebo nezákonně zveřejněný, zašlete prosím zprávu obsahující:
+Bereme přesnost vážně. Pokud se domníváte, že jakýkoli obsah na této stránce je nepřesný, zavádějící nebo nezákonně zveřejněný, zašlete prosím zprávu obsahující:
 
--   přesné URL dané stránky (dotyčných stránek),
--   konkrétní prohlášení, které zpochybňujete,
--   jasné vysvětlení, proč si myslíte, že je nepřesné nebo protiprávní,
--   a podpůrné důkazy (dokumenty, odkazy nebo jiné ověřitelné zdroje).
+- přesné URL(y) dotčené stránky (stránek),
+- konkrétní tvrzení, která zpochybňujete,
+- jasné vysvětlení, proč si myslíte, že je to nepřesné nebo protiprávní,
+- a podpůrné důkazy (dokumenty, odkazy nebo jiné ověřitelné zdroje).
 
-Vaši žádost přezkoumáme a případně zveřejníme opravu, objasnění nebo aktualizujeme obsah. Úzkostné, vágní nebo nepodložené žádosti nesmějí obdržet odpověď.
+Přezkoumáme vaši žádost a tam, kde to bude vhodné, zveřejníme opravu, upřesnění nebo aktualizujeme obsah.
+Urážlivé, vágní nebo nepodložené žádosti nemusí obdržet odpověď.
 
 ## 9) Kontakt
 
-Pokud jde o právní oznámení, žádosti o opravu nebo šetření správných odpovědí, kontaktujte:
+Pro právní oznámení, žádosti o opravu nebo dotazy ohledně práva na odpověď kontaktujte:
 
 **againstmanipulations@gmail.com**
 
-(Uveďte předmět: "Právní / opravná žádost".)
+(Prosím, uveďte předmět: „Právní / žádost o opravu“.)
 
 ## 10) Změny této stránky
 
-Můžeme aktualizovat tuto stránku Discription / Legal, jak webové stránky rozvíjí. Nejnovější verze je zveřejněna na této stránce.
+Můžeme tuto stránku s vyloučením odpovědnosti a právními informacemi aktualizovat v průběhu vývoje webu. Nejnovější verze je ta zveřejněná na této stránce.

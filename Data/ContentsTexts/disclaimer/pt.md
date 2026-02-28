@@ -1,20 +1,20 @@
-# Disclaimer / Legal
+# Isenção de responsabilidade / Legal
 
 ## 1) Site independente (sem afiliação)
 
 Este site é um **recurso informacional independente** criado para análise, crítica e discussão de interesse público.
 
-Está. **não afiliados, aprovados por, patrocinados por, ou operados** por Nova Acrópole (também conhecida como “Nova Acrópole”, “Nouvelle Acropole”, “Nueva Acrópolis”) ou qualquer de seus representantes, filiais ou entidades afins.
+Não é **afiliado, endossado, patrocinado ou operado** por Nova Acrópole (também conhecida como “Nova Acrópole”, “Nouvelle Acropole”, “Nueva Acrópolis”) ou qualquer de seus representantes, filiais ou entidades afins.
 
 Se você está procurando informações oficiais, por favor, use os sites oficiais da organização e canais de comunicação.
 
 ## 2) Uso de nomes e marcas comerciais (apenas identificação)
 
-Qualquer referência neste site para “**Nova Acrópole**” e nomes, termos, logotipos ou marcas comerciais relacionados são feitos **apenas para identificar a organização em discussão** e dando comentários.
+Qualquer referência neste site a “**Nova Acrópole**” e nomes, termos, logotipos ou marcas comerciais relacionados é feita **apenas para identificar a organização em discussão** e fornecer comentários.
 
 Todas as marcas comerciais, marcas de serviço e logotipos são propriedade de seus respectivos proprietários. Este website **não reivindica qualquer propriedade** de marcas de terceiros e não as utiliza para implicar patrocínio, parceria ou endosso.
 
-## 3) Nenhuma representação / nenhuma representação oficial
+## 3) Sem personificação / sem representação oficial
 
 Não nos apresentamos como Nova Acrópole, nem como representantes, empregados, agentes ou parceiros autorizados da Nova Acrópole.
 
@@ -22,48 +22,50 @@ O design, layout e conteúdo deste site são criados de forma independente e vis
 
 ## 4) Objetivo e limitações do conteúdo
 
-O conteúdo deste site está previsto para **finalidades informativas e educativas**. Ela reflete análise e interpretação de:
+O conteúdo deste site é fornecido para **finalidades informativas e educativas**. Ele reflete análise e interpretação de:
 
--   fontes publicamente disponíveis,
--   documentos citados,
--   testemunhos ou declarações que nos foram fornecidos,
--   e outros materiais utilizados no contexto de comentários.
+- publicamente disponíveis fontes,
+- documentos citados,
+- testemunhos ou declarações fornecidos a nós,
+- e outros materiais utilizados no contexto de comentários.
 
-Embora pretendamos ser exatos e justos, não podemos garantir que todas as informações sejam completas, atuais ou livres de erros. Nada neste site deve ser entendido como aconselhamento jurídico profissional.
+Embora busquemos ser precisos e justos, não podemos garantir que todas as informações sejam completas, atuais ou livres de erros.
+Nada neste site deve ser entendido como aconselhamento jurídico profissional.
 
-## 5) Pareceres e declarações
+## 5) Opiniões e declarações
 
-A menos que explicitamente indicado como uma citação direta de uma fonte, partes deste site pode conter **opiniões, análises e comentários**Esse conteúdo é fornecido de boa fé e destinado a discussão pública.
+A menos que explicitamente indicado como uma citação direta de uma fonte, partes deste site podem conter **opiniões, análises e comentários**. Esse conteúdo é fornecido de boa fé e destinado à discussão pública.
 
-## 6) Ligações externas
+## 6) Links externos
 
-Este site pode incluir links para sites de terceiros para referência. Nós não controlamos esses sites e não somos responsáveis por seu conteúdo, disponibilidade ou políticas.
+Este site pode incluir links para sites de terceiros para referência. Não controlamos esses sites e não somos responsáveis por seu conteúdo, disponibilidade ou políticas.
 
-## 7) Direitos autorais e uso justo / cotação
+## 7) Direitos autorais e uso justo / citação
 
-Respeitamos os direitos de propriedade intelectual. Quando materiais de terceiros são usados, eles são usados para fins como crítica, comentário, pesquisa e identificação, e normalmente são acompanhados por contexto e/ou referências.
+Respeitamos os direitos de propriedade intelectual. Quando materiais de terceiros são usados, eles são utilizados para fins como crítica, comentário, pesquisa e identificação, e normalmente são acompanhados por contexto e/ou referências.
 
-Se você acredita que qualquer conteúdo neste site infringe seus direitos autorais ou outros direitos, entre em contato conosco com detalhes específicos (consulte “Contato” abaixo). Vamos rever pedidos fundamentados.
+Se você acredita que qualquer conteúdo neste site infringe seus direitos autorais ou outros direitos, entre em contato conosco com detalhes específicos (veja “Contacto” abaixo). Revisaremos pedidos fundamentados.
 
-## 8) Correcções, direito de resposta e pedidos de levantamento
+## 8) Correções, direito de resposta e pedidos de remoção
 
-Levamos a sério a precisão. Se você acredita que qualquer conteúdo neste site é impreciso, enganador ou publicado ilegalmente, por favor, envie uma mensagem incluindo:
+Levamos a precisão a sério. Se você acredita que qualquer conteúdo neste site é impreciso, enganoso ou publicado ilegalmente, por favor envie uma mensagem incluindo:
 
--   o(s) URL(s) exacto(s) da(s) página(s) em questão,
--   a(s) declaração(ões) específica(s) que contesta,
--   uma explicação clara da razão pela qual acredita que é impreciso ou ilegal,
--   e elementos de prova de apoio (documentos, ligações ou outras fontes verificáveis).
+- o(s) URL(s) exato(s) da(s) página(s) em questão,
+- a(s) declaração(ões) específica(s) que contesta,
+- uma explicação clara do porquê você acredita que é impreciso ou ilegal,
+- e evidências de suporte (documentos, links ou outras fontes verificáveis).
 
-Vamos rever o seu pedido e, quando apropriado, publicar uma correção, esclarecimento ou atualização do conteúdo. Pedidos abusivos, vagos ou não suportados podem não receber resposta.
+Reviseremos seu pedido e, quando apropriado, publicaremos uma correção, esclarecimento ou atualizaremos o conteúdo.
+Pedidos abusivos, vagos ou sem suporte podem não receber resposta.
 
 ## 9) Contacto
 
-Para avisos jurídicos, pedidos de correcção ou inquéritos de direito de resposta, contactar:
+Para avisos jurídicos, pedidos de correção ou solicitações de direito de resposta, contacte:
 
 **againstmanipulations@gmail.com**
 
-(Inclua a linha de assunto: “Pedido legal/correção”.)
+(Por favor, inclua a linha de assunto: “Pedido legal / Pedido de correção”.)
 
 ## 10) Alterações a esta página
 
-Podemos atualizar esta página de Isenção de responsabilidade / Legal à medida que o site evolui. A última versão é a publicada nesta página.
+Podemos atualizar esta página de Isenção de responsabilidade / Legal à medida que o site evolui. A versão mais recente é a publicada nesta página.

@@ -1,69 +1,71 @@
-# Atruna / Juridisks
+# Atruna / Juridiskie paziņojumi
 
-## 1) Neatkarīga tīmekļa vietne (nav piederības)
+## 1) Neatkarīga tīmekļa vietne (bez saistības)
 
-Šī tīmekļa vietne ir **neatkarīgs informācijas resurss** radīts analīzei, kritikai un sabiedriskai apspriešanai.
+Šī tīmekļa vietne ir **neatkarīgs informatīvs resurss**, izveidots analīzei, kritikai un sabiedriskās intereses diskusijām.
 
-Tā ir **nav saistīts ar:** “Jaunā Akropole” (pazīstama arī kā “Jaunā Akropole”, “Nouvelle Akropole”, “Nueva Acrópolis”) vai kāds no tās pārstāvjiem, filiālēm vai saistītiem uzņēmumiem.
+Tā **nav saistīta ar, apstiprināta, sponsorēta vai pārvaldīta** Jaunā Akropole (pazīstama arī kā “Jaunā Akropole”, “Nouvelle Acropole”, “Nueva Acrópolis”) vai kādu no tās pārstāvjiem, filiālēm vai saistītajām personām.
 
-Ja jūs meklējat oficiālu informāciju, lūdzu, izmantojiet organizācijas oficiālās tīmekļa vietnes un saziņas kanālus.
+Ja meklējat oficiālu informāciju, lūdzu, izmantojiet organizācijas oficiālās tīmekļa vietnes un saziņas kanālus.
 
 ## 2) Nosaukumu un preču zīmju izmantošana (tikai identifikācija)
 
-Visas atsauces šajā vietnē uz “**Jauna Akropole**” un ar tiem saistītie nosaukumi, termini, logotipi vai preču zīmes tiek izgatavoti **tikai ar mērķi identificēt apspriežamo organizāciju** un sniedzot komentārus.
+Visas atsauces šajā vietnē uz “**Jaunā Akropole**” un ar tiem saistītajiem nosaukumiem, terminiem, logotipiem vai preču zīmēm tiek veiktas **vienīgi ar mērķi identificēt apspriežamo organizāciju** un sniegt komentārus.
 
-Visas preču zīmes, pakalpojumu zīmes un logotipi ir attiecīgo īpašnieku īpašums. Šī tīmekļa vietne **nepieprasa nekādas īpašumtiesības** trešo personu preču zīmēm un neizmanto tās, lai nozīmētu sponsorēšanu, partnerību vai apstiprināšanu.
+Visas preču zīmes, pakalpojumu zīmes un logotipi ir attiecīgo īpašnieku īpašums. Šī tīmekļa vietne **nepieprasa nekādas īpašumtiesības** uz trešo pušu preču zīmēm un neizmanto tās, lai norādītu uz sponsorēšanu, partnerību vai apstiprinājumu.
 
-## 3) nav imitācijas / nav oficiālas pārstāvniecības
+## 3) Nav uzdošanās / nav oficiālas pārstāvības
 
-Mēs nepiedāvājam sevi kā Jaunā Akropole, ne kā pārstāvji, darbinieki, aģenti vai pilnvaroti partneri New Akropolis.
+Mēs neprezentējam sevi kā Jaunā Akropole, nedz kā tās pārstāvjus, darbiniekus, aģentus vai pilnvarotus partnerus.
 
-Šīs mājas lapas dizains, izkārtojums un saturs tiek radīti neatkarīgi un paredzēti, lai izvairītos no sajaukšanas ar jebkādiem oficiāliem resursiem.
+Šīs tīmekļa vietnes dizains, izkārtojums un saturs ir radīts neatkarīgi un paredzēti, lai izvairītos no sajaukšanas ar jebkādiem oficiāliem resursiem.
 
 ## 4) Satura mērķis un ierobežojumi
 
-Saturs šajā vietnē ir paredzēta **informatīviem un izglītojošiem mērķiem**Tas atspoguļo analīzi un interpretāciju par:
+Saturs šajā vietnē tiek sniegts **informatīviem un izglītojošiem nolūkiem**. Tas atspoguļo analīzi un interpretāciju par:
 
--   publiski pieejami avoti,
--   citētie dokumenti,
--   mums sniegtās liecības vai paziņojumi,
--   un citus materiālus, ko izmanto saistībā ar komentāriem.
+- publiski pieejamiem avotiem,
+- citētajiem dokumentiem,
+- liecībām vai paziņojumiem, kas mums sniegti,
+- un citiem materiāliem, kas izmantoti komentāru kontekstā.
 
-Lai gan mēs cenšamies būt precīzi un godīgi, mēs nevaram garantēt, ka visa informācija ir pilnīga, aktuāla vai tajā nav kļūdu. Nekas šajā vietnē būtu jāsaprot kā profesionālās juridiskās konsultācijas.
+Lai gan mēs cenšamies būt precīzi un godīgi, mēs nevaram garantēt, ka visa informācija ir pilnīga, aktuāla vai brīva no kļūdām.
+Nekas šajā vietnē nedrīkst tikt traktēts kā profesionālas juridiskās konsultācijas.
 
-## 5) Atzinumi un paziņojumi
+## 5) Viedokļi un paziņojumi
 
-Ja vien nav skaidri norādīts kā tiešs citāts no avota, šīs tīmekļa vietnes daļas var saturēt **atzinumi, analīze un komentāri;**. Šāds saturs tiek sniegts godprātīgi un paredzēts sabiedriskai apspriešanai.
+Ja vien nav skaidri norādīts kā tiešs citāts no avota, daļas no šīs tīmekļa vietnes var saturēt **viedokļus, analīzi un komentārus**. Šāds saturs tiek sniegts godprātīgi un paredzēts sabiedriskai diskusijai.
 
 ## 6) Ārējās saites
 
-Šajā tīmekļa vietnē var būt saites uz trešo personu tīmekļa vietnēm, uz kurām var atsaukties. Mēs nekontrolējam šīs tīmekļa vietnes un neesam atbildīgi par to saturu, pieejamību vai politiku.
+Šajā tīmekļa vietnē var būt saites uz trešo pušu tīmekļa vietnēm kā atsauces. Mēs nekontrolējam tās tīmekļa vietnes un neesam atbildīgi par to saturu, pieejamību vai politiku.
 
-## 7) Autortiesības un godīga izmantošana / citāts
+## 7) Autortiesības un godīga izmantošana / citēšana
 
-Mēs ievērojam intelektuālā īpašuma tiesības. Ja izmanto trešo personu materiālus, tos izmanto tādiem mērķiem kā kritika, komentāri, izpēte un identifikācija, un tiem parasti pievieno kontekstu un/vai atsauces.
+Mēs cienām intelektuālā īpašuma tiesības. Ja tiek izmantoti trešo pušu materiāli, tie tiek izmantoti tādos nolūkos kā kritika, komentāri, pētniecība un identificēšana, un parasti tiem pievienots konteksts un/vai atsauces.
 
-Ja uzskatāt, ka kāds saturs šajā tīmekļa vietnē pārkāpj jūsu autortiesības vai citas tiesības, lūdzu, sazinieties ar mums ar konkrētu informāciju (skatīt “Kontakts” zemāk). Mēs pārskatīsim pamatotus pieprasījumus.
+Ja uzskatāt, ka kāds saturs šajā tīmekļa vietnē pārkāpj jūsu autortiesības vai citas tiesības, lūdzu, sazinieties ar mums, sniedzot konkrētus datus (skatīt “Kontakts” zemāk). Mēs pārskatīsim pamatotus pieprasījumus.
 
-## 8) Labojumi, tiesības atbildēt, un izņemšanas pieprasījumi
+## 8) Labojumi, tiesība uz atbildi un izņemšanas pieprasījumi
 
-Mēs uztveram precizitāti nopietni. Ja uzskatāt, ka kāds saturs šajā tīmekļa vietnē ir neprecīzs, maldinošs vai nelikumīgi publicēts, lūdzu, nosūtiet paziņojumu, tostarp:
+Mēs nopietni uztveram precizitāti. Ja uzskatāt, ka kāds saturs šajā tīmekļa vietnē ir neprecīzs, maldinošs vai nelikumīgi publicēts, lūdzu, nosūtiet ziņojumu, iekļaujot:
 
--   konkrētās(-o) lapas(-u) precīzs URL,
--   konkrēto(-os) paziņojumu(-us), ko apstrīdat,
--   skaidrs izskaidrojums, kāpēc uzskatāt, ka tas ir neprecīzs vai nelikumīgs,
--   un apstiprinoši pierādījumi (dokumenti, saites vai citi pārbaudāmi avoti).
+- konkrētās lapas precīzo URL(-us),
+- konkrēto(-s) paziņojumu(-us), ko apstrīdat,
+- skaidru paskaidrojumu, kāpēc uzskatāt, ka tas ir neprecīzs vai nelikumīgs,
+- un atbalstošus pierādījumus (dokumentus, saites vai citus pārbaudāmus avotus).
 
-Mēs pārskatīsim jūsu pieprasījumu un vajadzības gadījumā publicēsim labojumu, precizējumu vai atjaunināsim saturu. Neaizskarami, neskaidri vai neatbalstīti lūgumi var nesaņemt atbildi.
+Mēs pārskatīsim jūsu pieprasījumu un, ja nepieciešams, publicēsim labojumu, precizējumu vai atjaunināsim saturu.
+Abuzīvi, neskaidri vai nepamatoti pieprasījumi var nesaņemt atbildi.
 
 ## 9) Kontakts
 
-Juridisku paziņojumu, labojumu pieprasījumu vai atbildes pieprasījumu gadījumā sazinieties ar:
+Juridisku paziņojumu, labojumu pieprasījumu vai tiesības atbildēt pieprasījumu gadījumā sazinieties ar:
 
 **againstmanipulations@gmail.com**
 
-(Lūdzu, norādiet temata numuru: “Juridisks/labošanas pieprasījums”.)
+(Lūdzu, iekļaujiet temata rindiņu: “Juridisks / labošanas pieprasījums”.)
 
 ## 10) Izmaiņas šajā lapā
 
-Mēs varam atjaunināt šo Atruna / Juridiskā lapa, jo mājas lapā attīstās. Jaunākā versija ir tā, kas publicēta šajā lapā.
+Mēs varam atjaunināt šo Atrunas / Juridisko lapu, kamēr tīmekļa vietne attīstās. Jaunākā versija ir tā, kas publicēta šajā lapā.

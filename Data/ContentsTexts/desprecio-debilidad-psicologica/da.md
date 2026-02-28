@@ -1,13 +1,13 @@
-# Manglende hensyntagen til psykisk svaghed
+# Foragt for psykologisk svaghed
 
-> I vores råd til Akropolitanerne, vi ofte bekræfte meget behovet for en beslutsom march, en urokkelig vilje, værdien af magiske symboler og standarder. Men vi glemmer, at vores folk for det meste også har brug for lidt hengivenhed, opmærksomhed, selv om det er deres små at lære at overvinde dem, at lytte til deres tåbelighed, så de kan se dem og overvinde de irriterende barrierer. Jeg vil have min nationale MM til at indse, at de ikke kører den "valgte race", fordi der ikke er nogen valgte racer. De kører kun et par frø, ofte blandet med gødning, men gødning er gødning og frø har brug for det. Så i stedet for at se ulækker ud, lære at rotere Jorden for livet.
-> 
-> \- *Command No. 42: Behov for at fremme gode relationer i strukturer. Jorge Ángel Livraga*
+> I vores råd til akropolisterne plejer vi ofte meget at bekræfte nødvendigheden af en beslutsom fremmarch, en urokkelig vilje, værdien af magiske symboler og faner. Men vi glemmer, at vores folk, i det store flertal, også har brug for lidt kærlighed, opmærksomhed, omend blot over for deres småting, for at de kan lære at overvinde dem, at få hørt deres tåbeligheder, så de som sådanne kan se dem og overvinde irriterende barrierer. Jeg ønsker, at mine MM Nacionales skal indse, at de ikke leder den «udvalgte race», for der findes ingen udvalgte racer. De leder kun nogle få frø af den Sjette Underrace, ofte blandet med mængder af gødning… men gødning er gødning, og frøene har brug for det. Så i stedet for at vise afsky, lær at pløje Livets Jord.
+>
+> — *Mando nº 42: Behov for at fremme gode relationer i strukturerne. Jorge Ángel Livraga*
 
-> Akropolitan må vide, hvordan man kan lukke munden på hans Kama-manaer og rense sig selv fra de feminoide elementer (i ordets værste forstand), der udleder ham i armene på underbevidst animitet; af flugtånden, at vende ryggen til livet og blive kidnappet af de mørke styrker. Du må undgå den form for psykisk voldtægt, så de ikke bliver født, så, i din astrale og mentale krop, de elementære larver, der vil genoplive sjælen.
-> 
-> \- *Bastion nr. 61-3: På nogle akropolitaners psykologiske skrøbelighed. I februar 1982. Jorge Ángel Livraga*
+> Akropolisten må vide, hvordan han skal stille sit Kama-manas og rense sig for de feminoide elementer (i ordets værste forstand), der kaster ham i armene på den underbevidste animalitet; fra flugtånden, fra at vende ryggen til livet og lade sig bortføre af de Mørke Kræfter. Han må undgå den slags psykisk voldtægt, så der ikke senere fødes i hans astrale og mentale legeme de elementarlarver, der vil udtørre Sjælen.
+>
+> — *Bastión nº 61-3: Om nogle akropolisters psykologiske skrøbelighed. Februar 1982. Jorge Ángel Livraga*
 
-> I en følsom ånd gør sygdommen i hans astral krop ham følsom, og midt i den hårde kamp, vi kæmpede mod de mørke kræfter, er det porcelæn allerede skåret inde og udenfor, som hæmmer fødderne af dem, der arbejder og får dem til at bevæge sig med stor omhu for ikke at plukke den skrøbelige psykologiske struktur af de berørte. Han beder konstant om hengivenhed og forståelse, men han giver ikke dem omkring ham det samme, som han beder om, eller han gør det ved overdrevne impulser, der er født af hans instinkt stærkt udviklet af denne form for usynlige pest. I konstant ubalance, mener han, at andre har en moralsk forpligtelse til at tage sig af ham og holde ham op, aldrig bekymre sig om at styrke sine egne psykiske ben.
-> 
-> \- *Bastion nr. 70-1: fare: skrøbelighed. december 1982. Jorge Ángel Livraga*
+> Af følsom ånd gør sygdommen i hans astrale legeme ham blødsøden, og midt i den hårde kamp, vi fører mod de Mørke Kræfter, er han porcelæn allerede revnet indvendigt og udvendigt, som hæmmer fødderne på dem, der arbejder, og får dem til at bevæge sig med største forsigtighed for ikke at krænke den berørtes skrøbelige psykologiske struktur. Han beder konstant om kærlighed og forståelse, men giver ikke dem omkring sig det samme, som han beder om, eller gør det i overdrevne impulser, der udspringer af hans stærkt udviklede instinkt forårsaget af denne form for usynlig pest. I konstant ubalance mener han, at andre har en moralsk pligt til at tage sig af ham og holde ham oppe, uden nogensinde at bekymre sig om at styrke sine egne psykiske ben.
+>
+> — *Bastión nº 70-1: Fare: Skrøbelighed. December 1982. Jorge Ángel Livraga*

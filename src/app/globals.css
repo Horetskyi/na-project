@@ -50,6 +50,18 @@ body {
   background: linear-gradient(0deg, #5E5F99, #00015D);
   border-radius: 24px;
 }
+.custom-sections-divider::after {
+  background-image: url('/Images.png');
+  background-size: contain;
+  background-repeat: repeat-x;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  top: 0;
+  left: 0;
+  filter: drop-shadow(2px 4px 6px #221A17) invert(1);
+}
 .custom-sections-divider-small {
   position: relative;
   display: block;
@@ -59,4 +71,17 @@ body {
   margin-top: 50px;
   background: linear-gradient(0deg, #5E5F99, #00015D);
   border-radius: 24px;
+}
+
+.custom-sections-divider-small::after {
+  background-image: url('/ImagesSmall.png');
+  background-size: contain;
+  background-repeat: repeat-x;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  top: 0;
+  left: 0;
+  filter: drop-shadow(2px 4px 6px #101828) brightness(2);
 }

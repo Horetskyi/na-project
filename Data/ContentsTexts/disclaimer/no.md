@@ -1,69 +1,69 @@
-# Disclaimer / Juridisk
+# Ansvarsfraskrivelse / Juridisk
 
-## 1) Uavhengig hjemmeside (ingen tilknytning)
+## 1) Uavhengig nettsted (ingen tilknytning)
 
-Denne nettsiden er et **uavhengig informasjonsressurs** opprettet for analyse, kritikk og offentlig interesse diskusjon.
+Dette nettstedet er en **uavhengig informasjonsressurs** opprettet for analyse, kritikk og offentlig diskusjon.
 
-Det er **ikke tilknyttet, godkjent av, sponset eller drevet** av New Akropolis (også kjent som «Ny Akropolis», «Nouvelle Acropole», «Nueva Acrópolis») eller noen av sine representanter, grener eller tilknyttede enheter.
+Det er **ikke tilknyttet, godkjent av, sponset av eller drevet** av Nye Akropolis (også kjent som «New Acropolis», «Nouvelle Acropole», «Nueva Acrópolis») eller noen av dens representanter, avdelinger eller tilknyttede enheter.
 
 Hvis du leter etter offisiell informasjon, vennligst bruk organisasjonens offisielle nettsteder og kommunikasjonskanaler.
 
-## 2) bruk av navn og varemerker (kun identifikasjon)
+## 2) Bruk av navn og varemerker (kun identifikasjon)
 
-Alle referanser på dette nettstedet til \\"**New Akropolis**\\" og beslektede navn, vilkår, logoer eller varemerker er laget **Bare for å identifisere organisasjonen som diskuteres** og gir kommentarer.
+Alle referanser på dette nettstedet til “**Nye Akropolis**” og beslektede navn, begreper, logoer eller varemerker er gjort **utelukkende for å identifisere organisasjonen som diskuteres** og for å gi kommentarer.
 
-Alle varemerker, tjenestemerker og logoer tilhører deres respektive eiere. Denne nettsiden **gjør ikke krav på eierskap** av tredjeparts varemerker og bruker dem ikke til å innebære sponsing, partnerskap eller påtegning.
+Alle varemerker, tjenestemerker og logoer tilhører sine respektive eiere. Dette nettstedet **gjør ikke krav på eierskap** til tredjeparts varemerker og bruker dem ikke for å antyde sponsing, partnerskap eller påtegning.
 
-## 3) Ingen impersonasjon / ingen offisiell representasjon
+## 3) Ikke utgi seg for / ingen offisiell representasjon
 
-Vi presenterer oss ikke som New Akropolis eller som representanter, ansatte, agenter eller autoriserte partnere i New Akropolis.
+Vi utgir oss ikke for å være Nye Akropolis, heller ikke som representanter, ansatte, agenter eller autoriserte partnere av Nye Akropolis.
 
-Design, layout og innhold på dette nettstedet opprettes uavhengig og er ment å unngå forvirring med alle offisielle ressurser.
+Design, layout og innhold på dette nettstedet er utarbeidet uavhengig og er ment å unngå forvirring med eventuelle offisielle ressurser.
 
-## 4) Innholdsformål og begrensninger
+## 4) Innholdets formål og begrensninger
 
-Innholdet på dette nettstedet er gitt **Informasjons- og utdanningsformål**Den reflekterer analyse og tolkning av:
+Innholdet på dette nettstedet er gitt for **informasjons- og utdanningsformål**. Det gjenspeiler analyse og tolkning av:
 
--   offentlig tilgjengelige kilder,
--   dokumenter,
--   Vitne eller uttalelser gitt til oss,
--   og andre materialer som brukes i forbindelse med kommentar.
+- offentlig tilgjengelige kilder,
+- siterte dokumenter,
+- vitneforklaringer eller uttalelser gitt til oss,
+- og annet materiale brukt i forbindelse med kommentarer.
 
-Selv om vi har som mål å være nøyaktige og rettferdig, kan vi ikke garantere at all informasjon er fullstendig, oppdatert eller fri for feil. Ingenting på dette nettstedet bør forstås som profesjonell juridisk rådgivning.
+Selv om vi forsøker å være nøyaktige og rettferdige, kan vi ikke garantere at all informasjon er fullstendig, oppdatert eller fri for feil. Ingenting på dette nettstedet bør forstås som profesjonell juridisk rådgivning.
 
-## 5) Uttalelser og uttalelser
+## 5) Meningsytringer og uttalelser
 
-Med mindre det eksplisitt er angitt som et direkte sitat fra en kilde, kan deler av dette nettstedet inneholde **meninger, analyse og kommentarer**. Slikt innhold er gitt i god tro og ment for offentlig diskusjon.
+Med mindre det uttrykkelig er angitt som et direkte sitat fra en kilde, kan deler av dette nettstedet inneholde **meninger, analyser og kommentarer**. Slikt innhold gis i god tro og er ment for offentlig diskusjon.
 
 ## 6) Eksterne lenker
 
-Dette nettstedet kan omfatte koblinger til tredjeparts nettsteder for referanse. Vi kontrollerer ikke disse nettstedene og er ikke ansvarlige for deres innhold, tilgjengelighet eller retningslinjer.
+Dette nettstedet kan inneholde lenker til tredjepartsnettsteder for referanse. Vi kontrollerer ikke disse nettstedene og er ikke ansvarlige for deres innhold, tilgjengelighet eller retningslinjer.
 
 ## 7) Opphavsrett og rettferdig bruk / sitat
 
-Vi respekterer immaterielle rettigheter. Når tredjepartsmaterialer brukes, brukes de til formål som kritikk, kommentarer, forskning og identifikasjon, og er vanligvis ledsaget av sammenheng og/eller referanser.
+Vi respekterer immaterielle rettigheter. Når tredjepartsmateriale brukes, brukes det til formål som kritikk, kommentar, forskning og identifikasjon, og er vanligvis ledsaget av kontekst og/eller referanser.
 
-Hvis du mener at innhold på dette nettstedet krenker opphavsretten eller andre rettigheter, kontakt oss med spesifikke detaljer (se \\"Kontakt\\" nedenfor). Vi vil gjennomlese bekreftede forespørsler.
+Hvis du mener at noe innhold på dette nettstedet krenker opphavsretten eller andre rettigheter, kontakt oss med spesifikke detaljer (se “Kontakt” nedenfor). Vi vil gjennomgå begrunnede forespørsler.
 
-## 8) Rettelser, svarrett og nedleggelsesforespørsler
+## 8) Rettelser, svarrett og forespørsler om fjerning
 
 Vi tar nøyaktighet på alvor. Hvis du mener at innhold på dette nettstedet er unøyaktig, villedende eller ulovlig publisert, vennligst send en melding som inkluderer:
 
--   nøyaktige URL(er) til den eller de aktuelle sidene,
--   den(t) spesifikke uttalelse(r) du tvister,
--   En klar forklaring på hvorfor du tror det er unøyaktig eller ulovlig,
--   og støtte bevis (dokumenter, lenker eller andre kontrollerbare kilder).
+- nøyaktige URL(er) til den eller de aktuelle sidene,
+- de(n) spesifikke uttalelsen(e) du bestrider,
+- en klar forklaring på hvorfor du mener det er unøyaktig eller ulovlig,
+- og støttende bevis (dokumenter, lenker eller andre verifiserbare kilder).
 
-Vi vil gjennomlese din forespørsel og, om nødvendig, publisere en rettelse, avklaring eller oppdatere innholdet. Abusive, vage eller ustøtte forespørsler kan ikke motta svar.
+Vi vil gjennomgå din forespørsel og, der det er hensiktsmessig, publisere en rettelse, avklaring eller oppdatere innholdet. Krenkende, vage eller uunderbygde forespørsler kan bli stående uten svar.
 
 ## 9) Kontakt
 
-For juridiske meldinger, rettelsesforespørsler eller rett til å svare på henvendelser, kontakt:
+For juridiske meldinger, rettelsesforespørsler eller henvendelser om rett til tilsvar, kontakt:
 
 **againstmanipulations@gmail.com**
 
-(Ta med emnelinjen: «Legal / rettelsesforespørsel».)
+(Vennligst inkluder emnelinjen: «Juridisk / rettelsesforespørsel».)
 
 ## 10) Endringer på denne siden
 
-Vi kan oppdatere denne Disclaimer / Juridisk side som nettsiden utvikler seg. Den siste versjonen er den som publiseres på denne siden.
+Vi kan oppdatere denne Ansvarsfraskrivelse / Juridisk-siden etter hvert som nettstedet utvikler seg. Den nyeste versjonen er den som er publisert på denne siden.

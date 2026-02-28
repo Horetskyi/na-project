@@ -1,13 +1,13 @@
-# Psikolojik zayıflık için
+# Psikolojik zayıflığa küçümseme
 
-> Akropolitans’a olan tavsiyemizde, genellikle belirlenen bir yürüyüşe olan ihtiyacı çok daha iyi geri aldık, bir dalgalama olmayacak, sihirli sembollerin ve standartların değeri. Ama halkımızın, çoğu kısım için, küçük bir sevgiye de ihtiyacı olduğunu unutuyoruz, onları yenmeyi öğrenmek için küçük olanları bile dikkat edin, böylece onları görebilirler ve sinir bozucu engelleri aşmak için. Ulusal MM'yi "kosen yarışı" sürmediklerini fark etmek istiyorum çünkü seçilmiş ırklar yoktur. Sadece birkaç Altıncı Subraza tohumları sürüyorlar, çoğu zaman manure miktarı ile karıştırılır... ancak manure gübre ve tohumlara ihtiyaç duyuyor. Yani, brüt bakmak yerine, Dünya'yı Yaşama döndürmeyi öğrenin.
-> 
-> \- *Komut No. 42: Yapılarda iyi ilişkileri teşvik etmek gerekir. Jorge Ángel Livraga*
+> Akropolistlere verdiğimiz öğütlerde genellikle kararlı bir yürüyüşün, sarsılmaz bir iradenin, sihirli sembollerin ve sancakların değerinin gerekliliğini sık sık vurgularız. Ama halkımızın büyük çoğunluğunun, onları aşmayı öğrenebilmeleri için en küçük zaaflarına bile biraz sevgi ve ilgiye ihtiyaç duyduğunu; saçmalıklarını dinleyip bunları oldukları gibi görmeleri ve can sıkıcı engelleri aşmaları gerektiğini unutuyoruz. Benim Ulusal MM'lerimin, «seçilmiş ırkı» yönetmediklerini fark etmelerini istiyorum, çünkü seçilmiş ırklar yoktur. Sadece Altıncı Subraza'nın birkaç tohumunu yönetiyorlar, çoğu zaman gübre miktarlarıyla karışmış… ama gübre gübredir ve tohumlar ona ihtiyaç duyar. Öyleyse tiksinme ifadesi takınmak yerine, Yaşam Toprağını sürmeyi öğrenin.
+>
+> — *Mando nº 42: Necesidad de promover buenas relaciones en las estructuras. Jorge Ángel Livraga*
 
-> Akropolitan, Kama-insanlarını nasıl susturacağını ve kendisini bu feminoid elementlerden temizleyeceğini bilmelidir (sözdeki en kötü anlamda) onu hayvan bilinçaltının kollarına sokmak; kaçış ruhunun, karanlık güçler tarafından kaçırılması. Bu tür psişik tecavüzden kaçınmalısınız, böylece doğmazlar, o zaman astral ve zihinsel bedeninizde, Ruhu yeniden açacak olan element Larale.
-> 
-> \- *Bastion No. 61-3: Bazı akropolitanların psikolojik kırılganlığı. Şubat 1982. Jorge Ángel Livraga*
+> Akropolist, Kama-manasını susturmasını ve onu bilinçaltı hayvansallığın kollarına sürükleyen; kaçış ruhundan, hayata sırt çevirmekten ve Karanlık Güçler tarafından esir alınmaktan sorumlu olan o feminoid unsurlardan (kelimenin en kötü anlamında) temizlenmesini bilmelidir. Böyle bir tür psişik tecavüzden kaçınmalıdır ki, daha sonra astral ve zihinsel bedeninin içinde ruhunu kurutacak elemental larvalar doğmasın.
+>
+> — *Bastión nº 61-3: Sobre la fragilidad psicológica de algunos acropolitanos. Febrero del 1982. Jorge Ángel Livraga*
 
-> Hassas bir ruhta, Astral Vücut hastalığı onu hassas yapar ve Karanlık Güçlere karşı savaştığımız şiddetli savaşın ortasında, zaten içeride ve dışarıda kalmış, bu da onları büyük bakımla hareket ettirir ve etkilenenlerin kırılgan psikolojik yapısını yağmaz. Sürekli sevgi ve anlayış için sorar, ancak o, sorarsa aynı şeyi verir, ya da içgüdüsü bu şekilde görünmez bir şekilde gelişmiş olan içgüdüleri aşırı dürtüler ile yapar. Sürekli dengesizlikte, başkalarının ona bakmak ve onu tutmak için ahlaki bir yükümlülüğü olduğuna inanıyor, kendi psişik bacaklarını güçlendirmekten asla endişe duymuyor.
-> 
-> \- *70-1: Tehlike: Hassasiyet. Aralık 1982. Jorge Ángel Livraga*
+> Hassas ruhlu olanlarda, Astral Beden hastalığı onları duygusallaştırır ve Karanlık Güçlere karşı verdiğimiz şiddetli savaşın ortasında, içeriden ve dışarıdan çatlamış bir porselen gibidir; çalışanların ayaklarını töker ve etkilenenin kırılgan psikolojik yapısına sürtünmemek için son derece dikkatli hareket etmelerine neden olur. Sürekli sevgi ve anlayış ister, ama çevresindekilere istediği şeyi vermez ya da bunu, bu görünmez vebanın güçlü gelişmiş içgüdüsünden doğan abartılı dürtülerle yapar. Sürekli dengesizlik içinde, başkalarının ona bakmak ve onu ayakta tutmak konusunda ahlaki bir yükümlülük taşıdığına inanır; kendi psişik bacaklarını güçlendirmekle asla ilgilenmez.
+>
+> — *Bastión nº 70-1: Peligro: La fragilidad. Diciembre 1982. Jorge Ángel Livraga*
