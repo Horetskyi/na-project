@@ -15,6 +15,9 @@ type TranslationStatus =
 
 interface CliArgs {
   model: string;
+  verifyLanguage: boolean;
+  verifyModel: string;
+  verifyChars: number;
   contentId?: string;
   lang?: string;
   maxItems?: number;
@@ -77,6 +80,9 @@ class OpenAiRateLimitError extends Error {
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
     model: "gpt-5.1", // 
+    verifyLanguage: true,
+    verifyModel: "gpt-4.1",
+    verifyChars: 1000,
     onlyShowPrompts: false,
     showGlossary: false,
     maxOutputTokens: 0, // 
@@ -95,6 +101,18 @@ function parseArgs(argv: string[]): CliArgs {
         break;
       case "--content-id":
         args.contentId = argv[++i];
+        break;
+      case "--verify-language":
+        args.verifyLanguage = true;
+        break;
+      case "--no-verify-language":
+        args.verifyLanguage = false;
+        break;
+      case "--verify-model":
+        args.verifyModel = argv[++i] ?? args.verifyModel;
+        break;
+      case "--verify-chars":
+        args.verifyChars = Number(argv[++i]);
         break;
       case "--lang":
         args.lang = argv[++i];
@@ -162,7 +180,11 @@ What it does:
   - Updates status to ENHANCED_BY_GPT after each successful file
 
 Options:
-  --model <name>       OpenAI model name (default: gpt-5.3-codex)
+  --model <name>       OpenAI model name (default: gpt-5.1)
+  --verify-language    Verify output language with secondary model (default: on)
+  --no-verify-language Disable secondary language verification
+  --verify-model <n>   Verifier model name (default: gpt-4.1)
+  --verify-chars <n>   Leading chars checked by verifier (default: 1000)
   --content-id <id>    Process only one content directory
   --lang <code>        Process only one target locale (e.g. uk)
   --max-items <n>      Stop after n successful updates
@@ -176,10 +198,10 @@ Options:
                        Show glossary only for one target language (e.g. uk)
   --glossary-limit <n> Limit printed terms per pair (default: all)
   --max-output-tokens <n>
-                       Max completion tokens per request (default: 1800, 0 = unset)
+                       Max completion tokens per request (default: 0, 0 = unset)
   --sleep-ms <n>       Delay between API calls (default: 1200)
-  --retries <n>        Retries per file on failure (default: 3)
-  --timeout-ms <n>     HTTP timeout per request (default: 120000)
+  --retries <n>        Retries per file on failure (default: 2)
+  --timeout-ms <n>     HTTP timeout per request (default: 240000)
   --dry-run            Show planned work, do not call API or write files
   --help               Show this help
 
@@ -188,6 +210,7 @@ Auth:
 
 Examples:
   npx tsx scripts/translate/enhance-gpt.ts
+  npx tsx scripts/translate/enhance-gpt.ts --verify-model gpt-4.1 --verify-chars 1000
   npx tsx scripts/translate/enhance-gpt.ts --content-id no-tener-hijos --lang uk
   npx tsx scripts/translate/enhance-gpt.ts --content-id proposition-de-commission-d-enquete-parlementaire-sur-les-sectes --lang ru --max-items 1 --only-show-prompts
   npx tsx scripts/translate/enhance-gpt.ts --show-glossary --glossary-source ru --glossary-target uk --glossary-limit 30
@@ -266,6 +289,52 @@ function parseGlossaryPair(value?: string): { source: string; target: string } |
     source: match[1].trim(),
     target: match[2].trim(),
   };
+}
+
+function languageLabel(code: string): string {
+  const map: Record<string, string> = {
+    ar: "Arabic",
+    bg: "Bulgarian",
+    bn: "Bengali",
+    cs: "Czech",
+    da: "Danish",
+    de: "German",
+    el: "Greek",
+    en: "English",
+    es: "Spanish",
+    fa: "Persian",
+    fi: "Finnish",
+    fr: "French",
+    he: "Hebrew",
+    hi: "Hindi",
+    hr: "Croatian",
+    hu: "Hungarian",
+    id: "Indonesian",
+    it: "Italian",
+    ja: "Japanese",
+    ko: "Korean",
+    lt: "Lithuanian",
+    lv: "Latvian",
+    ms: "Malay",
+    my: "Burmese",
+    nl: "Dutch",
+    no: "Norwegian",
+    pl: "Polish",
+    pt: "Portuguese",
+    ro: "Romanian",
+    ru: "Russian",
+    sk: "Slovak",
+    sr: "Serbian",
+    sv: "Swedish",
+    sw: "Swahili",
+    ta: "Tamil",
+    th: "Thai",
+    tr: "Turkish",
+    uk: "Ukrainian",
+    vi: "Vietnamese",
+    zh: "Chinese",
+  };
+  return map[code] ?? code;
 }
 
 function looksLikeMarkdownHeading(line: string): boolean {
@@ -707,6 +776,11 @@ function buildPrompt(params: {
     "You are a professional translator and editor.",
     "Task: produce a high-quality target-language markdown file.",
     "Requirements:",
+    "- LANGUAGE ACCURACY (critical and mandatory):",
+    `  - Translate FROM ${sourceLang} (${languageLabel(sourceLang)}) TO ${targetLang} (${languageLabel(targetLang)}).`,
+    `  - The final output must be in ${targetLang} (${languageLabel(targetLang)}) only.`,
+    "  - Do NOT output Russian, English, or any other language unless it is the required target language.",
+    "  - If existing target markdown contains mixed/wrong language text, fully rewrite it into the required target language.",
     "- STRICT MARKDOWN PRESERVATION (mandatory):",
     "  - Keep the exact markdown block order and structure (headings, blockquotes, lists, tables, code fences, links, images).",
     "  - Keep the same number of headings/list items/blockquotes/code fences/table rows as in the source.",
@@ -737,6 +811,74 @@ function buildPrompt(params: {
   ]
     .filter(Boolean)
     .join("\n");
+}
+
+function safeSnippet(text: string, maxChars: number): string {
+  return text.slice(0, Math.max(1, maxChars));
+}
+
+function parseJsonObject<T>(text: string): T | null {
+  const trimmed = text.trim();
+  try {
+    return JSON.parse(trimmed) as T;
+  } catch {
+    const start = trimmed.indexOf("{");
+    const end = trimmed.lastIndexOf("}");
+    if (start >= 0 && end > start) {
+      const candidate = trimmed.slice(start, end + 1);
+      try {
+        return JSON.parse(candidate) as T;
+      } catch {
+        return null;
+      }
+    }
+    return null;
+  }
+}
+
+async function verifyLanguageWithModel(params: {
+  apiKey: string;
+  model: string;
+  timeoutMs: number;
+  expectedLanguageCode: string;
+  textSample: string;
+}): Promise<{ correctLanguage: boolean; detectedLanguage?: string; reason?: string }> {
+  const { apiKey, model, timeoutMs, expectedLanguageCode, textSample } = params;
+  const verifyPrompt = [
+    "You are a strict language detector.",
+    "Decide whether the provided text is predominantly in the expected target language.",
+    "Return ONLY JSON with keys:",
+    '{"correctLanguage": boolean, "detectedLanguage": string, "reason": string}',
+    `Expected language code: ${expectedLanguageCode}`,
+    `Expected language name: ${languageLabel(expectedLanguageCode)}`,
+    "Do not include markdown or any extra text.",
+    "Text sample:",
+    textSample,
+  ].join("\n");
+
+  const responseText = await callOpenAi({
+    apiKey,
+    model,
+    prompt: verifyPrompt,
+    maxOutputTokens: 200,
+    timeoutMs,
+  });
+
+  const parsed = parseJsonObject<{
+    correctLanguage?: boolean;
+    detectedLanguage?: string;
+    reason?: string;
+  }>(responseText);
+
+  if (!parsed || typeof parsed.correctLanguage !== "boolean") {
+    throw new Error("Language verifier returned invalid JSON payload");
+  }
+
+  return {
+    correctLanguage: parsed.correctLanguage,
+    detectedLanguage: parsed.detectedLanguage,
+    reason: parsed.reason,
+  };
 }
 
 async function printPromptForItem(item: WorkItem, glossary: GlossaryEntry[]): Promise<void> {
@@ -934,13 +1076,28 @@ async function processItem(args: {
   item: WorkItem;
   apiKey: string;
   model: string;
+  verifyLanguage: boolean;
+  verifyModel: string;
+  verifyChars: number;
   maxOutputTokens: number;
   timeoutMs: number;
   retries: number;
   dryRun: boolean;
   glossary: GlossaryEntry[];
 }): Promise<boolean> {
-  const { item, apiKey, model, maxOutputTokens, timeoutMs, retries, dryRun, glossary } = args;
+  const {
+    item,
+    apiKey,
+    model,
+    verifyLanguage,
+    verifyModel,
+    verifyChars,
+    maxOutputTokens,
+    timeoutMs,
+    retries,
+    dryRun,
+    glossary,
+  } = args;
   const { contentId, targetLang, sourceLang, sourcePath, targetPath, statusPath } = item;
 
   const sourceMarkdown = await fs.readFile(sourcePath, "utf-8");
@@ -983,6 +1140,25 @@ async function processItem(args: {
           `${contentId}:${targetLang} rejected: GPT output too short (${enhancedLength} vs ${baselineLength} chars, ${ratio}%)`
         );
         return false;
+      }
+
+      if (verifyLanguage) {
+        const sample = safeSnippet(enhanced, verifyChars);
+        const verification = await verifyLanguageWithModel({
+          apiKey,
+          model: verifyModel,
+          timeoutMs,
+          expectedLanguageCode: targetLang,
+          textSample: sample,
+        });
+
+        if (!verification.correctLanguage) {
+          throw new Error(
+            `Language verification failed for ${targetLang}` +
+              (verification.detectedLanguage ? ` (detected: ${verification.detectedLanguage})` : "") +
+              (verification.reason ? `: ${verification.reason}` : "")
+          );
+        }
       }
 
       await fs.writeFile(targetPath, enhanced, "utf-8");
@@ -1056,6 +1232,9 @@ async function main(): Promise<void> {
   if (args.glossaryTarget !== undefined && !args.glossaryTarget.trim()) {
     throw new Error("--glossary-target must not be empty");
   }
+  if (!Number.isFinite(args.verifyChars) || args.verifyChars < 100) {
+    throw new Error("--verify-chars must be >= 100");
+  }
 
   const apiKey = getApiKey();
   if (!args.dryRun && !args.onlyShowPrompts && !apiKey) {
@@ -1068,6 +1247,7 @@ async function main(): Promise<void> {
   if (args.lang) log.info(`Filter locale: ${args.lang}`);
   if (args.maxItems) log.info(`Max items: ${args.maxItems}`);
   log.info(`Max output tokens: ${args.maxOutputTokens}`);
+  log.info(`Language verification: ${args.verifyLanguage ? `on (${args.verifyModel}, ${args.verifyChars} chars)` : "off"}`);
   if (args.dryRun) log.warn("DRY RUN enabled — no files will be changed");
 
   const generatedGlossaryIndex = await buildGlossaryIndex(args);
@@ -1133,6 +1313,9 @@ async function main(): Promise<void> {
       item,
       apiKey: apiKey ?? "",
       model: args.model,
+      verifyLanguage: args.verifyLanguage,
+      verifyModel: args.verifyModel,
+      verifyChars: args.verifyChars,
       maxOutputTokens: args.maxOutputTokens,
       timeoutMs: args.timeoutMs,
       retries: args.retries,
