@@ -1,38 +1,414 @@
 {
   "version": 1,
   "pairs": {
-    "es=>uk": [
+    "es<=>uk": [
       { "source": "Nueva Acrópolis", "target": "Новий Акрополь", "weight": 50 },
       { "source": "acropolista", "target": "акрополець", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Живі Сили", "weight": 40 },
       { "source": "Los textos del fundador", "target": "Тексти засновника", "weight": 30 },
       { "source": "No tener hijos", "target": "Не мати дітей", "weight": 20 },
       { "source": "Reapertura de los «Misterios»", "target": "Відкриття «Містерій»", "weight": 25 }
     ],
-    "es=>en": [
+    "es<=>en": [
       { "source": "Nueva Acrópolis", "target": "New Acropolis", "weight": 50 },
+      { "source": "acropolista", "target": "acropolitan", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Living Forces", "weight": 40 },
       { "source": "Los textos del fundador", "target": "The founder’s texts", "weight": 30 },
       { "source": "No tener hijos", "target": "Not having children", "weight": 20 }
     ],
-    "es=>ru": [
+    "es<=>ru": [
       { "source": "Nueva Acrópolis", "target": "Новый Акрополь", "weight": 50 },
+      { "source": "acropolista", "target": "акрополец", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Живые силы", "weight": 40 },
       { "source": "Los textos del fundador", "target": "Тексты основателя", "weight": 30 }
     ],
-    "es=>de": [
+    "es<=>de": [
       { "source": "Nueva Acrópolis", "target": "Neue Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "Akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Lebendige Kräfte", "weight": 40 },
       { "source": "Los textos del fundador", "target": "Die Texte des Gründers", "weight": 30 },
       { "source": "No tener hijos", "target": "Keine Kinder", "weight": 20 }
     ],
-    "es=>fr": [
+    "es<=>fr": [
       { "source": "Nueva Acrópolis", "target": "Nouvelle Acropole", "weight": 50 },
+      { "source": "acropolista", "target": "acropoliste", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Forces vives", "weight": 40 },
       { "source": "Los textos del fundador", "target": "Textes du Fondateur", "weight": 30 }
     ],
-    "es=>pt": [
+    "es<=>pt": [
       { "source": "Nueva Acrópolis", "target": "Nova Acrópole", "weight": 50 },
+      { "source": "acropolista", "target": "acropolista", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Forças Vivas", "weight": 40 },
+      { "source": "Живі Сили", "target": "Forças Vivas", "weight": 40 },
       { "source": "Los textos del fundador", "target": "Os textos do fundador", "weight": 30 }
     ],
-    "es=>it": [
+    "es<=>it": [
       { "source": "Nueva Acrópolis", "target": "Nuova Acropoli", "weight": 50 },
+      { "source": "acropolista", "target": "acropolista", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Forze vive", "weight": 40 },
       { "source": "Los textos del fundador", "target": "I testi del Fondatore", "weight": 30 }
+    ],
+    "es<=>ar": [
+      { "source": "Nueva Acrópolis", "target": "نيو أكروبوليس", "weight": 50 },
+      { "source": "acropolista", "target": "أكروبولي", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "القوى الحية", "weight": 40 }
+    ],
+    "es<=>bg": [
+      { "source": "Nueva Acrópolis", "target": "Нов Акропол", "weight": 50 },
+      { "source": "acropolista", "target": "акрополец", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Живи сили", "weight": 40 }
+    ],
+    "es<=>bn": [
+      { "source": "Nueva Acrópolis", "target": "নিউ অ্যাক্রোপলিস", "weight": 50 },
+      { "source": "acropolista", "target": "অ্যাক্রোপলিস সদস্য", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "জীবন্ত শক্তি", "weight": 40 }
+    ],
+    "es<=>cs": [
+      { "source": "Nueva Acrópolis", "target": "Nová Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolista", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Živé síly", "weight": 40 }
+    ],
+    "es<=>da": [
+      { "source": "Nueva Acrópolis", "target": "Ny Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Levende kræfter", "weight": 40 }
+    ],
+    "es<=>el": [
+      { "source": "Nueva Acrópolis", "target": "Νέα Ακρόπολη", "weight": 50 },
+      { "source": "acropolista", "target": "ακροπολίτης", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Ζωντανές Δυνάμεις", "weight": 40 }
+    ],
+    "es<=>fa": [
+      { "source": "Nueva Acrópolis", "target": "آکروپولیس نوین", "weight": 50 },
+      { "source": "acropolista", "target": "آکروپولیست", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "نیروهای زنده", "weight": 40 }
+    ],
+    "es<=>fi": [
+      { "source": "Nueva Acrópolis", "target": "Uusi Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolisti", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Elävät voimat", "weight": 40 }
+    ],
+    "es<=>he": [
+      { "source": "Nueva Acrópolis", "target": "אקרופוליס החדשה", "weight": 50 },
+      { "source": "acropolista", "target": "אקרופוליסט", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "כוחות חיים", "weight": 40 }
+    ],
+    "es<=>hi": [
+      { "source": "Nueva Acrópolis", "target": "न्यू एक्रोपोलिस", "weight": 50 },
+      { "source": "acropolista", "target": "एक्रोपोलिस्ट", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "जीवंत शक्तियाँ", "weight": 40 }
+    ],
+    "es<=>hr": [
+      { "source": "Nueva Acrópolis", "target": "Nova Akropola", "weight": 50 },
+      { "source": "acropolista", "target": "akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Žive snage", "weight": 40 },
+      { "source": "Живі Сили", "target": "Žive snage", "weight": 40 }
+    ],
+    "es<=>hu": [
+      { "source": "Nueva Acrópolis", "target": "Új Akropolisz", "weight": 50 },
+      { "source": "acropolista", "target": "akropolista", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Élő erők", "weight": 40 }
+    ],
+    "es<=>id": [
+      { "source": "Nueva Acrópolis", "target": "Akropolis Baru", "weight": 50 },
+      { "source": "acropolista", "target": "akropolis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Kekuatan Hidup", "weight": 40 }
+    ],
+    "es<=>ja": [
+      { "source": "Nueva Acrópolis", "target": "新アクロポリス", "weight": 50 },
+      { "source": "acropolista", "target": "アクロポリスト", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "生命の力", "weight": 40 }
+    ],
+    "es<=>ko": [
+      { "source": "Nueva Acrópolis", "target": "신 아크로폴리스", "weight": 50 },
+      { "source": "acropolista", "target": "아크로폴리스트", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "살아있는 힘", "weight": 40 }
+    ],
+    "es<=>lt": [
+      { "source": "Nueva Acrópolis", "target": "Naujasis Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolietis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Gyvosios jėgos", "weight": 40 }
+    ],
+    "es<=>lv": [
+      { "source": "Nueva Acrópolis", "target": "Jaunā Akropole", "weight": 50 },
+      { "source": "acropolista", "target": "akropolietis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Dzīvie spēki", "weight": 40 },
+      { "source": "Живі Сили", "target": "Dzīvie spēki", "weight": 40 }
+    ],
+    "es<=>ms": [
+      { "source": "Nueva Acrópolis", "target": "Akropolis Baharu", "weight": 50 },
+      { "source": "acropolista", "target": "akropolis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Daya Hidup", "weight": 40 }
+    ],
+    "es<=>my": [
+      { "source": "Nueva Acrópolis", "target": "နယူး အက်ခရိုပိုလစ်", "weight": 50 },
+      { "source": "acropolista", "target": "အက်ခရိုပိုလစ် အဖွဲ့ဝင်", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "အသက်ရှင်နေသော အင်အားများ", "weight": 40 }
+    ],
+    "es<=>nl": [
+      { "source": "Nueva Acrópolis", "target": "Nieuwe Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "acropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Levende krachten", "weight": 40 }
+    ],
+    "es<=>no": [
+      { "source": "Nueva Acrópolis", "target": "Nye Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Levende krefter", "weight": 40 }
+    ],
+    "es<=>pl": [
+      { "source": "Nueva Acrópolis", "target": "Nowy Akropol", "weight": 50 },
+      { "source": "acropolista", "target": "akropolita", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Żywe Siły", "weight": 40 }
+    ],
+    "es<=>ro": [
+      { "source": "Nueva Acrópolis", "target": "Noua Acropolă", "weight": 50 },
+      { "source": "acropolista", "target": "acropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Forțe vii", "weight": 40 }
+    ],
+    "es<=>sk": [
+      { "source": "Nueva Acrópolis", "target": "Nová Akropola", "weight": 50 },
+      { "source": "acropolista", "target": "akropolista", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Živé sily", "weight": 40 }
+    ],
+    "es<=>sr": [
+      { "source": "Nueva Acrópolis", "target": "Нови Акропољ", "weight": 50 },
+      { "source": "acropolista", "target": "акрополиста", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Живе снаге", "weight": 40 }
+    ],
+    "es<=>sv": [
+      { "source": "Nueva Acrópolis", "target": "Nya Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Levande krafter", "weight": 40 }
+    ],
+    "es<=>sw": [
+      { "source": "Nueva Acrópolis", "target": "Acropolis Mpya", "weight": 50 },
+      { "source": "acropolista", "target": "mwanachama wa Akropolis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Nguvu Hai", "weight": 40 }
+    ],
+    "es<=>ta": [
+      { "source": "Nueva Acrópolis", "target": "நியூ அக்ரோபொலிஸ்", "weight": 50 },
+      { "source": "acropolista", "target": "அக்ரோபொலிஸ்ட்", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "உயிர் சக்திகள்", "weight": 40 }
+    ],
+    "es<=>th": [
+      { "source": "Nueva Acrópolis", "target": "นิวอะโครโพลิส", "weight": 50 },
+      { "source": "acropolista", "target": "สมาชิกนิวอะโครโพลิส", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "พลังที่มีชีวิต", "weight": 40 }
+    ],
+    "es<=>tr": [
+      { "source": "Nueva Acrópolis", "target": "Yeni Akropolis", "weight": 50 },
+      { "source": "acropolista", "target": "akropolist", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Yaşayan Güçler", "weight": 40 }
+    ],
+    "es<=>vi": [
+      { "source": "Nueva Acrópolis", "target": "Tân Acropolis", "weight": 50 },
+      { "source": "acropolista", "target": "người theo Acropolis", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "Sinh lực", "weight": 40 }
+    ],
+    "es<=>zh": [
+      { "source": "Nueva Acrópolis", "target": "新阿克罗波利斯", "weight": 50 },
+      { "source": "acropolista", "target": "阿克罗波利斯成员", "weight": 45 },
+      { "source": "Fuerzas Vivas", "target": "生命力量", "weight": 40 }
+    ],
+    "uk<=>ar": [
+      { "source": "Новий Акрополь", "target": "نيو أكروبوليس", "weight": 50 },
+      { "source": "акрополець", "target": "أكروبولي", "weight": 45 },
+      { "source": "Живі Сили", "target": "القوى الحية", "weight": 40 }
+    ],
+    "uk<=>bg": [
+      { "source": "Новий Акрополь", "target": "Нов Акропол", "weight": 50 },
+      { "source": "акрополець", "target": "акрополец", "weight": 45 },
+      { "source": "Живі Сили", "target": "Живи сили", "weight": 40 }
+    ],
+    "uk<=>bn": [
+      { "source": "Новий Акрополь", "target": "নিউ অ্যাক্রোপলিস", "weight": 50 },
+      { "source": "акрополець", "target": "অ্যাক্রোপলিস সদস্য", "weight": 45 },
+      { "source": "Живі Сили", "target": "জীবন্ত শক্তি", "weight": 40 }
+    ],
+    "uk<=>cs": [
+      { "source": "Новий Акрополь", "target": "Nová Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Živé síly", "weight": 40 }
+    ],
+    "uk<=>da": [
+      { "source": "Новий Акрополь", "target": "Ny Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Levende kræfter", "weight": 40 }
+    ],
+    "uk<=>de": [
+      { "source": "Новий Акрополь", "target": "Neue Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "Akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Lebendige Kräfte", "weight": 40 }
+    ],
+    "uk<=>el": [
+      { "source": "Новий Акрополь", "target": "Νέα Ακρόπολη", "weight": 50 },
+      { "source": "акрополець", "target": "ακροπολίτης", "weight": 45 },
+      { "source": "Живі Сили", "target": "Ζωντανές Δυνάμεις", "weight": 40 }
+    ],
+    "uk<=>en": [
+      { "source": "Новий Акрополь", "target": "New Acropolis", "weight": 50 },
+      { "source": "акрополець", "target": "acropolitan", "weight": 45 },
+      { "source": "Живі Сили", "target": "Living Forces", "weight": 40 }
+    ],
+    "uk<=>es": [
+      { "source": "Новий Акрополь", "target": "Nueva Acrópolis", "weight": 50 },
+      { "source": "акрополець", "target": "acropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Fuerzas Vivas", "weight": 40 }
+    ],
+    "uk<=>fa": [
+      { "source": "Новий Акрополь", "target": "آکروپولیس نوین", "weight": 50 },
+      { "source": "акрополець", "target": "آکروپولیست", "weight": 45 },
+      { "source": "Живі Сили", "target": "نیروهای زنده", "weight": 40 }
+    ],
+    "uk<=>fi": [
+      { "source": "Новий Акрополь", "target": "Uusi Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolisti", "weight": 45 },
+      { "source": "Живі Сили", "target": "Elävät voimat", "weight": 40 }
+    ],
+    "uk<=>fr": [
+      { "source": "Новий Акрополь", "target": "Nouvelle Acropole", "weight": 50 },
+      { "source": "акрополець", "target": "acropoliste", "weight": 45 },
+      { "source": "Живі Сили", "target": "Forces vives", "weight": 40 }
+    ],
+    "uk<=>he": [
+      { "source": "Новий Акрополь", "target": "אקרופוליס החדשה", "weight": 50 },
+      { "source": "акрополець", "target": "אקרופוליסט", "weight": 45 },
+      { "source": "Живі Сили", "target": "כוחות חיים", "weight": 40 }
+    ],
+    "uk<=>hi": [
+      { "source": "Новий Акрополь", "target": "न्यू एक्रोपोलिस", "weight": 50 },
+      { "source": "акрополець", "target": "एक्रोपोलिस्ट", "weight": 45 },
+      { "source": "Живі Сили", "target": "जीवंत शक्तियाँ", "weight": 40 }
+    ],
+    "uk<=>hr": [
+      { "source": "Новий Акрополь", "target": "Nova Akropola", "weight": 50 },
+      { "source": "акрополець", "target": "akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Žive snage", "weight": 40 }
+    ],
+    "uk<=>hu": [
+      { "source": "Новий Акрополь", "target": "Új Akropolisz", "weight": 50 },
+      { "source": "акрополець", "target": "akropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Élő erők", "weight": 40 }
+    ],
+    "uk<=>id": [
+      { "source": "Новий Акрополь", "target": "Akropolis Baru", "weight": 50 },
+      { "source": "акрополець", "target": "akropolis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Kekuatan Hidup", "weight": 40 }
+    ],
+    "uk<=>it": [
+      { "source": "Новий Акрополь", "target": "Nuova Acropoli", "weight": 50 },
+      { "source": "акрополець", "target": "acropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Forze vive", "weight": 40 }
+    ],
+    "uk<=>ja": [
+      { "source": "Новий Акрополь", "target": "新アクロポリス", "weight": 50 },
+      { "source": "акрополець", "target": "アクロポリスト", "weight": 45 },
+      { "source": "Живі Сили", "target": "生命の力", "weight": 40 }
+    ],
+    "uk<=>ko": [
+      { "source": "Новий Акрополь", "target": "신 아크로폴리스", "weight": 50 },
+      { "source": "акрополець", "target": "아크로폴리스트", "weight": 45 },
+      { "source": "Живі Сили", "target": "살아있는 힘", "weight": 40 }
+    ],
+    "uk<=>lt": [
+      { "source": "Новий Акрополь", "target": "Naujasis Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolietis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Gyvosios jėgos", "weight": 40 }
+    ],
+    "uk<=>lv": [
+      { "source": "Новий Акрополь", "target": "Jaunā Akropole", "weight": 50 },
+      { "source": "акрополець", "target": "akropolietis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Dzīvie spēki", "weight": 40 }
+    ],
+    "uk<=>ms": [
+      { "source": "Новий Акрополь", "target": "Akropolis Baharu", "weight": 50 },
+      { "source": "акрополець", "target": "akropolis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Daya Hidup", "weight": 40 }
+    ],
+    "uk<=>my": [
+      { "source": "Новий Акрополь", "target": "နယူး အက်ခရိုပိုလစ်", "weight": 50 },
+      { "source": "акрополець", "target": "အက်ခရိုပိုလစ် အဖွဲ့ဝင်", "weight": 45 },
+      { "source": "Живі Сили", "target": "အသက်ရှင်နေသော အင်အားများ", "weight": 40 }
+    ],
+    "uk<=>nl": [
+      { "source": "Новий Акрополь", "target": "Nieuwe Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "acropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Levende krachten", "weight": 40 }
+    ],
+    "uk<=>no": [
+      { "source": "Новий Акрополь", "target": "Nye Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Levende krefter", "weight": 40 }
+    ],
+    "uk<=>pl": [
+      { "source": "Новий Акрополь", "target": "Nowy Akropol", "weight": 50 },
+      { "source": "акрополець", "target": "akropolita", "weight": 45 },
+      { "source": "Живі Сили", "target": "Żywe Siły", "weight": 40 }
+    ],
+    "uk<=>pt": [
+      { "source": "Новий Акрополь", "target": "Nova Acrópole", "weight": 50 },
+      { "source": "акрополець", "target": "acropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Forças Vivas", "weight": 40 }
+    ],
+    "uk<=>ro": [
+      { "source": "Новий Акрополь", "target": "Noua Acropolă", "weight": 50 },
+      { "source": "акрополець", "target": "acropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Forțe vii", "weight": 40 }
+    ],
+    "uk<=>ru": [
+      { "source": "Новий Акрополь", "target": "Новый Акрополь", "weight": 50 },
+      { "source": "акрополець", "target": "акрополец", "weight": 45 },
+      { "source": "Живі Сили", "target": "Живые силы", "weight": 40 }
+    ],
+    "uk<=>sk": [
+      { "source": "Новий Акрополь", "target": "Nová Akropola", "weight": 50 },
+      { "source": "акрополець", "target": "akropolista", "weight": 45 },
+      { "source": "Живі Сили", "target": "Živé sily", "weight": 40 }
+    ],
+    "uk<=>sr": [
+      { "source": "Новий Акрополь", "target": "Нови Акропољ", "weight": 50 },
+      { "source": "акрополець", "target": "акрополиста", "weight": 45 },
+      { "source": "Живі Сили", "target": "Живе снаге", "weight": 40 }
+    ],
+    "uk<=>sv": [
+      { "source": "Новий Акрополь", "target": "Nya Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Levande krafter", "weight": 40 }
+    ],
+    "uk<=>sw": [
+      { "source": "Новий Акрополь", "target": "Acropolis Mpya", "weight": 50 },
+      { "source": "акрополець", "target": "mwanachama wa Akropolis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Nguvu Hai", "weight": 40 }
+    ],
+    "uk<=>ta": [
+      { "source": "Новий Акрополь", "target": "நியூ அக்ரோபொலிஸ்", "weight": 50 },
+      { "source": "акрополець", "target": "அக்ரோபொலிஸ்ட்", "weight": 45 },
+      { "source": "Живі Сили", "target": "உயிர் சக்திகள்", "weight": 40 }
+    ],
+    "uk<=>th": [
+      { "source": "Новий Акрополь", "target": "นิวอะโครโพลิส", "weight": 50 },
+      { "source": "акрополець", "target": "สมาชิกนิวอะโครโพลิส", "weight": 45 },
+      { "source": "Живі Сили", "target": "พลังที่มีชีวิต", "weight": 40 }
+    ],
+    "uk<=>tr": [
+      { "source": "Новий Акрополь", "target": "Yeni Akropolis", "weight": 50 },
+      { "source": "акрополець", "target": "akropolist", "weight": 45 },
+      { "source": "Живі Сили", "target": "Yaşayan Güçler", "weight": 40 }
+    ],
+    "uk<=>uk": [
+      { "source": "Новий Акрополь", "target": "Новий Акрополь", "weight": 50 },
+      { "source": "акрополець", "target": "акрополець", "weight": 45 },
+      { "source": "Живі Сили", "target": "Живі Сили", "weight": 40 }
+    ],
+    "uk<=>vi": [
+      { "source": "Новий Акрополь", "target": "Tân Acropolis", "weight": 50 },
+      { "source": "акрополець", "target": "người theo Acropolis", "weight": 45 },
+      { "source": "Живі Сили", "target": "Sinh lực", "weight": 40 }
+    ],
+    "uk<=>zh": [
+      { "source": "Новий Акрополь", "target": "新阿克罗波利斯", "weight": 50 },
+      { "source": "акрополець", "target": "阿克罗波利斯成员", "weight": 45 },
+      { "source": "Живі Сили", "target": "生命力量", "weight": 40 }
     ]
   }
 }

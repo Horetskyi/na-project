@@ -226,11 +226,40 @@ function glossaryKey(sourceLang: string, targetLang: string): string {
   return `${sourceLang}=>${targetLang}`;
 }
 
+function parseStoredGlossaryPairKey(key: string): {
+  left: string;
+  right: string;
+  bidirectional: boolean;
+} | null {
+  const cleaned = key.trim();
+  if (!cleaned) return null;
+
+  const bidiMatch = cleaned.match(/^([^=<>\s]+)\s*<=>\s*([^=<>\s]+)$/);
+  if (bidiMatch) {
+    return {
+      left: bidiMatch[1].trim(),
+      right: bidiMatch[2].trim(),
+      bidirectional: true,
+    };
+  }
+
+  const directionalMatch = cleaned.match(/^([^=<>\s]+)\s*=>\s*([^=<>\s]+)$/);
+  if (directionalMatch) {
+    return {
+      left: directionalMatch[1].trim(),
+      right: directionalMatch[2].trim(),
+      bidirectional: false,
+    };
+  }
+
+  return null;
+}
+
 function parseGlossaryPair(value?: string): { source: string; target: string } | null {
   if (!value) return null;
 
   const cleaned = value.trim().replace(/^['"]|['"]$/g, "");
-  const match = cleaned.match(/^([^=:\-\/,\s]+)\s*(?:=>|->|=|:|\/|,)\s*([^=:\-\/,\s]+)$/);
+  const match = cleaned.match(/^([^=<>:\-\/,\s]+)\s*(?:<=>|=>|->|=|:|\/|,)\s*([^=<>:\-\/,\s]+)$/);
   if (!match) return null;
 
   return {
@@ -419,10 +448,21 @@ async function loadGlossaryFromDisk(filePath: string): Promise<Map<string, Gloss
     throw new Error(`Invalid glossary file format: ${filePath}`);
   }
 
+  const addEntry = (pair: string, source: string, target: string, weight: number): void => {
+    const existing = result.get(pair) ?? [];
+    existing.push({ source, target, count: Math.max(1, Math.round(weight)) });
+    result.set(pair, existing);
+  };
+
   for (const [pair, items] of Object.entries(raw.pairs)) {
     if (!Array.isArray(items)) continue;
 
-    const entries: GlossaryEntry[] = [];
+    const parsedPair = parseStoredGlossaryPairKey(pair);
+    if (!parsedPair) continue;
+
+    const forwardKey = glossaryKey(parsedPair.left, parsedPair.right);
+    const reverseKey = glossaryKey(parsedPair.right, parsedPair.left);
+
     for (const item of items) {
       if (!item || typeof item !== "object") continue;
       const source = typeof item.source === "string" ? item.source.trim() : "";
@@ -430,15 +470,10 @@ async function loadGlossaryFromDisk(filePath: string): Promise<Map<string, Gloss
       if (!source || !target) continue;
       const weight = typeof item.weight === "number" && Number.isFinite(item.weight) ? item.weight : 1;
 
-      entries.push({
-        source,
-        target,
-        count: Math.max(1, Math.round(weight)),
-      });
-    }
-
-    if (entries.length > 0) {
-      result.set(pair, entries);
+      addEntry(forwardKey, source, target, weight);
+      if (parsedPair.bidirectional) {
+        addEntry(reverseKey, target, source, weight);
+      }
     }
   }
 
@@ -477,6 +512,142 @@ function mergeGlossaryIndexes(
   }
 
   return merged;
+}
+
+function normalizeGlossaryTerm(value: string): string {
+  return value.trim().toLocaleLowerCase();
+}
+
+function deriveGlossaryViaPivot(
+  glossaryIndex: Map<string, GlossaryEntry[]>,
+  sourceLang: string,
+  targetLang: string,
+  maxEntries = 50
+): GlossaryEntry[] {
+  if (sourceLang === targetLang) {
+    return [];
+  }
+
+  const sourcePrefix = `${sourceLang}=>`;
+  const targetSuffix = `=>${targetLang}`;
+
+  const sourceToPivotPairs = Array.from(glossaryIndex.entries()).filter(([pair]) =>
+    pair.startsWith(sourcePrefix)
+  );
+
+  const pivotToTargetMap = new Map<string, GlossaryEntry[]>();
+  for (const [pair, entries] of glossaryIndex.entries()) {
+    if (!pair.endsWith(targetSuffix)) continue;
+    const pivotLang = pair.slice(0, pair.indexOf("=>"));
+    if (!pivotLang || pivotLang === sourceLang || pivotLang === targetLang) continue;
+    pivotToTargetMap.set(pivotLang, entries);
+  }
+
+  if (sourceToPivotPairs.length === 0 || pivotToTargetMap.size === 0) {
+    return [];
+  }
+
+  const candidatesBySource = new Map<
+    string,
+    {
+      source: string;
+      targets: Map<string, { source: string; target: string; count: number }>;
+    }
+  >();
+
+  for (const [sourceToPivotPair, sourceToPivotEntries] of sourceToPivotPairs) {
+    const pivotLang = sourceToPivotPair.slice(sourceToPivotPair.indexOf("=>") + 2);
+    const pivotToTargetEntries = pivotToTargetMap.get(pivotLang);
+    if (!pivotToTargetEntries || pivotToTargetEntries.length === 0) continue;
+
+    const pivotLookup = new Map<string, GlossaryEntry[]>();
+    for (const entry of pivotToTargetEntries) {
+      const key = normalizeGlossaryTerm(entry.source);
+      const list = pivotLookup.get(key) ?? [];
+      list.push(entry);
+      pivotLookup.set(key, list);
+    }
+
+    for (const firstHop of sourceToPivotEntries) {
+      const pivotKey = normalizeGlossaryTerm(firstHop.target);
+      const secondHops = pivotLookup.get(pivotKey);
+      if (!secondHops || secondHops.length === 0) continue;
+
+      const sourceKey = normalizeGlossaryTerm(firstHop.source);
+      let sourceAcc = candidatesBySource.get(sourceKey);
+      if (!sourceAcc) {
+        sourceAcc = {
+          source: firstHop.source,
+          targets: new Map<string, { source: string; target: string; count: number }>(),
+        };
+        candidatesBySource.set(sourceKey, sourceAcc);
+      }
+
+      for (const secondHop of secondHops) {
+        const targetKey = normalizeGlossaryTerm(secondHop.target);
+        const existing = sourceAcc.targets.get(targetKey);
+        const confidence = Math.max(1, Math.min(firstHop.count, secondHop.count));
+
+        if (existing) {
+          existing.count += confidence;
+        } else {
+          sourceAcc.targets.set(targetKey, {
+            source: firstHop.source,
+            target: secondHop.target,
+            count: confidence,
+          });
+        }
+      }
+    }
+  }
+
+  const derived: GlossaryEntry[] = [];
+  for (const sourceAcc of candidatesBySource.values()) {
+    let best: { source: string; target: string; count: number } | null = null;
+    for (const candidate of sourceAcc.targets.values()) {
+      if (!best || candidate.count > best.count) {
+        best = candidate;
+      }
+    }
+    if (best) {
+      derived.push({
+        source: best.source,
+        target: best.target,
+        count: best.count,
+      });
+    }
+  }
+
+  derived.sort((a, b) => b.count - a.count || a.source.localeCompare(b.source));
+  return derived.slice(0, maxEntries);
+}
+
+function resolveGlossaryForPair(
+  glossaryIndex: Map<string, GlossaryEntry[]>,
+  sourceLang: string,
+  targetLang: string
+): GlossaryEntry[] {
+  const direct = glossaryIndex.get(glossaryKey(sourceLang, targetLang)) ?? [];
+  const derived = deriveGlossaryViaPivot(glossaryIndex, sourceLang, targetLang);
+
+  if (derived.length === 0) {
+    return direct;
+  }
+
+  const mergedBySource = new Map<string, GlossaryEntry>();
+  for (const entry of direct) {
+    mergedBySource.set(normalizeGlossaryTerm(entry.source), entry);
+  }
+  for (const entry of derived) {
+    const key = normalizeGlossaryTerm(entry.source);
+    if (!mergedBySource.has(key)) {
+      mergedBySource.set(key, entry);
+    }
+  }
+
+  return Array.from(mergedBySource.values()).sort(
+    (a, b) => b.count - a.count || a.source.localeCompare(b.source)
+  );
 }
 
 function printGlossary(args: CliArgs, glossaryIndex: Map<string, GlossaryEntry[]>): void {
@@ -560,8 +731,8 @@ function buildPrompt(params: {
     sourceMarkdown,
     "",
     currentTargetMarkdown
-      ? "Existing target markdown (improve this while staying faithful to source):"
-      : "No existing target markdown found. Create a new translation from source.",
+      ? "\n\n\nExisting target markdown (improve this while staying faithful to source):"
+      : "\n\n\nNo existing target markdown found. Create a new translation from source.",
     currentTargetMarkdown ?? "",
   ]
     .filter(Boolean)
@@ -944,7 +1115,7 @@ async function main(): Promise<void> {
       log.info(`(${i + 1}/${items.length}) prompt ${item.contentId}:${item.targetLang}`);
       await printPromptForItem(
         item,
-        glossaryIndex.get(glossaryKey(item.sourceLang, item.targetLang)) ?? []
+        resolveGlossaryForPair(glossaryIndex, item.sourceLang, item.targetLang)
       );
     }
     log.success(`Printed prompts: ${items.length}`);
@@ -966,7 +1137,7 @@ async function main(): Promise<void> {
       timeoutMs: args.timeoutMs,
       retries: args.retries,
       dryRun: args.dryRun,
-      glossary: glossaryIndex.get(glossaryKey(item.sourceLang, item.targetLang)) ?? [],
+      glossary: resolveGlossaryForPair(glossaryIndex, item.sourceLang, item.targetLang),
     });
 
     if (ok) successCount++;
