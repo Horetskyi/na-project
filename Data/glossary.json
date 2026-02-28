@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "pairs": {
+    "es=>uk": [
+      { "source": "Nueva Acrópolis", "target": "Новий Акрополь", "weight": 50 },
+      { "source": "acropolista", "target": "акрополець", "weight": 45 },
+      { "source": "Los textos del fundador", "target": "Тексти засновника", "weight": 30 },
+      { "source": "No tener hijos", "target": "Не мати дітей", "weight": 20 },
+      { "source": "Reapertura de los «Misterios»", "target": "Відкриття «Містерій»", "weight": 25 }
+    ],
+    "es=>en": [
+      { "source": "Nueva Acrópolis", "target": "New Acropolis", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "The founder’s texts", "weight": 30 },
+      { "source": "No tener hijos", "target": "Not having children", "weight": 20 }
+    ],
+    "es=>ru": [
+      { "source": "Nueva Acrópolis", "target": "Новый Акрополь", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "Тексты основателя", "weight": 30 }
+    ],
+    "es=>de": [
+      { "source": "Nueva Acrópolis", "target": "Neue Akropolis", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "Die Texte des Gründers", "weight": 30 },
+      { "source": "No tener hijos", "target": "Keine Kinder", "weight": 20 }
+    ],
+    "es=>fr": [
+      { "source": "Nueva Acrópolis", "target": "Nouvelle Acropole", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "Textes du Fondateur", "weight": 30 }
+    ],
+    "es=>pt": [
+      { "source": "Nueva Acrópolis", "target": "Nova Acrópole", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "Os textos do fundador", "weight": 30 }
+    ],
+    "es=>it": [
+      { "source": "Nueva Acrópolis", "target": "Nuova Acropoli", "weight": 50 },
+      { "source": "Los textos del fundador", "target": "I testi del Fondatore", "weight": 30 }
+    ]
+  }
+}

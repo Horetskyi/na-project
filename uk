@@ -1,0 +1,4 @@
+
+> na-project@0.1.0 translate:enhance:gpt
+> tsx scripts/translate/enhance-gpt.ts "--show-glossary" "--glossary-pair" "ru=" "--glossary-limit" "30"
+

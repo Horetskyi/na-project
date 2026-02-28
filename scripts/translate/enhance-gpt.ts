@@ -5,6 +5,8 @@ import path from "path";
 import { CONTENTS_TEXTS_DIR } from "./config.js";
 import { listDirs, log } from "./utils.js";
 
+const GLOSSARY_JSON_PATH = path.join(process.cwd(), "Data", "glossary.json");
+
 type TranslationStatus =
   | "ORIGINAL"
   | "ENHANCED_BY_GPT"
@@ -16,6 +18,13 @@ interface CliArgs {
   contentId?: string;
   lang?: string;
   maxItems?: number;
+  onlyShowPrompts: boolean;
+  showGlossary: boolean;
+  glossaryPair?: string;
+  glossarySource?: string;
+  glossaryTarget?: string;
+  glossaryLimit?: number;
+  maxOutputTokens: number;
   sleepMs: number;
   retries: number;
   timeoutMs: number;
@@ -33,12 +42,47 @@ interface WorkItem {
   targetPath: string;
 }
 
+interface GlossaryEntry {
+  source: string;
+  target: string;
+  count: number;
+}
+
+interface GlossaryAccumulator {
+  source: string;
+  targetCounts: Map<string, number>;
+}
+
+interface DiskGlossaryItem {
+  source: string;
+  target: string;
+  weight?: number;
+}
+
+interface DiskGlossaryFile {
+  version: number;
+  pairs: Record<string, DiskGlossaryItem[]>;
+}
+
+class OpenAiRateLimitError extends Error {
+  retryAfterMs: number;
+
+  constructor(message: string, retryAfterMs: number) {
+    super(message);
+    this.name = "OpenAiRateLimitError";
+    this.retryAfterMs = retryAfterMs;
+  }
+}
+
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
-    model: "gpt-4.1",
-    sleepMs: 600,
-    retries: 2,
-    timeoutMs: 240000,
+    model: "gpt-5.1", // 
+    onlyShowPrompts: false,
+    showGlossary: false,
+    maxOutputTokens: 0, // 
+    sleepMs: 1200,
+    retries: 2, //
+    timeoutMs: 240000, // 4 minutes
     dryRun: false,
     help: false,
   };
@@ -57,6 +101,27 @@ function parseArgs(argv: string[]): CliArgs {
         break;
       case "--max-items":
         args.maxItems = Number(argv[++i]);
+        break;
+      case "--show-glossary":
+        args.showGlossary = true;
+        break;
+      case "--only-show-prompts":
+        args.onlyShowPrompts = true;
+        break;
+      case "--glossary-pair":
+        args.glossaryPair = argv[++i];
+        break;
+      case "--glossary-source":
+        args.glossarySource = argv[++i];
+        break;
+      case "--glossary-target":
+        args.glossaryTarget = argv[++i];
+        break;
+      case "--glossary-limit":
+        args.glossaryLimit = Number(argv[++i]);
+        break;
+      case "--max-output-tokens":
+        args.maxOutputTokens = Number(argv[++i]);
         break;
       case "--sleep-ms":
         args.sleepMs = Number(argv[++i]);
@@ -101,6 +166,17 @@ Options:
   --content-id <id>    Process only one content directory
   --lang <code>        Process only one target locale (e.g. uk)
   --max-items <n>      Stop after n successful updates
+  --only-show-prompts  Print prompts for queued items and exit
+  --show-glossary      Print extracted glossary terms and exit
+  --glossary-pair <s=>t>
+                       Show glossary only for one pair (e.g. ru=>uk, ru:uk, ru=uk)
+  --glossary-source <code>
+                       Show glossary only for one source language (e.g. ru)
+  --glossary-target <code>
+                       Show glossary only for one target language (e.g. uk)
+  --glossary-limit <n> Limit printed terms per pair (default: all)
+  --max-output-tokens <n>
+                       Max completion tokens per request (default: 1800, 0 = unset)
   --sleep-ms <n>       Delay between API calls (default: 1200)
   --retries <n>        Retries per file on failure (default: 3)
   --timeout-ms <n>     HTTP timeout per request (default: 120000)
@@ -113,6 +189,8 @@ Auth:
 Examples:
   npx tsx scripts/translate/enhance-gpt.ts
   npx tsx scripts/translate/enhance-gpt.ts --content-id no-tener-hijos --lang uk
+  npx tsx scripts/translate/enhance-gpt.ts --content-id proposition-de-commission-d-enquete-parlementaire-sur-les-sectes --lang ru --max-items 1 --only-show-prompts
+  npx tsx scripts/translate/enhance-gpt.ts --show-glossary --glossary-source ru --glossary-target uk --glossary-limit 30
   npx tsx scripts/translate/enhance-gpt.ts --max-items 20 --sleep-ms 1500
   npx tsx scripts/translate/enhance-gpt.ts --dry-run
 `);
@@ -144,12 +222,299 @@ function getApiKey(): string | null {
   return process.env.OPEN_API_KEY ?? process.env.OPENAI_API_KEY ?? null;
 }
 
+function glossaryKey(sourceLang: string, targetLang: string): string {
+  return `${sourceLang}=>${targetLang}`;
+}
+
+function parseGlossaryPair(value?: string): { source: string; target: string } | null {
+  if (!value) return null;
+
+  const cleaned = value.trim().replace(/^['"]|['"]$/g, "");
+  const match = cleaned.match(/^([^=:\-\/,\s]+)\s*(?:=>|->|=|:|\/|,)\s*([^=:\-\/,\s]+)$/);
+  if (!match) return null;
+
+  return {
+    source: match[1].trim(),
+    target: match[2].trim(),
+  };
+}
+
+function looksLikeMarkdownHeading(line: string): boolean {
+  return /^\s{0,3}#{1,6}\s+/.test(line);
+}
+
+function looksLikeMarkdownListItem(line: string): boolean {
+  return /^\s*(?:[-*+]\s+|\d+[.)]\s+)/.test(line);
+}
+
+function stripLinePrefix(line: string): string {
+  return line
+    .replace(/^\s{0,3}#{1,6}\s+/, "")
+    .replace(/^\s*(?:[-*+]\s+|\d+[.)]\s+)/, "")
+    .trim();
+}
+
+function stripInlineMarkdown(text: string): string {
+  return text
+    .replace(/!\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/`([^`]*)`/g, "$1")
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/__([^_]+)__/g, "$1")
+    .replace(/\*([^*]+)\*/g, "$1")
+    .replace(/_([^_]+)_/g, "$1")
+    .replace(/~~([^~]+)~~/g, "$1")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function countWords(text: string): number {
+  const parts = text.match(/[\p{L}\p{N}]+/gu);
+  return parts ? parts.length : 0;
+}
+
+function isGlossaryCandidate(text: string): boolean {
+  if (!text) return false;
+  if (!/[\p{L}]/u.test(text)) return false;
+  if (/https?:\/\//i.test(text)) return false;
+  if (/[.!?;:]/.test(text)) return false;
+  if (text.length < 2 || text.length > 80) return false;
+  const words = countWords(text);
+  return words >= 1 && words <= 6;
+}
+
+function extractCandidatePairs(sourceMarkdown: string, targetMarkdown: string): Array<{ source: string; target: string }> {
+  const sourceLines = sourceMarkdown.split(/\r?\n/);
+  const targetLines = targetMarkdown.split(/\r?\n/);
+  const maxLines = Math.min(sourceLines.length, targetLines.length);
+
+  const pairs: Array<{ source: string; target: string }> = [];
+
+  for (let i = 0; i < maxLines; i++) {
+    const sLine = sourceLines[i].trim();
+    const tLine = targetLines[i].trim();
+    if (!sLine || !tLine) continue;
+    if (sLine.startsWith("```") || tLine.startsWith("```")) continue;
+
+    const sameHeadingType = looksLikeMarkdownHeading(sLine) && looksLikeMarkdownHeading(tLine);
+    const sameListType = looksLikeMarkdownListItem(sLine) && looksLikeMarkdownListItem(tLine);
+    if (!sameHeadingType && !sameListType) continue;
+
+    const source = stripInlineMarkdown(stripLinePrefix(sLine));
+    const target = stripInlineMarkdown(stripLinePrefix(tLine));
+    if (!isGlossaryCandidate(source) || !isGlossaryCandidate(target)) continue;
+    pairs.push({ source, target });
+  }
+
+  return pairs;
+}
+
+function addGlossaryPair(
+  pairMap: Map<string, Map<string, GlossaryAccumulator>>,
+  sourceLang: string,
+  targetLang: string,
+  source: string,
+  target: string
+): void {
+  const langKey = glossaryKey(sourceLang, targetLang);
+  let bySource = pairMap.get(langKey);
+  if (!bySource) {
+    bySource = new Map<string, GlossaryAccumulator>();
+    pairMap.set(langKey, bySource);
+  }
+
+  const sourceKey = source.toLocaleLowerCase();
+  let acc = bySource.get(sourceKey);
+  if (!acc) {
+    acc = { source, targetCounts: new Map<string, number>() };
+    bySource.set(sourceKey, acc);
+  }
+
+  const existing = acc.targetCounts.get(target) ?? 0;
+  acc.targetCounts.set(target, existing + 1);
+}
+
+function finalizeGlossary(
+  pairMap: Map<string, Map<string, GlossaryAccumulator>>,
+  maxEntriesPerLangPair = 25
+): Map<string, GlossaryEntry[]> {
+  const out = new Map<string, GlossaryEntry[]>();
+
+  for (const [langKey, bySource] of pairMap.entries()) {
+    const entries: GlossaryEntry[] = [];
+
+    for (const acc of bySource.values()) {
+      let bestTarget = "";
+      let bestCount = 0;
+
+      for (const [target, count] of acc.targetCounts.entries()) {
+        if (count > bestCount) {
+          bestTarget = target;
+          bestCount = count;
+        }
+      }
+
+      if (bestTarget) {
+        entries.push({
+          source: acc.source,
+          target: bestTarget,
+          count: bestCount,
+        });
+      }
+    }
+
+    entries.sort((a, b) => b.count - a.count || a.source.localeCompare(b.source));
+    out.set(langKey, entries.slice(0, maxEntriesPerLangPair));
+  }
+
+  return out;
+}
+
+async function buildGlossaryIndex(args: CliArgs): Promise<Map<string, GlossaryEntry[]>> {
+  const dirs = await listDirs(CONTENTS_TEXTS_DIR);
+  const pairMap = new Map<string, Map<string, GlossaryAccumulator>>();
+
+  for (const contentId of dirs) {
+    const dirPath = path.join(CONTENTS_TEXTS_DIR, contentId);
+    const statusPath = path.join(dirPath, "translationStatus.json");
+    if (!(await exists(statusPath))) continue;
+
+    const status = await readJson<Record<string, TranslationStatus>>(statusPath);
+    const originalEntries = Object.entries(status).filter(([, value]) => value === "ORIGINAL");
+    if (originalEntries.length !== 1) continue;
+
+    const sourceLang = originalEntries[0][0];
+    const sourcePath = path.join(dirPath, `${sourceLang}.md`);
+    if (!(await exists(sourcePath))) continue;
+
+    const sourceMarkdown = await fs.readFile(sourcePath, "utf-8");
+
+    for (const [targetLang, targetStatus] of Object.entries(status)) {
+      if (targetStatus !== "ENHANCED_BY_GPT") continue;
+      if (args.lang && targetLang !== args.lang) continue;
+
+      const targetPath = path.join(dirPath, `${targetLang}.md`);
+      if (!(await exists(targetPath))) continue;
+
+      const targetMarkdown = await fs.readFile(targetPath, "utf-8");
+      const pairs = extractCandidatePairs(sourceMarkdown, targetMarkdown);
+      for (const pair of pairs) {
+        addGlossaryPair(pairMap, sourceLang, targetLang, pair.source, pair.target);
+      }
+    }
+  }
+
+  return finalizeGlossary(pairMap);
+}
+
+async function loadGlossaryFromDisk(filePath: string): Promise<Map<string, GlossaryEntry[]>> {
+  if (!(await exists(filePath))) {
+    return new Map<string, GlossaryEntry[]>();
+  }
+
+  const raw = await readJson<DiskGlossaryFile>(filePath);
+  const result = new Map<string, GlossaryEntry[]>();
+
+  if (!raw || typeof raw !== "object" || typeof raw.pairs !== "object" || raw.pairs === null) {
+    throw new Error(`Invalid glossary file format: ${filePath}`);
+  }
+
+  for (const [pair, items] of Object.entries(raw.pairs)) {
+    if (!Array.isArray(items)) continue;
+
+    const entries: GlossaryEntry[] = [];
+    for (const item of items) {
+      if (!item || typeof item !== "object") continue;
+      const source = typeof item.source === "string" ? item.source.trim() : "";
+      const target = typeof item.target === "string" ? item.target.trim() : "";
+      if (!source || !target) continue;
+      const weight = typeof item.weight === "number" && Number.isFinite(item.weight) ? item.weight : 1;
+
+      entries.push({
+        source,
+        target,
+        count: Math.max(1, Math.round(weight)),
+      });
+    }
+
+    if (entries.length > 0) {
+      result.set(pair, entries);
+    }
+  }
+
+  return result;
+}
+
+function mergeGlossaryIndexes(
+  generated: Map<string, GlossaryEntry[]>,
+  persisted: Map<string, GlossaryEntry[]>
+): Map<string, GlossaryEntry[]> {
+  const merged = new Map<string, GlossaryEntry[]>();
+  const allPairs = new Set<string>([...generated.keys(), ...persisted.keys()]);
+
+  for (const pair of allPairs) {
+    const bySource = new Map<string, GlossaryEntry>();
+
+    for (const entry of generated.get(pair) ?? []) {
+      bySource.set(entry.source.toLocaleLowerCase(), { ...entry });
+    }
+
+    for (const entry of persisted.get(pair) ?? []) {
+      bySource.set(entry.source.toLocaleLowerCase(), {
+        source: entry.source,
+        target: entry.target,
+        count: 1000 + entry.count,
+      });
+    }
+
+    const entries = Array.from(bySource.values()).sort(
+      (a, b) => b.count - a.count || a.source.localeCompare(b.source)
+    );
+
+    if (entries.length > 0) {
+      merged.set(pair, entries);
+    }
+  }
+
+  return merged;
+}
+
+function printGlossary(args: CliArgs, glossaryIndex: Map<string, GlossaryEntry[]>): void {
+  const parsedPair = parseGlossaryPair(args.glossaryPair);
+  const sourceFilter = args.glossarySource?.trim() ?? parsedPair?.source;
+  const targetFilter = args.glossaryTarget?.trim() ?? args.lang?.trim() ?? parsedPair?.target;
+  const limit = args.glossaryLimit;
+
+  const pairs = Array.from(glossaryIndex.entries())
+    .filter(([pair]) => {
+      const [sourceLang = "", targetLang = ""] = pair.split("=>");
+      if (sourceFilter && sourceLang !== sourceFilter) return false;
+      if (targetFilter && targetLang !== targetFilter) return false;
+      return true;
+    })
+    .sort(([a], [b]) => a.localeCompare(b));
+
+  if (pairs.length === 0) {
+    log.warn("No glossary items found for the current filters.");
+    return;
+  }
+
+  for (const [pair, entries] of pairs) {
+    const shown = typeof limit === "number" ? entries.slice(0, limit) : entries;
+    console.log(`\n${pair} (${shown.length}/${entries.length})`);
+    for (const entry of shown) {
+      console.log(`  - ${entry.source} => ${entry.target} [${entry.count}]`);
+    }
+  }
+}
+
 function buildPrompt(params: {
   contentId: string;
   sourceLang: string;
   targetLang: string;
   sourceMarkdown: string;
   currentTargetMarkdown: string | null;
+  glossary: GlossaryEntry[];
 }): string {
   const {
     contentId,
@@ -157,14 +522,28 @@ function buildPrompt(params: {
     targetLang,
     sourceMarkdown,
     currentTargetMarkdown,
+    glossary,
   } = params;
+
+  const glossarySection = glossary.length
+    ? [
+        "Terminology glossary (preferred translations from already ENHANCED_BY_GPT files):",
+        ...glossary.map((entry) => `- ${entry.source} => ${entry.target}`),
+      ]
+    : ["Terminology glossary: none found for this language pair."];
 
   return [
     "You are a professional translator and editor.",
     "Task: produce a high-quality target-language markdown file.",
     "Requirements:",
-    "- Preserve markdown structure and order exactly (headings, blockquotes, lists, emphasis, links, images).",
+    "- STRICT MARKDOWN PRESERVATION (mandatory):",
+    "  - Keep the exact markdown block order and structure (headings, blockquotes, lists, tables, code fences, links, images).",
+    "  - Keep the same number of headings/list items/blockquotes/code fences/table rows as in the source.",
+    "  - Keep heading levels unchanged and keep list nesting unchanged.",
+    "  - Keep emphasis markers, inline code spans, and link/image URLs unchanged unless translation of visible text is needed.",
+    "  - Do not add or remove paragraphs, sections, or markdown elements.",
     "- Keep proper nouns and doctrinal terms consistent unless a standard localized form exists.",
+    "- Follow the terminology glossary whenever a listed source term appears.",
     "- Keep image/link URLs unchanged.",
     "- Do not add commentary, notes, or explanations.",
     "- Output ONLY the final markdown text.",
@@ -174,6 +553,8 @@ function buildPrompt(params: {
     targetLang === "uk"
       ? "- Ukrainian terminology constraint: use “акрополець” and “Новий Акрополь” where applicable."
       : "",
+    "",
+    ...glossarySection,
     "",
     "Source markdown:",
     sourceMarkdown,
@@ -185,6 +566,26 @@ function buildPrompt(params: {
   ]
     .filter(Boolean)
     .join("\n");
+}
+
+async function printPromptForItem(item: WorkItem, glossary: GlossaryEntry[]): Promise<void> {
+  const sourceMarkdown = await fs.readFile(item.sourcePath, "utf-8");
+  const currentTargetMarkdown = (await exists(item.targetPath))
+    ? await fs.readFile(item.targetPath, "utf-8")
+    : null;
+
+  const prompt = buildPrompt({
+    contentId: item.contentId,
+    sourceLang: item.sourceLang,
+    targetLang: item.targetLang,
+    sourceMarkdown,
+    currentTargetMarkdown,
+    glossary,
+  });
+
+  console.log(`\n===== PROMPT START: ${item.contentId}:${item.targetLang} =====\n`);
+  console.log(prompt);
+  console.log(`\n===== PROMPT END: ${item.contentId}:${item.targetLang} =====\n`);
 }
 
 function parseOutputText(payload: any): string | null {
@@ -211,15 +612,65 @@ function parseOutputText(payload: any): string | null {
   return null;
 }
 
+function getComparableLength(text: string): number {
+  return text.trim().length;
+}
+
+function parseRetryAfterMs(response: Response, bodyText: string): number | null {
+  const retryAfterMsHeader = response.headers.get("retry-after-ms");
+  if (retryAfterMsHeader) {
+    const ms = Number(retryAfterMsHeader);
+    if (Number.isFinite(ms) && ms > 0) return Math.ceil(ms);
+  }
+
+  const retryAfterHeader = response.headers.get("retry-after");
+  if (retryAfterHeader) {
+    const seconds = Number(retryAfterHeader);
+    if (Number.isFinite(seconds) && seconds > 0) {
+      return Math.ceil(seconds * 1000);
+    }
+  }
+
+  const msMatch = bodyText.match(/try again in\s+(\d+)\s*ms/i);
+  if (msMatch) {
+    const ms = Number(msMatch[1]);
+    if (Number.isFinite(ms) && ms > 0) return Math.ceil(ms);
+  }
+
+  const secMatch = bodyText.match(/try again in\s+([\d.]+)\s*s(?:ec(?:ond)?s?)?/i);
+  if (secMatch) {
+    const seconds = Number(secMatch[1]);
+    if (Number.isFinite(seconds) && seconds > 0) {
+      return Math.ceil(seconds * 1000);
+    }
+  }
+
+  return null;
+}
+
 async function callOpenAi(params: {
   apiKey: string;
   model: string;
   prompt: string;
+  maxOutputTokens: number;
   timeoutMs: number;
 }): Promise<string> {
-  const { apiKey, model, prompt, timeoutMs } = params;
+  const { apiKey, model, prompt, maxOutputTokens, timeoutMs } = params;
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
+  const requestBody: {
+    model: string;
+    input: string;
+    max_output_tokens?: number;
+  } = {
+    model,
+    input: prompt,
+  };
+
+  if (maxOutputTokens > 0) {
+    requestBody.max_output_tokens = maxOutputTokens;
+  }
 
   try {
     const response = await fetch("https://api.openai.com/v1/responses", {
@@ -228,15 +679,19 @@ async function callOpenAi(params: {
         "Content-Type": "application/json",
         Authorization: `Bearer ${apiKey}`,
       },
-      body: JSON.stringify({
-        model,
-        input: prompt,
-      }),
+      body: JSON.stringify(requestBody),
       signal: controller.signal,
     });
 
     if (!response.ok) {
       const body = await response.text();
+      if (response.status === 429) {
+        const retryAfterMs = parseRetryAfterMs(response, body) ?? 1500;
+        throw new OpenAiRateLimitError(
+          `OpenAI API 429: ${body || "Rate limit reached"}`,
+          retryAfterMs
+        );
+      }
       throw new Error(`OpenAI API ${response.status}: ${body}`);
     }
 
@@ -308,17 +763,20 @@ async function processItem(args: {
   item: WorkItem;
   apiKey: string;
   model: string;
+  maxOutputTokens: number;
   timeoutMs: number;
   retries: number;
   dryRun: boolean;
+  glossary: GlossaryEntry[];
 }): Promise<boolean> {
-  const { item, apiKey, model, timeoutMs, retries, dryRun } = args;
+  const { item, apiKey, model, maxOutputTokens, timeoutMs, retries, dryRun, glossary } = args;
   const { contentId, targetLang, sourceLang, sourcePath, targetPath, statusPath } = item;
 
   const sourceMarkdown = await fs.readFile(sourcePath, "utf-8");
   const currentTargetMarkdown = (await exists(targetPath))
     ? await fs.readFile(targetPath, "utf-8")
     : null;
+  const baselineMarkdown = currentTargetMarkdown ?? sourceMarkdown;
 
   if (dryRun) {
     log.info(
@@ -333,6 +791,7 @@ async function processItem(args: {
     targetLang,
     sourceMarkdown,
     currentTargetMarkdown,
+    glossary,
   });
 
   for (let attempt = 1; attempt <= retries; attempt++) {
@@ -341,8 +800,19 @@ async function processItem(args: {
         apiKey,
         model,
         prompt,
+        maxOutputTokens,
         timeoutMs,
       });
+
+      const baselineLength = getComparableLength(baselineMarkdown);
+      const enhancedLength = getComparableLength(enhanced);
+      if (baselineLength > 0 && enhancedLength * 2 < baselineLength) {
+        const ratio = ((enhancedLength / baselineLength) * 100).toFixed(1);
+        log.warn(
+          `${contentId}:${targetLang} rejected: GPT output too short (${enhancedLength} vs ${baselineLength} chars, ${ratio}%)`
+        );
+        return false;
+      }
 
       await fs.writeFile(targetPath, enhanced, "utf-8");
 
@@ -356,7 +826,13 @@ async function processItem(args: {
       const msg = error instanceof Error ? error.message : String(error);
       log.warn(`${contentId}:${targetLang} attempt ${attempt}/${retries} failed: ${msg}`);
       if (attempt < retries) {
-        await sleep(1200 * attempt);
+        if (error instanceof OpenAiRateLimitError) {
+          const waitMs = Math.max(500, error.retryAfterMs + 250);
+          log.info(`${contentId}:${targetLang} rate-limited, waiting ${waitMs}ms before retry`);
+          await sleep(waitMs);
+        } else {
+          await sleep(1200 * attempt);
+        }
       }
     }
   }
@@ -382,12 +858,36 @@ async function main(): Promise<void> {
   if (!Number.isFinite(args.timeoutMs) || args.timeoutMs < 1000) {
     throw new Error("--timeout-ms must be >= 1000");
   }
+  if (
+    !Number.isFinite(args.maxOutputTokens) ||
+    args.maxOutputTokens < 0 ||
+    (args.maxOutputTokens > 0 && args.maxOutputTokens < 64)
+  ) {
+    throw new Error("--max-output-tokens must be 0 or >= 64");
+  }
   if (args.maxItems !== undefined && (!Number.isFinite(args.maxItems) || args.maxItems < 1)) {
     throw new Error("--max-items must be >= 1");
   }
+  if (
+    args.glossaryLimit !== undefined &&
+    (!Number.isFinite(args.glossaryLimit) || args.glossaryLimit < 1)
+  ) {
+    throw new Error("--glossary-limit must be >= 1");
+  }
+  if (args.glossaryPair !== undefined && !parseGlossaryPair(args.glossaryPair)) {
+    throw new Error(
+      "--glossary-pair must be in one of formats: source=>target, source->target, source:target, source=target"
+    );
+  }
+  if (args.glossarySource !== undefined && !args.glossarySource.trim()) {
+    throw new Error("--glossary-source must not be empty");
+  }
+  if (args.glossaryTarget !== undefined && !args.glossaryTarget.trim()) {
+    throw new Error("--glossary-target must not be empty");
+  }
 
   const apiKey = getApiKey();
-  if (!args.dryRun && !apiKey) {
+  if (!args.dryRun && !args.onlyShowPrompts && !apiKey) {
     throw new Error("Missing OPEN_API_KEY (or OPENAI_API_KEY) environment variable");
   }
 
@@ -396,7 +896,38 @@ async function main(): Promise<void> {
   if (args.contentId) log.info(`Filter content-id: ${args.contentId}`);
   if (args.lang) log.info(`Filter locale: ${args.lang}`);
   if (args.maxItems) log.info(`Max items: ${args.maxItems}`);
+  log.info(`Max output tokens: ${args.maxOutputTokens}`);
   if (args.dryRun) log.warn("DRY RUN enabled — no files will be changed");
+
+  const generatedGlossaryIndex = await buildGlossaryIndex(args);
+  const generatedGlossaryPairsCount = Array.from(generatedGlossaryIndex.values()).reduce(
+    (sum, entries) => sum + entries.length,
+    0
+  );
+  log.info(
+    `Glossary extracted from ENHANCED_BY_GPT files: ${generatedGlossaryPairsCount} terms across ${generatedGlossaryIndex.size} language pairs`
+  );
+
+  const persistedGlossaryIndex = await loadGlossaryFromDisk(GLOSSARY_JSON_PATH);
+  const persistedGlossaryPairsCount = Array.from(persistedGlossaryIndex.values()).reduce(
+    (sum, entries) => sum + entries.length,
+    0
+  );
+  log.info(
+    `Glossary loaded from disk (${GLOSSARY_JSON_PATH}): ${persistedGlossaryPairsCount} terms across ${persistedGlossaryIndex.size} language pairs`
+  );
+
+  const glossaryIndex = mergeGlossaryIndexes(generatedGlossaryIndex, persistedGlossaryIndex);
+  const totalGlossaryPairsCount = Array.from(glossaryIndex.values()).reduce(
+    (sum, entries) => sum + entries.length,
+    0
+  );
+  log.info(`Combined glossary in use: ${totalGlossaryPairsCount} terms across ${glossaryIndex.size} language pairs`);
+
+  if (args.showGlossary) {
+    printGlossary(args, glossaryIndex);
+    return;
+  }
 
   const allItems = await collectWorkItems(args);
   const items = args.maxItems ? allItems.slice(0, args.maxItems) : allItems;
@@ -404,6 +935,19 @@ async function main(): Promise<void> {
   log.info(`Queued items: ${items.length}`);
   if (items.length === 0) {
     log.success("Nothing to process.");
+    return;
+  }
+
+  if (args.onlyShowPrompts) {
+    for (let i = 0; i < items.length; i++) {
+      const item = items[i];
+      log.info(`(${i + 1}/${items.length}) prompt ${item.contentId}:${item.targetLang}`);
+      await printPromptForItem(
+        item,
+        glossaryIndex.get(glossaryKey(item.sourceLang, item.targetLang)) ?? []
+      );
+    }
+    log.success(`Printed prompts: ${items.length}`);
     return;
   }
 
@@ -418,9 +962,11 @@ async function main(): Promise<void> {
       item,
       apiKey: apiKey ?? "",
       model: args.model,
+      maxOutputTokens: args.maxOutputTokens,
       timeoutMs: args.timeoutMs,
       retries: args.retries,
       dryRun: args.dryRun,
+      glossary: glossaryIndex.get(glossaryKey(item.sourceLang, item.targetLang)) ?? [],
     });
 
     if (ok) successCount++;
