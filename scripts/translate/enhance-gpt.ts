@@ -6,6 +6,7 @@ import { CONTENTS_TEXTS_DIR } from "./config.js";
 import { listDirs, log } from "./utils.js";
 
 const GLOSSARY_JSON_PATH = path.join(process.cwd(), "Data", "glossary.json");
+const FIRST_TRY_MODEL = "gpt-5-mini";
 
 type TranslationStatus =
   | "ORIGINAL"
@@ -16,6 +17,7 @@ type TranslationStatus =
 
 interface CliArgs {
   model: string;
+  retryModel: string;
   verifyLanguage: boolean;
   verifyModel: string;
   verifyChars: number;
@@ -80,7 +82,8 @@ class OpenAiRateLimitError extends Error {
 
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
-    model: "gpt-5-mini", // gpt-5.1
+    model: FIRST_TRY_MODEL,
+    retryModel: "gpt-5.1",
     verifyLanguage: true,
     verifyModel: "gpt-4.1",
     verifyChars: 1000,
@@ -99,6 +102,9 @@ function parseArgs(argv: string[]): CliArgs {
     switch (arg) {
       case "--model":
         args.model = argv[++i] ?? args.model;
+        break;
+      case "--retry-model":
+        args.retryModel = argv[++i] ?? args.retryModel;
         break;
       case "--content-id":
         args.contentId = argv[++i];
@@ -181,7 +187,8 @@ What it does:
   - Updates status to ENHANCED_BY_GPT after each successful file
 
 Options:
-  --model <name>       OpenAI model name (default: gpt-5.1)
+  --model <name>       First-attempt model (currently forced to gpt-5-mini)
+  --retry-model <name> Retry-attempt model (default: gpt-5.1)
   --verify-language    Verify output language with secondary model (default: on)
   --no-verify-language Disable secondary language verification
   --verify-model <n>   Verifier model name (default: gpt-4.1)
@@ -1077,6 +1084,7 @@ async function processItem(args: {
   item: WorkItem;
   apiKey: string;
   model: string;
+  retryModel: string;
   verifyLanguage: boolean;
   verifyModel: string;
   verifyChars: number;
@@ -1090,6 +1098,7 @@ async function processItem(args: {
     item,
     apiKey,
     model,
+    retryModel,
     verifyLanguage,
     verifyModel,
     verifyChars,
@@ -1125,9 +1134,10 @@ async function processItem(args: {
 
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
+      const modelForAttempt = attempt === 1 ? FIRST_TRY_MODEL : retryModel;
       const enhanced = await callOpenAi({
         apiKey,
-        model,
+        model: modelForAttempt,
         prompt,
         maxOutputTokens,
         timeoutMs,
@@ -1172,7 +1182,10 @@ async function processItem(args: {
       return true;
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error);
-      log.warn(`${contentId}:${targetLang} attempt ${attempt}/${retries} failed: ${msg}`);
+      const modelForAttempt = attempt === 1 ? FIRST_TRY_MODEL : retryModel;
+      log.warn(
+        `${contentId}:${targetLang} attempt ${attempt}/${retries} failed (model: ${modelForAttempt}): ${msg}`
+      );
       if (attempt < retries) {
         if (error instanceof OpenAiRateLimitError) {
           const waitMs = Math.max(500, error.retryAfterMs + 250);
@@ -1242,7 +1255,8 @@ async function main(): Promise<void> {
     throw new Error("Missing OPEN_API_KEY (or OPENAI_API_KEY) environment variable");
   }
 
-  log.info(`Model: ${args.model}`);
+  log.info(`First-attempt model: ${FIRST_TRY_MODEL}`);
+  log.info(`Retry model: ${args.retryModel}`);
   log.info(`Contents dir: ${CONTENTS_TEXTS_DIR}`);
   if (args.contentId) log.info(`Filter content-id: ${args.contentId}`);
   if (args.lang) log.info(`Filter locale: ${args.lang}`);
@@ -1314,6 +1328,7 @@ async function main(): Promise<void> {
       item,
       apiKey: apiKey ?? "",
       model: args.model,
+      retryModel: args.retryModel,
       verifyLanguage: args.verifyLanguage,
       verifyModel: args.verifyModel,
       verifyChars: args.verifyChars,
