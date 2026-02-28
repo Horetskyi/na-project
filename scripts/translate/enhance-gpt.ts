@@ -35,10 +35,10 @@ interface WorkItem {
 
 function parseArgs(argv: string[]): CliArgs {
   const args: CliArgs = {
-    model: "gpt-5.2",
-    sleepMs: 1200,
-    retries: 3,
-    timeoutMs: 120000,
+    model: "gpt-4.1",
+    sleepMs: 600,
+    retries: 2,
+    timeoutMs: 240000,
     dryRun: false,
     help: false,
   };

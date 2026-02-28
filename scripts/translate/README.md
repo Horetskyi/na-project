@@ -148,3 +148,7 @@ scripts/translate/
   json-data.ts        Translator for contents.json & authors.json
   utils.ts            Shared helpers (file I/O, logging, progress bar)
 ```
+
+For human:
+- npm run translate:enhance:gpt -- --content-id reapertura-de-los-misterios --lang uk --max-items 1
+- npm run translate:enhance:gpt
