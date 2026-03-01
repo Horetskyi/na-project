@@ -1,15 +1,15 @@
-# "Modulo di sopravvivenza" nell'età dell'acquario
+# «Modulo di sopravvivenza» nell'Età dell'Acquario
 
-> Così, Nuova Acropoli deve essere un "Modulo" o "Veicolo" di sopravvivenza di tutti i valori. Una specie di Arca che galleggia sulle acque e porta i germi dell'età vecchia alla Nuova Età; dall'uomo vecchio e glorioso all'uomo nuovo e vittorioso. È anche come un ponte; deve essere saldamente costruito, in modo che la tensione tra le due sponde e attraverso la quale gli Umani possono passare, che come tali sono riconosciuti, richiamando sempre l'esistenza di Dio e l'esistenza stessa della sua Anima immortale, oltre le innumerevoli reincarnazioni.
+> Così, Nuova Acropoli deve essere un "Modulo" o "Veicolo" di sopravvivenza di tutti i valori. Una sorta di Arca che galleggi sulle acque e porti i germi della Vecchia Età alla Nuova Età; dall'uomo vecchio e glorioso all'uomo nuovo e vittorioso. È altresì, come un ponte; che deve essere saldamente costruito, affinché resista alla tensione tra le due sponde e attraverso il quale possano passare gli umani che, come tali, si riconoscono, ricordando sempre l'esistenza di Dio e la stessa esistenza della loro Anima Immortale, oltre le innumerevoli reincarnazioni.
 > 
-> Ci saranno cataclismi e guerre e guerriglieri che indeboliranno la popolazione, così come le ciglia e i parassiti, come quello dei ratti già trovati a New York. Sarà il sistema della Natura a fermare la crescita demografica che minaccia di lasciare le Anime - essendo il loro numero fisso - senza Cielo o Devachan tra incarnazione e incarnazione, con i problemi della mancanza di Vita Celestiale e di dimenticare le difficoltà e gli animali divini della vita materiale.
+> Accadranno cataclismi, guerre e guerriglie che diminuiranno la popolazione, così come le pestilenze e le piaghe, come quella dei ratti già apparsa a New York. Sarà il sistema della Natura per arrestare la crescita demografica che minaccia di lasciare le Anime — essendo il loro numero fisso — senza Cielo o Devachán tra incarnazione e incarnazione, con i problemi che comporta la mancanza di Vita Celestiale e la non dimenticanza delle pene e dei godimenti animaleschi della vita materiale.
 > 
-> In questo contesto, il NUOVO ACROPOLIS ha la responsabilità di mantenere in vita i Sogni, le Tradizioni, gli Elementi "iniziativi", che servono i Signori che saranno Re se riusciranno a costruire un Trono.
+> Di fronte a tale panorama, Nuova Acropoli ha la responsabilità di mantenere vivi i Sogni, le Tradizioni, gli Elementi "Iniziatici", che servano ai Signori che saranno Re se si saprà loro costruire un Trono.
 > 
-> Per tutto questo si parla dell'OINA come un "Modulo di sopravvivenza", paragonandolo a quelle navi che navigano nello spazio freddo e buio, trasportando all'interno di un equipaggio sapiente e determinato, che non importa morire per il bene del Progetto realizzato.
+> Per tutto ciò parliamo dell'OINA come di un "Modulo di sopravvivenza", paragonandola a quelle navi che solcano lo spazio freddo e oscuro, portando all'interno un equipaggio abile e risoluto, al quale non importa morire affinché il Progetto sia realizzato.
 > 
-> \- No. *Bastione n. 34-1: OINA aspira ad essere un modulo di sopravvivenza. Jorge Ángel Livraga*
-
-> Molti naufraghi si aggrappano alle scale sempre pronta della nostra nave in attesa e siamo sempre di più. La tempesta non puo' stare con noi. Portiamo nelle nostre viscere i germi di un nuovo mondo; di quel sesto sottratto che dobbiamo portare a un luogo sicuro, al di là del turbine e dell'oscurità. È la quinta sottorazza che perisce negli inizi freddi di questa Età dell'Acquario, ma non può impedire l'avvento del Nuovo Uomo.
+> — *Bastione nº 34-1: La OINA aspira a essere un modulo di sopravvivenza. Jorge Ángel Livraga*
 > 
-> \- No. *Bastione n. 12-1: Cuocere nella tempesta. Jorge Ángel Livraga*
+> Molti naufraghi si aggrappano alle scale sempre pronte della nostra nave inaffondabile e siamo sempre di più. La tempesta non può sopraffarci. Portiamo nelle nostre viscere i germi di un mondo nuovo; di quella sesta sottorazza che dobbiamo condurre in un luogo sicuro, al di là del turbine e dell'oscurità. È la quinta sottorazza che perisce nei primi freddi di questa Età dell'Acquario, ma che non può impedire l'avvento del Nuovo Uomo.
+> 
+> — *Bastione nº 12-1: Remando nella tempesta. Jorge Ángel Livraga*

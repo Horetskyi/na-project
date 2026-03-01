@@ -1,15 +1,15 @@
-# "Survival Module" in de Aquariumtijd
+# «Overlevingsmodule» in de Tijd van de Waterman
 
-> New Acropolis moet dus een "Module" of "Vehicle" van Survival of all Values zijn. Een soort Ark die over het water drijft en de bacteriën van de Oude Tijd naar het Nieuwe Tijdperk brengt; van de oude en glorieuze man tot de nieuwe en zegevierende man. Het is ook als brug; het moet stevig gebouwd worden, zodat de spanning tussen de twee banken en waardoor de Mensen kunnen passeren, die als zodanig erkend worden, altijd herinnerend aan het bestaan van God en het bestaan van zijn onsterfelijke Ziel, voorbij de talloze reïncarnaties.
-> 
-> Er zullen rampen en oorlogen en guerrilla's zijn die de bevolking zullen verzwakken, evenals de wimpers en ongedierte, zoals die van ratten die al in New York zijn gevonden. Het zal het stelsel van de Natuur zijn om de demografische groei te stoppen die dreigt de Zielen - hun aantal vast te stellen - te verlaten zonder Hemel of Devachan tussen incarnatie en incarnatie, met de problemen van het gebrek aan Hemels Leven en het vergeten van de ontberingen en goddelijke dieren van het materiële leven.
-> 
-> Tegen deze achtergrond heeft NIEUWE ACROPOLIS de verantwoordelijkheid om de Dromen, Tradities, "Initiatorische" Elementen in leven te houden, die de Heren dienen die Koningen zullen zijn als zij een Troon kunnen bouwen.
-> 
-> Voor dit alles spreken we van de OINA als een "Survival Module," vergeleken met de schepen die surfen op de koude en donkere ruimte, dragen binnen een vaardige en vastberaden bemanning, die het niet erg vindt om te sterven omwille van het project gerealiseerd te worden.
-> 
-> \- *Bastion No. 34-1: OINA wil een overlevingsmodule zijn. Jorge Ángel Lidraga*
-
-> Veel scheepswrakken klampen zich vast aan de immer-ready schubben van ons niet eindigende schip en we zijn meer en meer. De storm kan niet bij ons zijn. We dragen in onze darmen de bacteriën van een nieuwe wereld; van dat zesde aftreksel dat we moeten leiden naar een veilige plek, voorbij de wervelwind en duisternis. Het is het vijfde subras dat vergaat in het koude begin van deze Aquariumtijd, maar het kan de komst van de Nieuwe Mens niet voorkomen.
-> 
-> \- *Bastion No. 12-1: Bakken in de storm. Jorge Ángel Lidraga*
+> Zo moet Nieuwe Akropolis dus een "Module" of "Voertuig" van Overleving van alle Waarden zijn. Een soort Ark die op het water drijft en de kiemen van de Oude Tijd naar de Nieuwe Tijd brengt; van de oude en glorierijke Mens naar de nieuwe en zegevierende Mens. Het is ook als een brug; die stevig gebouwd moet zijn, zodat hij de spanning tussen de twee oevers kan weerstaan en waarlangs de mensen die zich als zodanig herkennen kunnen passeren, altijd het bestaan van God en het eigen bestaan van hun Onsterfelijke Ziel herinnerend, voorbij de talloze reïncarnaties.
+>
+> Er zullen cataclysmen en oorlogen en guerrilla's plaatsvinden die de bevolking zullen verminderen, evenals pestilenties en plagen, zoals de rattenplaag die al in New York is verschenen. Het zal het systeem van de Natuur zijn om de demografische groei te stoppen die dreigt de Zielen — hun aantal vaststaand — zonder Hemel of Devachán te laten tussen incarnatie en incarnatie, met de problemen die het gebrek aan Hemels Leven en het vergeten van de ontberingen en dierlijke genoegens van het materiële leven met zich meebrengt.
+>
+> Voor een dergelijk vooruitzicht heeft NIEUWE AKROPOLIS de verantwoordelijkheid om de Dromen, de Tradities, de "Initiatische" Elementen levend te houden, die de Heren dienen die Koningen zullen zijn als men weet voor hen een Troon te bouwen.
+>
+> Om al deze redenen spreken we over de OINA als een "Overlevingsmodule", vergelijkend met die schepen die door de koude en donkere ruimte varen, met binnenin een bekwame en vastberaden bemanning, die er niet voor terugdeinst te sterven opdat het Project gerealiseerd wordt.
+>
+> — *Bastión nº 34-1: De OINA streeft ernaar een overlevingsmodule te zijn. Jorge Ángel Livraga*
+>
+> Veel schipbruisers klampen zich vast aan de steeds gereedstaande treden van ons onzinkbare schip en we worden steeds talrijker. De storm kan ons niet overwinnen. We dragen in ons binnenste de kiemen van een nieuwe wereld; van dat zesde subras dat wij naar een veilige plaats moeten leiden, voorbij de draaikolk en de duisternis. Het is het vijfde subras dat vergaat in de ijzige aanvang van deze Tijd van de Waterman, maar dat de komst van de Nieuwe Mens niet kan verhinderen.
+>
+> — *Bastión nº 12-1: Roeiend in de storm. Jorge Ángel Livraga*

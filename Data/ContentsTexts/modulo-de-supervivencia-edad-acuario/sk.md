@@ -1,15 +1,15 @@
-# "Prežitý modul" vo veku akvária
+# «Modul pre prežitie» vo Veku Vodnára
 
-> Takže, New Akropolis musí byť "Modul" alebo "Vozidlo" prežitia všetkých hodnôt. Druh archy, ktorá pláva nad vodami a prináša mikróby staroby do Nového veku; od starého a slávneho človeka k novému a víťazný človek. Je tiež ako most; musí byť pevne postavený, aby napätie medzi oboma brehmi a cez ktoré môžu prejsť ľudia, ktoré sú ako také uznávané, vždy pripomínajúce existenciu Boha a samotnú existenciu jeho nesmrteľnej duše, nad nespočetné reinkarnácie.
-> 
-> Budú tam kataklyzmy a vojny a partizány, ktoré oslabia populáciu, ako aj riasy a škodcov, ako napríklad potkany, ktoré sa už našli v New Yorku. Bude to systém prírody na zastavenie demografického rastu, ktorý hrozí opustiť Duše - keďže ich počet je pevne stanovený - bez neba alebo Devachana medzi vtelením a vtelením, s problémami nedostatku nebeského života a zabúdaním na ťažkosti a zbožné zvieratá hmotného života.
-> 
-> Na tomto pozadí, New ACROPOLIS má zodpovednosť udržať nažive sny, tradície, "iniciatíva" prvky, ktoré slúžia Pánom, ktorí budú králi, ak sú schopní vybudovať trón.
-> 
-> Za to všetko hovoríme o OINA ako "Survivel Module," v porovnaní s tými loďami, ktoré surfujú na chladnom a temnom priestore, nesúc v zručnej a odhodlanej posádke, ktorej nevadí zomrieť kvôli realizácii projektu.
-> 
-> \- *34-1: OINA sa snaží byť modulom prežitia. Jorge Ángel Livraga*
+> Takže, Nová Akropola musí byť "Modul" alebo "Vozidlo" prežitia všetkých hodnôt. Akási archa, ktorá pláva po vodách a nesie zárodky Starého Veku do Nového Veku; od starého a slávneho človeka k novému a víťaznému človeku. Je zároveň akýmsi mostom; ktorý musí byť pevne postavený, aby odolal napätiu medzi oboma brehmi a cez ktorý môžu prejsť ľudia, ktorí sa ako takí uznávajú, stále si pripomínajúc existenciu Boha a vlastnú existenciu svojej nesmrteľnej duše, nad rámec nespočetných reinkarnácií.
+>
+> Udejú sa kataklizmy a vojny a partizánske boje, ktoré zredukujú populáciu, ako aj epidémie a mory, napríklad mor potkanov, ktorý sa už objavil v New Yorku. Bude to systém prírody na zastavenie demografického rastu, ktorý hrozí nechať duše — keďže ich počet je pevný — bez neba alebo Devachánu medzi vteleniami, s problémami, ktoré prináša nedostatok nebeského života a zabúdanie na útrapy a živočíšne radosti hmotného života.
+>
+> Za takéhoto obrazu má Nová Akropola zodpovednosť udržať pri živote sny, tradície, "iniciatické" prvky, ktoré budú slúžiť Pánom, ktorí sa stanú kráľmi, ak sa im vie postaviť trón.
+>
+> Preto hovoríme o OINA ako o "Module pre prežitie", prirovnávajúc ju k tým plavidlám, ktoré brázdia studený a temný priestor, nesúc vo svojom vnútri šikovnú a rozhodnú posádku, ktorej nevadí zomrieť v záujme naplnenia projektu.
+>
+> — *Bastión č. 34-1: OINA sa usiluje byť modulom pre prežitie. Jorge Ángel Livraga*
 
-> Mnohé vraky lodí lipnú na stále pripravených váhach našej nekonečnej lode a my sme stále viac a viac. Búrka nemôže byť s nami. V črevách nosíme mikróby nového sveta; z toho šiesteho odčítame, že musíme viesť na bezpečné miesto, za víchricou a tmou. Je to piata podrasa, ktorá hynie v studených začiatkoch tohto Akvária veku, ale nemôže zabrániť príchodu nového človeka.
-> 
-> \- *Bastion No. 12-1: Pečenie v búrke. Jorge Ángel Livraga*
+> Mnohé stroskotané osoby sa zachytávajú za stále pripravené rebríky našej nezatopiteľnej lode a nás je čoraz viac. Búrka nás nedokáže zlomiť. Nosíme v svojich útrobách zárodky nového sveta; tej šiestej poddrasy, ktorú musíme odviesť na bezpečné miesto, za víchricu a temnotu. Je to piata podrasa, ktorá hynie v mrazivých počiatkoch tohto Veku Vodnára, ale ktorá nemôže zabrániť príchodu nového človeka.
+>
+> — *Bastión č. 12-1: Veslujúc v búrke. Jorge Ángel Livraga*

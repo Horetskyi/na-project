@@ -1,15 +1,15 @@
-# "Survival Module" di Zaman Aquarium
+# «Modul Kelangsungan Hidup» di Zaman Akuarius
 
-> Jadi, New Acropolis harus menjadi "Module" atau "Vehicle" dari Survival all Vaces. Semacam Ark yang mengapung di atas air dan membawa kuman dari Zaman Lama ke Zaman Baru, dari orang tua dan mulia ke orang baru dan orang menang. Hal ini juga sebagai jembatan; ia harus tegas dibangun, sehingga ketegangan antara dua bank dan melalui mana Manusia dapat lulus, yang seperti diakui, selalu mengingat keberadaan Allah dan keberadaan roh abadi-Nya, di luar reinkarnasi yang tak terhitung jumlahnya.
-> 
-> Akan ada bencana dan perang dan gerilyawan yang akan melemahkan populasi, serta bulu mata dan hama, seperti salah satu tikus sudah ditemukan di New York. Ini akan menjadi sistem Alam untuk menghentikan pertumbuhan demografi yang mengancam untuk meninggalkan Jiwa - menjadi nomor mereka tetap - tanpa Surga atau Devachan antara inkarnasi dan inkarnasi, dengan masalah kurangnya Celestial Life dan melupakan kesulitan dan binatang saleh kehidupan materi.
-> 
-> Terhadap latar belakang ini, New ACROPOLIS memiliki tanggung jawab untuk menjaga hidup Mimpi, Tradisi, "Inisiatif" Elemen, yang melayani Lords yang akan Kings jika mereka mampu membangun takhta.
-> 
-> Untuk semua ini kita berbicara tentang Oina sebagai "Modul Survival", membandingkannya dengan kapal-kapal yang berselancar di ruang dingin dan gelap, membawa dalam kru yang terampil dan ditentukan, yang tidak keberatan mati demi proyek yang diwujudkan.
-> 
-> \- *Bastion No. 34-1: Jorge Ángel Livraga*
+> Dengan demikian, Akropolis Baru harus menjadi sebuah "Modul" atau "Kendaraan" Kelangsungan Hidup bagi semua Nilai. Semacam Bahtera yang mengapung di atas air dan membawa benih-benih dari Zaman Lama ke Zaman Baru; dari Manusia lama yang agung menuju Manusia baru yang menang. Ia juga laksana sebuah jembatan, yang harus dibangun dengan kokoh, agar tahan terhadap tegangan antara kedua tepi dan menjadi jalan lintasan bagi Manusia yang mengenali diri sebagai manusia sejati, sambil selalu mengingat keberadaan Tuhan dan keberadaan Jiwa Kekalnya sendiri, melampaui tak terhitungnya kelahiran kembali.
+>
+> Akan terjadi bencana-bencana alam dan perang serta perang gerilya yang akan mengurangi jumlah penduduk, demikian pula wabah-wabah dan hama, seperti wabah tikus yang sudah muncul di New York. Itu akan menjadi cara Alam untuk menghentikan pertumbuhan demografis yang mengancam akan membuat Jiwa-jiwa —yang jumlahnya tetap— tanpa Langit atau Devachan di antara satu kelahiran dan kelahiran lainnya, dengan segala persoalan yang dibawa oleh ketiadaan Kehidupan Surgawi dan ketiadaan lupa akan penderitaan serta kenikmatan binatang dalam kehidupan material.
+>
+> Menghadapi panorama seperti itu, AKROPOLIS BARU memikul tanggung jawab untuk menjaga tetap hidup Mimpi-mimpi, Tradisi-tradisi, unsur-unsur "Inisiatik", yang akan berguna bagi Para Tuan yang akan menjadi Raja bila bagi mereka tahu dibangun sebuah Takhta.
+>
+> Untuk semua itulah kita berbicara tentang OINA sebagai sebuah "Modul Kelangsungan Hidup", membandingkannya dengan kapal-kapal yang melintasi ruang angkasa yang dingin dan gelap, membawa di dalamnya sebuah awak yang cakap dan berani, yang tidak keberatan mati demi terwujudnya Proyek tersebut.
+>
+> — *Bastión nº 34-1: La OINA aspira a ser un módulo de supervivencia. Jorge Ángel Livraga*
 
-> Banyak kapal karam melekat dengan skala yang selalu siap kapal abadi kami dan kami lebih dan lebih. Badai tidak bisa bersama kami. Kami membawa di perut kita kuman dari dunia baru; dari pengurangan keenam bahwa kita harus memimpin ke tempat yang aman, di luar angin puyuh dan kegelapan. Ini adalah subece kelima yang binasa dalam awal dingin Zaman Aquarium ini, tetapi tidak dapat mencegah munculnya Manusia Baru.
-> 
-> \- *Bastion No. 12-1: Jorge Ángel Livraga*
+> Banyak korban kapal karam berpegang erat pada tangga-tangga yang selalu siap dari kapal tak dapat-tenggelam kita, dan kita semakin banyak. Badai tak mampu mengalahkan kita. Kita membawa di dalam rahim kita benih-benih sebuah dunia baru; dari subras keenam yang harus kita bimbing menuju tempat yang aman, melampaui pusaran dan kegelapan. Inilah subras kelima yang binasa dalam permulaan yang membeku dari Zaman Akuarius ini, namun yang tidak dapat mencegah kedatangan Manusia Baru.
+>
+> — *Bastión nº 12-1: Bogando en la tormenta. Jorge Ángel Livraga*

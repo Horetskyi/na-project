@@ -1,19 +1,52 @@
-Meister! Geben Sie mir das Ideal zu kämpfen. Ein Ideal, für das ich nicht nur sterben konnte, sondern leben. Meister! Gib mir einen neuen Namen, und ich werde ihn durch das Leben tragen. Meister! Geben Sie mir ein wenig von Ihrem Wissen, um es zu verstreut, Wie Samen der Güte, in den offenen Herzen der Menschen.
+Meister! Gib mir das Ideal, für das es sich zu kämpfen lohnt.
+Ein Ideal, für das ich nicht nur sterben, sondern leben könnte.
+Meister! Schenke mir einen neuen Namen, und ich werde ihn mein Leben lang tragen.
+Meister! Gib mir ein wenig Deines Wissens, damit ich es verstreue,
+wie Samen des Guten in die offenen Herzen der Menschen.
 
-Meister, geben Sie einen Tropfen Ihres Verständnisses als ob auf dem Meer. Ich werde segeln und das Ufer des Traums erreichen. Gib mir den Funken deines Glaubens, ich werde ihn um die Welt in meine Hände tragen und alles entzünden. Dass ich mich auf dem Weg treffen würde, bevor die Dunkelheit Licht wurde.
+Meister, gib mir einen Tropfen Deines Verständnisses, auf dem ich wie über ein Meer
+in die Fahrt aufbreche und das Ufer des Traums erreiche.
+Gib mir den Funken Deines Glaubens, den ich in meinen Händen um die Welt tragen werde und alles entzünde,
+was mir auf dem Weg begegnet, bis die Dunkelheit sich in Licht verwandelt.
 
-Meister! Erzähl mir, dass diese Welt Stroh, Holz und verderblich ist. Ich weiß nicht nur, aber ich werde wissen, wann das Feuer vorbei ist. Geben Sie mir Ihr Verständnis, aber nicht die Lösung für meine Probleme. Zeig mir, wie man sie schlägt.
+Meister! Lehre mich, dass diese Welt Stroh, Holz und Vergänglichkeit ist.
+Nicht nur werde ich das gut begreifen, sondern ich werde es in der Stunde des Feuers erkennen.
+Schenke mir Dein Verständnis, aber nicht die Lösung meiner Probleme:
+Lehre mich, sie zu überwinden.
 
-Zeig mir deine Kraft, damit derjenige, der in mir schläft, aufwacht. Und dass du ein zuverlässiger Begleiter auf dem Weg des ewigen Aufstiegs wirst. Und wenn ich mich eines Tages schwach finde und zu dir herauskommt, Nicht ablehnen, nehmen Sie es, drücken Sie es so schwer, dass ich Schmerzen fühle. Mit meiner Seele... Ich werde den Weg fortsetzen und ich werde nicht allein sein.
+Zeige mir Deine Kraft, damit jene, die in mir schläft, erwacht,
+und zu einer verlässlichen Gefährtin auf Deinem Pfad des ewigen Aufstiegs wird.
+Und wenn ich eines Tages schwach sein sollte und meine Hand nach Dir ausstrecke –
+Weise sie nicht zurück, nimm sie, drücke sie so fest, dass ich Schmerz
+meiner Seele... Und ich werde den Weg fortsetzen und nicht einsam sein...
 
-Meister! Gib mir ein Stück deiner Liebe. Sie wird Hefe sein. Das Brot der Güte, das in meinem Herzen wächst. Das alles ist für mich so notwendig! Und jetzt, in unserer Welt, wo es keine erleuchteten Meister gibt, Meister, sag mir nicht zu viel.
+Meister! Gib mir ein Stück Deiner Liebe. Sie wird zu Hefe werden
+im Brot der Güte, das in meinem Herzen wächst.
+All dies ist mir so notwendig!
+Und jetzt, in unserer Welt, wo es keine erleuchteten Herren gibt,
+Meister, erkläre mir nicht zu viel...
 
-Ich habe dich nicht gewählt, aber du hast mich gewählt, also werde mein Meister. Ich sehe diese Demütigung für mich nicht, aber aufrichtig brauchen sie. Und lass mich mit deiner Schulter zur Schulter im Kampf stehen.
+Ich habe Dich nicht erwählt, Du hast mich erwählt – so sei mir der Herrscher.
+Ich sehe darin keine Demütigung für mich, sondern ich brauche es aufrichtig,
+und gib mir die Möglichkeit, Schulter an Schulter mit Dir in den Kämpfen zu stehen.
 
-Und wenn du auf dem Weg stolperst, lehn dich an mich ab. Damit du die Erde nicht berührst, in meinen Träumen bist du Und wir sind unnachgiebig, und dein Blick ist auf die Sterne und die Sonne.
+Und wenn Du auf dem Weg stolperst – lehne Dich an mich,
+damit Du nur nicht die Erde berührst; in meinen Träumen bist Du aufrecht
+und unerschütterlich, und Dein Blick ist zu den Sternen und zur Sonne gewandt.
 
-Wenn der Tod zu mir kommt, gib mir Vertrauen. Dieses Leben wird dort nicht enden und weitergehen. Und wenn du zuerst gehst und mich nicht als würdig erachtest Als Opfer, auf dem gewählten Pfad zu sein, lass mich dir folgen.
+Wenn der Tod zu mir kommt – gib mir die Gewissheit,
+dass das Leben damit nicht endet und weitergeht.
+Und wenn Du zuerst gehst und mich nicht für würdig hältst
+ein Opfer auf dem gewählten Pfad zu werden – erlaube mir, Dir nachzufolgen.
 
-Hab mich, Meister, in allem, was du für würdig hältst. Das werde ich nicht. Ich habe keine Angst vor Gefahr. Ich werde immer deine Stimme hören. Ich werde deine Lehren nicht sprechen, ich werde deinem Herzen gehorchen. Und ich werde die Arbeit fortsetzen, Meister, für dich durch dieses Leben. Und dann in die Ewigkeit...
+Verfüge, Meister, über mich in allem, was Du für würdig hältst.
+Ich werde nicht zurückweichen. Vor Gefahren werde ich mich nicht fürchten. Ich werde immer Deine Stimme hören.
+Deine Lehren werde ich nicht verfälschen, mit meinem Herzen werde ich gehorsam sein
+und die Sache weiterführen, Meister, für Dich durch dieses Leben
+und darüber hinaus – in die Ewigkeit...
 
-Ich will keinen Himmel. Versprich mir das nicht. Das Einzige, was ich will, ist Eine neue, bessere Welt zu schaffen, nicht für mich, sondern für meine Brüder. Wer weiß ihre Ursachen nicht und warum sie ins Licht geboren werden sollen, Und sterben, warum... Lass sie eines Tages finden, was in dir ist. Wie ich es gefunden habe...
+Ich wünsche mir den Himmel nicht. Versprich ihn mir nicht. Das Einzige, das ich will –
+eine neue, bessere Welt zu schaffen, nicht für mich, sondern für meine Brüder – die Menschen,
+die die Ursachen ihres Unglücks nicht kennen und nicht wissen, warum sie ins Licht geboren werden,
+und warum sie sterben... Und möge es ihnen eines Tages gelingen, das in Dir zu finden,
+wie ich es gefunden habe...

@@ -1,15 +1,15 @@
-# "Survival Module" i akvariealderen
+# «Modul for overlevelse» i Vannmannens tidsalder
 
-> Så, New Akropolis må være en " Module" eller " Vehicle" av overlevelse av alle verdier. En slags Ark som flyter over vannet og bringer bakteriene i den gamle tidsalder til den nye tidsalder; fra den gamle og herlige mannen til den nye og seirende mann. Det er også som en bro; den må være solid bygget, slik at spenningen mellom de to breddene og gjennom hvilke menneskene kan passere, som som sådanne er anerkjent, alltid husker eksistensen av Gud og selve eksistensen av hans udødelige sjel, utenfor de utallige reinkarnasjonene.
+> Så, Nye Akropolis må være en «Modul» eller «Fartøy» for overlevelse av alle verdier. En slags Ark som flyter over vannet og fører kimene fra den gamle tidsalder til den nye tidsalder; fra det gamle og herlige Mennesket til det nye og seirende Mennesket. Det er også som en bro; den må være solid bygget, slik at den tåler spenningen mellom de to breddene og gjennom hvilken menneskene som som sådan kjenner seg igjen kan passere, alltid huskende Guds eksistens og selve eksistensen av deres udødelige Sjels, utover de utallige reinkarnasjonene.
 > 
-> Det vil være kataklysmer og kriger og geriljaer som vil svekke befolkningen, så vel som øyevipper og skadedyr, som den av rotter som allerede finnes i New York. Det vil være naturens system å stoppe den demografiske veksten som truer med å forlate sjelene - å være deres antall faste - uten himmel eller Devachan mellom inkarnasjon og inkarnasjon, med problemene med mangelen på Celestial Life og å glemme vanskeligheter og guddommelige dyr i materielle liv.
+> Det vil skje kataklysmer og kriger og geriljakrig som vil redusere befolkningen, så vel som pestene og plagene, som rotteplagen som allerede har dukket opp i New York. Det vil være naturens system for å stoppe den demografiske veksten som truer med å la Sjelene — siden deres antall er fast — stå uten Himmel eller Devachán mellom inkarnasjon og inkarnasjon, med de problemer som mangel på Himmelsk Liv og glemte dyriske lidelser og gleder i det materielle liv medfører.
 > 
-> Mot denne bakgrunnen har NEW ACROPOLIS et ansvar for å holde drømmene, tradisjonene og elementene som tjener Herren som vil være konger hvis de er i stand til å bygge en trone.
+> I møte med et slikt panorama har Nye Akropolis ansvaret for å holde drømmene, tradisjonene, de «initiatiske» elementene i live, som tjener Herrene som vil bli konger hvis man vet å bygge dem en trone.
 > 
-> For alt dette snakker vi om OINA som en "Survival Module" som sammenligner det med de skipene som surfer på det kalde og mørke rommet, som bærer i et skilful og bestemt mannskap, som ikke har noe imot å dø for prosjektets skyld.
+> For alt dette taler vi om OINA som en «overlevelsesmodul», og sammenligner den med de skip som farer gjennom det kalde og mørke rommet, og bærer i seg en dyktig og besluttsom besetning, som ikke har noe imot å dø for at prosjektet skal realiseres.
 > 
-> \- *Bastion nr. 34-1: OINA aspirer til å være en overlevelsesmodul. Jorge Ángel Livraga*
+> — *Bastion nr. 34-1: OINA aspirerer til å være en overlevelsesmodul. Jorge Ángel Livraga*
 
-> Mange skipsforlis klamrer seg til de stadige skalaene i vårt uendelige skip, og vi er mer og mer. stormen kan ikke være med oss. Vi bærer i tarmen vår bakteriene i en ny verden; av den sjette trekk som vi må føre til et trygt sted, utenfor virvelvinden og mørket. Det er den femte undergangen som forfaller i den kalde begynnelsen på denne akvariealderen, men det kan ikke hindre at den nye mannen kommer.
+> Mange skipsforliste klamrer seg til de alltid klare stigene på vårt usenkbare skip, og vi blir stadig flere. Stormen kan ikke knekke oss. Vi bærer i våre indre kimene til en ny verden; av den sjette underrase som vi må føre til et trygt sted, bortenfor virvelvinden og mørket. Det er den femte underrase som går til grunne i de iskalde begynnelsene av denne Vannmannens tidsalder, men som ikke kan hindre fremkomsten av det Nye Mennesket.
 > 
-> \- *Bastion nr. 12-1: Bake i stormen. Jorge Ángel Livraga*
+> — *Bastion nr. 12-1: Roning i stormen. Jorge Ángel Livraga*

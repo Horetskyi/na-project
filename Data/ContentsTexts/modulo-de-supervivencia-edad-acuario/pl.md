@@ -1,15 +1,15 @@
-# "Survival Module" w epoce akwarium
+# «Moduł przetrwania» w epoce Wodnika
 
-> Nowy Akropolis musi być "modułem" lub "pojazdem" przetrwania wszystkich wartości. Rodzaj Arki, która płynie nad wodami i przynosi zarazki Starego Wieku do Nowego Wieku; od starego i chwalebnego człowieka do nowego i zwycięskiego człowieka. Jest to także most; musi być mocno zbudowany, aby napięcie między tymi dwoma brzegami i przez które ludzie mogą przejść, które jako takie są rozpoznawane, zawsze przypominało istnienie Boga i samo istnienie Jego nieśmiertelnej Duszy, poza niezliczonymi reinkarnacjami.
-> 
-> Będą kataklizmy, wojny i partyzantki, które osłabią populację, jak również rzęsy i szkodniki, takie jak jeden z szczurów już znalezionych w Nowym Jorku. Będzie to system natury, który powstrzyma wzrost demograficzny, który grozi pozostawieniem Dusz - która jest ich liczbą stałą - bez Nieba czy Devachana pomiędzy wcieleniem a wcieleniem, z problemami braku życia niebiańskiego i zapomnieniem o trudnościach i pobożnych zwierzętach życia materialnego.
-> 
-> W tym kontekście NOWY ACROPOLIS jest odpowiedzialny za utrzymanie marzeń, tradycji, elementów "Inicjacyjnych", które służą Lordom, którzy będą królami, jeśli będą w stanie zbudować tron.
-> 
-> Z tego powodu mówimy o OINA jako "Survival Module", porównując go do statków, które surfują w zimnej i ciemnej przestrzeni, niosąc w sobie zręczną i zdeterminowaną załogę, która nie ma nic przeciwko śmierci dla realizacji Projektu.
-> 
-> \- *Bastion nr 34-1: OINA dąży do bycia modułem przetrwania. Jorge Ángel Livraga*
+> Tak więc Nowy Akropol powinien być "Modułem" lub "Pojazdem" Przetrwania wszystkich Wartości. Rodzaj Arki, która pływa po wodach i niesie zarodki Starego Wieku do Nowego Wieku; od starego i chwalebnego Człowieka do nowego i zwycięskiego Człowieka. Jest to również most; musi być solidnie zbudowany, aby wytrzymać napięcie między dwoma brzegami i przez który mogą przejść Ludzie, którzy jako tacy się rozpoznają, zawsze pamiętając o istnieniu Boga i o istnieniu swojej Nieśmiertelnej Duszy, poza niezliczonymi reinkarnacjami.
+>
+> Nastać mogą kataklizmy, wojny i działania partyzanckie, które zmniejszą liczbę ludności, jak również epidemie i plagi, takie jak plaga szczurów, która już pojawiła się w Nowym Jorku. Będzie to system Natury mający powstrzymać wzrost demograficzny, który grozi pozostawieniem Dusz — będących o stałej liczbie — bez Nieba czy Devachán między wcieleniem a wcieleniem, z problemami wynikającymi z braku Życia Niebiańskiego oraz z zapomnienia o cierpieniach i zwierzęcych rozkoszach życia materialnego.
+>
+> Wobec takiej perspektywy Nowy Akropol ma odpowiedzialność za utrzymywanie przy życiu Marzeń, Tradycji, elementów "Inicjacyjnych", które posłużą Panom, którzy będą Królami, jeśli będzie się umiało dla nich zbudować Tron.
+>
+> Z tego powodu mówimy o OINA jako o "Modułu Przetrwania", porównując ją do tych statków, które przecinają zimną i ciemną przestrzeń, niosąc w sobie zręczną i zdecydowaną załogę, której nie przeszkadza umrzeć na rzecz realizacji Projektu.
+>
+> — *Bastion nr 34-1: OINA aspiruje do bycia modułem przetrwania. Jorge Ángel Livraga*
 
-> Wiele wraków statków trzyma się zawsze gotowej skali naszego niekończącego się statku i jesteśmy coraz bardziej. Burza nie może być z nami. Nosimy w naszych wnętrznościach zarazki nowego świata; z tego szóstego odejmujemy, że musimy prowadzić do bezpiecznego miejsca, poza wicher i ciemność. Jest to piąty podwyścig, który ginie w zimnych początkach epoki akwarium, ale nie może zapobiec pojawieniu się Nowego Człowieka.
-> 
-> \- *Bastion No. 12-1: Pieczenie podczas burzy. Jorge Ángel Livraga*
+> Wielu rozbitków trzyma się zawsze gotowych trapów naszego niezatapialnego statku i stajemy się coraz liczniejsi. Burza nas nie pokona. Niesiemy w naszych wnętrznościach zarodki nowego świata; tej szóstej podrasy, którą musimy poprowadzić do bezpiecznego miejsca, poza wir i ciemność. To piąta podrasa, która ginie w lodowatych początkach tej Epoki Wodnika, ale nie może powstrzymać nadejścia Nowego Człowieka.
+>
+> — *Bastion nr 12-1: Wiosłując w burzy. Jorge Ángel Livraga*

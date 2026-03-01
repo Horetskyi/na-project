@@ -1,15 +1,15 @@
-# "Modul přežití" ve věku akvária
+# «Modul přežití» ve Věku Vodnáře
 
-> Takže New Acropolis musí být "Modul" nebo "vozidlo" přežití všech hodnot. Druh Archy, která pluje nad vodami a přináší bakterie starého věku do nového věku, od starého a slavného muže k novému a vítěznému muži. Je to také jako most; musí být pevně postaveno, aby napětí mezi těmito dvěma břehy a skrze které mohou lidé projít, které jsou jako takové uznávány, vždy připomínalo existenci Boha a samotnou existenci jeho nesmrtelné duše, za nespočet reinkaranárodů.
-> 
-> Budou tu pohromy, války a partyzány, které oslabí populaci, stejně jako řasy a škůdci, jako je ta krys, která už byla nalezena v New Yorku. Bude to systém přírody, který zastaví demografický růst, který hrozí opuštěním duší - je jejich počet pevně stanoven - bez nebe nebo Devachan mezi inkarnací a inkarnací, s problémy nedostatku nebeského života a zapomínání na utrpení a zbožná zvířata hmotného života.
-> 
-> Na tomto pozadí, NEW ACROPOLIS je odpovědný za udržení naživu sny, tradice, "Iniciatorní" prvky, které slouží lordům, kteří budou Kings, pokud jsou schopni postavit trůn.
-> 
-> Pro to vše mluvíme o OINA jako "Survival Module", srovnávání s těmi loděmi, které surfují na chladném a temném prostoru, nesoucí v rámci zručné a odhodlané posádky, který nevadí zemřít v zájmu realizace projektu.
-> 
-> \- *Bastion No. 34-1: OINA se snaží být modul přežití. Jorge Ángel Livraga*
+> Takže Nová Akropolis by měla být "modul" nebo "vozidlo" přežití všech hodnot. Druh archy, která plave po vodách a nese zárodky Starého Věku do Nového Věku; od starého a slavného Člověka k novému a vítěznému Člověku. Je to také jako most; musí být pevně postaven, aby odolal napětí mezi oběma břehy a skrze který mohou procházet lidé, kteří se jako tací uznávají, vždy vzpomínajíce na existenci Boha a na vlastní existenci své nesmrtelné Duše, nad rámec nesčetných reinkarnací.
+>
+> Dojde k katastrofám, válkám a partyzánským bojům, které sníží počet obyvatel, stejně jako k morům a nákazám, například moru krys, který se již objevil v New Yorku. Bude to systém Přírody, kterým se zastaví demografický růst, jež hrozí ponechat Duše — jejichž počet je pevný — bez Nebe nebo Devachánu mezi inkarnací a inkarnací, s problémy, které přináší nedostatek nebeského života a zapomínání strádání a živočišných požitků hmotného života.
+>
+> Vzhledem k takovému výhledu má NOVÁ AKROPOLIS odpovědnost udržet naživu Sny, Tradice, „Iniciační“ prvky, které budou sloužit Pánům, kteří se stanou Králi, pokud se jim umí postavit Trůn.
+>
+> Proto mluvíme o OINA jako o "Modulu přežití", přirovnávaje ji k těm lodím, které křižují chladný a temný prostor, nesoucí v sobě obratnou a odhodlanou posádku, které nevadí zemřít v zájmu uskutečnění Projektu.
+>
+> — *Bastión č. 34-1: OINA usiluje stát se modulem přežití. Jorge Ángel Livraga*
 
-> Mnoho vraků se drží stále připravených měřítek naší nekonečné lodi a my jsme stále více a více. Bouře nemůže být s námi. V útrobách nosíme bakterie nového světa, z toho šestého odečtu, že musíme vést k bezpečnému místu za vichřicí a temnotou. Je to pátý podzávod, který zahyne v chladných začátcích tohoto Akvária, ale nemůže zabránit příchodu Nového muže.
-> 
-> \- *Bastion č. 12-1: Pečení v bouři. Jorge Ángel Livraga*
+> Mnoho trosečníků se upíná na vždy připravené žebříky naší nezatopitelné lodi a nás je čím dál víc. Bouře si s námi neporadí. Nese v našich útrobách zárodky nového světa; té šesté podrasy, kterou musíme dovést na bezpečné místo, za vírem a temnotou. Je to pátá podrasa, která zahyne v ledových počátcích tohoto Věku Vodnáře, ale která nemůže zabránit příchodu Nového Člověka.
+>
+> — *Bastión č. 12-1: Veslování v bouři. Jorge Ángel Livraga*

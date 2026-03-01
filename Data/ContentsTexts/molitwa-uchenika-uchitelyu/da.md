@@ -1,19 +1,52 @@
-Lærer! Giv mig det ideelle at kæmpe for. Et ideal, som jeg ikke kun kunne dø for, men leve for. Lærer! Giv mig et nyt navn, og jeg vil bære det gennem livet. Lærer! Giv mig lidt af din viden til at sprede det, Som frø af godhed, i menneskets åbne hjerter.
+Lærer! Giv mig et Ideal, som jeg kan kæmpe for.
+Et ideal, som jeg ikke blot kan dø for, men leve for.
+Lærer! Skænk mig et nyt navn, og jeg vil bære det gennem livet.
+Lærer! Giv mig lidt af Din Viden, for at sprede den,
+som godhedens frø i menneskers åbne hjerter.
 
-Herre, giv en dråbe af din forståelse, som om ved havet. Jeg vil sejle og nå Dreams kyster. Giv mig gnisten af din tro, jeg vil bære den rundt i verden i mine hænder, antænder alt. At jeg ville mødes på vejen, før mørket blev lys.
+Lærer, giv en dråbe af Din Forståelse; på den, som på havet
+vil jeg sætte sejl og nå Drømmenes kyster.
+Giv mig gnisten af Din Tro; jeg vil bære den i mine hænder gennem verden og tænde alt,
+jeg møder på min vej, førend Mørket forvandles til Lys.
 
-Lærer! Lær mig, at denne verden er strå, træ og letfordærvelig. Jeg ved det, når branden er forbi. Giv mig din forståelse, men ikke løsningen på mine problemer. Lær mig at slå dem.
+Lærer! Lær mig, at denne verden er halm, træ og forgængelighed.
+Ikke alene vil jeg forstå det, men jeg vil vide det i stundens brand.
+Giv mig Din Forståelse, men ikke løsningen på mine problemer:
+Lær mig at overvinde dem.
 
-Vis mig din styrke, så den, der sover i mig, vågner. Og at du kan blive en pålidelig ledsager på vejen til evig opstigning. Og hvis jeg en dag finder mig svag og rækker ud til dig, Du må ikke afvise det, tage det, klemme det så hårdt, at jeg føler smerte. Med min sjæl... Jeg vil fortsætte vejen, og jeg vil ikke være alene.
+Åben mig Din kraft, så den, der sover i mig, vågner,
+og så den bliver Din trofaste ledsager på Stien til Evig Opstigning.
+Og hvis jeg en dag viser mig svag og rækker hånden mod Dig –
+vend den ikke bort, tag den, klem så hårdt, at jeg mærker smerte
+med min sjæl... Og jeg vil fortsætte Vejen og ikke være alene...
 
-Lærer! Giv mig et stykke af din kærlighed. Hun bliver nervøs. Godhedens brød, der vokser i mit hjerte. Alt dette er så nødvendigt for mig! Og nu, i vores verden, hvor der ikke er oplyste herrer, Lærer, fortæl mig ikke for meget.
+Lærer! Giv mig en del af Din Kærlighed. Den vil svulme som gær
+i Godhedens Brød, som vokser i mit hjerte.
+Alt dette er så nødvendigt for mig!
+Og nu, i vores Verden, hvor der ikke er Oplyste Herskere,
+Lærer, Du må ikke forklare mig for meget...
 
-Jeg valgte dig ikke, men du valgte mig, så bliv min herre. Jeg ser ikke denne ydmygelse for mig selv, men jeg har virkelig brug for den. Og lad mig stå med dig skulder ved skulder i kamp.
+Det var ikke mig, der valgte Dig, men Du valgte mig – så bliv min Herre.
+Jeg ser ikke ydmygelse i det for mig selv, men jeg har oprigtigt brug for det,
+og giv mig mulighed for at stå ved Din side skulder ved skulder i kampe.
 
-Og hvis du snubler undervejs, læn dig til mig, så du ikke rører Jorden, i mine Drømme er du Og vi er urokkelige, og dit blik er på stjernerne og solen.
+Og hvis Du snubler på vejen – læn Dig op ad mig,
+så Du ikke træder i jorden; i mine drømme er Du lige
+og urokkelig, og Dit blik er vendt mod Stjernerne og Solen.
 
-Når døden kommer til mig, så giv mig selvtillid. Det liv vil ikke ende der og vil fortsætte. Og hvis du går først og ikke anser mig værdig Som et offer for at være på den udvalgte vej, lad mig følge dig.
+Når døden engang kommer til mig – giv mig sikkerhed,
+at livet ikke ender der, men vil fortsætte.
+Og hvis Du går først og ikke skønner mig værdig
+til at blive Offer på den udvalgte Vej – tillad mig at følge Dig.
 
-Tag mig, Mester, i hvad du end synes er værdigt. Det vil jeg ikke. Jeg er ikke bange for fare. Jeg vil altid høre din stemme. Jeg vil ikke tale din lære, jeg vil adlyde dit hjerte. Og jeg vil fortsætte arbejdet for dig gennem dette liv. Og så ind i evigheden...
+Brug mig, Lærer, til alt hvad Du anser for værdigt.
+Jeg vil ikke vige. Jeg vil ikke frygte farer. Jeg vil altid høre Din stemme.
+Din lære vil jeg ikke fordreje, jeg vil adlyde af hjertet
+og jeg vil fortsætte værket, Lærer, for Dig gennem dette liv
+og videre – ind i Evigheden...
 
-Jeg vil ikke have Himlen. Lov mig ikke det. Det eneste, jeg vil have, er... At skabe en ny, bedre verden, ikke for mig selv, men for mine brødre. som ikke kende deres Årsager, og hvorfor de skulle fødes i Lyset, Og dø hvorfor... Lad dem en dag finde, hvad der er i dig. Hvordan jeg fandt det...
+Jeg ønsker ikke Himlen. Lov mig den ikke. Det eneste, jeg ønsker –
+er at skabe en Ny, Bedre Verden, ikke for mig selv, men for mine brødre – mennesker,
+som ikke kender årsagerne til deres lidelser, eller hvorfor de fødes til Lyset,
+og hvorfor de dør... Og måtte de en dag finde det, som er i Dig,
+ligesom jeg fandt det...

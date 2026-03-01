@@ -1,15 +1,15 @@
-# "Survival Modül" Akvaryum Çağında
+# «Hayatta Kalma Modülü» Kova Çağında
 
-> Bu nedenle, New Acropolis "Module" veya "Vehicle" tüm Değerlerin Hayatta Kalması olmalıdır. Suların üzerinde yüz yüzen bir tür Ark, Eski Çağ'ın Yeni Çağa ait mikropları getiriyor; yaşlı ve görkemli adamdan yeni ve gururlu adama. Aynı zamanda bir köprü olarak da inşa edilmelidir; bu yüzden iki banka arasındaki gerginlik ve İnsanların sahip olabileceği gibi, her zaman Tanrı'nın varlığını ve sayısız reinkarnasyonların ötesinde.
-> 
-> Nüfusu zayıflatacak ve New York'ta bulunan sıçanlardan biri gibi gözü ve zararlıları zayıflatacak bir kedi ve gerilla olacak. Doğanın Ruhları terk etmek için tehdit eden demografik büyümeyi durdurma sistemi olacak - onların sayı sabiti - Cennet ya da hapsedilme ve hapsedilme arasında Devachan olmadan, Celestial Life'ın eksikliği ve maddi yaşamın tanrısal hayvanları unutmak.
-> 
-> Bu arka plana karşı, YENİ ACROPOLIS, Rüyaları, Gelenekleri, “Başlangıçta” Elements'i hayatta tutmak için bir sorumluluğu vardır, ki onlar bir Throne inşa edebilecekler.
-> 
-> Tüm bunlar için, OINA'dan "Survival Modül" olarak söz ediyoruz, soğuk ve karanlık alanı sörf yapan gemilerle karşılaştırıyoruz, kayakçı ve kararlı bir ekip içinde taşımak, projenin uğruna ölmeyenler.
-> 
-> \- *34-1: OINA hayatta kalma modülü olmak için ilham verir. Jorge Ángel Livraga*
+> Böylece Yeni Akropolis, bütün Değerlerin Hayatta Kalması için bir “Modül” ya da “Araç” olmalıdır. Suların üzerinde yüzen ve Eski Çağ’ın tohumlarını Yeni Çağ’a taşıyan bir tür Nuh’un Gemisi gibi; yaşlı ve görkemli İnsandan, yeni ve muzaffer İnsana. Aynı zamanda bir köprü gibidir; iki kıyı arasındaki gerilime dayanabilmesi için sağlamca inşa edilmelidir ve üzerinden, kendilerini İnsan olarak tanıyanlar geçebilmelidir; Tanrı’nın varlığını ve kendi Ölümsüz Ruhlarının varlığını, sayısız reenkarne oluşun ötesinde, daima hatırlayarak.
+>
+> Nüfusu azaltacak tufanlar, savaşlar ve gerilla savaşları olacak; ayrıca, New York’ta ortaya çıkan sıçan vebası gibi salgınlar ve afetler. Bu, doğumlar arasındaki cennet ya da Devachan süreci olmaksızın, nüfus artışının tehdit ettiği – sayıları sabit olan – Ruhların, bedenlenme ile bedenlenme arasındaki Gökü yitirmesini engellemek için, doğanın demografik büyümeyi durdurma yöntemi olacaktır; göksel yaşamın eksikliğinin ve maddi hayatın hayvansı sıkıntı ve hazlarının unutulamamasının getirdiği sorunlarla birlikte.
+>
+> Böyle bir tablo karşısında, YENİ AKROPOLİS’in, Krallara hizmet edecek, eğer kendileri için bir Taht inşa etmeyi bilirlerse, Rüyaları, Gelenekleri, “İnisi­yatik” Unsurları canlı tutma sorumluluğu vardır.
+>
+> Bütün bu nedenle OINA’dan bir “Hayatta Kalma Modülü” olarak söz ediyoruz; onu, soğuk ve karanlık uzayı kateden ve içinde mahir ve kararlı bir mürettebat taşıyan gemilere benzetiyoruz; bu mürettebat için Projenin gerçekleşmesi uğruna ölmek önemli değildir.
+>
+> — *Bastión nº 34-1: OINA, bir hayatta kalma modülü olmayı hedefler. Jorge Ángel Livraga*
 
-> Pek çok gemi, bizim teslim gemimizin sonsuz ölçeklerine karışır ve daha fazlasıyız. Fırtına bizimle olamaz. Yeni bir dünyanın mikroplarını bağırsaklarımızda taşıyoruz; altıncısı, rlwind ve karanlığın ötesinde güvenli bir yere götürmemiz gerektiğini gösteriyor. Bu Akvaryum Çağının soğuk başlangıçlarında yok eden beşinci subrace, ancak Yeni Adam'ın gelişini engelleyemez.
-> 
-> \- *12-1: Fırtınada Bakmak. Jorge Ángel Livraga*
+> Birçok kazazede, batmaz gemimizin her an hazır merdivenlerine tutunuyor ve biz her seferinde daha da çoğalıyoruz. Fırtına bize boyun eğdiremez. Bağrımızda yeni bir dünyanın tohumlarını taşıyoruz; o altıncı altırkın tohumlarını, ki onu girdabın ve karanlığın ötesinde, güvenli bir yere götürmek zorundayız. Bu Kova Çağı’nın buzlu başlangıçlarında beşinci altırkın yok olup gitmektedir, fakat Yeni İnsanın gelişini engelleyemez.
+>
+> — *Bastión nº 12-1: Fırtınada kürek çekmek. Jorge Ángel Livraga*

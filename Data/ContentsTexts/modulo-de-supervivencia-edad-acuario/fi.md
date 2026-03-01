@@ -1,15 +1,17 @@
-# "Survival Module" akvaariokaudella
+# «Selviytymismoduuli» Vesimiehen aikakaudella
 
-> Uuden Akropoliksen täytyy olla kaikkien arvojen selviytymisen "moduuli" tai "ajoneuvo." Jonkinlainen arkki, joka kelluu veden yllä ja tuo vanhan ajan bakteerit uuteen aikaan; vanhasta ja kunniakkaasta miehestä uuteen ja voittoisaan mieheen. Se on myös silta; se on rakennettava lujasti, jotta näiden kahden pankin välinen jännite, jonka kautta ihmiset voivat kulkea, jotka sellaisinaan tunnustetaan, muistuttaa aina Jumalan olemassaolosta ja hänen kuolemattoman sielunsa olemassaolosta lukemattomien jälleensyntymien ulkopuolella.
+> Näin Uusi Akropolis on oltava kaikkien arvojen selviytymisen "moduuli" tai "ajoneuvo". Eräänlainen arkki, joka kelluu vetten yllä ja kuljettaa Vanhasta Aikakaudesta Uuteen Aikakauteen siemeniä; vanhasta ja kunniakkaasta ihmisestä uuteen ja voittoisaan ihmiseen. Se on myös kuin silta; se on rakennettava lujasti, jotta se kestäisi jännitteen kahden rannan välillä ja jonka kautta voivat kulkea ne ihmiset, jotka tunnustavat itsensä sellaisiksi, muistuttaen aina Jumalan olemassaolosta ja oman kuolemattoman sielunsa olemassaolosta lukemattomien jälleensyntymien tuolla puolen.
 > 
-> On mullistuksia, sotia ja sissit, jotka heikentävät väestöä, sekä silmäripsiä ja tuholaisia, kuten rotat jo New Yorkissa. Se on luonnon järjestelmä pysäyttää väestörakenteen kasvu, joka uhkaa jättää Sieluja - on niiden määrä kiinteä - ilman taivasta tai Devachan välillä inkarnaatio ja inkarnaatio, ongelmia puuttuu Taivaallinen elämä ja unohdetaan vaikeuksia ja jumalia eläimiä aineellisen elämän.
+> Tulee tapahtumaan kataklysmeja sekä sotia ja sissisotia, jotka vähentävät väestöä, samoin kuin ruttoja ja vitsauksia, kuten New Yorkissa jo esiintynyt rottainvaasio. Se on luonnon keino pysäyttää väestönkasvu, joka uhkaa jättää Sielut — niiden lukumäärän ollessa kiinteä — ilman Taivasta tai Devachánia inkarnaatiosta inkarnaatioon, mistä seuraa ongelmia, kuten taivaallisen elämän puute ja aineellisen elämän eläimellisten kärsimysten ja nautintojen unohtamisen puute.
 > 
-> Tätä taustaa vasten NEW Akropolis on vastuussa pitää hengissä unelmat, Perinteet, "Aloittavat" Elementit, jotka palvelevat Herrat, jotka ovat kuninkaita, jos he pystyvät rakentamaan valtaistuimen.
+> Tällaisessa tilanteessa UUSI AKROPOLISilla on vastuu pitää elossa Unelmat, Perinteet, "Iniciaatiiviset" Elementit, jotka palvelevat Herroja, jotka tulevat olemaan kuninkaita, jos heille osataan rakentaa valtaistuin.
 > 
-> Kaikesta tästä puhumme OINAsta "Survival Moduulina," joka vertaa sitä niihin aluksiin, jotka surffaavat kylmässä ja pimeässä tilassa ja kantavat taitavaa ja määrätietoista miehistöä, joka ei pane pahakseen kuolla projektin toteuttamiseksi.
+> Kaiken tämän vuoksi puhumme OINAsta "Selviytymismoduulina", vertaillen sitä niihin aluksiin, jotka purjehtivat kylmässä ja pimeässä avaruudessa kantaen sisällään taitavaa ja päättäväistä miehistöä, jota ei haittaa kuolla projektin toteuttamisen tähden.
 > 
-> \- *Bastion No. 34-1: OINA haluaa olla selviytymismoduuli. Jorge Ángel Livraga*
+> — *Bastión nro 34-1: OINA pyrkii olemaan selviytymismoduuli. Jorge Ángel Livraga*
 
-> Monet haaksirikokset takertuvat yhä valmiimpiin alusvaakoihin ja me olemme yhä enemmän. Myrsky ei voi olla kanssamme. Me kannamme sisuksissamme uuden maailman bakteereja; tästä kuudennesta vähennysosasta meidän on johdettava turvalliseen paikkaan, pyörremyrskyn ja pimeyden taakse. Se on viides maanalainen, joka menehtyy tämän akvaariokauden kylmässä alussa, mutta se ei voi estää Uuden ihmisen tuloa.
+> Monet haaksirikkoutuneet tarttuvat alusemme aina valmiisiin tikkaisiin ja meitä on yhä enemmän. 
 > 
-> \- *Bastion nro 12-1: Paistaminen myrskyssä. Jorge Ángel Livraga*
+> Myrsky ei voi meitä voittaa. Kannamme sisällämme uuden maailman siemeniä; siitä kuudennesta alalajista, jonka meidän on johdatettava turvaan pyörteen ja pimeyden tuolle puolen. Se on viides alalaji, joka menehtyy tämän Vesimiehen aikakauden kylmissä alkupäivissä, mutta se ei voi estää Uuden Ihmisen tuloa.
+> 
+> — *Bastión nro 12-1: Melomassa myrskyssä. Jorge Ángel Livraga*

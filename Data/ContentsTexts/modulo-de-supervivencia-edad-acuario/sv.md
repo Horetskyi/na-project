@@ -1,15 +1,15 @@
-# "Survival Module" i Aquarium Age
+# «Överlevnadsmodul» i Vattumannens tidsålder
 
-> New Acropolis måste vara en "modul" eller "fordon" av överlevnad av alla värden. En slags ark som flyter över vattnet och ger den gamla tidsålderns bakterier till den nya tidsåldern; från den gamla och härliga människan till den nya och segerrika människan. Det är också som en bro, det måste vara stadigt byggt, så att spänningen mellan de två bankerna och genom vilken människorna kan passera, som som sådan erkänns, alltid återkallar Guds existens och själva existensen av hans odödliga själ, bortom de otaliga reinkarnationerna.
-> 
-> Det kommer att finnas katastrofer och krig och gerillaer som kommer att försvaga befolkningen, liksom ögonfransar och skadedjur, såsom en av råttor som redan finns i New York. Det kommer att vara naturens system för att stoppa den demografiska tillväxten som hotar att lämna själarna - att vara deras antal fasta - utan himlen eller Devachan mellan inkarnation och inkarnation, med problemen med bristen på Celestial Life och att glömma svårigheter och gudfruktiga djur av materiellt liv.
-> 
-> Mot denna bakgrund har NYA ACROPOLIS ett ansvar att hålla levande drömmar, traditioner, "initierande" element, som tjänar Lords som kommer att vara kungar om de kan bygga en tron.
-> 
-> För allt detta talar vi om OINA som en "Survival Module", jämför det med de fartyg som surfar på det kalla och mörka utrymmet, bär inom en skicklig och bestämd besättning, som inte har något emot att dö för projektets skull.
-> 
-> \- *Bastion nr 34-1: OINA strävar efter att vara en överlevnadsmodul. Jorge Ángel Livraga*
+> Så måste Nya Akropolis vara en "modul" eller "farkost" för överlevnad för alla värden. En slags ark som flyter över vattnet och bär fröna från den Gamla Tiden till den Nya Tiden; från den gamle och härlige Människan till den nye och segerrike Människan. Den är också som en bro; den måste vara stadigt byggd, så att den tål spänningen mellan de två stränderna och genom vilken de Människor som som sådana känner igen sig kan passera, alltid erinrande Guds existens och den egna existensen av deras odödliga Själ, bortom de otaliga reinkarnationerna.
+>
+> Det kommer att inträffa kataklysmer och krig och gerillakrig som kommer att minska befolkningen, liksom pest och plågor, såsom den råttplåga som redan visat sig i New York. Det kommer att vara naturens system för att stoppa den demografiska tillväxt som hotar att lämna Självarna — eftersom deras antal är fast — utan Himmel eller Devachán mellan inkarnation och inkarnation, med de problem som följer av bristen på himmelskt liv och av att inte glömma de materiella livets djuriska plågor och njutningar.
+>
+> Inför ett sådant panorama har Nya Akropolis ansvaret att hålla vid liv Drömmarna, Traditionerna, de "initierande" elementen, som ska tjäna Herrarna som kommer att bli Kungar om man vet hur man bygger åt dem en Tron.
+>
+> För allt detta talar vi om OINA som en "överlevnadsmodul", och jämför den med de skepp som färdas genom det kalla och mörka rummet, bärande inom sig en skicklig och beslutsam besättning som inte har något emot att dö för att Projektet ska förverkligas.
+>
+> — *Bastión nº 34-1: OINA strävar efter att vara en överlevnadsmodul. Jorge Ángel Livraga*
 
-> Många skeppsbrott klamrar sig fast vid de ständigt redo skalorna i vårt inunending skepp och vi är mer och mer. Stormen kan inte vara med oss. Vi bär i våra tarmar bakterierna i en ny värld; av det sjätte subtraktet att vi måste leda till en säker plats, bortom virvelvinden och mörkret. Det är den femte underrasen som förgås i den kalla början av denna Akvarieålder, men det kan inte hindra tillkomsten av den Nya Människan.
-> 
-> \- *Bastion nr 12-1: Bakar i stormen. Jorge Ángel Livraga*
+> Många skeppsbrutna griper sig fast vid de ständigt redo stegarna på vårt sjösäkra skepp och vi blir allt fler. Stormen kan inte besegra oss. Vi bär i våra inre fröna till en ny värld; av den sjätte underrasen som vi måste föra till en säker plats, bortom virveln och mörkret. Det är den femte underrasen som omkommer i de iskalla början av denna Vattumannens tidsålder, men som inte kan hindra framväxten av den Nya Människan.
+>
+> — *Bastión nº 12-1: Rodd i stormen. Jorge Ángel Livraga*
