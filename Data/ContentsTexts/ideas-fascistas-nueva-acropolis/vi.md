@@ -1,41 +1,41 @@
-# Ý tưởng Phát - xít về thành phố mới
+# Những ý tưởng phát xít của Tân Acropolis
 
-Đây là một số trích dẫn từ Bastias, Mands và Almenas. Chúng ta hãy nhớ rằng những câu này không phải là những câu duy nhất mà Livraga trình bày ý tưởng của ông. Hơn nữa, trong những văn bản này, ông đã cố gắng "xem" tư tưởng của mình để không làm các thành viên sợ hãi.
+Dưới đây là một số trích dẫn được trích ra từ các Bastiones, Mandos và Almenas. Cần nhớ rằng đây không phải là những văn bản duy nhất trong đó Livraga trình bày các ý tưởng của mình. Hơn nữa, trong những văn bản này ông còn cố gắng “che đậy” hệ tư tưởng của mình để không làm các thành viên khiếp sợ.
 
-> Không có ít người bắt đầu chỉ trích tất cả công việc của New Acricon và những mệnh lệnh giữa của nó, hoặc rời bỏ phong trào của chúng tôi để cung cấp cho các dòng chảy giả định vì vậy trong bogue, của các lò âm thanh trên các góc và của languid incissos được thắp sáng bởi thanh thiếu niên của cơ thể bẩn và linh hồn bối rối, những người bao gồm của họ bị bỏ rơi với tên của một số bậc thầy thời trang. Và vẫn còn một số rơi thẳng vào móng vuốt của chủ nghĩa vô thần.
-> 
-> \- *Mối nguy hiểm của tri thức. Jorge Ángel Livraga*
+> Không ít người bắt đầu chỉ trích toàn bộ công trình của Tân Acropolis và các cấp chỉ huy trung gian của nó, hoặc rời bỏ Phong trào của chúng ta để đắm mình say mê trong những trào lưu giả‑Đông phương đang rất thịnh hành, với những tiếng trống lắc vang lên ở các góc phố và những làn hương uể oải được đốt bởi những thiếu niên thân thể nhơ bẩn và tâm hồn rối bời, những kẻ che đậy sự buông thả của mình dưới cái tên của một vị Gurú thời thượng nào đó. Và vẫn còn có người rơi thẳng vào nanh vuốt của chủ nghĩa cộng sản vô thần.
+>
+> — *Bastión: Los peligros del conocimiento. Jorge Ángel Livraga*
 
-> Vào năm 1975, lễ chào mừng của Acropolitan được chính thức hóa, đề nghị rằng cánh tay trên phải có mối quan hệ 45 độ với phần trên cùng của thân thể. Điều này đã được thực hiện kể từ khi nền tảng của phong trào và nguồn gốc của phong trào này được quy cho các động lực lịch sử liên quan đến Đế Quốc La Mã. Từ "cứu rỗi" ("Sacred," trong tiếng La tinh), cùng với lời chào thể xác, nhấn mạnh điều sau.
-> 
-> \- *Bastian: một phần ẩn của lời chào của người Acroolitan. Jorge Ángel Livraga*
+> Trong các Sắc lệnh của RIMM tại Buenos Aires năm 1975, người ta đã chính thức hóa Lời chào Acropolitano, khuyến nghị rằng cánh tay giơ cao phải tạo một góc 45 độ so với trục thẳng đứng của thân thể. Điều này đã được thực hiện ngay từ khi Phong trào được thành lập và nguồn gốc của nó được gán cho các động lực lịch sử gắn liền với Đế chế La Mã. Từ «AVE» («Sagrado», bằng tiếng Latinh) đi kèm với lời chào thân thể càng nhấn mạnh điều sau cùng này.
+>
+> — *Bastión: Sobre la parte oculta del saludo acropolitano. Jorge Ángel Livraga*
 
-> Chúng tôi chào đón với sự lạc quan những dòng chảy tư tưởng và hành động mới này, khi chúng là những mũi tên đang bị đóng đinh vào cánh của chủ nghĩa duy vật phương ngữ và của chủ nghĩa tự do đa tầng lớp, hai "Dagons" vĩ đại của thế kỷ 20 chúng tôi phải nâng cao cờ hiệu của tất cả các lý tưởng của họ.
-> 
-> \- *Triết lý rủi ro. Jorge Ángel Livraga*
+> Chúng ta hãy lạc quan chào đón những Dòng Tư tưởng và Hành động mới này, vì chúng là những mũi tên đang cắm sâu vào sườn của chủ nghĩa duy vật biện chứng và của chủ nghĩa tự do đại chúng, hai «Con Rồng» lớn của thế kỷ XX của chúng ta, chống lại chúng mọi người theo Acropolis phải giương cao ngọn cờ Lý tưởng của mình.
+>
+> — *Bastión: La filosofía del riesgo. Jorge Ángel Livraga*
 
-> Chủ nghĩa phân biệt chủng tộc thì nguy hiểm và đa mặt hơn là dường như; nó không bị tước mất nước Đức với các trại tập trung của Quốc xã, nhưng nó lan rộng tới "Những người chỉ huy Israeli" vẫn còn tham gia săn lùng những người lớn tuổi thuộc Đảng Xã Hội Quốc Gia.
-> 
-> Hiển nhiên, một sự phức tạp của sự tự ti tập thể thường là một động cơ của tính siêu phàm. Ví dụ nổi tiếng nhất là những người Y - sơ - ra - ên xưa, những người cảm thấy bị nhổ đi giữa những trung tâm vĩ đại của các nền văn minh hùng mạnh chứa đựng họ, phát triển giáo lý nguy hiểm là "được chọn từ Đức Chúa Trời" và tấn công bất cứ hình thức nào khác ngoài đức tin của họ, chuyển từ những kẻ xâm lược thành nạn nhân của một quá trình lịch sử đầy bắt bớ nhau. Những lời xúc phạm và xúc phạm đối với người Ai Cập và những người khác tràn ngập trong Kinh Cựu ước và cái đầu bị cắt của Holofernes trông như một bông hoa hài hước trong đôi bàn tay ngọt ngào của Judith.
-> 
-> \- *Mối nguy hiểm của nạn phân biệt chủng tộc. Jorge Ángel Livraga*
+> Chủ nghĩa phân biệt chủng tộc nguy hiểm và đa diện hơn nhiều so với vẻ bề ngoài; nó không chỉ là đặc quyền của nước Đức quốc xã với các trại tập trung, mà còn lan sang các «Đội biệt kích Israel» chuyên săn lùng những ông già từng thuộc Đảng Công nhân Xã hội Chủ nghĩa Quốc gia.
+>
+> Rõ ràng một mặc cảm tự ti tập thể thường nhiều lần là động lực của các chủ trương độc tôn. Ví dụ nổi tiếng nhất là của người Israel cổ, những người cảm thấy mình bị bật rễ giữa những trung tâm sáng tạo to lớn của các nền văn minh hùng mạnh bao bọc họ, đã xây dựng nên học thuyết nguy hiểm cho rằng mình là «dân được Thiên Chúa tuyển chọn» và tấn công mọi hình thức đức tin nào không phải là của mình, chuyển từ kẻ xâm lược thành nạn nhân trong cả một tiến trình lịch sử của những cuộc bách hại lẫn nhau. Những lời sỉ nhục và xúc phạm người Ai Cập cùng các dân tộc khác tràn ngập trong Cựu Ước, và cái đầu bị chặt của Holofernes lại được trình bày như một đóa hoa duyên dáng trong đôi tay «dịu dàng» của Judith.
+>
+> — *Bastión: Los peligros del racismo. Jorge Ángel Livraga*
 
-> Về phía nam của thành phố Los Angeles, trong thập kỷ thứ hai của thế kỷ của chúng ta, một nhóm thành viên của Hội Theosophical đã tạo ra một người mẫu thành phố nhỏ bé, nơi không thiếu những nền công nghiệp nhỏ, trung tâm giải trí vận động, phòng cầu nguyện, phòng kiểm toán, và những nhóm thanh niên được tổ chức một cách quân sự.
-> 
-> \- *Thành phố mới và nền kinh tế. Jorge Ángel Livraga*
+> Ở phía nam thành phố Los Angeles, trong thập niên thứ hai của thế kỷ chúng ta, một nhóm thành viên của Hội Thông Thiên Học đã tạo ra một thành phố‑mẫu tí hon, nơi không thiếu những xí nghiệp nhỏ, trung tâm rèn luyện thể thao, phòng cầu nguyện, giảng đường, và nơi các nhóm thanh thiếu niên được tổ chức theo kiểu quân sự.
+>
+> — *Bastión: Nueva Acrópolis y la economía. Jorge Ángel Livraga*
 
-> Chúng ta đã nhận được tin muộn hơn về việc Quốc xã bị bắt bớ hàng loạt chống lại người Do Thái và thỉnh thoảng những người sau trả thù những người trước đây.
-> 
-> \- *Cảnh sát phân biệt chủng tộc. Jorge Ángel Livraga*
+> Về sau này chúng ta mới được biết tin về những cuộc bách hại hàng loạt của bọn Quốc xã đối với người Do Thái và những cuộc trả thù có tính toán của những người sau này đối với những kẻ trước đó.
+>
+> — *Bastión: Policromías del racismo. Jorge Ángel Livraga*
 
-> Với sự thất bại của các chế độ chính trị độc tài trong Thế chiến thứ hai, vị trí tinh thần được nhấn mạnh, và sự tiến bộ kỹ thuật ở giữa thế giới ở địa ngục của sự đau khổ, và nửa còn lại trong nỗi tuyệt vọng vì không đạt được nhiều mục tiêu hơn những mục tiêu của sự thoải mái đã đạt được hoặc thấy để đạt được, mà không có khả năng đồng hóa nó. Chủ nghĩa vật chất cai trị khắp mọi nơi, nhưng ngoài vỏ bọc ra, nó là một sự kiêu ngạo, bi quan, chủ nghĩa phân cấp và suy nghĩ quá mức về sự tự do mà trở nên tự do.
-> 
-> \- *Lựa chọn. Jorge Ángel Livraga*
+> Với thất bại mà các chế độ chính trị độc tài phải hứng chịu trong Chiến tranh Thế giới thứ Hai, lập trường tinh thần càng được nhấn mạnh, và tiến bộ kỹ thuật nhấn chìm một nửa địa cầu vào cõi âm phủ của sự khốn cùng, còn nửa kia vào tuyệt vọng vì không thể hình dung được mục tiêu nào khác ngoài sự tiện nghi đã đạt được hoặc thấy người khác đạt được mà mình không thể với tới. Chủ nghĩa duy vật ngự trị khắp nơi; nhưng vượt ra ngoài cái vỏ bề ngoài, đó là một chủ nghĩa duy vật uể oải, bi quan, hỗn loạn và tôn vinh những thái quá của tự do đến mức biến nó thành phóng túng.
+>
+> — *Bastión: La opción. Jorge Ángel Livraga*
 
-> Khi xe buýt chạy, hiện đại, với máy điều hòa và micro theo sự sắp xếp của tôi, nhìn vào những phong cảnh này, tôi nhớ một vài lời từ sự hiểu lầm của Benito bổ sung, khi ông nói rằng nông dân lớn tuổi hơn và sẽ tồn tại lâu hơn kim tự tháp...
-> 
-> \- *Bastian: Chuyến đi của tôi đến Ai Cập III - Seraphen và Sakara. Jorge Ángel Livraga*
+> Khi chiếc xe buýt hiện đại chạy trên đường, với máy điều hòa và micro dành sẵn cho tôi, ngắm nhìn những phong cảnh này, tôi chợt nhớ đến vài lời của Benito Mussolini – kẻ bị hiểu lầm – khi ông nói rằng người nông dân già hơn và sẽ tồn tại lâu hơn các kim tự tháp…
+>
+> — *Bastión: Mi viaje a Egipto III — El Serapheon y Sakkara. Jorge Ángel Livraga*
 
-> Không quên được quá khứ, mà không hồi sinh nó với những vị trí mang tính kỹ thuật. Vedanta, thợ nề, phát xít, Franco, v.v..., đã bẻ giáo chống lại chủ nghĩa vô thần. Hãy dùng giáo mới. Thành phố Acr. Đây là cơ hội định mệnh cho chúng ta... Chúng ta chớ nên trói buộc sự sống của ngài.
-> 
-> \- *Bastian: Accrudon: Không có giáo phái tôn giáo hoặc chính trị. Jorge Ángel Livraga*
+> Không quên quá khứ, nhưng cũng không làm nó sống lại bằng những lập trường lỗi thời. Vedanta, Hội Tam điểm, chủ nghĩa quốc xã, chế độ Franco, v.v. đã từng bẻ ngọn giáo của mình chống lại chủ nghĩa duy vật vô thần. Hãy sử dụng những ngọn giáo mới của chúng ta. Những ngọn giáo của người theo Acropolis. Đây là cơ hội mà Định mệnh dành cho chúng ta... Đừng xiềng xích xung lực sống đang vươn lên của nó.
+>
+> — *Bastión: Acrópolis: Ni secta religiosa ni política. Jorge Ángel Livraga*

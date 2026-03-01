@@ -1,41 +1,41 @@
 # Jaunās Akropoles fašistiskās idejas
 
-Šeit ir daži citāti no Bastions, Mands un Almenas. Atcerēsimies, ka šie teksti nav vienīgie, kuros Livraga iepazīstināja ar savām idejām. Turklāt šajos tekstos viņš centās "novērot" savu ideoloģiju, lai nebiedētu biedrus.
+Šeit sniegti daži citāti, kas ņemti no “Bastioniem”, “Pavēlēm” un “Almenām”. Atcerēsimies, ka šie teksti nav vienīgie, kuros Livraga izklāstīja savas idejas. Turklāt šajos tekstos viņš centās savu ideoloģiju “pievilkt plīvuru”, lai nenobiedētu biedrus.
 
-> Nav maz, kas sāk kritizēt visu darbu New Acropolis un tās vidus komandas, vai atstāt mūsu kustība, lai nodotos pseido-orientalist straumēm tik bogue, pans skaņu uz stūriem un anguid incissos lit pusaudžu netīrās ķermeņa un sajaukt dvēseles, kas sedz savu pamesto ar nosaukumu kādu modes Guru. Un joprojām daži nonāk tieši ateistu komunisma nagos.
-> 
-> \- *Bastion: briesmas zināšanas. Jorge Ángel Livraga*
+> Nav maz to, kas sāk kritizēt visu Jaunās Akropoles darbu un tās vidējā līmeņa vadību, vai pamet mūsu Kustību, lai apmāti nodotos tik modernajām pseidoorientālistiskajām straumēm — ar bungām, kas rīb uz ielu stūriem, un gausajiem vīrakiem, ko aizdedzina pusaudži ar netīru ķermeni un apjuktu dvēseli, kas savu nolaidību piesedz ar kāda modes Gurū vārdu. Un vēl daži krīt tieši bezdievīgā komunisma nagos.
+>
+> — *Bastions: Zināšanu briesmas. Jorge Ángel Livraga*
 
-> 1975\. gadā Buenosairesas RIMM dekrētos Akropolitan Salute tika oficiāli pasludināta, iesakot, ka augšdelmam jābūt 45 grādu attiecībā pret ķermeņa augšējo vertikāli. Tas tika darīts jau kopš Kustības dibināšanas un tās izcelsmi piedēvēja vēsturiskai motivācijai, kas saistīta ar Romas impēriju. Vārds "AVE" ("Svētais", latīņu valodā), kas pavada fizisko sveicienu, uzsvēra pēdējo.
-> 
-> \- *Bastion: Uz slēpto daļu akropolitan sveiciens. Jorge Ángel Livraga*
+> Buenosairesas RIMM dekrētos 1975. gadā akropolitāniskais sveiciens tika oficiāli ieviests, iesakot, lai paceltajai rokai pret augšējo ķermeņa vertikāli būtu 45 grādu leņķis. Tas jau tika darīts kopš Kustības dibināšanas, un tā izcelsme tika piedēvēta vēsturiskām motivācijām, kas saistītas ar Romas impēriju. Vārds “AVE” (“svēts” latīņu valodā), kas pavada fizisko sveicienu, īpaši uzsvēra šo pēdējo aspektu.
+>
+> — *Bastions: Par akropolitānā sveiciena slēpto daļu. Jorge Ángel Livraga*
 
-> Mēs ar optimismu vērtējam šīs jaunās domu un rīcības straumes, jo tās ir šautriņas, kas tiek iekaltas dialektiskā materiālisma un multitudinārā liberālisma flangos, divi mūsu divdesmitā gadsimta lielie "Dragoni", pret kuriem ir jāceļ savas ideālas visas Akropoles baneri.
-> 
-> \- *Bastion: riska filozofija. Jorge Ángel Livraga*
+> Sveiksim ar optimismu šīs jaunās Domu un Darbības Straumes, jo tās ir bultas, kas ieduras dialektiskā materiālisma un masu liberālisma sānos — mūsu XX gadsimta divos lielajos “Pūķos”, pret kuriem katram akropolietim jāpaceļ sava Ideāla karogs.
+>
+> — *Bastions: Riska filozofija. Jorge Ángel Livraga*
 
-> Rasisms ir daudz bīstamāks un daudzšķautņaināks, nekā šķiet; tam netiek atņemta nacistiskā Vācija ar tās koncentrācijas nometnēm, bet tas sniedzas līdz "Izraēlas pavēlniecībai", kas joprojām nodarbojas ar to vecu ļaužu medībām, kuri piederēja Nacionālsociālistiskajai partijai.
-> 
-> Ir acīmredzams, ka kolektīvās mazvērtības komplekss bieži vien ir ekskluzivitātes dzinējspēks. Vispazīstamākais piemērs ir senie izraēlieši, kas jūtas izzuduši lielo centru vidū, kuros izgudrotas varenās civilizācijas, kas tās saturējušas, izstrādā bīstamo doktrīnu par "ievēlēšanos no Dieva" un uzbrūk jebkādai ticībai, kas nav viņu pašu ticība, pārejot no agresoriem uz visa vēsturiskā savstarpējās vajāšanas procesa upuriem. Vecajā Derībā un Holofernes galvas nociršana un apvainojumi ēģiptiešiem un citām tautām tiek veikti, lai izskatītos kā smieklīgs zieds Judītes "saldajās" rokās.
-> 
-> \- *Bastion: Rasisma briesmas. Jorge Ángel Livraga*
+> Rasisms ir daudz bīstamāks un daudzveidīgāks, nekā šķiet; tas nav tikai nacistiskās Vācijas privilēģija ar tās koncentrācijas nometnēm, bet sniedzas arī līdz “Izraēlas komandām”, kas vēl arvien nodarbojas ar sirmgalvju medībām, kuri reiz piederējuši Nacionālsociālistiskajai partijai.
+>
+> Ir acīmredzams, ka kolektīvs mazvērtības komplekss bieži vien ir ekskluzīvisma dzinējspēks. Vispazīstamākais piemērs ir seno izraēliešu piemērs, kas, jūtoties izrauti no saknēm starp lielajiem varenajām civilizācijām piederīgajiem izgudrojumu centriem, kas tos ietvēra, izstrādā bīstamo doktrīnu par to, ka ir “Dieva izredzētie”, un uzbrūk jebkurai ticības formai, kas nav viņu pašu, pārejot no agresoriem uz upuriem visā savstarpējo vajāšanu vēsturiskajā procesā. Apvainojumi un aizskārumi ēģiptiešiem un citām tautām Vecajā Derībā ir pārpilnībā, un nocirstā Holoferna galva tiek parādīta kā jauks zieds Judītes “saldajās” rokās.
+>
+> — *Bastions: Rasisma briesmas. Jorge Ángel Livraga*
 
-> Uz dienvidiem no Losandželosas mūsu gadsimta otrajā desmitgadē Teozofiskās biedrības biedru grupa izveidoja niecīgu pilsētas modeli, kurā netrūka nelielu nozaru, vingrošanas atpūtas centru, lūgšanu telpu, auditārija un kurā bija izveidotas militāri organizētas jauniešu grupas.
-> 
-> \- *Bastion: Jaunā Akropole un ekonomika. Jorge Ángel Livraga*
+> Uz dienvidiem no Losandželosas, mūsu gadsimta otrajā desmitgadē, Theosofiskās biedrības locekļu grupa izveidoja sīciņu paraugpilsētu, kurā netrūka nelielu rūpalu, vingrošanas un atpūtas centru, lūgšanu telpu, auditoriju un kurā bija izveidotas militāri organizētas jauniešu grupas.
+>
+> — *Bastions: Jaunā Akropole un ekonomika. Jorge Ángel Livraga*
 
-> Mums ir bijis vairāk vēlu ziņu par nacistu masveida vajāšanu pret ebrejiem un par to neregulāro atriebību pret ebrejiem.
-> 
-> \- *Bastion: rasisma policija. Jorge Ángel Livraga*
+> Vēlāk mēs esam uzzinājuši par nacistu masveida vajāšanām pret ebrejiem un par šo pēdējo mērķtiecīgajām atriebībām pret pirmajiem.
+>
+> — *Bastions: Rasisma polihromijas. Jorge Ángel Livraga*
 
-> Līdz ar autoritāru politisko režīmu neveiksmi Otrajā pasaules karā, psihiskā pozīcija tiek akcentēta, un tehniskais progress ir pasaules vidū posta pasaulē, un otra puse izmisumā par to, ka tā nav realizējusi vairāk mērķu nekā jau sasniegtie vai redzētie mierinājuma mērķi, nespējot tam asimilēties. Visur valda materiālisms, bet, aiz čaulas, tas ir nežēlīgs, pesimistisks, anarhisks un apdomājošs brīvības pārmērību materiālisms, kas kļūst atbrīvojošs.
-> 
-> \- *Bastion: iespēja. Jorge Ángel Livraga*
+> Līdz ar autoritāro politisko režīmu izgāšanos Otrajā pasaules karā šī garīgā nostāja saasinās, un tehniskais progress pusi pasaules iedzen posta pazemē, bet otru pusi — izmisumā, jo tā nespēj iedomāties citus mērķus kā vien jau sasniegto komfortu vai to, ko redz, ka citi sasniedz, pati nespējot pie tā pieķerties. Materiālisms valda visur; taču, zem šīs čaulas, tas ir gauss, pesimistisks, anarhisks materiālisms, kas cildina brīvības pārmērības, kuras pārvēršas izlaidībā.
+>
+> — *Bastions: Izvēle. Jorge Ángel Livraga*
 
-> Autobusam braucot, modernam, ar gaisa kondicionieri un mikrofonu manā rīcībā, skatoties uz šīm ainavām, es atceros dažus vārdus no pārprastajiem Benito Musolīni, kad viņš teica, ka zemnieki ir vecāki un ilgāki par piramīdām...
-> 
-> \- *Bastion: mans ceļojums uz Ēģipti III - Serapheon un Sakkara. Jorge Ángel Livraga*
+> Kamēr brauc autobuss — moderns, ar kondicionieri un mikrofonu manā rīcībā —, vērojot šīs ainavas, man prātā nāk pārprastā Benito Musolīni vārdi, kad viņš teica, ka zemnieki ir vecāki un ilgmūžīgāki par piramīdām…
+>
+> — *Bastions: Mans ceļojums uz Ēģipti III — Serapeums un Sakāra. Jorge Ángel Livraga*
 
-> Neaizmirstot pagātni, bet neatdzīvinot to ar anahroniskām pozīcijām. Vedanta, mūrnieka, nacisma, Franko u.c., jau salauzuši šķēpus pret ateistu materiālismu. Izmantosim mūsu jaunos šķēpus. Akropole. Šī ir iespēja, ko mums dod liktenis... Neķēdēsim viņa augšupejošo dzīvības impulsu.
-> 
-> \- *Bastion: Akropole: Nav reliģiskas vai politiskas sektas. Jorge Ángel Livraga*
+> Neaizmirstot pagātni, bet arī neatdzīvinot to ar anahroniskām nostājām. Vedānta, masonērija, nacisms, frankisms u. c. jau ir salauzuši šķēpus pret bezdievīgo materiālismu. Izmantosim savus jaunos šķēpus — akropolitānos. Šī ir iespēja, ko mums piešķir Liktenis… Nesaistīsim ar važām tā augšupejošo dzīvības impulsu.
+>
+> — *Bastions: Akropole: Ne reliģiska, ne politiska sekta. Jorge Ángel Livraga*

@@ -1,41 +1,41 @@
-# Ide Fasis dari New Acropolis
+# Ide fasis dari Akropolis Baru
 
-Ini beberapa kutipan dari Bastions, Mands dan Almenas. Mari kita ingat bahwa teks-teks ini bukan satu-satunya di mana Livraga disajikan idenya. Selain itu, dalam teks-teks ia mencoba untuk "menonton" ideologinya sehingga tidak menakut-nakuti anggota.
+Di sini kami menempatkan beberapa kutipan yang diambil dari Bastiones, Mandos dan Almenas. Mari kita ingat bahwa teks-teks ini bukan satu-satunya tempat Livraga mengemukakan idenya. Selain itu, dalam teks-teks ini ia berusaha «menyembunyikan» ideologinya agar tidak menakuti para anggota.
 
-> Tidak ada sedikit orang yang mulai mengkritik semua karya New Acropolis dan perintah tengahnya, atau meninggalkan Gerakan kami untuk memberikan diri mereka sendiri untuk arus palsu - orientalis sehingga di bogue, suara panci di sudut-sudut dan langsing lesu diterangi oleh remaja tubuh kotor dan bingung jiwa, yang menutupi mereka ditinggalkan dengan nama beberapa guru modis. Dan masih beberapa jatuh langsung ke cakar ateis komunisme.
-> 
-> \- *Bahaya pengetahuan. Jorge Ángel Livraga*
+> Tidak sedikit orang yang mulai mengkritik seluruh karya Akropolis Baru dan para pimpinan menengahnya, atau meninggalkan Gerakan kami untuk menyerahkan diri terpesona pada arus-arus pseudo-orientalis yang sedang populer, dengan panci tamborin yang berdentang di sudut-sudut dan dupa lesu yang dinyalakan oleh remaja dengan tubuh kotor dan jiwa bingung, yang menutupi keterlantaran mereka dengan nama seorang Gurú yang sedang tren. Dan beberapa bahkan jatuh langsung ke cengkeraman komunisme ateis.
+>
+> — *Bastión: Bahaya pengetahuan. Jorge Ángel Livraga*
 
-> Dalam Dekor Buenos Aires RIMM, pada tahun 1975, Hormat Acropolitan diresmikan, merekomendasikan bahwa lengan atas harus memiliki hubungan 45 derajat ke atas vertikal tubuh. Ini sudah dilakukan sejak dasar Gerakan dan asalnya dikaitkan dengan motivasi sejarah terkait dengan Kekaisaran Romawi. Kata "AVE" ("Sacred", dalam bahasa Latin), yang menyertai ucapan fisik, menyoroti yang terakhir.
-> 
-> \- *Pada bagian tersembunyi dari salam akropolitan. Jorge Ángel Livraga*
+> Dalam Dekret RIMM di Buenos Aires, pada 1975, diresmikan Salam Akropolitano, merekomendasikan agar lengan yang terangkat memiliki hubungan 45 derajat terhadap vertikal bagian atas tubuh. Ini sudah dilakukan sejak pendirian Gerakan dan asalnya dikaitkan dengan motivasi historis terkait dengan Kekaisaran Romawi. Kata «AVE» («Suci», dalam bahasa Latin) yang menyertai salam fisik itu menekankan hal terakhir ini.
+>
+> — *Bastión: Tentang bagian tersembunyi dari salam akropolitano. Jorge Ángel Livraga*
 
-> Kita sambut dengan optimisme arus baru dari pikiran dan tindakan, karena mereka adalah panah panah yang dipaku ke sisi-sisi materialisme dialektika dan mereka dari liberalisme multitudinary, dua besar "Naga" abad ke-20 melawan yang harus menaikkan panji ideal mereka semua Acropolis.
-> 
-> \- *Filosofi risiko. Jorge Ángel Livraga*
+> Mari kita sambut dengan optimisme aliran-aliran baru Pemikiran dan Aksi ini, karena mereka adalah anak panah yang menancap di sisi-sisi materialisme dialektis dan di sisi-sisi liberalisme massal, dua besar «Naga» abad ke-20 yang melawan yang harus dikibarkan panji Idealnya oleh setiap akropolitano.
+>
+> — *Bastión: Filsafat risiko. Jorge Ángel Livraga*
 
-> Rasisme jauh lebih berbahaya dan multifaceted daripada kelihatannya; tidak dirampas Nazi Jerman dengan kamp konsentrasi, tetapi meluas ke "Israel Commands" yang masih terlibat dalam berburu untuk orang tua yang milik Partai Sosialis Nasional.
-> 
-> Hal ini jelas bahwa kompleks inferioritas kolektif sering mesin eksklusivitas. Contoh terbaik yang diketahui adalah bahwa dari Israel kuno, yang merasa tergugah di tengah-tengah besar penemuan peradaban yang kuat yang berisi mereka, mengembangkan doktrin berbahaya menjadi "terpilih dari Allah" dan menyerang bentuk iman apapun selain mereka sendiri, lulus dari agresor untuk korban seluruh sejarah proses penganiayaan bersama. Penghinaan dan pelanggaran terhadap orang Mesir dan orang lain berlimpah dalam Perjanjian Lama dan kepala Holofernes dibuat untuk terlihat seperti bunga lucu di tangan "manis" Judith.
-> 
-> \- *Bahaya rasisme. Jorge Ángel Livraga*
+> Rasisme jauh lebih berbahaya dan multiform daripada yang terlihat; ia bukanlah milik eksklusif Jerman Nazi dengan kamp-kamp konsentrasinya, melainkan meluas pula kepada «Komando Israel» yang masih berkeliaran untuk memburu orang tua yang dahulu tergabung dalam Partai Nasional Sosialis.
+>
+> Jelas bahwa kompleks inferioritas kolektif sering menjadi pendorong eksklusivisme. Contoh paling dikenal adalah bangsa Israel kuno, yang merasa terasing di tengah pusat-pusat besar penciptaan peradaban kuat yang menampung mereka, lalu mengembangkan doktrin berbahaya menjadi «yang terpilih oleh Tuhan» dan menyerang segala bentuk iman yang bukan milik mereka sendiri, beralih dari agresor menjadi korban dari seluruh proses sejarah penganiayaan bersama. Hinaan dan pelecehan terhadap orang Mesir dan bangsa lain melimpah dalam Perjanjian Lama dan kepala Holofernes digambarkan seperti bunga lucu di tangan «manis» Judit.
+>
+> — *Bastión: Bahaya rasisme. Jorge Ángel Livraga*
 
-> Untuk selatan kota Los Angeles, pada dekade kedua abad kita, sekelompok anggota Theosophical Society menciptakan sebuah kota kecil - model di mana tidak ada kekurangan industri kecil, pusat rekreasi senam, ruang berdoa, audit, dan di mana kelompok pemuda telah dibentuk militer terorganisir.
-> 
-> \- *New Acropolis dan perekonomian. Jorge Ángel Livraga*
+> Di selatan kota Los Angeles, pada dekade kedua abad kami, sekelompok anggota Masyarakat Teosofis menciptakan sebuah kota-model kecil di mana tidak kekurangan industri kecil, pusat rekreasi senam, ruang doa, auditorium, dan di mana terbentuk kelompok-kelompok pemuda yang terorganisir secara militer.
+>
+> — *Bastión: Akropolis Baru dan ekonomi. Jorge Ángel Livraga*
 
-> Kami telah memiliki berita yang lebih terlambat tentang penganiayaan massa Nazi terhadap orang-orang Yahudi dan balas dendam terakhir sesekali terhadap yang pertama.
-> 
-> \- *Polisi Rasisme. Jorge Ángel Livraga*
+> Belakangan kami menerima kabar tentang penganiayaan massal Nazi terhadap orang Yahudi dan tentang pembalasan sesekali dari pihak terakhir terhadap pihak pertama.
+>
+> — *Bastión: Polikromi rasisme. Jorge Ángel Livraga*
 
-> Dengan kegagalan rezim politik otoriter dalam Perang Dunia Kedua, posisi mental ini diperbesar, dan kemajuan teknis ada di tengah-tengah dunia di dunia bawah penderitaan, dan setengah lainnya dalam keputusasaan karena tidak menyadari lebih banyak tujuan daripada yang telah dicapai atau dilihat untuk dicapai, tanpa mampu berasimilasi. Materialisme memerintah di mana-mana, tetapi, di luar shell, itu adalah sebuah indolent, pesimis, anarkis dan poderatif materialisme kebebasan yang menjadi membebaskan.
-> 
-> \- *Pilihan. Jorge Ángel Livraga*
+> Dengan kegagalan yang dialami rezim politik otoriter dalam Perang Dunia II, posisi mental ini menguat, dan kemajuan teknis menenggelamkan setengah dunia ke dalam alam bawah penderitaan, dan setengah lainnya ke dalam keputusasaan karena tidak mampu lagi membayangkan tujuan selain kenyamanan yang telah dicapai atau yang tampak dicapai oleh orang lain, tanpa mampu meraihinya. Materialisme berkuasa di mana-mana; tetapi, di balik cangkangnya, itu adalah materialisme yang apatis, pesimis, anarkis dan yang menimbang-nimbang kebebasan sehingga berubah menjadi kebebasan yang melampaui batas.
+>
+> — *Bastión: Pilihan. Jorge Ángel Livraga*
 
-> Ketika bus berjalan, modern, dengan AC dan mikrofon yang saya inginkan, melihat lanskap ini, saya ingat beberapa kata dari Benito Mussolini salah paham, ketika ia mengatakan bahwa petani lebih tua dan akan berlangsung lebih lama dari piramida...
-> 
-> \- *Perjalanan saya ke Mesir III - The Serapheon dan Sakkara. Jorge Ángel Livraga*
+> Saat bus berjalan, modern, dengan pendingin udara dan mikrofon yang tersedia untuk saya, sambil mengamati lanskap ini, teringat pada saya beberapa kata dari Benito Mussolini yang sering disalahpahami, ketika ia mengatakan bahwa para petani lebih tua dan akan bertahan lebih lama daripada piramida…
+>
+> — *Bastión: Perjalanan saya ke Mesir III — El Serapheon dan Sakkara. Jorge Ángel Livraga*
 
-> Tidak melupakan masa lalu, tapi tanpa menghidupkan kembali dengan posisi anachronistik. Vedanta, masonry, Nazism, Franco, dll, telah memecahkan tombak mereka terhadap Materialisme ateis. Mari kita gunakan tombak baru kita. Acropolis. Ini adalah kesempatan bahwa Takdir memberi kita... Mari kita tidak merantai nya naik impuls kehidupan.
-> 
-> \- *Tidak ada sekte agama atau politik. Jorge Ángel Livraga*
+> Jangan melupakan masa lalu, namun tanpa menghidupkannya kembali dengan sikap-sikap anarkronis. Vedanta, masonería, nazisme, franquismo, dll. telah mematahkan tombak mereka melawan materialisme ateis. Gunakanlah tombak-tombak baru kita. Para Akropolitanas. Inilah kesempatan yang ditakdirkan bagi kita... Jangan belenggu dorongan naiknya kehidupan itu.
+>
+> — *Bastión: Akropolis: Bukan sekte agama maupun politik. Jorge Ángel Livraga*

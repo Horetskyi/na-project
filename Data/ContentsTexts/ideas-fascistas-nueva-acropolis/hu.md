@@ -1,41 +1,41 @@
-# Fasiszta ötletei Új Akropolisz
+# Fasiszta eszmék az Új Akropoliszról
 
-Itt van néhány idézetek a Bastions, Mands és Almenas. Ne feledjük, hogy nem csak ezek a szövegek mutatják be Livraga ötleteit. Ráadásul ezekben az szövegekben megpróbálta "nézni" ideológiáját, hogy ne ijessze meg a tagokat.
+Itt néhány idézetet közlünk a Bastiones, Mandos y Almenas szövegeiből. Ne feledjük, hogy ezek a szövegek nem az egyedüliek, amelyekben Livraga kifejtette elképzeléseit. Sőt, ezekben a szövegekben megpróbálta „leplezni” ideológiáját, hogy ne riassza el a tagokat.
 
-> Nem sokan kezdik kritizálni az Új Akropolisz munkáját és a középső parancsait, vagy hagyják el a Mozgalmunkat, hogy átadják magukat a pszeudo-orientalista áramlatoknak, így a mocsárban, a serpenyők hangja a sarkokon, és a piszkos test és a zavart lélek tinédzserei által meggyújtott szeplős metszőfogak, akik elfedik elhagyatottságukat valami divatos Guru nevével. És néhány még mindig egyenesen az ateista kommunizmus karmaiba esik.
+> Nem kevesen kezdik el kritizálni az Új Akropolisz egész munkáját és a középszintű parancsnokait, vagy elhagyják Mozgalmunkat, hogy elbűvölve átadják magukat a divatos pszeudo-orientalista áramlatoknak, a sarkokon zendülő csörgődoboknak és a piszkos testű, zavart lelkű serdülők által meggyújtott bágyadt füstölőknek, akik valamely divatos Gurut használva leplezik el elhagyatottságukat. És még néhányan egyenesen az ateista kommunizmus karmaiba esnek.
 > 
-> \- *Bástya: A tudás veszélyei. Jorge Ángel Livraga*
+> — *Bástya: A tudás veszélyei. Jorge Ángel Livraga*
 
-> 1975-ben a Buenos Aires-i RIMM dekrétumában az Acropolitan Salute hivatalossá vált, javasolva, hogy a felkar 45 fokos kapcsolatban álljon a test felső függőlegesével. Ez már megtörtént, mivel a mozgalom alapja és eredete a Római Birodalomhoz kapcsolódó történelmi motivációknak tudható be. Az "AVE" ("Sacred", latinul) szó, amely a fizikai üdvözlést kíséri, kiemelte az utóbbit.
+> A Buenos Aires-i RIMM dekrétumaiban, 1975-ben hivatalossá tették az akropolita köszöntést, javasolva, hogy a kinyújtott kar 45 fokos szöget zárjon be a test felső függőlegesével. Ezt már a Mozgalom alapítása óta gyakorolták, és eredetét a római birodalomhoz kapcsolódó történelmi motívumokkal magyarázták. Az „AVE” („Szent”, latinul) szó, amely a fizikai köszöntést kíséri, ezt külön kihangsúlyozta.
 > 
-> \- *Bástya: Az akropolita üdvözlés rejtett részén. Jorge Ángel Livraga*
+> — *Bástya: Az akropolita köszöntés rejtett része. Jorge Ángel Livraga*
 
-> Optimizmussal üdvözöljük a gondolat és a cselekvés ezen új áramlatait, mivel ezek darts-ok, amelyeket a dialektikus materializmus és a multidináris liberalizmus peremére szegeznek, a mi huszadik századunk két nagy "Sárkánya", amely ellen az egész Akropolisz ideáljának zászlaját kell emelnünk.
+> Üdvözöljük optimizmussal ezeket az új Gondolkodási és Cselekvési Áramlatokat, hiszen ezek olyan hasítékok, amelyek a dialektikus materializmus és a tömegessé vált liberalizmus oldalaira szegeződnek, a mi XX. századunk két nagy „Sárkánya”, amelyekkel szemben minden akropolistának fel kell emelnie Ideáljának zászlaját.
 > 
-> \- *Bástya: A kockázat filozófiája. Jorge Ángel Livraga*
+> — *Bástya: A kockázat filozófiája. Jorge Ángel Livraga*
 
-> A rasszizmus sokkal veszélyesebb és sokrétűbb, mint amilyennek látszik; nem fosztják meg a náci Németországtól koncentrációs táboraival, hanem kiterjed az "izraeli parancsolatokra", akik még mindig a Nemzeti Szocialista Párthoz tartozó időseket keresik.
+> A rasszizmus sokkal veszélyesebb és sokrétűbb, mint aminek látszik; nem kizárólag a náci Németország koncentrációs táboraival jellemezhető, hanem kiterjed azokra az „izraeli kommandókra” is, amelyek még mindig azokat az idős embereket üldözik, akik a Nemzeti Szocialista Párthoz tartoztak.
 > 
-> Nyilvánvaló, hogy a kollektív kisebbség komplexuma gyakran a kizárólagosság motorja. A legismertebb példa az ősi izraeliták, akik úgy érzik, kitaszítottak a közepén a nagy központok találmány a hatalmas civilizációk, amelyek tartalmazták őket, dolgozzon ki a veszélyes doktrína, hogy "megválasztották Istentől", és támadja meg minden más hitet, mint a saját, át az agresszorok egy teljes történelmi folyamat a kölcsönös üldözés. Az egyiptomiak és más népek sértései és sértései az Ótestamentumban halmozódnak fel, és a Holofernes vágott feje úgy néz ki, mint egy vicces virág Judith "édes" kezeiben.
+> Nyilvánvaló, hogy a kollektív kisebbrendűségi komplexus sokszor az kizárólagosság motorja. A legismertebb példa a régi izraelitáké, akik elszakítottnak érezték magukat a hatalmas civilizációk nagy találmányközpontjai között, amelyek befogadták őket, és kidolgozták a veszélyes tanítást, miszerint „Isten kiválasztottjai” ők, és megtámadnak minden olyan hitet, amely nem az övék, átváltozva agresszorokból egy egész történelmi kölcsönös üldöztetés sorozatának áldozataivá. Az Ótestamentumban bőven találni sértéseket és gyalázkodásokat az egyiptomiakkal és más népekkel szemben, és Holofernes levágott feje úgy jelenik meg, mint valami kedves virág Judit „édes” kezeiben.
 > 
-> \- *Bástya: A rasszizmus veszélyei. Jorge Ángel Livraga*
+> — *Bástya: A rasszizmus veszélyei. Jorge Ángel Livraga*
 
-> Los Angeles városától délre, századunk második évtizedében, a Theosophical Society egy csoportja egy apró városmodellt hozott létre, ahol nem volt hiány kisebb iparágakból, tornász rekreációs központokból, imaszobákból, auditariumból, és ahol az ifjúsági csoportok katonai szerveződést tartottak.
+> Los Angeles városától délre, századunk második évtizedében, a Teozófiai Társaság egy csoportja egy apró, mintavárost hozott létre, ahol nem hiányoztak kisebb iparágak, tornászati rekreációs központok, imaszobák, auditórium, és ahol katonailag szervezett ifjúsági csoportok alakultak.
 > 
-> \- *Bástya: Új Akropolisz és a gazdaság. Jorge Ángel Livraga*
+> — *Bástya: Új Akropolisz és a gazdaság. Jorge Ángel Livraga*
 
-> Több késői hírünk is van a nácik zsidók elleni tömeges üldözéséről, és az utóbbiak alkalmi bosszújáról.
+> Később tudomásunkra jutottak a nácik zsidók elleni tömeges üldözéseiről és az utóbbiak részéről időnkénti megtorlásokról is.
 > 
-> \- *Bastion: Rasszizmus Rendőrség. Jorge Ángel Livraga*
+> — *Bástya: A rasszizmus színei. Jorge Ángel Livraga*
 
-> A második világháborúban az önkényuralmi politikai rendszerek kudarca miatt a szellemi helyzet egyre erősödik, és a technikai fejlődés a világ közepén van a nyomorúság alvilágában, a másik fele pedig kétségbe van esve, mert nem ért el több célt, mint amennyit már elért vagy elért, anélkül, hogy képes lenne asszimilálni ahhoz. A materializmus mindenhol uralkodik; de a burkon túl ez a szabadság túlzásainak felszabadító, indiszkrét, pesszimista, anarchista és ponderatív materializmusa.
+> A második világháborúban az autoriter politikai rendszerek kudarcával a szellemi állapot élesebbé válik, és a technikai fejlődés a világ felét a nyomor alvilágába süllyeszti, a másik felét pedig kétségbeesésbe taszítja, mivel képtelenek több célt kitűzni maguk elé, mint a már elért kényelem vagy az, amit mások elérnek, és amelyhez nem tudnak ragaszkodni. A materializmus mindenütt uralkodik; de a héjon túl ez egy közönyös, pesszimista, anarchikus és a szabadság túlzásait öncélúan értékelő materializmus.
 > 
-> \- *Bástya: A lehetőség. Jorge Ángel Livraga*
+> — *Bástya: A választás. Jorge Ángel Livraga*
 
-> Ahogy a busz fut, modern, légkondicionálóval és mikrofonnal a rendelkezésemre áll, ezeket a tájképeket nézve, emlékszem néhány szóra a félreértett Benito Mussolini-től, amikor azt mondta, hogy a parasztok idősebbek, és tovább tartanak, mint a piramisok...
+> Amíg a busz halad — modern, klímaberendezéssel és a rendelkezésemre álló mikrofonnal —, és ezeket a tájakat nézem, eszembe jut egy-két szó a félreértett Benito Mussolinitól, amikor azt mondta, hogy a parasztok idősebbek és tovább fognak élni, mint a piramisok…
 > 
-> \- *Bástya: Az út Egyiptomba III - A Serapheon és Sakkara. Jorge Ángel Livraga*
+> — *Bástya: Utam Egyiptomba III — A Serapheon és Sakkara. Jorge Ángel Livraga*
 
-> Nem felejtjük el a múltat, de anélkül, hogy anakronisztikus pozíciókkal újraélesztenénk. Vedanta, kőműves, nácizmus, Franco stb., már megtörték dárdáikat az ateista materializmus ellen. Használjuk az új lándzsáinkat. Az Akropolisz. Ez az a lehetőség, amit a Végzet ad nekünk... Ne láncoljuk össze a felemelkedő életkésztetését.
+> Nem feledve a múltat, de anélkül, hogy anakronisztikus pozíciókkal újraélesztenénk azt. Vedanta, szabadkőművesség, nácizmus, francoizmus stb. már feltörték dárdáikat az ateista materializmus ellen. Használjuk mi is új lándzsáinkat. Az akropolitákét. Ez az a lehetőség, amelyet a Végzet számunkra tartogat... Ne láncoljuk le felemelkedésének életre törő lendületét.
 > 
-> \- *Bástya: Acropolis: Nincs vallási vagy politikai szekta. Jorge Ángel Livraga*
+> — *Bástya: Akropolisz: Sem vallási, sem politikai szekta. Jorge Ángel Livraga*

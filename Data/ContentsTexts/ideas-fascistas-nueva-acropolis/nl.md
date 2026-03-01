@@ -1,41 +1,41 @@
-# Fascistische ideeën van New Acropolis
+# Fascistische ideeën van Nieuwe Akropolis
 
-Hier zijn enkele citaten uit de Bastions, Mands en Almenas. Laten we niet vergeten dat deze teksten niet de enigen zijn waar Livraga zijn ideeën presenteerde. Bovendien probeerde hij in deze teksten zijn ideologie te "kijken" om de leden niet bang te maken.
+Hier plaatsen we enkele citaten gehaald uit de Bastions, Commandanten en Kantelen. Laten we niet vergeten dat deze teksten niet de enigen zijn waarin Livraga zijn ideeën uiteenzette. Meer nog, in deze teksten probeerde hij zijn ideologie te verhullen om de leden niet af te schrikken.
 
-> Er zijn er niet weinig die al het werk van New Acropolis en zijn middelste commando's bekritiseren, of onze Beweging verlaten om zichzelf te geven aan de pseudo-oriëntalistische stromingen zo in bogue, van pannen geluid op de hoeken en van krankzinnige incissos verlicht door tieners van vuil lichaam en verwarde ziel, die hun verlaten met de naam van een modieuze Guru bedekken. En nog steeds vallen sommigen rechtstreeks in de klauwen van het atheïstische communisme.
-> 
-> \- *Bastion: De gevaren van kennis. Jorge Ángel Lidraga*
+> Er zijn er niet weinigen die beginnen het gehele werk van Nieuwe Akropolis en van haar middenkaders te bekritiseren, of onze Beweging verlaten om zich betoverd over te geven aan de pseudo‑oriëntalistische stromingen die in de mode zijn, met rinkelende tamboerijnen op de hoeken en met zwakke wierook gebrand door adolescenten met een vies lichaam en een verwarde ziel, die hun verwaarlozing bedekken met de naam van een of andere modieuze goeroe. En toch vallen enkelen rechtstreeks in de klauwen van het atheïstische communisme.
+>
+> — *Bastion: De gevaren van kennis. Jorge Ángel Livraga*
 
-> In de Decreten van de Buenos Aires RIMM, in 1975, werd de Acropolitan Salute officieel verklaard, waarin werd aanbevolen dat de bovenarm een 45 graden relatie zou hebben met de bovenste verticale van het lichaam. Dit werd al gedaan sinds de oprichting van de Beweging en de oorsprong ervan werd toegeschreven aan historische motieven verbonden aan het Romeinse Rijk. Het woord "AVE" ("Sacred," in het Latijn), dat de fysieke begroeting begeleidt, benadrukte het laatste.
-> 
-> \- *Bastion: Op het verborgen deel van de acropolitische begroeting. Jorge Ángel Lidraga*
+> In de Decreten van de RIMM van Buenos Aires, in 1975, werd de acropolistische groet officieel gemaakt, waarbij werd aanbevolen dat de opgeheven arm een hoek van 45 graden ten opzichte van de verticale van het bovenlichaam zou hebben. Dit werd al vanaf de stichting van de Beweging gedaan en haar oorsprong werd toegeschreven aan historische motivaties verbonden met het Romeinse Rijk. Het woord «AVE» («Heilig», in het Latijn) dat de fysieke groet vergezelt, beklemtoonde dit laatste.
+>
+> — *Bastion: Over het verborgen deel van de acropolistische groet. Jorge Ángel Livraga*
 
-> Wij verwelkomen met optimisme deze nieuwe stromingen van denken en handelen, want het zijn pijlen die worden genageld in de flanken van dialectisch materialisme en die van multitudinair liberalisme, de twee grote "dragons" van onze twintigste eeuw waartegen de banier van hun ideaal alle Acropolis moet stijgen.
-> 
-> \- *Bastion: De filosofie van het risico. Jorge Ángel Lidraga*
+> Laten we met optimisme deze nieuwe Stromingen van Denken en Handelen begroeten, daar het pijlen zijn die zich vastzetten in de flanken van het dialectisch materialisme en in die van het massalistisch liberalisme, de twee grote «Draken» van onze twintigste eeuw waartegen de banier van hun Ideaal elke acropolist moet doen oprijzen.
+>
+> — *Bastion: De filosofie van het risico. Jorge Ángel Livraga*
 
-> Racisme is veel gevaarlijker en veelzijdiger dan het lijkt; het wordt niet beroofd van Nazi-Duitsland met zijn concentratiekampen, maar het strekt zich uit tot de "Israëlische Commando's" die nog steeds bezig zijn met de jacht op ouderen die tot de nationaalsocialistische partij behoorden.
-> 
-> Het is duidelijk dat een complex van collectieve minderwaardigheid vaak een motor van exclusiviteit is. Het bekendste voorbeeld is dat van de oude Israëlieten, die zich ontworteld voelen in het midden van de grote centra van uitvinding van de machtige beschavingen die hen bevatten, de gevaarlijke doctrine ontwikkelen van "verkozen van God" en elke vorm van geloof anders dan hun eigen aanvallen, die van agressors overgaan naar slachtoffers van een heel historisch proces van wederzijdse vervolging. Beledigingen en overtredingen aan Egyptenaren en andere volkeren overvloedig in het Oude Testament en het gesneden hoofd van Holofernes is gemaakt om eruit te zien als een grappige bloem in Judith's "zoete" handen.
-> 
-> \- *Bastion: De gevaren van racisme. Jorge Ángel Lidraga*
+> Racisme is veel gevaarlijker en veelvormiger dan het lijkt; het is niet slechts eigen aan nazi‑Duitsland met zijn concentratiekampen, maar strekt zich uit tot de "Israelische commando's" die zich nog steeds wijden aan het jagen op ouderen die tot de Nationaalsocialistische Partij behoorden.
+>
+> Het is duidelijk dat een complex van collectieve minderwaardigheid vaak de motor is van exclusivismen. Het bekendste voorbeeld is dat van de oude Israëlieten, die zich ontworteld voelend temidden van de grote centra van uitvinding van de machtige beschavingen die hen huisden, de gevaarlijke leer uitwerkten van het 'uitverkoren zijn door God' en elke geloofsvorm aanvallen die niet de eigen is, van agressors overgaand tot slachtoffers van een heel historisch proces van wederzijdse vervolging. Beledigingen en krenkingen richting de Egyptenaren en andere volkeren zijn overvloedig in het Oude Testament en het afgesneden hoofd van Holofernes wordt getoond als een grappige bloem in de "zoete" handen van Judith.
+>
+> — *Bastion: De gevaren van racisme. Jorge Ángel Livraga*
 
-> Ten zuiden van de stad Los Angeles, in het tweede decennium van onze eeuw, creëerde een groep leden van de Theosophical Society een klein stadsmodel waar er geen tekort was aan kleine industrieën, gymnastiek recreatiecentra, gebedszalen, auditarium, en waar jongerengroepen waren gevormd militair georganiseerd.
-> 
-> \- *Bastion: New Acropolis en de economie. Jorge Ángel Lidraga*
+> Ten zuiden van de stad Los Angeles, in het tweede decennium van onze eeuw, creëerde een groep leden van de Theosophical Society een piepkleine modelstad waar kleine industrieën, gymnastiek‑recreatiecentra, gebedszalen, auditorium en waar militair georganiseerd samengestelde jeugdgroepen niet ontbraken.
+>
+> — *Bastion: Nieuwe Akropolis en de economie. Jorge Ángel Livraga*
 
-> We hebben meer laat nieuws gehad over de massale vervolging van de nazi's tegen de Joden en van de incidentele wraak op de Joden.
-> 
-> \- *Bastion: Racisme politie. Jorge Ángel Lidraga*
+> Later kregen we nieuws over de massale vervolgingen van de nazi's tegen de Joden en over de incidentele wraakacties van laatstgenoemden tegen de eersten.
+>
+> — *Bastion: Polychromieën van racisme. Jorge Ángel Livraga*
 
-> Met het falen van autoritaire politieke regimes in de Tweede Wereldoorlog wordt de mentale positie versterkt, en de technische vooruitgang bevindt zich in het midden van de wereld in de onderwereld van ellende, en de andere helft in wanhoop voor het niet realiseren van meer doelen dan die van troost die reeds bereikt of gezien worden te bereiken, zonder in staat te zijn zich daaraan te assimileren. Het materialisme heerst overal; maar buiten de schaal is het een indolent, pessimistisch, anarchisch en overdonderend materialisme van de excessen van vrijheid die bevrijdend worden.
-> 
-> \- *Bastion: De optie. Jorge Ángel Lidraga*
+> Met het falen dat autoritaire politieke regimes in de Tweede Wereldoorlog ondervinden, verscherpt de mentale houding zich, en de technische vooruitgang dompelt de helft van de wereld onder in de onderwereld van ellende, en de andere helft in wanhoop omdat men geen doelen meer kan bedenken dan die van het reeds bereikte comfort of dat wat men ziet dat anderen bereiken, zonder zich eraan te kunnen vastgrijpen. Het materialisme regeert overal; maar buiten de schil is het een onverschillig, pessimistisch, anarchisch en beoordelend materialisme van de excessen van vrijheid dat verandert in losbandigheid.
+>
+> — *Bastion: De optie. Jorge Ángel Livraga*
 
-> Terwijl de bus, modern, met airconditioning en microfoon tot mijn beschikking, kijkend naar deze landschappen, herinner ik me een paar woorden van de verkeerd begrepen Benito Mussolini, toen hij zei dat de boeren ouder waren en langer zou duren dan de piramides ...
-> 
-> \- *Bastion: Mijn reis naar Egypte III - De Serapheon en Sakkara. Jorge Ángel Lidraga*
+> Terwijl de bus rijdt, modern, met airconditioning en microfoon tot mijn beschikking, en ik deze landschappen aanschouw, komen mij de woorden in gedachten van de verkeerd begrepen Benito Mussolini, toen hij zei dat de boeren ouder waren en langer zouden duren dan de piramides…
+>
+> — *Bastion: Mijn reis naar Egypte III — De Serapheon en Sakkara. Jorge Ángel Livraga*
 
-> Niet vergeten van het verleden, maar zonder het te doen herleven met anachronistische posities. Vedanta, metselwerk, nazisme, Franco, enz., hebben hun speren al gebroken tegen atheïstische materialisme. Laten we onze nieuwe speren gebruiken. De Acropolis. Dit is de kans die de Destiny ons geeft... Laten we zijn opklimmende levensimpuls niet vastketenen.
-> 
-> \- *Bastion: Acropolis: Geen religieuze of politieke sekte. Jorge Ángel Lidraga*
+> Het verleden niet vergetend, maar het evenmin herrijsend met anachronistische houdingen. Vedanta, vrijmetselarij, nazisme, franquisme, enz. hebben hun speren reeds gebroken tegen het atheïstische materialisme. Laten we onze nieuwe speren gebruiken. De acropolisten. Dit is de kans die het Lot ons biedt... Laten we zijn opwaartse levensimpuls niet ketenen.
+>
+> — *Bastion: Akropolis: Geen religieuze of politieke sekte. Jorge Ángel Livraga*

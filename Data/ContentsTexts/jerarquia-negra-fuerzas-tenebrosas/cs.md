@@ -1,17 +1,17 @@
-# "Černá hierarchie" a temné síly
+# «Černá hierarchie» a temné síly
 
-> A věřte mi, ti, kteří přicházejí na vrchol černé hierarchie mají osobní a individuální formaci a kteří se podřizují stejným obětem, stejným dílům a stejným testům jako v bílé hierarchii. Proto jejich schopnost ovládat a proto mohou bojovat stejně tvrdě jako oni. Ale dokud jsme v manifestaci, bylo logické, že úsilí tak mimořádné a stejně nádherné jako Bílá hierarchie by vedlo k jeho protějšku, protože jakékoliv tělo zářilo na zemi, a bílá hierarchie musela zářit, protože se projevila a jeho stínem je černá hierarchie.
+> Věřte mi jedno: ti, kdo dosahují vrcholu Černé hierarchie, mají osobní a individuální výcvik a podrobují se stejným obětem, stejným pracím a stejným zkouškám jako ti, kteří jsou v Bílé hierarchii. Odtud plyne jejich schopnost panování a proto mohou bojovat tak tvrdě, jak to dělají. Ale dokud jsme v manifestaci, bylo logické, že tak mimořádné a tak nádherné úsilí jako Bílá hierarchie dalo vzniknout svému protějšku, protože každé tělo vrhá stín na zemi, a Bílá hierarchie musela vrhat stín, protože se projevila, a jejím stínem je Černá hierarchie.
 > 
-> \- *Třída instruktorů ISO (1991). Odrážky Velké bílé bratrství na lidstvo. Delia Steinbergová*
+> — *Třída instruktorů ISO (1991). Reflexe Velkého Bílého bratrstva o lidstvu. Delia Steinbergová*
 
-> Takzvaný "Jógy z Bílých hor": Jsou samotnou podstatou vnitřní aktivity a se svými nadlidskými myšlenkami vedou lidstvo ke všem formám pokroku, bojují v ultrapsychologickém stavu vědomí proti hanebným duševním formám, které kolektivně vyvolávají zášť a jsou pěstovány temnými lordy nebo černou hierarchií.
+> Takzvaní «Jógí z Bílých hor»: Jsou samotnou podstatou vnitřní činnosti a se svými nadlidskými myslemi posouvají lidstvo ke všem formám pokroku, bojují v ultrapsychologických stavech vědomí proti zhoubným duševním formám, které kolektivně rodí národy naplněné záští a které pěstují Temní páni neboli Černá hierarchie.
 > 
-> \- *Úvod do východní moudrosti (ISO). Bod 6. Jorge Ángel Livraga*
+> — *Úvod do východní moudrosti (ISO). Téma 6. Jorge Ángel Livraga*
 
-> Old Knowledge Restoration Work, ve kterém je zapojen nový ACROPOLIS a ve kterém jsou tisíce mladých lidí krvácet, má v pozadí, bez péče, i když zřejmě opak. V citlivém duchu, nemoc jeho Astral Tělo dělá ho citlivým, a uprostřed zuřivé bitvy jsme bojovali proti temným silám, to je porcelán již prořízl uvnitř i vně, který brzdí nohy těch, kteří pracují a dělá je pohybovat s velkou péčí tak, aby se vytrhnout křehké psychologické struktury postižených.
+> Dílo obnovy starodávného poznání, jemuž se věnuje Nová Akropolis a v němž tisíce mladých lidí krvácí, ji ve skutečnosti nezajímá, i když to navenek vypadá jinak. Díky citlivé povaze nemoc jeho astrálního těla z něj činí sentimentálního člověka, a uprostřed zuřivého boje, který vedeme proti Temným silám, je to porcelán již popraskaný zevnitř i zvenčí, který brzdí kroky těch, kteří pracují, a nutí je pohybovat se s největší opatrností, aby nedotkli křehké psychologické struktury postiženého.
 > 
-> \- *Bastion č. 70-1: Nebezpečí: křehkost. Jorge Ángel Livraga*
+> — *Bastión nº 70-1: Nebezpečí: křehkost. Jorge Ángel Livraga*
 
-> Akropolitan musí vědět, jak umlčet své Kamamány a očistit se od těch feminoidních prvků (v nejhorším slova smyslu), které ho přivedou do náruče podvědomé animace; ducha útěku, obracení se zády k životu a unášení temnými silami. Musíte se vyhnout tomuto druhu psychického znásilnění, aby se nenarodili, pak, ve vašem astrálním a duševním těle, elementární larvy, které budou zpívat duši.
+> Akropolista musí umět utišit svůj Kama-manas a očistit se od těch feminoidních prvků (v nejhorším smyslu toho slova), které ho vrhají do náruče podvědomé živočišnosti; od ducha úniku, od odvracení se od života a od nechání se unést Temnými silami. Musí se vyvarovat tohoto druhu psychického znásilnění, aby se pak uvnitř jeho astrálního a duševního těla nenarodily elementární larvy, které mu vysuší Duši.
 > 
-> \- *Bastion č. 61-3: Na psychologické křehkosti některých akropolitanů. Jorge Ángel Livraga*
+> — *Bastión nº 61-3: O psychologické křehkosti některých akropolistů. Jorge Ángel Livraga*

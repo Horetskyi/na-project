@@ -1,41 +1,41 @@
-# Fascistiske ideer om New Akropolis
+# Fascistiske idéer i Ny Akropolis
 
-Her er nogle citater fra Bastioner, Mands og Almenas. Lad os huske på, at disse tekster ikke er de eneste, hvor Livraga præsenterede sine idéer. Desuden forsøgte han i disse tekster at "se" sin ideologi for ikke at skræmme medlemmerne.
+Her bringer vi nogle citater fra Bastiones, Mandos og Almenas. Lad os huske, at disse tekster ikke er de eneste, hvor Livraga fremlagde sine idéer. Desuden forsøgte han netop i disse tekster at “tilsløre” sin ideologi for ikke at skræmme medlemmerne.
 
-> Der er ikke få, der begynder at kritisere alt arbejdet i New Akropolis og dens mellemste kommandoer, eller forlade vores bevægelse til at give sig til pseudo-orientalistiske strømme så i bogue, pander lyd på hjørnerne og af tankelsoer oplyst af teenagere af beskidt krop og forvirret sjæl, der dækker deres forladt med navnet på nogle fashionable Guru. Og stadig nogle falder direkte i kløerne på ateistisk kommunisme.
-> 
-> \- *Bastion: Farerne ved viden. Jorge Ángel Livraga*
+> Ikke få begynder at kritisere hele Ny Akropolis’ værk og dens mellemledere, eller forlader vores Bevægelse for betaget at hengive sig til de pseudo-orientalistiske strømninger, som er så moderne, med tamburiner der slås på gadehjørnerne og sløve røgelsespinde tændt af unge med beskidt krop og forvirret sjæl, som dækker deres forsømmelse med navnet på en eller anden mode-Guru. Og nogle falder endda direkte i kløerne på den ateistiske kommunisme.
+>
+> — *Bastion: Kendskabets farer. Jorge Ángel Livraga*
 
-> I dekreterne af Buenos Aires RIMM, i 1975, Akropolitan Salute blev officiel, anbefaler, at overarmen bør have en 45 graders forhold til den øverste lodrette af kroppen. Dette blev allerede gjort, siden grundlaget for bevægelsen og dens oprindelse blev tilskrevet historiske motiver knyttet til det romerske imperium. Ordet "AVE" ("Sacred", på latin), som ledsager den fysiske hilsen, fremhævede sidstnævnte.
-> 
-> \- *Bastion: På den skjulte del af den akropolitanske hilsen. Jorge Ángel Livraga*
+> I RIMM-dekreterne i Buenos Aires i 1975 blev den akropolitiske hilsen gjort officiel, idet man anbefalede, at den løftede arm skulle have en vinkel på 45 grader i forhold til kroppens lodrette akse. Dette blev allerede praktiseret siden Bevægelsens grundlæggelse, og dens oprindelse blev tilskrevet historiske motiver knyttet til Romerriget. Ordet «AVE» («hellig» på latin), som ledsager den fysiske hilsen, understregede dette sidste.
+>
+> — *Bastion: Om den skjulte del af den akropolitiske hilsen. Jorge Ángel Livraga*
 
-> Vi glæder os med optimisme over disse nye tanke- og handlingsstrømme, da de er pile, der bliver naglet ind i den dialektiske materialismes og den multitutinære liberalismes flanker, de to store "drager" i vores 20. århundrede, som skal hæve banneret for deres ideal hele Akropolis.
-> 
-> \- *Bastion: Den filosofi om risiko. Jorge Ángel Livraga*
+> Lad os hilse disse nye Tankestrømme og Handlingsstrømme med optimisme, da de er pile, som borer sig ind i flankerne på den dialektiske materialisme og den folkemængdeprægede liberalisme, de to store «Drager» i vores 20. århundrede, imod hvilke enhver Akropolit skal løfte sit Ideals fane.
+>
+> — *Bastion: Risikofilosofien. Jorge Ángel Livraga*
 
-> Racisme er langt farligere og mangesidet, end det ser ud til. Den fratages ikke Nazityskland med dets koncentrationslejre, men den omfatter også de "israelske kommandoer", der stadig er beskæftiget med at jage de ældre, der tilhørte det nationale socialistiske parti.
-> 
-> Det er indlysende, at et kompleks af kollektiv underlegenhed ofte er en motor af eksklusivitet. Det mest kendte eksempel er de gamle israelitter, der føler sig rodfæstet midt i de store centre for opfindelse af de magtfulde civilisationer, der indeholdt dem, udvikle den farlige doktrin om at blive "valgt fra Gud" og angribe enhver anden form for tro end deres egen, passerer fra aggressorer til ofre for en hel historisk proces med gensidig forfølgelse. Der er mange fornærmelser og overtrædelser mod egyptere og andre folk i Det Gamle Testamente, og Holofernes hoved er lavet til at ligne en sjov blomst i Judiths "søde" hænder.
-> 
-> \- *Bastion: Farerne ved racisme. Jorge Ángel Livraga*
+> Racismen er langt farligere og mere mangfoldig, end den ser ud til; den er ikke forbeholdt nazismens Tyskland med dets koncentrationslejre, men strækker sig til de «israelske kommandoer», som stadig beskæftiger sig med at jage gamle mennesker, der tilhørte Nationalsocialistisk Parti.
+>
+> Det er indlysende, at et kollektivt mindreværdskompleks ofte er drivkraften bag eksklusivisme. Det mest kendte eksempel er de gamle israelitter, som, fordi de følte sig rodløse midt i de store centre for opfindelse i de mægtige civilisationer, der rummede dem, udarbejdede den farlige lære om at være «Guds udvalgte» og angriber enhver tro, som ikke er deres egen, idet de går fra angribere til ofre i en hel historisk proces med gensidige forfølgelser. Fornærmelser og krænkelser mod egyptere og andre folk er talrige i Det Gamle Testamente, og Holofernes afhuggede hoved vises som en yndefuld blomst i Judits «søde» hænder.
+>
+> — *Bastion: Racismens farer. Jorge Ángel Livraga*
 
-> I den sydlige del af byen Los Angeles, i det andet årti af vores århundrede, skabte en gruppe medlemmer af det teosofiske samfund en lille bymodel, hvor der ikke var mangel på små industrier, gymnastiske fritidscentre, bederum, auditarium, og hvor ungdomsgrupper var blevet dannet militært organiseret.
-> 
-> \- *Bastion: New Akropolis og økonomien. Jorge Ángel Livraga*
+> Syd for byen Los Angeles, i det andet årti af vort århundrede, skabte en gruppe medlemmer af Det Teosofiske Samfund en lille model-by, hvor der ikke manglede små industrier, gymnastiske fritidscentre, bederum, et auditorium, og hvor der var dannet ungdomsgrupper organiseret efter militært mønster.
+>
+> — *Bastion: Ny Akropolis og økonomien. Jorge Ángel Livraga*
 
-> Vi har fået mere sent nyt om masseforfølgelsen af nazisterne mod jøderne og om sidstnævntes lejlighedsvise hævn over førstnævnte.
-> 
-> \- *Bastion: Racisme politi. Jorge Ángel Livraga*
+> Senere har vi fået kendskab til nazisternes masseforfølgelser af jøderne og til sidstnævntes punktvise hævnaktioner mod førstnævnte.
+>
+> — *Bastion: Racismens polykromier. Jorge Ángel Livraga*
 
-> Med de autoritære politiske regimers fiasko under Anden Verdenskrig forstærkes den mentale position, og de tekniske fremskridt er midt i verden i den underverden af elendighed, og den anden halvdel er fortvivlet over ikke at realisere flere mål end dem med komfort, der allerede er opnået eller set at opnå, uden at kunne tilpasse sig den. Materalismen hersker overalt, men ud over skallen er den en indolent, pessimistisk, anarkistisk og heftig materialisme i frihedens excesser, der bliver befriende.
-> 
-> \- *Bastion: Tilvalget. Jorge Ángel Livraga*
+> Med de autoritære politiske regimers nederlag i Anden Verdenskrig forstærkes denne mentale holdning, og de tekniske fremskridt styrter den ene halvdel af kloden ned i elendighedens underverden og den anden halvdel i fortvivlelse, fordi den ikke kan forestille sig andre mål end den komfort, som allerede er opnået, eller som man ser andre opnå, uden selv at kunne få fat på den. Materialismen hersker overalt; men bag skallen er den en doven, pessimistisk, anarkistisk materialisme, som lovpriser frihedens udskejelser, der bliver til liderlighed.
+>
+> — *Bastion: Valget. Jorge Ángel Livraga*
 
-> Da bussen kører, moderne, med aircondition og mikrofon til min rådighed, ser på disse landskaber, husker jeg et par ord fra den misforstået Benito Mussolini, da han sagde, at bønderne var ældre og ville vare længere end pyramiderne...
-> 
-> \- *Bastion: Min rejse til Egypten III - Serafeon og Sakharov. Jorge Ángel Livraga*
+> Mens bussen kører, moderne, med aircondition og mikrofon til min rådighed, og jeg betragter disse landskaber, kommer nogle ord af den misforståede Benito Mussolini mig i hu, når han sagde, at bønderne var ældre og ville holde længere end pyramiderne…
+>
+> — *Bastion: Min rejse til Egypten III — Serapeum og Saqqara. Jorge Ángel Livraga*
 
-> Ikke at glemme fortiden, men uden at genoplive den med anakronistiske holdninger. Vedanta, murværk, nazisme, Franco osv., har allerede brudt deres spyd mod ateistisk materialisme. Lad os bruge vores nye spyd. Akropolis. Det er den mulighed, Skæbnen giver os... Lad os ikke lænke hans opstigning af liv.
-> 
-> \- *Bastion: Akropolis: Ingen religiøs eller politisk sekt. Jorge Ángel Livraga*
+> Uden at glemme fortiden, men uden at genoplive den med anakronistiske holdninger. Vedanta, frimureri, nazisme, frankisme osv. har allerede brudt deres lanser mod den ateistiske materialisme. Lad os bruge vores nye lanser. De akropolitiske. Dette er den mulighed, Skæbnen giver os… Lad os ikke lænke dens opadstigende livsimpuls.
+>
+> — *Bastion: Akropolis: Hverken religiøs eller politisk sekt. Jorge Ángel Livraga*

@@ -1,41 +1,41 @@
-# Fašistické predstavy o novej Akropole
+# Fašistické myšlienky Novej Akropoly
 
-Tu sú niektoré citáty z Bastions, Mands a Almenas. Nezabúdajme, že tieto texty nie sú jediné, kde Livraga predstavil svoje myšlienky. Okrem toho sa v týchto textoch snažil "sledovať" svoju ideológiu, aby členov nevystrašil.
+Tu uvádzame niekoľko citátov vybraných z bastiónov, veliteľstiev a bašt. Pamätajme, že tieto texty nie sú jediné, v ktorých Livraga vystavoval svoje myšlienky. Navyše sa v týchto textoch snažil „zahaliť“ svoju ideológiu, aby členov nevystrašil.
 
-> Nie je málo tých, ktorí začnú kritizovať všetku prácu New Akropola a jej stredné príkazy, alebo opustiť naše Hnutie, aby sa sami seba pseudo-orientalista prúdy tak v bóge, panvy zvuk na rohoch a languid incissos lit teenagermi špinavé telo a zmätená duša, ktorí pokrývajú svoje opustené menom nejaký módny Guru. A stále niektorí padajú priamo do pazúrov ateistického komunizmu.
-> 
-> \- *Bastion: Nebezpečenstvo poznania. Jorge Ángel Livraga*
+> Nie je málo tých, ktorí začnú kritizovať celé dielo Nová Akropola a jej stredné velenia, alebo opustia naše Hnutie, aby sa oddali unesení prúdom pseudo-orientalizmu tak v kurze, s bubnujúcimi tamburínami na rohoch a mdlými kadidlami zapálenými tínedžermi so špinavým telom a zmätenou dušou, ktorí svoje opustenia prikrývajú menom nejakého módneho gurua. A ešte niektorí padajú priamo do pazúrov ateistického komunizmu.
+>
+> — *Bastión: Nebezpečenstvá poznania. Jorge Ángel Livraga*
 
-> V dekrétoch Buenos Aires RIMM, v roku 1975, bol Acropolitan Salute oficiálne, odporúča, aby horná časť ramena by mala mať 45 stupňov vzťah k hornej vertikálnej časti tela. Stalo sa to už od založenia Hnutia a jeho vzniku sa pripisuje historickým pohnútkam spojeným s Rímskou ríšou. Slovo "AVE" ("Sacred," v latinčine), ktoré sprevádza fyzické pozdrav, zdôraznil tento druhý.
-> 
-> \- *Bastion: Na skrytej časti akropolitného pozdravu. Jorge Ángel Livraga*
+> V dekrétoch RIMM v Buenos Aires, v roku 1975, bol oficiálne ustanovený Akropolitný pozdrav, odporúčajúc, aby bol zdvihnutý ramenný uhol 45 stupňov vzhľadom na zvislú os tela. Toto sa už robilo od založenia Hnutia a jeho pôvod sa pripisoval historickým motiváciám viazaným na Rímsku ríšu. Slovo „AVE“ („Svätý“, po latinsky), ktoré sprevádza fyzický pozdrav, zdôraznilo toto posledné.
+>
+> — *Bastión: O skrytej časti akropolitného pozdravu. Jorge Ángel Livraga*
 
-> S optimizmom vítame tieto nové prúdy myslenia a konania, keďže sú to šípky, ktoré sú pribité na boky dialektického materializmu a prúdy multituniárneho liberalizmu, dvoch veľkých "dragonov" z nášho dvadsiateho storočia, proti ktorým musí vyrásť banner ich ideálneho akropolisu.
-> 
-> \- *Bastion: Filozofia rizika. Jorge Ángel Livraga*
+> Pozdravme s optimizmom tieto nové prúdy myslenia a konania, pretože sú to šípy, ktoré sa zabodávajú do bokov dialektického materializmu a do bokov masového liberalizmu, dvoch veľkých „Drakov“ nášho XX. storočia, proti ktorým musí vziať zástavu svojho Ideálu každý akropolitista.
+>
+> — *Bastión: Filozofia rizika. Jorge Ángel Livraga*
 
-> Rasizmus je oveľa nebezpečnejší a mnohotvárnejší, než sa zdá; nie je zbavený nacistického Nemecka so svojimi koncentračnými tábormi, ale vzťahuje sa aj na "izraelské príkazy," ktoré sú stále zapojené do lovu starších ľudí, ktorí patrili do Národnej socialistickej strany.
-> 
-> Je zrejmé, že komplex kolektívnej menejcennosti je často motorom exkluzivity. Najznámejším príkladom je starovekí Izraeliti, ktorí sa cítia vykorenení uprostred veľkých centier vynálezu mocných civilizácií, ktoré ich obsahovali, rozvíjajú nebezpečnú náuku o tom, že sú "vyvolení od Boha" a útočia na akúkoľvek inú formu viery, než je ich vlastná, prechádzajúc z agresorov na obete celého historického procesu vzájomného prenasledovania. Urážky a priestupky Egypťanom a iným národom oplývajú v Starom zákone a rezaná hlava Holofernovcov vyzerá ako zábavný kvet v Judithiných "sladkých" rukách.
-> 
-> \- *Bastion: Nebezpečenstvo rasizmu. Jorge Ángel Livraga*
+> Rasizmus je omnoho nebezpečnejší a mnohotvárnejší, než sa zdá; nie je výsadou nacistického Nemecka s jeho koncentračnými tábormi, ale rozširuje sa aj na „izraelské komando“, ktoré sa stále venuje prenasledovaniu starých ľudí, ktorí patrili k Národnosocialistickej strane.
+>
+> Je zrejmé, že kolektívny komplex menejcennosti je často motorom exkluzivizmov. Najznámejším príkladom sú starovekí Izraeliti, ktorí cítiac sa vyradení uprostred veľkých centier tvorivosti mocných civilizácií, ktoré ich hostili, vypracovali nebezpečnú doktrínu o tom, že sú „vyvolenými Boha“ a útočia na každú formu viery, ktorá nie je ich vlastná, prechádzajúc z agresorov na obete celého historického procesu vzájomných prenasledovaní. Urážky a pohŕdania Egypťanmi a inými národmi sa hojno vyskytujú v Starom zákone a odseknutá hlava Holoferna sa javí ako milý kvietok v „sladkých“ rukách Judity.
+>
+> — *Bastión: Nebezpečenstvá rasizmu. Jorge Ángel Livraga*
 
-> Na juh od mesta Los Angeles, v druhej dekáde nášho storočia, skupina členov Theosophical Society vytvorila malý mestský model, kde nebol nedostatok malých priemyselných odvetví, gymnastických rekreačných centier, modlitební, auditu, a kde boli vytvorené mládežnícke skupiny vojensky organizované.
-> 
-> \- *Bastion: Nová Akropola a ekonomika. Jorge Ángel Livraga*
+> Na juhu mesta Los Angeles, v druhej dekáde nášho storočia, skupina členov Teosofickej spoločnosti vytvorila maličké modelové mesto, kde nechýbali malé priemyselné podniky, centrá na gymnastickú rekreáciu, modlitebné miestnosti, auditórium a kde sa vytvorili mládežnícke skupiny vojensky organizované.
+>
+> — *Bastión: Nová Akropola a ekonomika. Jorge Ángel Livraga*
 
-> Máme oveľa neskorejšie správy o masovom prenasledovaní nacistov proti Židom a o príležitostnej pomste Židov voči nim.
-> 
-> \- *Polícia rasizmu. Jorge Ángel Livraga*
+> Neskôr sme mali správy o masových prenasledovaniach nacistov proti Židom a o príležitostných pomstách týchto posledných voči prvým.
+>
+> — *Bastión: Policrómie rasizmu. Jorge Ángel Livraga*
 
-> S neúspechom autoritatívnych politických režimov v druhej svetovej vojne je mentálna pozícia zvýraznená a technický pokrok je v strede sveta v podsvetí biedy a druhá polovica zúfalstva za to, že si neuvedomila viac cieľov, než sú ciele pohodlia, ktoré sa už dosiahli alebo o ktorých sa vie dosiahnuť, bez toho, aby sa jej podarilo prispôsobiť. Hmotárstvo vládne všade, ale mimo ulity je to neúprosný, pesimistický, anarchický a udivujúci materializmus extrémov slobody, ktorý sa stáva oslobodzujúcim.
-> 
-> \- *Bastion: možnosť. Jorge Ángel Livraga*
+> S neúspechom, ktorý mali autoritatívne politické režimy v druhej svetovej vojne, sa mentálna pozícia zintenzívnila, a technický pokrok uvrhol polovicu sveta do podsvetia biedy, a druhú polovicu do zúfalstva, lebo si nevedia vymyslieť ďalšie ciele než tie dosiahnuté komfortom už získaným alebo tým, čo vidia, že iní dosahujú, bez možnosti k nemu dosiahnuť. Materializmus vládne všade; ale, nad rámec škrupiny, je to ľahostajný, pesimistický, anarchický a ponderujúci materializmus prehnaností slobody, ktorá sa mení na neviazanosť.
+>
+> — *Bastión: Voľba. Jorge Ángel Livraga*
 
-> Ako autobus beží, moderné, s klimatizáciou a mikrofónom k dispozícii, pri pohľade na tieto krajiny, Pamätám si pár slov z nepochopené Benito Mussolini, keď povedal, že roľníci boli starší a vydržal dlhšie ako pyramídy...
-> 
-> \- *Bastion: Moja cesta do Egypta III - Serafeon a Sakkara. Jorge Ángel Livraga*
+> Keď autobus beží, moderný, s klimatizáciou a mikrofónom k mojej dispozícii, a ja pozorujem tieto krajiny, prichádzajú mi na pamäť slová nepochopeného Benita Mussoliniho, keď hovoril, že roľníci boli starší a vydržali dlhšie než pyramídy…
+>
+> — *Bastión: Moja cesta do Egypta III — Serapheon a Sakkara. Jorge Ángel Livraga*
 
-> Nezabúdam na minulosť, ale bez toho, aby som ju oživil s anachronickými pozíciami. Vedanta, murár, nacizmus, Franco, atď., už rozbili svoje oštepy proti ateistickému materializmu. Použime naše nové kopije. Akropola. Toto je príležitosť, ktorú nám Destiny dáva... Nespájajme jeho vzostupný impulz života.
-> 
-> \- *Bastion: Akropola: Žiadna náboženská alebo politická sekta. Jorge Ángel Livraga*
+> Nezabúdajúc na minulosť, ale bez jej oživovania anachronickými postoju. Vedanta, slobodomurárstvo, nacizmus, frankizmus atď. už zlomili svoje kopije proti ateistickému materializmu. Použime naše nové kopije. Akropolitanky. Toto je príležitosť, ktorú nám pripravuje Osud... Nezaťažujme jeho vzostupný impulz života.
+>
+> — *Bastión: Akropola: Nie náboženská ani politická sekta. Jorge Ángel Livraga*
