@@ -1,17 +1,17 @@
-# "Juodoji Hierarchija" ir Tamsiosios jėgos
+# „Juodoji hierarchija“ ir tamsiosios jėgos
 
-> Ir patikėk manimi, tie, kurie ateina į Juodosios Hierarchijos viršūnę, turi asmeninę ir individualią struktūrą, kurie paaukoja, atlieka tuos pačius darbus ir tuos pačius bandymus kaip ir Baltosios Hierarchijos. Taigi jų gebėjimas kontroliuoti ir todėl jie gali taip sunkiai kovoti. Bet tol, kol mes esame apraiškoje, tai buvo logiška, kad pastangos kaip neeilinis ir toks nuostabus, kaip Baltoji Hierarchija būtų sukelti savo analogą, nes bet koks kūnas švietė ant žemės, ir Baltoji Hierarchija turėjo šviesti, nes jis pasireiškia ir jos šešėlis yra Juodoji Hierarchija.
-> 
-> \- *ISO Instruktorių klasė (1991). Didžiosios Baltosios brolijos atspindžiai apie žmoniją. Delia Steinberg*
+> Ir patikėkite man vieną dalyką: tie, kurie pasiekia Juodosios Hierarchijos viršūnę, turi asmeninį ir individualų parengimą ir paklūsta toms pačioms aukoms, toms patiems darbams ir tomiems patiems išbandymams kaip ir tie, kurie yra Baltosios Hierarchijos. Iš čia jų gebėjimas valdyti ir todėl jie sugeba taip smarkiai kovoti, kaip tai daro. Bet kol mes esame manifes­tacijoje, buvo logiška, kad toks nepaprastas ir toks nuostabus pastangumas kaip Baltosios Hierarchijos atsirastų su savo atitikmeniu, nes bet koks kūnas meta šešėlį ant žemės, ir Baltosios Hierarchijos turėjo mesti šešėlį, nes ji pasireiškė, o jos šešėlis yra Juodoji Hierarchija.
+>
+> — *Clase de Instructores de ISO (1991). Reflejos de la Gran Fraternidad Blanca sobre la humanidad. Delia Steinberg*
 
-> Vadinamasis "Baltųjų kalnų Jogis": Jie yra pati vidinė veiklos esmė ir su savo viršžmogiškaisiais protais jie stumia žmoniją į visokią progreso formą, kovodami ultra-psichologinėse sąmonės būsenose prieš neflying protines formas, kurios kolektyviai įkūnija paniekas ir yra kultivuojamos Tamsiųjų Lordų arba Juodosios Hierarchijos.
+> Vadinamieji „Baltųjų kalnų jogai“: jie yra pati Vidinės veiklos esmė ir savo viršžmogiškomis mintimis stumia Žmoniją visų rūšių pažangos link, kovodami ultra-psichologinėse sąmonės būsenose prieš žalingas protines formas, kurias kolektyviai gimdo įsižeidžiusios tautos ir kurias puoselėja Tamsieji Viešpatys arba Juodoji Hierarchija.
 > 
-> \- *Įvadas į Rytų išmintį (ISO). 6 punktas. Jorge Ángel Livaga*
+> — *Introducción a la sabiduría de oriente (ISO). Tema 6. Jorge Ángel Livraga*
 
-> Senasis žinių atkūrimo kūrinys, kuriame atsidavęs NAUJAS AKROPOLIS ir kuriame nukraujuoja tūkstančiai jaunų žmonių, turi jį neatsargiai, nors akivaizdžiai priešingai. Jautrioje dvasioje, jo Astral Body liga daro jį jautrų, ir įniršio mūšio viduryje mes kovojome prieš Tamsiąsias Jėgas, tai porcelianas jau nusmuko viduje ir už jos ribų, kuris trukdo tiems, kurie dirba ir daro juos judėti labai atsargiai, kad neplyštų trapi psichologinė struktūra nukentėjusių.
+> Senovinių žinių atkūrimo Darbą, kuriam pasišovęs Naujasis Akropolis ir kuriame nusisunkia tūkstančiai jaunų žmonių, jis iš esmės laiko be rūpesčių, nors išoriškai gali atrodyti kitaip. Jautrios dvasios, jo Astralinio Kūno liga paverčia jį sentimentalumu, ir viduryje žiaurios kovos, kurią vykdome prieš Tamsiąsias jėgas, jis yra porcelianas, jau įtrūkęs iš vidaus ir iš išorės, kas trukdo dirbančiųjų žingsnius ir verčia juos judėti itin atsargiai, kad nepalietų nukentėjusio trapių psichologinių struktūrų.
 > 
-> \- *Baseinas Nr. 70-1: Pavojingumas: trapumas. Jorge Ángel Livaga*
+> — *Bastión nº 70-1: Peligro: la fragilidad. Jorge Ángel Livraga*
 
-> Acropodion turi žinoti, kaip nutildyti savo kam- manas ir nusivalyti save nuo tų feminoidinių elementų (blogiausia žodžio prasme), kurie skatina jį į pasąmonės animalumo ginklų; iš pabėgimo dvasia, sukant nugarą į gyvenimą ir yra pagrobtas Tamsiųjų pajėgų. Jūs turite išvengti tokio psichinio išprievartavimo, kad jie nebūtų gimę, tada, jūsų astraliniame ir protiniame kūne, elementarinės lervos, kurios užgrius sielą.
+> Akropolietas turi mokėti nutildyti savo Kama-manas ir apsivalyti nuo tų feminoidinių elementų (blogiausia žodžio prasme), kurie jį nustumia į pasąmoninės gyvuliškumo glėbį; nuo pabėgimo dvasios, nuo gyvenimui nugarą atsukimo ir pasidavimo pagrobtiems Tamsiųjų jėgų. Jis turi vengti tokios psichinės išprievartavimo formos, kad vėliau jo astraliniame ir protiniame kūne negimtų elementarinės lervos, kurios išdžius jo Sielą.
 > 
-> \- *61-3: Dėl kai kurių akropolitų psichologinio trapumo. Jorge Ángel Livaga*
+> — *Bastión nº 61-3: Dėl kai kurių akropolietų psichologinio trapumo. Jorge Ángel Livraga*

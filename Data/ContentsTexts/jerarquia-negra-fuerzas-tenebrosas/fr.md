@@ -1,17 +1,17 @@
-# La Hiérarchie Noire et les forces obscures
+# La «Hiérarchie Noire» et les forces ténébreuses
 
-> Et croyez-moi, ceux qui viennent au sommet de la Hiérarchie Noire ont une formation personnelle et individuelle et se soumettent aux mêmes sacrifices, aux mêmes œuvres et aux mêmes épreuves que ceux de la Hiérarchie Blanche. D'où leur capacité à contrôler et donc ils peuvent se battre aussi fort qu'eux. Mais tant que nous sommes dans la manifestation, il était logique qu'un effort aussi extraordinaire et aussi merveilleux que la Hiérarchie Blanche donne naissance à son homologue parce que tout corps brillait sur le sol, et la Hiérarchie Blanche devait brillamment parce qu'elle se manifestait et son ombre est la Hiérarchie Noire.
-> 
-> \- Oui. *Classe des instructeurs ISO (1991). Réflexions de la Grande Fraternité Blanche sur l'humanité. Delia Steinberg*
+> Et croyez-moi une chose : ceux qui atteignent la cime de la Hiérarchie Noire ont une formation personnelle et individuelle et se soumettent aux mêmes sacrifices, aux mêmes travaux et aux mêmes épreuves que ceux qui se trouvent dans la Hiérarchie Blanche. D'où leur capacité de domination et d'où le fait qu'ils peuvent combattre aussi durement qu'ils le font. Mais tant que nous sommes dans la manifestation, il était logique qu'un effort aussi extraordinaire et aussi merveilleux que la Hiérarchie Blanche donne naissance à son pendant, car tout corps projette une ombre sur le sol, et la Hiérarchie Blanche dut projeter une ombre parce qu'elle se manifesta, et son ombre est la Hiérarchie Noire.
+>
+> — *Clase de Instructores de ISO (1991). Reflejos de la Gran Fraternidad Blanca sobre la humanidad. Delia Steinberg*
 
-> Les soi-disant "Yogis des Montagnes Blanches" : Ils sont l'essence même de l'activité intérieure et avec leurs esprits surhumains ils conduisent l'humanité vers toute forme de progrès, se battant dans des états de conscience ultrapsychologiques contre les formes mentales nébuleuses qui engendrent collectivement les rancunes et sont cultivées par les Seigneurs Noirs ou Hiérarchie Noire.
-> 
-> \- Oui. *Introduction à la sagesse orientale (ISO). Point 6 : Jorge Ángel Livraga*
+> Les dits «Yogis des Montagnes Blanches» : ils sont l'essence même de l'Activité Intérieure et, avec leurs esprits surhumains, ils poussent l'Humanité vers toute forme de progrès, combattant dans des états de conscience ultra-psychologiques contre les néfastes formes mentales que collectivement engendrent les peuples rancuniers et qui sont cultivées par les Seigneurs Ténébreux ou la Hiérarchie Noire.
+>
+> — *Introduction à la sagesse de l'Orient (ISO). Thème 6. Jorge Ángel Livraga*
 
-> Le travail de restauration de l'ancienne connaissance dans lequel NEW ACROPOLIS est engagé et dans lequel des milliers de jeunes sont saignés, l'a, en arrière-plan, sans soins, bien que apparemment le contraire. Dans un esprit sensible, la maladie de son Corps Astral le rend sensible, et au milieu de la bataille féroce que nous avons combattue contre les forces obscures, c'est de la porcelaine déjà brisée à l'intérieur et à l'extérieur, qui entrave les pieds de ceux qui travaillent et les fait bouger avec beaucoup de soin afin de ne pas arracher la fragile structure psychologique des affectés.
-> 
-> \- Oui. *Bastion no 70-1: Danger: fragilité. Jorge Ángel Livraga*
+> L'Oeuvre de Restauration de l'Ancienne Connaissance dans laquelle s'est engagée NOUVELLE ACROPOLE et dans laquelle des milliers de jeunes se saignent, l'a, au fond, indifférente, bien qu'elle en donne apparemment le contraire. D'esprit sensible, la maladie de son Corps Astral la rend sentimenteuse, et au milieu de la féroce bataille que nous livrons contre les Forces ténébreuses, elle est de la porcelaine déjà fêlée à l'intérieur et à l'extérieur, qui entrave les pas de ceux qui travaillent et les oblige à se mouvoir avec le plus grand soin pour ne pas effleurer la fragile structure psychologique de l'affecté.
+>
+> — *Bastión nº 70-1: Peligro: la fragilidad. Jorge Ángel Livraga*
 
-> L'Acropolitan doit savoir faire taire son Kama-manas et se laver des éléments féminoïdes (dans le pire sens du mot) qui le précipitent dans les bras de l'animalité subconsciente; de l'esprit d'évasion, de tourner le dos à la vie et d'être enlevé par les forces obscures. Vous devez éviter ce genre de viol psychique pour qu'ils ne naissent pas, alors, au sein de votre corps astral et mental, les larves élémentaires qui résonneront l'âme.
-> 
-> \- Oui. *Bastion no 61-3: Sur la fragilité psychologique de certains acropolitains. Jorge Ángel Livraga*
+> L'Acropolitain doit savoir faire taire son Kama-manas et s'épurer de ces éléments féminoïdes (au pire sens du terme) qui le précipitent dans les bras de l'animalité subconsciente ; de l'esprit de fuite, du fait de tourner le dos à la vie et du laisser-se ravir par les Forces ténébreuses. Il doit éviter ce genre de viol psychique afin que n'apparaissent pas ensuite, à l'intérieur de son corps astral et mental, les larves élémentales qui dessécheront son Âme.
+>
+> — *Bastión nº 61-3: Sobre la fragilidad psicológica de algunos acropolitanos. Jorge Ángel Livraga*

@@ -1,17 +1,17 @@
-# "Black Hierarchy" ve Karanlık Güçler
+# «Kara Hiyerarşi» ve karanlık güçler
 
-> Ve inan bana, Black Hierarchy'ın üstlerine gelenler kişisel ve bireysel bir forma sahipler ve aynı fedakârlara, aynı işe ve Beyaz Hierarchy'dakiler gibi aynı testler için. Bu nedenle onların kontrol etme ve böylece yaptıkları kadar zor savaşabilirler. Ama tezahürte olduğumuz sürece, Beyaz Hierarchy'nin kendi başına yükseleceği kadar olağanüstü ve harika bir çaba olduğu mantıklıydı, çünkü herhangi bir vücut zeminde bir tane parladı ve White Hierarchy siyah Hierarchy.
-> 
-> \- *ISO Eğitmenleri Sınıf (1999). İnsanlığın Büyük Beyaz Babasını Yanıyor. Delia Steinberg*
+> Buna inanın: Kara Hiyerarşi'nin zirvesine ulaşanlar kişisel ve bireysel bir eğitime sahiptirler ve Beyaz Hiyerarşi'dekilerle aynı fedakârlıklara, aynı çalışmalara ve aynı sınavlara tabi olurlar. Bundan dolayı hakimiyet kurma yetenekleri ve bu yüzden oldukları kadar sert savaşabilmeleri anlaşılır. Ancak biz tezahür halinde olduğumuz sürece, Beyaz Hiyerarşi gibi olağanüstü ve harika bir çabanın doğal olarak bir karşıtını doğurması mantıklıdır; çünkü her beden yerde bir gölge yapar ve Beyaz Hiyerarşi tezahür ettiği için gölge yapmak zorunda kaldı ve onun gölgesi Kara Hiyerarşi'dir.
+>
+> — *ISO Eğitmenleri Sınıfı (1991). İnsanlık Üzerine Büyük Beyaz Kardeşliğin Yansımaları. Delia Steinberg*
 
-> "Beyaz DağlarınYogis" adı: İç Aktivitenin çok özü ve onların süper insan zihinleri, insanlığın tüm ilerleme biçimlerine, ultra-psikolojik bilinç durumlarına karşı mücadele ettikleri, kolektif olarak grudges veya Black Hierarchy tarafından yetiştirilmektedir.
-> 
-> \- *Doğu bilgeliğine Giriş (ISO). 1. Sezon 6. Bölüm Jorge Ángel Livraga*
+> Sözde «Beyaz Dağların Yogileri»: İçsel Aktivitenin ta kendisidirler ve insanüstü zihinleriyle İnsanlığı her türlü ilerlemeye sürüklerler; ultra-psikolojik bilinç hallerinde, kolektif olarak kin besleyen halkların doğurduğu uğursuz zihinsel biçimlere karşı ve Karanlık Efendiler ya da Kara Hiyerarşi tarafından yetiştirilen bu biçimlere karşı savaşırlar.
+>
+> — *Doğu bilgeliğine Giriş (ISO). Tema 6. Jorge Ángel Livraga*
 
-> NEW ACROPOLIS'in işlediği Eski Bilgi Restorasyonu Çalışması ve binlerce genç insanın birbirine bağlı olmasına rağmen, arka planda, bakımsız, ancak görünüşe göre tam tersi. Hassas bir ruhta, Astral Vücut hastalığı onu hassas yapar ve Karanlık Güçlere karşı savaştığımız şiddetli savaşın ortasında, zaten içeride ve dışarıda kalmış, bu da onları büyük bakımla hareket ettirir ve etkilenenlerin kırılgan psikolojik yapısını yağmaz.
-> 
-> \- *70-1: Tehlike: kırılganlık. Jorge Ángel Livraga*
+> Yeni Akropolis'in kendini adadığı Eski Bilginin Restorasyonu Eseri ve binlerce gencin burada kanını akıttığı iş, gerçekte umursanmamaktadır, her ne kadar aksi görünse de. Hassas ruhlu olanların Astral Bedenlerindeki hastalık onları duygusallaştırır ve Karanlık Güçlere karşı verdiğimiz amansız savaşın ortasında, içeriden ve dışarıdan çatlamış bir porselen gibidir; çalışanların ayaklarını töker ve etkilenenin kırılgan psikolojik yapısına değmemek için son derece dikkatli hareket etmelerine yol açar.
+>
+> — *Bastión nº 70-1: Tehlike: kırılganlık. Jorge Ángel Livraga*
 
-> Akropolitan, Kama-insanlarını nasıl susturacağını ve kendisini bu feminoid elementlerden temizleyeceğini bilmelidir (sözdeki en kötü anlamda) onu hayvan bilinçaltının kollarına sokmak; kaçış ruhunun, karanlık güçler tarafından kaçırılması. Bu tür psişik tecavüzden kaçınmalısınız, böylece doğmazlar, o zaman astral ve zihinsel bedeninizde, Ruhu yeniden açacak olan element Larale.
-> 
-> \- *Bastion No. 61-3: Bazı akropolitanların psikolojik kırılganlığı. Jorge Ángel Livraga*
+> Akropolist, Kama-manasını susturmayı ve onu bilinçaltının hayvansallığının kollarına iten o feminoid unsurlardan (kelimenin en kötü anlamıyla) arınmayı bilmelidir; kaçış ruhundan, hayata sırtını dönmekten ve Karanlık Güçler tarafından kaçırılmaya izin vermekten kaçınmalıdır. Bu tür bir psişik tecavüzden kaçınmalıdır ki daha sonra astral ve zihinsel bedeninde Ruhu kurutacak elemental larvalar doğmasın.
+>
+> — *Bastión nº 61-3: Bazı akropolistlerin psikolojik kırılganlığı üzerine. Jorge Ángel Livraga*

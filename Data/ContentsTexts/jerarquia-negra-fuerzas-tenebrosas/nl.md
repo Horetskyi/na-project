@@ -1,17 +1,17 @@
-# De Zwarte Hiërarchie en de Duistere Krachten
+# De «Zwarte Hiërarchie» en de duistere krachten
 
-> En geloof me, degenen die naar de top van de Zwarte Hiërarchie komen hebben een persoonlijke en individuele formatie en die zich onderwerpen aan dezelfde offers, aan dezelfde werken en aan dezelfde testen als die in de Witte Hiërarchie. Vandaar hun vermogen om te controleren en dus kunnen ze net zo hard vechten als zij. Maar zolang we in de manifestatie zijn, was het logisch dat een inspanning zo buitengewoon en zo wonderbaarlijk als de Witte Hiërarchie zijn tegenhanger zou geven omdat elk lichaam op de grond scheen, en de Witte Hiërarchie moest schijnen omdat het zich manifesteerde en zijn schaduw de Zwarte Hiërarchie is.
-> 
-> \- *ISO Instructeursklasse (1991). Reflecties van de Grote Witte Broederschap over de mensheid. Delia Steinberg*
+> Y geloof me één ding: degenen die de top van de Zwarte Hiërarchie bereiken, hebben een persoonlijke en individuele opleiding en onderwerpen zich aan dezelfde offers, hetzelfde werk en dezelfde beproevingen als degenen die in de Witte Hiërarchie staan. Vandaar hun vermogen tot overheersing en vandaar dat zij even fel kunnen vechten als zij. Maar zolang wij in de manifestatie zijn, was het logisch dat een inspanning zo buitengewoon en zo wonderbaarlijk als die van de Witte Hiërarchie zijn tegenhanger zou voortbrengen, want ieder lichaam werpt een schaduw op de grond, en de Witte Hiërarchie moest een schaduw werpen omdat zij zich manifesteerde en haar schaduw is de Zwarte Hiërarchie.
+>
+> — *Les van instructeurs van ISO (1991). Reflecties van de Grote Witte Broederschap over de mensheid. Delia Steinberg*
 
-> De zogenaamde "Yogis van de Witte Bergen": Ze zijn de essentie van Innerlijke Activiteit en met hun bovenmenselijke geesten drijven ze de Mensheid naar alle vormen van vooruitgang, vechtend in ultrapsychologische bewustzijnstoestanden tegen de verdorven mentale vormen die collectief de wrok opwekken en worden gecultiveerd door de Duistere Heren of Zwarte Hiërarchie.
-> 
-> \- *Inleiding tot Oosterse wijsheid (ISO). Punt 6. Jorge Ángel Livraga*
+> De zogenaamde «Yogis van de Witte Bergen»: zij zijn de essentie van de Innerlijke Activiteit en met hun bovenmenselijke geesten drijven zij de Mensheid naar alle vormen van vooruitgang, strijdend in ultrapsychologische bewustzijnstoestanden tegen de verderfelijke mentale vormen die collectief worden voortgebracht door rancuneuze volken en die worden gekweekt door de Donkere Heren of de Zwarte Hiërarchie.
+>
+> — *Inleiding tot de wijsheid van het Oosten (ISO). Thema 6. Jorge Ángel Livraga*
 
-> Het Oude Knowledge Restoration Werk waarin NIEUWE ACROPOLIS wordt toegewijd en waarin duizenden jongeren bloeden, heeft het, op de achtergrond, zonder zorg, hoewel blijkbaar het tegenovergestelde. In een gevoelige geest, de ziekte van zijn astrale lichaam maakt hem gevoelig, en in het midden van de felle strijd die we vochten tegen de Duistere Krachten, is het porselein al gesneden binnen en buiten, die de voeten van degenen die werken belemmert en maakt ze bewegen met grote zorg, zodat niet te plukken van de kwetsbare psychologische structuur van de getroffen.
-> 
-> \- *Bastion No. 70-1: Gevaar: kwetsbaarheid. Jorge Ángel Lidraga*
+> Het Werk van Restauratie van de Oude Kennis waaraan Nieuwe Akropolis zich wijdt en waaraan duizenden jongeren zich uitputten, laat het in wezen koud, hoewel het het tegendeel lijkt. Van gevoelig gemoed maakt de ziekte van zijn astrale lichaam hem sentimenteel, en temidden van de felle strijd die wij voeren tegen de Duistere Krachten is hij al porselein dat van binnen en van buiten gescheurd is, wat de voeten van degenen die werken belemmert en hen dwingt uiterst voorzichtig te bewegen om de kwetsbare psychologische structuur van de getroffene niet te raken.
+>
+> — *Bastion nr. 70-1: Gevaar: de kwetsbaarheid. Jorge Ángel Livraga*
 
-> De Acropolitan moet weten hoe hij zijn Kama-mana's het zwijgen moet opleggen en zich moet reinigen van die feminoïde elementen (in de slechtste zin van het woord) die hem in de armen van onderbewuste dierenheid storten; van de geest van ontsnapping, van het afkeren van zijn leven en van het ontvoeren door de Duistere Krachten. Je moet dat soort psychische verkrachting vermijden zodat ze niet geboren worden, dan, in je astrale en mentale lichaam, de elementaire larven die de Ziel weerklinken.
-> 
-> \- *Bastion No. 61-3: Over de psychologische kwetsbaarheid van sommige acropolitanen. Jorge Ángel Lidraga*
+> De Acropolist moet leren zijn Kama-manas het zwijgen op te leggen en zich reinigen van die feminoïde elementen (in de slechtste zin van het woord) die hem in de armen van de onderbewuste dierlijkheid storten; van de geest van vlucht, van het zich afkeren van het leven en het zich laten meeslepen door de Duistere Krachten. Hij moet dat soort psychische verkrachting vermijden, zodat er later niet, binnen zijn astrale en mentale lichaam, elementale larven ontstaan die zijn ziel zullen uitdrogen.
+>
+> — *Bastion nr. 61-3: Over de psychologische kwetsbaarheid van sommige acropolisten. Jorge Ángel Livraga*

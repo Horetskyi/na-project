@@ -1,17 +1,17 @@
-# The "Black Hierarchy" dan Dark Force
+# «Hierarki Hitam» dan kekuatan-kekuatan gelap
 
-> Dan percayalah, mereka yang datang ke puncak dari Hierarki Hitam memiliki formasi pribadi dan individu dan yang tunduk pada pengorbanan yang sama, untuk pekerjaan yang sama dan tes yang sama seperti yang di Hierarki Putih. Oleh karena itu kemampuan mereka untuk mengontrol dan karena itu mereka dapat berjuang sekeras yang mereka lakukan. Tapi selama kita berada dalam manifestasi, logis bahwa upaya sebagai luar biasa dan sebagai indah sebagai Hierarki Putih akan menimbulkan naik ke pasangannya karena setiap tubuh bersinar di tanah, dan Hierarki Putih harus bersinar karena itu terwujud dan bayangannya adalah Hierarki Hitam.
-> 
-> \- *ISO Instruktur Kelas (1991). Refleksi dari Great White Persaudaraan tentang kemanusiaan. Delia Steinberg*
+> Dan percayalah satu hal: bahwa mereka yang mencapai puncak Hierarki Hitam memiliki pembinaan pribadi dan individual, dan mereka menundukkan diri pada pengorbanan yang sama, pekerjaan yang sama, dan ujian yang sama dengan mereka yang berada dalam Hierarki Putih. Dari sanalah kemampuan mereka untuk menguasai, dan dari sanalah pula bahwa mereka dapat bertarung sekeras yang mereka lakukan. Tetapi selama kita berada dalam manifestasi, adalah logis bahwa suatu usaha yang begitu luar biasa dan begitu menakjubkan seperti Hierarki Putih menimbulkan tandingannya, karena setiap tubuh menimbulkan bayangan di tanah, dan Hierarki Putih harus menimbulkan bayangan karena ia termanifestasi, dan bayangannya adalah Hierarki Hitam.
+>
+> — *Kelas Instruktur ISO (1991). Refleks-refleks dari Persaudaraan Putih Besar atas kemanusiaan. Delia Steinberg*
 
-> Jadi disebut "Yogis dari Pegunungan Putih": Mereka adalah esensi dari Inner Activity dan dengan pikiran super mereka, mereka mendorong kemanusiaan menuju segala bentuk kemajuan, berjuang dalam kondisi ultrapsikologis kesadaran terhadap bentuk-bentuk jahat yang secara kolektif menimbulkan dendam dan dibudidayakan oleh Lords Gelap atau Hierarki Hitam.
-> 
-> \- *Pengantar ke kebijaksanaan Timur (ISO). Jorge Ángel Livraga*
+> Yang disebut «Yogi dari Pegunungan Putih»: Mereka adalah hakikat sejati dari Aktivitas Batin dan dengan pikiran mereka yang melampaui kemanusiaan mendorong Umat Manusia menuju segala bentuk kemajuan, berjuang dalam keadaan kesadaran ultra-psikologis melawan bentuk-bentuk mental yang merusak, yang secara kolektif dilahirkan oleh bangsa-bangsa pendendam dan yang dibudidayakan oleh Para Tuan Kegelapan atau Hierarki Hitam.
+>
+> — *Pendahuluan pada kebijaksanaan timur (ISO). Tema 6. Jorge Ángel Livraga*
 
-> Pembenaran Pengetahuan Lama yang bekerja di mana ACROPOLIS baru berkomitmen dan di mana ribuan orang muda berdarah, memiliki itu, di latar belakang, tanpa peduli, meskipun tampaknya sebaliknya. Dalam jiwa yang sensitif, penyakit Tubuh Astratnya membuatnya sensitif, dan di tengah-tengah pertempuran sengit kita melawan Dark Force, itu porselen sudah dipotong di dalam dan luar, yang menghambat kaki mereka yang bekerja dan membuat mereka bergerak dengan hati-hati sehingga tidak mencabut struktur psikologis rapuh yang terpengaruh.
-> 
-> \- *\- Bahaya: kerapuhan. Jorge Ángel Livraga*
+> Karya Pemulihan Pengetahuan Kuno yang sedang diupayakan oleh Akropolis Baru dan di mana ribuan kaum muda mencurahkan darah mereka, pada dasarnya tidak diindahkannya, meskipun tampak sebaliknya. Berjiwa peka, penyakit Tubuh Astralnya menjadikannya sentimentil, dan di tengah pertarungan sengit yang kita jalankan melawan Kekuatan-Kekuatan Gelap, ia adalah porselen yang sudah retak dari dalam dan luar, yang menghalangi langkah mereka yang bekerja dan membuat mereka bergerak dengan sangat hati-hati agar tidak menyentuh struktur psikologis rapuh dari yang bersangkutan.
+>
+> — *Bastión nº 70-1: Bahaya: kerapuhan. Jorge Ángel Livraga*
 
-> Para Acropolitan harus tahu bagaimana membungkam Kama- nya manas dan membersihkan dirinya dari elemen-elemen feminoid (dalam rasa terburuk kata) yang mendorong dia ke dalam pelukan kejantanan bawah sadar; semangat melarikan diri, mengubah kembali pada kehidupan dan diculik oleh Dark Forces. Anda harus menghindari jenis pemerkosaan psikis sehingga mereka tidak dilahirkan, kemudian, dalam astral dan mental tubuh, larva elemental yang akan bergema Roh.
-> 
-> \- *Pada kerapuhan psikologis dari beberapa akropolitan. Jorge Ángel Livraga*
+> Seorang akropolis harus tahu bagaimana membungkam kama-manas-nya dan membersihkan diri dari unsur-unsur feminoid (dalam arti terburuk kata itu) yang menjatuhkannya ke dalam pelukan kehewanan bawah-sadar; dari semangat pelarian, dari membelakangi kehidupan dan membiarkan diri diculik oleh Kekuatan-Kekuatan Gelap. Ia harus menghindari semacam pemerkosaan psikis ini agar tidak kemudian lahir, di dalam tubuh astral dan mentalnya, larva-larva elemental yang akan mengeringkan Jiwa.
+>
+> — *Bastión nº 61-3: Tentang kerapuhan psikologis beberapa akropolis. Jorge Ángel Livraga*
