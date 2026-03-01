@@ -1,111 +1,113 @@
 (sivu 51)
 
-Joten Uusi Akropolis pystyi löytämään itsensä uudelleen sen valvonnassa antiikin yhdistys, Pariisin kansainvälinen koulu perustettiin vuonna 1883 ja keskeytettiin purkamisen jälkeen. Tämä yhdistys oli eräänlainen arvovalta lopussa 18th century mukana kuuluisia tutkijoita, mutta maailmansodan aikana II, äärimmäisiä muutoksia oli tapahtumassa. Uuden Akropoliksen palauttamana se on nyt seksihaara, joka tarjoaa ulkomaisille opiskelijoille mahdollisuuden tulla.
+Näin Uusi Akropolis on voinut herättää uudelleen oman valvontansa alaisuuteen vanhan yhdistyksen, Pariisin antropologian koulun, joka perustettiin vuonna 1883 ja oli ollut lepotilassa vapautumisen jälkeen. Kyseessä on yhdistys, joka 1800-luvun lopulla nautti tiettyä arvovaltaa värväämällä tunnettuja tiedemiehiä, ennen kuin se koki ääriliikkeellisen poikkeaman toisen maailmansodan aikana. Uuden Akropoliksen haltuunottojen jälkeen se on nykyään lahkoon kuuluva „tytäryhteisö”, jonka kautta tarjotaan kursseja ulkomaisille opiskelijoille.
 
 ---
 
 (sivu 65)
 
-Uusi Akropolis edellyttää, että sen seuraajat tietty määrä tunteja vapaaehtoistyötä hänen koulunsa palkata, palvelu ja sihteeri työtä.
+Uusi Akropolis vaatii seuraajiltaan määrätyn tuntimäärän vapaaehtoistyötä sen „koulussa”, joka on omistettu vastaanotto-, ylläpito- ja sihteeritehtäville.
 
 ---
 
-(152- 153 sivua)
+(sivut 152–153)
 
-Uudella Akropoliksella oli oppilaitos Hermware Consultesin ansiosta. Hän johti seksiseuran johtajaa. Rekisteröity SRC IldeFrancelle, tälle yhtiölle, joka on nyt jätetty kaupparekisterin ulkopuolelle muun muassa opettamalla FNSEA:n työntekijöitä.
+Uudella Akropoliksella on ollut koulutusorganisaatio Hermès consultants -yhtiön kautta, jota johti rouva Isabelle Ludwig, lahkoa kantavan yhdistyksen puheenjohtaja. Rekisteröitynä Île-de-Francen SRC:hen, tämä yhtiö, joka on nykyisin poistettu kaupparekisteristä, on muun muassa kouluttanut FNSEA:n palkansaajia.
 
 ---
 
 (sivu 182)
 
-Heidän joukossaan K.A., joka asettui Bellow'n linnaan Utahiin ja Uscillen kartanoon Indieen; perheomaisuuden perinne, joka on Eryth-Loiren joukkojen muodostaman "Future Culture" -kulttuurin yhdistyksen kautta; New Anropolis, Kur Petrolin, saman osaston entisen luostarin, omistaja;
+Mainitakoon Krishna, joka asettui Bellevue’n linnassa Jurassa ja Oublaissen kartanossa Indressä; Tradition famille propriété, joka yhdistyksen Avenir de la culture kautta omistaa Jaglu’n linnan Eure-et-Loirissa; Uusi Akropolis, joka omistaa Cour Pétralin, entisen luostarin samassa departementissa; …
 
 ---
 
-(1992-200 sivua)
+(sivut 199–200)
 
-New Acropoll France Association, Kridell; Piilossa varastaminen; varastaminen varkaudesta; rikoksen epäonnistuminen tietyissä olosuhteissa - TG Colmard, 27 / 03 / 98...
+UUSI AKROPOLIS — Association Nouvelle Acropole France — Varkaus ; Varkaudesta vastaanottaminen ; Avunanto varkauteen ; Uhkaus rikokseen ehdollisessa tilanteessa — Colmarin TGI, 27/03/98 … — Colmarin CA, 18/12/98 …
 
 ---
 
-(sivut 305-306)
+(sivut 305–306)
 
-Olen pahoillani. Olen pahoillani. • Toinen maailmansota (kirjoitus) ... kerätty arvio osatekijät: Vuositulot New Aropol France Association: 4 - 4,6 miljoonaa frangia tilikauden mukaan.
+SEKTIN NIMI : UUSI AKROPOLIS
+A.– ORGANISAATIO … 1°) KANSAINVÄLINEN PÄÄMAJA : Bryssel (Belgia) …
+… ð 7 paikallista toimintapistettä : Boissy-lès-Perche, Bordeaux, Pariisi, Rennes, Rouen, Strasbourg, Villeurbanne …
+… kerätyt arviointielememtit : Association Nouvelle Acropole France -yhdistyksen vuotuiset tulot: 4–4,6 miljoonaa frangia tilikaudesta riippuen.
 
 ---
 
 (sivu 252)
 
-## Arvioi
+## Johtopäätös
 
-Tämän jälkeen komission on myönnettävä, että seksiilmiö on luultavasti riittävän pitkä yhteiskunnissamme. Se ilmaisee väistämätöntä toimintahäiriöitä, ja joskus se on eräänlainen klusteri, joka johtaa käsittämättömään marginaalisuuteen. Oikeutta välinpitämättömyyteen on myös suojeltava. Mutta et voi sallia, että tätä oikeistoa uhkaa jokin periaate, pääasiassa heikot. Tämän vuoksi lahkolaisten poikkeamien torjuminen, komission mielipide, on edelleen vaatimus, joka edellyttää lisää keinoja, uusia toimia yhteiskunnan tiedottamiseksi ja tietoisuuden lisäämiseksi kansainvälisellä tasolla. Komissio on hyvin tietoinen siitä, että omantunnonvapauden ja yleisen järjestyksen välisen ristiriidan perinne lahkolaistoiminnassa on täysin epämukava. Kyse ei ole näiden kahden periaatteen kumoamisesta, - vaan myös niiden monimutkaisuuden paljastamisesta. Omantunnonvapauden pelastaminen ei voi perustua yksilön perusvapauden sivuuttamiseen: liikkumisvapaus, omaisuuden ja käytön hallussapito, oman kehon ja terveyden hoito, vallan väärinkäytöltä suojautuminen, moraalisten ja aineellisten etujen suojaaminen... Tätä lahkolaisten vapautta vainotaan ja rangaistaan enemmän, ja komissio pyrkii takaamaan omantunnon- ja ilmaisunvapauden, joka koskee ihmisoikeuksia.
+Työnsä päättyessä komission on tunnustettava, että lahoa koskeva ilmiö on todennäköisesti pitkiksi ajoiksi vakiintunut yhteiskuntiimme. Se ilmaisee väistämättömät toimintahäiriöt ja toimii toisinaan venttiileinä, joiden kautta käsittämätön marginalisoituminen pääsee purkautumaan. Oikeus poikkeavuuteen on myös säilytettävä. Mutta ei voida hyväksyä, että tämän oikeuden käyttäminen uhkaisi tiettyjä periaatteita, ennen muuta heikoimpien suojeluoikeutta. Siksi kamppailu lahkopoikkeamien torjumiseksi pysyy komission silmissä vaatimuksena, joka edellyttää tarkoituksenmukaisempia keinoja, uutta yhteiskunnan tietoisuustyön ponnistusta ja kansainvälistä tietoisuuden lisäämistä. Komissio on vakuuttunut siitä, että perinteisesti esiin nostettu ristiriita omantunnon vapauden ja yleisen järjestyksen välillä lahkotoiminnassa on täysin toimimaton. Kyse ei ole näiden kahden periaatteen asettamisesta vastakkain, vaan päinvastoin niiden täydentävyyden valaisemisesta. Omantunnonvapauden säilyttäminen ei voi nojata olennaisten yksilövapauksien laiminlyöntiin: liikkumisvapauteen, omaisuuden omistamiseen ja sen nauttimiseen, kehon ja terveyden hoitoon, suojautumiseen vallan väärinkäytöksiltä, puolustautumiseen moraalisia ja aineellisia etuja vastaan… Pyrkimällä siihen, että lahkopoikkeamien hyökkäykset näitä vapauksia kohtaan saatettaisiin tehokkaammin tutkittaviksi ja rangaistaviksi, komissio tarkoittaa näin taattavan omantunnon- ja ilmaisunvapaudet, jotka ovat ihmisoikeuksien ytimessä.
 
 ---
 
 (sivu 254)
 
-## MUISTITUKSEN OPINTO
+## YHTEENVETO KOMISSION EHDOTUKSISTA
+(numerot viittaavat raportin sivuihin)
 
-(lisenssien määrä)
+### 1. Muutokset yhdistysten asemaan:
 
-### 1\. Yhdistysmuutokset:
+- vahvistaa demokratiaa yhdistysten sisällä: velvoittamalla, tietyn budjetin ylittyessä, jonka voisi määrittää 500 000 frangiksi, pitämään vähintään yksi vuosikokous ja laatiimaan jäsentensä tietoon moraali- ja talousraportin (s. 51 ja 52) ;
+- alistaa taloudellista painoarvoa omaavat yhdistysrakenteet — esimerkiksi ne, joiden vuosibudjetti on yli 500 000 frangia — vähimmäisvelvollisuuksien mukaiseen ilmoittamiseen (tuloslaskelma ja tase) (s. 51 ja 52) ;
+- hyödyntää 15. syyskuuta 1998 annetun yhdistysten verotusta koskevan ohjeistuksen soveltamisen siirtoa ottaakseen huomioon uusien sääntöjen käytön riskit, jotka voisivat edistää lahkoilmiön kehittymistä (s. 60).
 
--   vahvistaa demokratiaa järjestöjen sisällä: lisäämällä velvollisuuden, syrjäyttämällä tietyn talousarvion, joka voidaan asettaa 500 000 frangiin, laatimalla vähintään yhden vuoden kokonaiskokouksen ja kertomuksen jäsenten toiminnasta ja tilinpäätöksistä
--   ottaa käyttöön joitakin taloudellisia vaikutuksia omaavia assosiaatiorakenteita, esimerkiksi sellaisia, joiden vuosibudjetti on yli 500 000 frangia, sekä vähimmäisvastuun raportoinnista (tilinpäätös ja tase)
--   Käytä 15.9.1998 alkaen veroyhdistyksille annettuja ohjeita lyhyesti, jotta ne voivat ottaa huomioon riskit, jotka liittyvät uusien sääntöjen käyttöön jaksollisten ilmiöiden kehittämiseen (s. 60).
+### 2. 9. joulukuuta 1905 annetun lain soveltaminen kirkkojen ja valtion erottamisesta:
 
-### 2\. Lain soveltaminen 9.12.1905 alkaen kirkon erottamiseksi valtiosta:
+- muistuttaa kirjeellisesti prefekteille ja kaikille asianomaisille viranomaisille kirkkojen ja valtion erottamisen periaatteista sekä Conseil d’État:n määrittelemistä kulttijärjestön kriteereistä ja niiden soveltamisesta Jehovan todistajien tapauksessa (s. 71) ;
+- kiinnittää julkisten valtaelinten huomion siihen, että on tarpeen nyt asettaa joitakin yleisiä sääntöjä uskonnollisten yhteisöjen sosiaaliturvajärjestelmään kuulumiselle (s. 75).
 
--   Merkitse prefektin osoite ja kaikki tarvittavat palvelut kirkon erottamiseksi valtiosta, valtioneuvoston määrittelemistä uskonnollisen yhdistyksen kriteereistä sekä Jehovan (s. 71) tapauksessa.
--   Valtion elinten painopiste on yleisten politiikkojen asettamisessa uskonnollisten järjestöjen (s. 75) sosiaaliturvajärjestelmään liittymistä varten.
+### 3. Muutokset poliittisen elämän rahoitusta koskevaan lainsäädäntöön:
 
-### 3\. Poliittisen elämän rahoituslain muuttaminen:
+- sitoa vuosittaisen valtionavun ensimmäisen osion saanti äänikynnyksen saavuttamiseen viimeisissä kansanedustusvaaleissa (s. 84) ;
+- varata radio- ja televisiokampanjoihin pääsy niille puolueille, jotka ovat nimenneet kansallisen edustajan, jonka on tukena vähimmäismäärä paikallisia valtuutettuja (s. 84).
 
--   antaa ensimmäisen osan vuotuisesta talousarviosta, kun hän saa tietyn äänikynnyksen viime eduskuntavaaleissa (C.84);
--   antaa mahdollisuuden käyttää radio- ja televisiokampanjoita poliittisessa liitossa, joka on nimennyt kansallisen edustajan ja jota tukee paikallisten edustajien vähimmäismäärä.
+### 4. Sosiaali- ja terveysalan sektori:
 
-### 4\. Sosiaali- ja terveysalan organisaatio:
+- levittää kaikille julkisille palveluille ja terveydenhuollon ammattilaisille käytännön opasta, joka tunnistaa sosiaali- ja terveysmaailman haavoittuvuuskohtia lahkoja vastaan (s. 128) ;
+- keskittää tieto rangaistuksista, joita terveydenalan ammattijärjestöt ovat antaneet, sekä vireillä olevista oikeusprosesseista (s. 128) ;
+- nimetä Lääkäriliiton kautta edustaja Valtakunnalliselle lahkokampanjoita torjuvalle väliministeriökomissiol le (s. 128) ;
+- selvittää mahdollisuus parantolaillistukseen liittyvälle menettelylle hoitoalan ammattinimikkeiden ja hoitajien nimikkeiden hyväksymiseksi, asiantuntijakomission toimesta, joka valtuuttaisi terapiatyyppien nimikkeiden käytön ja voisi ehdottaa kiellettäväksi niitä harjoituksia, jotka eivät ole hyväksyttyjä (s. 128) ;
+- vahvistaa lääketieteellisissä ja sairaanhoitoalan opinnoissa opetusta seuraavilla aloilla:
+  - potilaiden psykologisen tukemisen menetelmät (s. 129) ;
+  - lääketieteellisten ja sairaanhoidollisten ammattien paikka, rooli ja rajat yhteiskunnassa (s. 129) ;
+- kehittää jo perus- tai toisen asteen opetuksessa terveystiedon, elämäntapojen hygienian ja kehon hahmon ymmärtämisen kursseja (s. 129) ;
+- ottaa käyttöön hyväksymis- tai laatumerkintämenettely yhdistyksille, jotka toimivat sairaalahoitoa tarvitsevien henkilöiden tukena ja avustuksessa (s. 129) ;
+- ennakoida terapeuttisia seurantatapoja tarjottaviksi entisille seuraajille ja sisällyttää ne lääkärien täydennyskoulutukseen (s. 129) ;
+- voimistaa, erityisesti opetuksen puitteissa, rokotuksia koskevia tietoisuuskampanjoita (s. 129).
 
--   levittää kaikille julkisille palveluille ja sairaanhoitajille käytännön käsikirjan, jossa yksilöidään terveysalan sukupuolille herkät paikat.
--   keskitetään tiedot seuraamuksista, joita terveydenhuollon ammattihenkilöt käyttävät, sekä tuomioistuinprosessit (s. 128);
--   antaa lääkärien kollegojen edustaja sukupuoleen liittyvien taistelujen interquestiin (kohta 128);
--   opetetaan, että asiantuntijakomiteassa voidaan ottaa käyttöön parametrisia työpaikkoja ja terveydenhuollon avustajia koskevia menettelyjä, jotka mahdollistavat hoitomenetelmien käytön ja kieltävät hyväksymättömien (s. 128).
--   Lääketieteellisten ja puolisotilaallisten koulutuslaitosten vahvistaminen seuraavilla aloilla:
-    -   Sairaiden psykologisen oikeuden menetelmät. 129;
-    -   yhteiskunnan sijaintia, roolia ja työpaikkoja rajoittavat tekijät (kohta 129)
--   suunnittelu ala- tai yläasteelta alkaen, terveyskoulutus, terveet elämäntavat ja ymmärrys kehon rakentamisesta (s. 129);
--   Aloitetaan saattajan järjestämiä yhdistyksiä koskeva Accreation or Certification Procedure for associations procedure and with the constructed persons (s. 129);
--   ennustaa entisten seuraajien terapeuttisen seurannan menetelmät ja sisällyttää ne lääkäreiden täydennyskoulutusohjelmaan (s. 129);
--   laajeni, mukaan luettuna kansallinen koulutus, kampanja, jolla lisätään tietoisuutta rokotteista. 129.
+### 5. Ammatillisen koulutuksen sääntely:
 
-### 5\. Koulutussuoritukset:
+- uskoa ammatillisten koulutusorganisaatioiden hyväksynnän ja valvonnan julkiselle hallinnolliselle laitokselle, jolle osa työnantajien maksamasta kontribuutiosta osoitettaisiin sen toiminnan rahoittamiseksi (s. 158 ja 159) ;
+- lopettaa arvonlisäveron automaattinen vapautus rajoittamalla se asianmukaisesti hyväksytyille organisaatioille (s. 159) ;
+- antaa hallinnolle nimenomainen valta poistaa organisaation rekisteröinti, kun ilmenee, että se ei kuulu ammatillisen koulutuksen piiriin tai että se on ollut osallisena petollisissa toimissa (s. 159) ;
+- käynnistää tiedotuskampanja yrityksille, jonka järjestävät valtio ja ammatilliset järjestöt (s. 160) ;
+- laatia ammatillisten koulutusorganisaatioiden laatumerkintäohjelma (s. 161).
 
--   Julkisen hallinnon laitoksen ohjeistus ja hallinto osoitetaan työnantajien rahoittamiseen (ks. 158 ja 159 kohta).
--   Perutaan arvonlisäverosta vapauttaminen automaattisesti ja jätetään se vain oikeille akkreditoiduille organisaatioille (s. 159).
--   annettava hallinnolle selkeä toimivalta päästä eroon organisaation rekisteröinnistä, jos käy ilmi, että se ei vastaa ammatillisen koulutuksen vaatimuksia tai liittyy petoksiin (s. 159);
--   Aloitetaan tiedotuskampanja, joka on suunnattu järjestäytyneille yrityksille ja ammatillisille järjestöille.
--   Suunnittele koulutuspalvelutodistusohjelma (s. 161).
+### 6. Toimenpiteet petosten torjumisen parantamiseksi:
 
-### 6\. Tule parantamaan taistelua petoksia:
+a) rikosprosessien järjestelyt
 
-a) rikosmenettelyjen parantaminen
+- aloittaa keskustelu mielensisäisen manipuloinnin rikosnimikkeen luomisen tarpeellisuudesta (s. 216) ;
+- tutkia, tiukasti syyttömyysolettamaa noudattaen, todistustaakan kääntämisen mahdollisuutta suurimmissa rahansiirroissa, kun ne liittyvät lahkoihin (s. 218).
 
--   Aloitetaan kuuleminen "mielialamanipuloinnin" (s. 216) luomisesta.
--   On vaikea oppia, noudattaa viattomuuden periaatteita, kykyä kuljettaa eniten siirrettyjen varojen taakkaa, jos ne liittyvät seksiin.
+b) hallinnon mobilisointi
 
-Suomentanut Mentori
+- määritellä valtion toiminnan yleinen kehys väliministeriöiden komitean kautta pääministerin alaisuudessa ja Valtakunnallisen lahkoja torjuvan tehtävän teknisellä avustuksella, minkä kukin ministeriö tarkentaa omaa toimintaansa koskevalla kiertokirjeellä (s. 249) ;
+- varata rahoituslaitosten edustus Valtakunnalliselle lahkoja torjuvalle tehtävälle (s. 182) ;
+- tutkia osastokohtaisten rakenteiden luomista, jotka ovat yhteydessä Valtakunnalliseen lahkoja torjuvaan tehtävään ja joiden tehtävinä olisi (s. 249) :
+  - perustaa jokaisessa prefektuurissa tiedotus- ja neuvontakeskus yleisölle, yrityksille ja rahoituslaitoksille ;
+  - ohjata ja neuvoa uhriksi joutuneita entisiä seuraajia ja heidän perheitään ;
+  - toimittaa asianomaisille hallintoviranomaisille tarvittavat tiedot niiden toiminnan tueksi ;
+  - kerätä takaisin kaikki hallinnon kautta tulleet tiedot osaston lahkatoiminnasta ;
+- pohtia mahdollisuutta luoda kunkin hovioikeuden alueelle virka, jossa olisi erityiskoulutettu tuomioistuinviranomainen lahkokysymysten käsittelyyn. Tämä virka täydentäisi hyödyllisesti nykyisen syyttäjänviraston lahkokontaktin tehtävää (s. 250 ja 251) ;
+- avata keskustelu Euroopan unionin sisällä tavoitteena erityissopimus lahkoja vastaan taistelemiseksi (s. 251) ;
+- käynnistää diplomaattinen toiminta Euroopan neuvostossa lahkouvaisuuden vaaroista, lahkojen läsnäolosta humanitaarista tehtävää esittävien kansalaisjärjestöjen sisällä ja vuoden 1986 yleissopimuksen luomista riskeistä (s. 92).
 
--   määritellään, käyttämällä pääministerin johtamaa käyttäjäkomiteaa ja teknistä apua seksuaalisen toiminnan interlokoinnin yhteydessä, valtion toiminnan yleinen raja kunkin ministeriön sirkuksessa (s. 249);
--   ennustetaan rahoituslaitosten edustusta monivaiheisessa tehtävässä sukupuolen kanssa (sek. 182);
--   Opi kyky luoda Department of Secrets, sidottu interverse tehtäviä taistella seksiä, joiden kanssa tehdä (s. 249):
-    -   perustaa jokaiseen prefektiin yleisen tietoisuuden, yritysten ja rahoituslaitosten keskus;
-    -   Johtaa uhrien, entisten aseistettujen henkilöiden ja heidän perheidensä kuulemista ja neuvontaa;
-    -   asianmukaisten hallinnollisten tietojen antaminen niiden toiminnalle;
-    -   Rakenna puolestaan kaikki hallinnon tiedot osaston sukupuolitoiminnasta.
--   Harkitse kykyä luoda sisällä kunkin muutoksenhakuosaston lähettää valtateiden erityisesti valmis kultti kysymyksiä. Tästä toiminnosta tulisi hyödyllinen lisä nykyiseen laastarin sekvensaattoriin (sek. 250 ja 251);
--   Aloitetaan Euroopan unionissa järjestettävä kuuleminen erityiskilpailun aloittamiseksi sukupuolen torjumiseksi (kohta 251).
--   Aloitetaan diplomaattinen toiminta Euroopan neuvostossa sukupuoleen liittyvän vaaran, sukupuolten osallistumisen kansalaisjärjestöissä, humanitaarisen tarkoituksen vahvistamisen ja vuoden 1986 säännön aiheuttamien riskien vuoksi.
+### 7. Ehdotusten seuranta:
 
-### 7\. Asemanhallinta:
-
-Mene hallituksen pyytämään interliveing tehtävä taistella seksiä, valmistella toimenpiteitä tehdä edellä kantoja.
+pyytää hallitusta antamaan Valtakunnalliselle lahkoja torjuvalle tehtävälle toimeksianto valmistella edellä mainittujen ehdotusten täytäntöönpanotoimenpiteet.

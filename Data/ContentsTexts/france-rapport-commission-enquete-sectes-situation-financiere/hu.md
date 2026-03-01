@@ -1,111 +1,113 @@
 (51. oldal)
 
-Így az Új Akropolisz újra felfedezhette magát az ősi szövetség, az 1883-ban létrehozott Párizsi Nemzetközi Iskola irányítása alatt, és felfüggesztette a bontást. Ez az egyesület egyfajta presztízs volt a 19. század végén, amelyben híres tudósok vettek részt, de a II. világháború alatt szélsőséges változások történtek. A New Acropolis újította fel, ez most egy nemi ág, ami külföldi diákokat kínál.
+Így az Új Akropolisz képes volt újjáéleszteni saját ellenőrzése alatt egy régi egyesületet, a Párizsi Antropológiai Iskolát, amelyet 1883-ban alapítottak és a felszabadulás óta nyugvó állapotban volt. Ez egy olyan egyesület, amely a 19. század végén bizonyos tekintéllyel bírt, híres tudósok toborzásával, mielőtt a második világháború alatt szélsőséges irányba tért volna. Az Új Akropolisz által átvéve jelenleg a szekta „leányvállalata”, amely ezen keresztül külföldi hallgatóknak kínál gyakorlati képzéseket.
 
 ---
 
 (65. oldal)
 
-Az új Akropolisz megköveteli követőitől, hogy bizonyos számú önkéntes munkát vállaljanak az iskolájában, hogy alkalmazzanak, szolgáljanak és titkárnői munkát végezzenek.
+Az Új Akropolisz megköveteli híveitől, hogy meghatározott számú önkéntes munkát végezzenek az „iskolájában”, amelyeket fogadási, karbantartási és titkári feladatokra fordítanak.
 
 ---
 
-(152- 153 oldal)
+(152–153. oldal)
 
-Az új Acropolisnak oktatási intézménye volt a Hermware Consults, Mrs. Isabel Ludwig, a szex egyesület vezetője miatt. Az SRC IldeFrance, ez a vállalat, amely jelenleg ki van zárva a kereskedési nyilvántartásból, többek között az FNSEA alkalmazottainak oktatásával.
+Az Új Akropolisznak volt egy képzési szervezete a Hermès Consultants nevű társaságon keresztül, amelyet Isabelle Ludwig vezetett, aki a szekta anyaszervezetének elnöke volt. Az Île-de-France SRC-nél bejegyzett társaság, amely ma már törölve van a cégnyilvántartásból, többek között a FNSEA alkalmazottait képezte.
 
 ---
 
 (182. oldal)
 
-Közülük Kṛṣṇa, aki a Utah-i Bellow kastélyban és az indie-i Uscille-kastélyban telepedett le; a családi tulajdon hagyománya, amelyet az Erith- Loire seregei a "Jövőbeli Kultúra" egyesülete; az Új Anropolisz, Kur Petrol tulajdonosa, az egykori kolostor ugyanabban a megyében;
+Említsük meg például Krishnát, aki a Jura megyei Bellevue kastélyában és az Indre megyei Oublaisse birtokon telepedett le; a Tradition famille propriété-t, amely az Avenir de la culture egyesületen keresztül rendelkezik a Eure-et-Loir megyei Jaglu kastéllyal; az Új Akropoliszt, a Cour Pétral tulajdonosát, az ugyanabban a megyében található egykori kolostort; …
 
 ---
 
-(1992- 200 oldal)
+(199–200. oldal)
 
-A New Acropoll France Association, Kridell; Lopás; Lopás; Bűnözés bizonyos körülmények között - TG Colmard, 27 / 03 / 98...
+ÚJ AKROPOLISZ — Association Nouvelle Acropole France — Lopás ; Lopásból származó haszon birtoklása ; Bűnrészesség lopásban ; Feltételhez kötött bűncselekménnyel való fenyegetés — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
 ---
 
-(305- 306 oldal)
+(305–306. oldal)
 
-Sajnálom. Sajnálom. • • A második világháború (írás) ... összegyűjtött becsült elemek: A New Aropol France Association éves bevétele: 4-4,6 millió frank a pénzügyi év szerint.
+A SZEKTA NEVE : ÚJ AKROPOLISZ
+A.– SZERVEZET … 1°) NEMZETKÖZI SZÉKHELY : Brüsszel (Belgium) …
+… ð 7 helyi telephely : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… begyűjtött értékelési elemek : az Association Nouvelle Acropole France éves bevétele : az üzleti év szerint 4 és 4,6 millió frank között.
 
 ---
 
 (252. oldal)
 
-## Értékelés
+## Következtetés
 
-Ezt követően a Bizottságnak el kell ismernie, hogy társadalmunkban valószínűleg elég hosszú a nemi jelenség. Az elkerülhetetlen működésképtelenséget fejezi ki, és néha egyfajta klaszterről van szó, ami a felfoghatatlan marginalizmushoz vezet. A jobboldali különbséget is védeni kell. De nem engedheted, hogy ezt a jobboldalt megfenyegesse valami elv, elsősorban a gyengék. Ezért az Európai Bizottság véleménye szerint a szektariánus eltérések elleni küzdelem továbbra is olyan követelmény, amely több eszközt igényel, új erőfeszítéseket a társadalom és a tudatosság nemzetközi szintű megismertetésére. A Bizottság határozottan tudatában van annak, hogy a lelkiismereti szabadság és a közrend közötti ellentmondások hagyománya a szektariánus tevékenység terén teljességgel kényelmetlen. Ez nem a két elv ellensúlyozásáról szól, hanem az összetettségük megvilágításáról. A lelkiismereti szabadság megmentése nem alapulhat az alapvető egyéni szabadság figyelmen kívül hagyásán: szabad mozgás, tulajdon birtoklása és használata, saját testének és egészségének védelme, a hatalommal való visszaélés elleni védelem, erkölcsi és anyagi érdekeik felfüggesztésének védelme... Szorosabban üldözik és büntetik a szektariánus lakosság e szabadságával kapcsolatos munkát, a Bizottság igyekszik garantálni az emberi jogok tiszteletben tartásával járó lelkiismereti és véleménynyilvánítási szabadságot.
+A munkájának lezárásaként a Bizottságnak el kell ismernie, hogy a szektajelenség valószínűleg hosszú időre beágyazódott társadalmunkba. Ez kifejezi az elkerülhetetlen működési zavarokat, és néha olyan biztonsági szelepként szolgál, amelyen keresztül az elnyomhatatlan marginalizálódás kivezető utat talál. A különbözőséghez való jogot szintén meg kell őrizni. Ugyanakkor nem fogadható el, hogy e jog gyakorlata veszélyeztesse bizonyos alapelveket, mindenekelőtt a leggyengébbek védelméhez fűződő jogot. Ezért a szektás visszaélések elleni küzdelem a Bizottság szemében továbbra is olyan követelmény, amely jobban illeszkedő eszközöket, a társadalom érzékenyítésének újabb erőfeszítéseit és nemzetközi szintű tudatosságot kíván. A Bizottság meggyőződése, hogy a lelkiismereti szabadság és a közrend között hagyományosan emlegetett ellentmondás a szektás magatartások terén teljesen hatástalan. Nem ezeknek az elveknek az ellentéte a kérdés, hanem éppen ellenkezőleg: ki kell emelni kiegészítő jellegüket. A lelkiismereti szabadság védelme nem alapulhat az alapvető egyéni szabadságok ismeretének hiányán: a szabad mozgáson, a vagyon birtoklásán és élvezetén, a test és az egészség gondozásán, a hatalmi visszaélésekkel szembeni védelem jogán, valamint az erkölcsi és anyagi érdekeik elleni sérelmekkel szembeni védekezésen… Azáltal, hogy azon dolgozik, hogy a szektás visszaélések által ezekkel a szabadságokkal szemben elkövetett támadásokat hatékonyabban kövessék és szankcionálják, a Bizottság célja, hogy ezzel garantálja a lelkiismereti és a véleménynyilvánítási szabadságokat, amelyek magukban állnak az emberi jogok tiszteletének középpontjában.
 
 ---
 
 (254. oldal)
 
-## AZ EMLÉKEZTETÉS
+## A BIZOTTSÁG JAVASLATAINAK ÖSSZEFOGLALÁSA
+(a számok a jelentés oldalaira utalnak)
 
-(licencdíjak)
+### 1. Az egyesületek státuszának módosításai:
 
-### 1\. A társulás változásai:
+- erősíteni a demokráciát az egyesületeken belül: azzal a kötelezettséggel, hogy egy bizonyos, például 500 000 frankban meghatározható költségvetés fölött évente legalább egy közgyűlést tartanak és a tagok részére erkölcsi és pénzügyi jelentést készítenek (51. és 52. o.) ;
+- gazdasági súllyal bíró társulási struktúrákat — például azokat, amelyek éves költségvetése meghaladja az 500 000 frankot — alávetni minimális bejelentési kötelezettségeknek (eredménykimutatás és mérleg) (51. és 52. o.) ;
+- kihasználni az 1998. szeptember 15-i egyesületi adózással kapcsolatos utasítás alkalmazásának elhalasztását, hogy figyelembe vegyék az új szabályok olyan felhasználási kockázatait, amelyek a szektajelenség terjedését segíthetik elő (60. o.).
 
--   a demokráciának az egyesületeken belüli megerősítése: egy kötelezettség hozzáadásával, egy bizonyos költségvetéssel, amely 500.000 frankra korlátozható, legalább egy éves teljes közgyűlésre, valamint a tagok tevékenységeiről és pénzügyi kimutatásairól szóló jelentés elkészítésével (51. és 52. cikk);
--   olyan társulási struktúrákat kell létrehozni, amelyek gazdasági hatással járnak, például azokat, amelyek éves költségvetése meghaladja az 500.000 frankot, a jelentéstétel minimális felelősségét (pénzügyi jelentés és egyenleg);
--   Az 1998. szeptember 15-i utasítások rövid alkalmazása az adószövetségek számára annak érdekében, hogy az új szabályok alkalmazásának kockázatait a metszésjelenségek (60.
+### 2. A 1905. december 9-i törvény alkalmazása az egyházak és az állam szétválasztásáról:
 
-### 2\. A törvény alkalmazása 1905. december 9-től az egyház és az állam szétválasztására:
+- körlevél útján emlékeztetni a prefektusokat és az összes érintett szolgálatot az egyház és az állam szétválasztásának elveire, valamint az Államtanács által meghatározott kultikus egyesület kritériumaira, továbbá azokra az alkalmazási gyakorlatokra, amelyeket a Jehova Tanúi esetében alkalmazott (71. o.) ;
+- felhívni a hatalmi szervek figyelmét arra, hogy szükséges néhány általános szabályt meghatározni a vallási közösségek társadalombiztosítási védelemhez való csatlakozására vonatkozóan (75. o.).
 
--   Jelölje meg a prefektus címét és minden megfelelő szolgáltatást az egyház és az állam szétválasztásával kapcsolatban, az Állami Tanács által meghatározott vallási szövetség kritériumait, valamint az Jehova (ek. 71) esetében alkalmazandó feltételeket.
--   Az állami szervek célja általános politikák meghatározása a vallási szervezetek szociális védelmi rendszeréhez való csatlakozás érdekében (75.
+### 3. A politikai élet finanszírozására vonatkozó jogszabály módosításai:
 
-### 3\. Változás a politikai élet finanszírozásának törvényéhez:
+- az éves költségvetési támogatás első részének juttatását feltételhez kötni, nevezetesen a legutóbbi törvényhozási választásokon elért szavazatok egy bizonyos küszöbének megszerzéséhez (84. o.) ;
+- fenntartani a rádiós és televíziós kampányhoz való hozzáférést azoknak a politikai formációknak, amelyek országos képviselőt jelöltek, akit egy minimális számú helyi választott támogatója hitelesít (84. o.).
 
--   az éves költségvetési ellátás első részének biztosítása a legutóbbi parlamenti választáson (C.84) meghatározott szavazási küszöb elérése esetén;
--   a helyi képviselők minimális számával támogatott nemzeti képviselőt kinevező politikai unió számára hozzáférést biztosít a rádiós és televíziós kampányokhoz.
+### 4. A szociális és egészségügyi ágazat szervezése:
 
-### 4\. Szociális és Egészségügyi Szervezet:
+- terjeszteni az összes közigazgatási szerv és egészségügyi szakember számára egy gyakorlati útmutatót, amely azonosítja a szekták által a szociális- és egészségügyi területen kihasználható sebezhetőségi pontokat (128. o.) ;
+- központosítani az információkat az egészségügyi hivatások szakmai testületei által kiszabott szankciókról és a folyamatban lévő jogi eljárásokról (128. o.) ;
+- az Orvosi Kamara jelöljön ki egy képviselőt a Szekták Elleni Küzdelem Interminisztériumi Missziójához (128. o.) ;
+- megvizsgálni egy lehetséges eljárást a paramedicinális hivatások és egészségügyi segédek megnevezéseinek engedélyezésére egy szakértői bizottság által, amely engedélyezi terápiás címek használatát és javasolhatja a nem engedélyezett módszerek gyakorlásának betiltását (128. o.) ;
+- megerősíteni az orvosi és paraorvosi tanulmányok keretében az oktatást:
+  - a betegek pszichológiai kísérésének módszereiről (129. o.) ;
+  - a társadalomban betöltött helyéről, szerepéről és korlátairól az orvosi és paraorvosi hivatásoknak (129. o.) ;
+- bevezetni már az általános és középfokú oktatásban egészségnevelési, életmódtani és testkép-megértési tanórákat (129. o.) ;
+- létrehozni engedélyezési vagy minősítési eljárást a kórházban kísérő és segítő egyesületek számára (129. o.) ;
+- biztosítani terápiás követési módszereket, amelyeket a volt híveknek ajánlanak, és beépíteni ezeket az orvosok továbbképzésébe (129. o.) ;
+- fokozni, különösen az állami oktatás keretében, az oltásokkal kapcsolatos érzékenyítő kampányokat (129. o.).
 
--   a közszolgálatokon és az egészségügyi dolgozókon keresztül olyan gyakorlati útmutatót terjesszen, amely azonosítja az egészségügyi ágazat nemének sebezhető pontjait.
--   a hivatásos egészségügyi dolgozók által alkalmazott szankciókra és a bírósági eljárásokra vonatkozó információk központosítása (128.
--   kijelöli az orvosok kollégáinak egy képviselőjét a szexharcra való felkérésre (128. pont);
--   A szakértői bizottság számára a parametrikus munkahelyekre és egészségügyi asszisztensekre vonatkozó eljárások bevezetésének képessége, amelyek lehetővé tennék a terápiás módszerek alkalmazását, és megtiltják a nem jóváhagyott (128.
--   Az orvosi és paramilitáris képzési intézmények megerősítése a következő tudományágakkal:
-    -   A betegek pszichológiai bíróságának módszerei. 129;
-    -   a társadalom elhelyezkedése, szerepe és munkaköre (129. pont);
--   az alap- vagy középiskolától kezdődő tervezés, egészségügyi képzés, egészséges életmód és megértő testfelépítés (129);
--   A kísérő által és a 129-es számú személy (ek) vel folytatott társulások esetében kezdeményezi az elfogadási vagy tanúsítási eljárást;
--   megjósolja a korábbi követők terápiás megfigyelésének módszereit, és bevonja őket az orvosok folyamatos képzésének programjába (129);
--   kibővített kampány, beleértve a nemzeti oktatást is, a vakcinákkal kapcsolatos tudatosság növelése érdekében. 129.
+### 5. A szakmai képzés szabályozása:
 
-### 5\. Képzési teljesítmény:
+- a szakmai képzést nyújtó szervezetek engedélyezését és ellenőrzését rábízni egy közigazgatási közintézményre, amelynek működését a munkáltatói hozzájárulások egy része finanszírozná (158. és 159. o.) ;
+- véget vetni az ÁFA-mentesség automatikusságának és azt csak a kellően engedélyezett szervezetekre korlátozni (159. o.) ;
+- egyértelműen felhatalmazni a közigazgatást arra, hogy visszavonja egy szervezet nyilvántartását, ha kiderül, hogy az nem tartozik a szakmai képzés körébe, vagy csalárd manőverekben vett részt (159. o.) ;
+- az állam és a szakmai szervezetek által szervezett, a vállalkozások számára szóló érzékenyítő kampányt indítani (160. o.) ;
+- kidolgozni egy minősítési programot a képzési szervezetek számára (161. o.).
 
--   A közigazgatási intézmény utasításait és irányítását a munkáltatók finanszírozására kell fordítani (158. és 159. pont);
--   Az ÁFA-ból való automatikus kibocsátás törlése, csak a megfelelő akkreditált szervezetek (szervezetek) számára.
--   A közigazgatás számára egyértelmű felhatalmazást kell adni arra, hogy megszabaduljon a szervezet nyilvántartásba vételétől, ha kiderül, hogy az nem felel meg a szakmai oktatás vagy a csalással kapcsolatos követelményeknek (159);
--   Indítson el egy tájékoztató kampányt, amelynek célja az állami és szakmai szervezetek által szervezett vállalkozások.
--   Tervezzen egy oktatási szolgáltatási tanúsítvány programot (161. sz.).
+### 6. Intézkedések a csalások elleni küzdelem javítására:
 
-### 6\. Jöjjön be, hogy javítsa a harcot a csalás:
+a) a büntetőeljárások átalakítása
 
-a) a büntetőeljárások javítása
+- kezdeményezni egyeztetést arról, hogy indokolt-e egy mentális manipulációt megtiltó bűncselekmény létrehozása (216. o.) ;
+- megvizsgálni, az ártatlanság vélelmének elvének szigorú tiszteletben tartása mellett, a bizonyítási teher megfordításának lehetőségét a legnagyobb összegű pénzátutalások esetében, amennyiben azok szektákhoz kapcsolódnak (218. o.) .
 
--   A "szellemi manipuláció" (216.
--   Nehéz megtanulni, követni az ártatlanság elveit, azt a képességet, hogy a legtöbb átutalt pénz terhét szállítsuk, ha a szexhez kapcsolódnak.
+b) az igazgatás mozgósítása
 
-Fordította:
+- egy minisztériumok közötti bizottság határozza meg a miniszterelnök irányítása alatt és a Szekták Elleni Küzdelem Interminisztériumi Missziójának műszaki segítségével az állami fellépés általános keretét, amelyet minden minisztérium körlevélben pontosít (249. o.) ;
+- biztosítani a pénzügyi intézmények képviseletét a Szekták Elleni Küzdelem Interminisztériumi Missziójában (182. o.) ;
+- megvizsgálni megyei szintű szerkezetek létrehozását, amelyek a Szekták Elleni Küzdelem Interminisztériumi Missziójához tartoznának, és feladataik lennének (249. o.) :
+  - minden prefektúrában központot létrehozni a közvélemény, a vállalkozások és a pénzintézetek tájékoztatására ;
+  - irányt mutatni és tanácsot adni az áldozatoknak, a volt híveknek és családjaiknak ;
+  - az érintett közigazgatási szervek számára biztosítani a tevékenységükhöz szükséges információkat ;
+  - visszajelzésként összegyűjteni az adminisztrációktól érkező összes információt a megyében folytatott szektás tevékenységről ;
+- megfontolni annak lehetőségét, hogy minden fellebbviteli bíróság illetékességi területén létrehozzanak egy, a szektakérdésekkel külön képzésben részesült bírói posztot. Ez a funkció hasznos kiegészítést jelentene a jelenlegi, a Főügyészségnél működő szektákért felelős kapcsolattartó által betöltött szerephez (250. és 251. o.) ;
+- egyeztetést kezdeményezni az Európai Unión belül annak érdekében, hogy egy külön egyezmény jöjjön létre a szekták elleni küzdelemről (251. o.) ;
+- diplomáciai fellépést indítani a Tanács keretében a szektarizmus veszélyeiről, a humanitárius célt hirdető nem kormányzati szervezetekben való szektajelenlétről és az 1986-os egyezmény által teremtett kockázatokról (92. o.).
 
--   a Miniszterelnök vezetésével működő interfelhasználói bizottság, valamint a szexuális tevékenység interlokációjának technikai támogatása révén meghatározza az állami fellépés általános határát az egyes minisztériumok (minisztériumok) cirkuszában;
--   a pénzügyi intézmények nemmel való interverzális küldetésen való képviseletének előrejelzése (182. pont);
--   Ismerje meg a képességét, hogy hozzon létre egy Department of Secrets, kötött keresztirányú küldetések ellen szex, amellyel csinálni (s. 249):
-    -   a köztudatosság, a vállalkozások és a pénzügyi intézmények központjának létrehozása minden prefektusban;
-    -   Vezető konzultáció és tanácsadás az áldozatok, a korábbi megbízások és családjaik számára;
-    -   a tevékenységükhöz szükséges megfelelő adminisztratív információk biztosítása;
-    -   Az adminisztráció minden információjának felépítése a részlegen belüli szexuális tevékenységről;
--   Tekintse meg azt a képességet, hogy az egyes fellebbviteli osztályokon belül létrehozza a szekta kérdéseire speciálisan előkészített autópályákat. Ez a függvény hasznos kiegészítésül szolgálna a tapasz jelenlegi szekvenciája által végzett funkcióhoz (250 és 251);
--   Konzultáció megkezdése az Európai Unión belül a szex elleni küzdelem különleges versenyének elindítása érdekében (251. pont);
--   Az Európa Tanács diplomáciai fellépésének megkezdése a nemekkel kapcsolatos veszélyek, a nemeknek a nem kormányzati szervezetekben való jelenléte, a humanitárius szándék megerősítése és az 1986-os szabály által okozott kockázatok érdekében.
+### 7. A javaslatok nyomon követése:
 
-### 7\. Helyzetellenőrzés:
-
-Menj el a kormányhoz, és kérj egy interlive küldetést, hogy harcolj a szex ellen, és készítsd elő az intézkedéseket a fenti pozíciók betöltésére.
+kérni a Kormányt, hogy bízza meg a Szekták Elleni Küzdelem Interminisztériumi Misszióját a fenti javaslatok végrehajtásához szükséges intézkedések előkészítésével.

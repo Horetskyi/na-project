@@ -1,9 +1,9 @@
-# "Externí Fachada" normální
+# «Vnější fasáda» normality
 
-> Není možné, že tím, že děláme mnoho činností, kterým čelí vnější strana, které mohou poskytnout relativní prestiž, nebo spíše "prestižní masku", ztrácíme možnost věnovat našim poslancům potřebnou pozornost a kontrolu?
+> Není možné, že tím, že provádíme mnoho aktivit směrem k vnějšku, které mohou přinášet relativní prestiž, nebo lépe řečeno «masku prestiže», ztrácíme příležitost poskytnout našim členům potřebnou pozornost a kontrolu?
 > 
-> Jsem toho názoru, že bychom měli Národní Mandy, které se mají zaměřit na velmi pravdivý a chybějící výběr osobních preferencí, pokud jde o vnější činnosti, že pokud nám na jedné straně dají tu "masku" eklektické činnosti, na druhé straně nám vezmou identitu s našimi vlastními zásadami a ideály.
+> Podle mého názoru by se mělo Národní velení zaměřit na velmi pravdivý výběr, bez osobních preferencí vůči vnějším aktivitám, které nám sice na jedné straně dávají tu «masku» eklektické činnosti, ale na druhé straně nám berou identitu s našimi vlastními Principy a Ideály.
 > 
-> Domnívám se, že pokud se budeme i nadále věnovat "fasádě" našeho orgánu tím, že zanedbáváme lidi, kteří ji již tvoří, roční ztráta poslanců bude pokračovat.
+> Myslím, že pokud budeme nadále věnovat tolik pozornosti «fasádě» naší Instituce a zanedbávat lidi, kteří ji již tvoří, bude pokračovat každoroční ztráta členů.
 > 
-> \- *Příkaz č. 14: Jak zajmout a udržet členy? Jorge Ángel Livraga*
+> — *Příkaz č. 14: Jak získat a udržet členy? Jorge Ángel Livraga*

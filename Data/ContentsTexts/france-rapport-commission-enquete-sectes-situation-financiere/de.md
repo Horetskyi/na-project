@@ -1,111 +1,114 @@
 (Seite 51)
 
-So konnte sich die New Acropolis unter der Kontrolle des alten Vereins wiederentdecken, die Paris International School wurde 1883 gegründet und nach dem Abbruch suspendiert. Dieser Verein hatte eine Art Prestige am Ende des 19. Jahrhunderts mit berühmten Wissenschaftlern, aber während des Zweiten Weltkriegs Il, extremen Veränderungen war geschehen. Von der New Acropolis restauriert, ist es jetzt eine Sexbranche, die ausländischen Studenten bietet zu werden.
+So konnte die Neue Akropolis unter ihrer Kontrolle einen alten Verein wiederbeleben, die École d’anthropologie de Paris, die 1883 gegründet und seit der Befreiung ruhend gestellt worden war. Es handelt sich um einen Verein, der am Ende des 19. Jahrhunderts eine gewisse Bekanntheit erlangte, indem er namhafte Wissenschaftler rekrutierte, bevor er während des Zweiten Weltkriegs in einen extremistischen Abdrift geriet. Von der Neuen Akropolis übernommen, ist er heute eine „Filiale“ der Sekte, die auf diesem Weg ausländischen Studenten Praktika anbietet.
 
 ---
 
 (Seite 65)
 
-Die neue Akropolis erfordert ihre Anhänger aus einer bestimmten Anzahl von Stunden Freiwilligenarbeit in ihrer Schule mieten, Service und Sekretär Job.
+Die Neue Akropolis verlangt von ihren Anhängern eine bestimmte Anzahl von Stunden ehrenamtlicher Arbeit in ihrer „Schule“, die Empfangs‑, Wartungs‑ und Sekretariatsaufgaben gewidmet sind.
 
 ---
 
-(152- 153 Seiten)
+(Seiten 152–153)
 
-Die neue Akropolis hatte eine Bildungseinrichtung wegen Hermware Consults, Leiterin von Frau Isabel Ludwig, Leiterin des Sexverbandes. Registriert an SRC IldeFrance, dieses Unternehmen, das jetzt vom Handelsregister ausgeschlossen ist, einschließlich, durch die Lehre FNSEA Mitarbeiter.
+Die Neue Akropolis verfügte über eine Einrichtung für berufliche Weiterbildung über die Gesellschaft Hermès consultants, die von Frau Isabelle Ludwig geleitet wurde, der Präsidentin des Muttervereins der Sekte. Diese Gesellschaft, beim SRC der Île‑de‑France eingetragen und heute aus dem Handelsregister gelöscht, hat insbesondere Angestellte der FNSEA geschult.
 
 ---
 
 (Seite 182)
 
-Unter ihnen, Kṛṣṇa, die sich in der Burg von Bellow in Utah und in der Uscille Mansion in Indie niedergelassen; die Tradition des Familienbesitzes, die durch die Vereinigung der "Future Culture" durch die Armeen von Eryth-Loire; die New Anropolis, der Besitzer von Kur Petrol, das ehemalige Kloster in der gleichen Abteilung;
+Zu nennen sind Krishna, der sich im Schloss Bellevue im Département Jura und im Anwesen Oublaisse im Département Indre niedergelassen hat; Tradition famille propriété, das über den Verein Avenir de la culture über das Schloss Jaglu im Département Eure‑et‑Loir verfügt; die Neue Akropolis, Eigentümerin der Cour Pétral, eines ehemaligen Klosters im selben Département; …
 
 ---
 
-(1992-200 Seiten)
+(Seiten 199–200)
 
-The New Acropoll France Association, Kridell; Hiding stehlen; stehlen im Diebstahl; Verbrechensversagen unter bestimmten Umständen - TG Colmard, 27 / 03 / 98... - As Coloura, 18 / 12 / 98...
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Diebstahl; Hehlerei; Beihilfe zum Diebstahl; Drohung mit einer Straftat unter Bedingung — TGI Colmar, 27.03.98 … — CA Colmar, 18.12.98 …
 
 ---
 
-(Pages 305-306)
+(Seiten 305–306)
 
-Es tut mir leid. Es tut mir leid. • Der zweite Weltkrieg (Schreiben) ... gesammelte Schätzungselemente: Das Jahreseinkommen der New Aropol France Association: von 4 bis 4,6 Millionen Franken nach dem Geschäftsjahr.
+NAME DER SEKTE: LA NOUVELLE ACROPOLE  
+A. – ORGANISATION … 1°) INTERNATIONALER SITZ: Brüssel (Belgien) …  
+… ð 7 lokale Niederlassungen: Boissy‑lès‑Perche, Bordeaux, Paris, Rennes, Rouen, Straßburg, Villeurbanne …  
+… erhobene Bewertungselemente: Jährliche Einnahmen des Vereins Nouvelle Acropole France: je nach Geschäftsjahr zwischen 4 und 4,6 Mio. Francs.
 
 ---
 
 (Seite 252)
 
-## Bewertung
+## Schlussfolgerung
 
-Nach diesem Vorgehen muss die Kommission zugeben, dass das Sexphänomen in unseren Gesellschaften wahrscheinlich lang genug ist. Es drückt die unvermeidliche Fehlfunktion aus, und manchmal ist es eine Art Cluster, der zum unverständlichen Marginismus führt. Die Recht-zu-Differenz muss auch geschützt werden. Aber Sie können nicht zulassen, dass dieses Recht von einem Prinzip bedroht wird, vor allem von den Schwachen. Deshalb bleibt die Bekämpfung der sektiererischen Abweichungen, der Meinung der Kommission, eine Forderung, die mehr Mittel, neue Anstrengungen erfordert, um die Gesellschaft und das Bewusstsein auf internationaler Ebene zu informieren. Die Kommission ist sich bewußt, daß die Tradition der Widersprüche zwischen der Gewissensfreiheit und der öffentlichen Ordnung in der Sache der sektiererischen Tätigkeit absolut unbequem ist. Es geht nicht darum, diesen beiden Prinzipien entgegenzuwirken, sondern es geht auch darum, ihre Komplexität zu beleuchten. Die Freiheit der Gewissensfreiheit kann nicht darauf beruhen, grundlegende individuelle Freiheit zu ignorieren: Bewegungsfreiheit, Besitz von Eigentum und Gebrauch, Pflege für seinen eigenen Körper und Gesundheit, Schutz vor Machtmissbrauch, Schutz der Aussetzung auf ihre moralischen und materiellen Interessen... Die Arbeit an dieser Freiheit auf der Seite der sektiererischen Bevölkerung wird enger verfolgt und bestraft, die Kommission will die Gewissens- und Meinungsfreiheit garantieren, die in Bezug auf die Menschenrechte liegt.
+Am Ende ihrer Arbeiten muss die Kommission feststellen, dass das Sektenphänomen sich wahrscheinlich auf lange Zeit in unseren Gesellschaften festgesetzt hat. Es bringt deren unvermeidliche Fehlfunktionen zum Ausdruck und bildet mitunter ein Ventil, durch das sich ein nicht zu unterdrückender Marginalismus entladen kann. Das Recht auf Anderssein muss ebenfalls gewahrt werden. Man kann jedoch nicht hinnehmen, dass die Ausübung dieses Rechts bestimmte Grundsätze gefährdet, an erster Stelle das Recht auf Schutz der Schwächsten. Daher bleibt der Kampf gegen sektiererische Entgleisungen in den Augen der Kommission ein Erfordernis, das besser angepasste Mittel, neue Anstrengungen zur Sensibilisierung der Gesellschaft und ein Bewusstwerden auf internationaler Ebene verlangt. Die Kommission ist überzeugt, dass der traditionell behauptete Widerspruch zwischen Gewissensfreiheit und öffentlicher Ordnung in Bezug auf sektiererische Machenschaften völlig gegenstandslos ist. Es geht nicht darum, diese beiden Grundsätze einander gegenüberzustellen, sondern im Gegenteil, ihre Komplementarität aufzuzeigen. Die Wahrung der Gewissensfreiheit kann sich nämlich nicht auf eine Missachtung wesentlicher individueller Freiheiten stützen: der Freiheit, sich zu bewegen, Eigentum zu besitzen und zu nutzen, seinen Körper und seine Gesundheit zu pflegen, vor Machtmissbrauch geschützt zu sein, sich gegen Beeinträchtigungen seiner moralischen und materiellen Interessen zu verteidigen … Indem die Kommission darauf hinwirkt, dass die von sektiererischen Entgleisungen gegen diese Freiheiten gerichteten Angriffe wirksamer verfolgt und bestraft werden, möchte sie gewährleisten, dass so die Gewissens‑ und Meinungsfreiheit gesichert werden, die im Zentrum der Achtung der Menschenrechte stehen.
 
 ---
 
 (Seite 254)
 
-## DER GERICHTSHOF
+## ZUSAMMENFASSUNG DER VORSCHLÄGE DER KOMMISSION
+(Die Nummern verweisen auf die Seiten des Berichts)
 
-(Lizenztarife)
+### 1. Anpassungen des Vereinsrechts:
 
-### 1\. Änderungen des Vereins:
+- die Demokratie innerhalb der Vereine stärken: durch die Verpflichtung, ab einer bestimmten Haushaltssumme, die auf 500.000 Francs festgesetzt werden könnte, mindestens eine jährliche Generalversammlung abzuhalten und einen Tätigkeits‑ und Finanzbericht für die Mitglieder zu erstellen (S. 51 und 52);
+- Vereinsstrukturen mit einem bestimmten wirtschaftlichen Gewicht – zum Beispiel solche, deren Jahresbudget 500.000 Francs übersteigt – Mindestpflichten zur Offenlegung (Gewinn‑ und Verlustrechnung und Bilanz) unterwerfen (S. 51 und 52);
+- den Aufschub der Anwendung der Weisung vom 15. September 1998 zur Besteuerung der Vereine nutzen, um die Gefahr einer Verwendung der neuen Regeln in einer für die Entwicklung des Sektenphänomens förderlichen Weise zu berücksichtigen (S. 60).
 
--   Stärkung der Demokratie innerhalb von Verbänden: durch die Hinzufügung einer Pflicht, die Überschreitung eines bestimmten Haushalts, der auf 500.000 Francs, mindestens ein Jahr Gesamtversammlung und die Einrichtung eines Berichts über Aktivitäten und Finanzausweise für Mitglieder (s. 51 und 52) gesetzt werden kann;
--   die Vereinsstrukturen, die wirtschaftliche Auswirkungen haben, zum Beispiel die, deren Jahresbudget über 500.000 Franken liegt, die Mindesthaftung der Berichterstattung (Finanzbericht und Bilanz);
--   Verwenden Sie eine kurze Anwendung von Anweisungen vom 15. September 1998 an Steuerverbände, um die Risiken der Verwendung neuer Regeln in die für die Entwicklung der Schnittphänomene geeignete Richtung einzubeziehen (s. 60).
+### 2. Anwendung des Gesetzes vom 9. Dezember 1905 über die Trennung von Kirchen und Staat:
 
-### 2\. Das Gesetz vom 9. Dezember 1905 anwenden, um die Kirche vom Staat zu trennen:
+- die Grundsätze der Trennung von Kirchen und Staat, die vom Staatsrat definierten Kriterien des Kultvereins sowie deren Anwendung im Fall der Zeugen Jehovas den Präfekten und allen betroffenen Stellen durch ein Rundschreiben in Erinnerung rufen (S. 71);
+- die staatlichen Stellen auf die Notwendigkeit aufmerksam machen, künftig einige allgemeine Regeln für die Eingliederung der Kulte in das System der sozialen Absicherung festzulegen (S. 75).
 
--   Mark an die Adresse des Präfekten und alle angemessenen Dienste, um die Kirche vom Staat zu trennen, die Kriterien des vom Staatsrat definierten Ordensverbandes sowie im Fall des HERRN (s. 71)
--   Der Schwerpunkt staatlicher Organe ist die Festlegung allgemeiner Politiken, die dem Sozialschutzsystem religiöser Organisationen beitreten (s. 75).
+### 3. Anpassungen der Gesetzgebung über die Finanzierung des politischen Lebens:
 
-### 3\. Änderung des Finanzierungsgesetzes für das politische Leben:
+- den Bezug des ersten Teils der jährlichen staatlichen Finanzhilfe von der Erreichung einer bestimmten Stimmenzahl bei den letzten Parlamentswahlen abhängig machen (S. 84);
+- den Zugang zur Rundfunk‑ und Fernsehwahlsendung auf diejenigen politischen Gruppierungen beschränken, die einen nationalen Vertreter benannt haben, der von einer Mindestzahl kommunaler Mandatsträger unterstützt wird (S. 84).
 
--   den ersten Teil der jährlichen Haushaltsbetreuung bei Erhalt einer bestimmten Stimmschwelle bei der letzten Parlamentswahl (C.84);
--   Zugang zu Radio- und Fernsehkampagnen zur politischen Union, die einen nationalen Vertreter ernannt haben, unterstützt durch die Mindestanzahl der lokalen Abgeordneten.
+### 4. Die Organisation des Sozial‑ und Gesundheitssektors:
 
-### 4\. Organisation des Sozial- und Gesundheitssektors:
+- an alle öffentlichen Dienste und Gesundheitsberufe einen praktischen Leitfaden verbreiten, der die Anfälligkeitspunkte für Sekten im medico‑sozialen Bereich identifiziert (S. 128);
+- Informationen über von den Berufsordnungen der Gesundheitsberufe verhängte Sanktionen und über laufende Gerichtsverfahren zentralisieren (S. 128);
+- durch die Ärztekammer einen Vertreter zur Interministeriellen Mission zur Bekämpfung der Sekten entsenden lassen (S. 128);
+- ein mögliches Verfahren zur Genehmigung der Bezeichnungen der paramedizinischen Berufe und der medizinischen Hilfsberufe durch eine Expertenkommission prüfen, die die Verwendung von Therapie‑Titeln zulässt und ein Verbot der Ausübung nicht genehmigter Therapien vorschlagen kann (S. 128);
+- in der medizinischen und paramedizinischen Ausbildung die Lehre über
+  - die Methoden der psychologischen Begleitung von Kranken (S. 129);
+  - die Stellung, Rolle und Grenzen der medizinischen und paramedizinischen Berufe in der Gesellschaft (S. 129);
+  verstärken;
+- bereits in der Primar‑ oder Sekundarstufe Unterricht zur Gesundheitserziehung, zu gesunder Lebensweise und zum Verständnis des Körperschemas entwickeln (S. 129);
+- ein Genehmigungs‑ oder Zertifizierungsverfahren für Vereinigungen einführen, die im Bereich der Begleitung und Hilfe für Krankenhauspatienten tätig sind (S. 129);
+- Formen einer therapeutischen Nachbetreuung für ehemalige Anhänger vorsehen und sie in die ärztliche Fortbildung integrieren (S. 129);
+- insbesondere im Rahmen des Bildungswesens Aufklärungskampagnen über Impfungen verstärken (S. 129).
 
--   Verbreitung durch alle öffentlichen Dienstleistungen und medizinische Arbeitnehmer ein praktisches Handbuch, das verletzliche Flecken für den Gesundheitssektor Sex identifiziert.
--   zentralisieren Sie Informationen über Sanktionen, die von professionellen Gesundheitsarbeitern verwendet werden, und die Gerichtsverfahren (s. 128);
--   einen Vertreter der Ärztekollegen der Suche nach Sexkämpfen zuordnen (s. 128);
--   Erlernen der Fähigkeit, Verfahren für parametrische Arbeitsplätze und Gesundheitsassistenten für den Sachverständigenausschuss einzuführen, die die Verwendung von therapeutischen Methoden ermöglichen und ein Verbot der Anwendung von nicht genehmigten (s. 128)
--   Zur Stärkung der medizinischen und paramilitärischen Ausbildungseinrichtungen mit folgenden Disziplinen:
-    -   Die Methoden des psychologischen Gerichts der Kranken. 129;
-    -   Standort, Rolle und Arbeitsplatzbeschränkung der Gesellschaft (§ 129);
--   Design von Grund- oder Sekundärschule, Gesundheitstraining, gesunden Lebensstil und Verständnis Bodybuilding (s. 129);
--   Initiieren Sie das Accreation- oder Zertifizierungsverfahren für Verbände, die von einer Begleitperson und mit den konstruierten Personen durchgeführt werden (s. 129);
--   die Methoden der therapeutischen Überwachung früherer Follower vorhersagen und im Programm der kontinuierlichen Ausbildung für Ärzte (s. 129) enthalten;
--   erweitert, einschließlich der nationalen Bildung, eine Kampagne zur Verbesserung des Bewusstseins für Impfstoffe. 129.
+### 5. Die Regelung der beruflichen Weiterbildung:
 
-### 5\. Trainingsleistung:
+- die Zulassung und Kontrolle der Träger der beruflichen Weiterbildung einer öffentlich‑rechtlichen Anstalt übertragen, der ein Teil der Arbeitgeberbeiträge zur Finanzierung ihres Betriebs zugewiesen wird (S. 158 und 159);
+- der Automatik der Mehrwertsteuerbefreiung ein Ende setzen, indem sie auf ordnungsgemäß zugelassene Träger beschränkt wird (S. 159);
+- der Verwaltung ausdrücklich die Befugnis einräumen, die Eintragung eines Trägers zu widerrufen, wenn sich zeigt, dass er nicht in den Bereich der beruflichen Weiterbildung fällt oder sich auf betrügerische Machenschaften eingelassen hat (S. 159);
+- eine Sensibilisierungskampagne für Unternehmen einleiten, organisiert vom Staat und den Berufsorganisationen (S. 160);
+- ein Programm zur Zertifizierung (Labellisierung) von Weiterbildungsträgern ausarbeiten (S. 161).
 
--   Anweisung und Verwaltung des öffentlichen Verwaltungsorgans wird der Finanzierung der Arbeitgeber zugewiesen (§ 158 und 159);
--   Löschen Sie die automatische Veröffentlichung von Mehrwertsteuer, so dass es nur für richtige akkreditierte Organisationen (s. 159);
--   Geben Sie der Verwaltung eine klare Behörde, um die Organisationsregistrierung loszuwerden, wenn sich herausstellt, dass sie nicht den Anforderungen der beruflichen Bildung oder mit Betrug verbunden ist (s. 159);
--   Starten Sie eine Informationskampagne für Unternehmen organisierten Staat und Berufsorganisationen (s).
--   Gestalten Sie ein Bildungs-Service-Zertifikat Programm (s. 161).
+### 6. Maßnahmen zur Verbesserung der Betrugsbekämpfung:
 
-### 6\. Kommen Sie herein, um den Kampf mit Betrug zu verbessern:
+a) Anpassung der Strafverfahren
 
-a) Verbesserung der kriminellen Verfahren
+- eine Konsultation über die Zweckmäßigkeit der Schaffung eines Straftatbestands der geistigen Manipulation einleiten (S. 216);
+- unter strikter Beachtung des Grundsatzes der Unschuldsvermutung die Möglichkeit einer Beweislastumkehr für die bedeutendsten Geldtransfers prüfen, wenn sie mit Sekten in Verbindung stehen (S. 218).
 
--   Beginnen Sie die Konsultation zum Zweck der Schaffung einer "mentalen Manipulation" (s. 216);
--   Es ist schwer zu lernen, den Prinzipien der Unschuld zu folgen, die Fähigkeit, die Last der am meisten übertragenen Gelder zu transportieren, wenn sie mit dem Sex verbunden sind.
+b) Mobilisierung der Verwaltung
 
-\= sync, berichtigt von elderman = = =
+- durch einen interministeriellen Ausschuss unter der Autorität des Premierministers und mit der technischen Unterstützung der Interministeriellen Mission zur Bekämpfung der Sekten den allgemeinen Rahmen für das Handeln des Staates festlegen, der durch ein Rundschreiben jedes Ministeriums präzisiert wird (S. 249);
+- die Vertretung der Finanzinstitute bei der Interministeriellen Mission zur Bekämpfung der Sekten vorsehen (S. 182);
+- die Schaffung von auf Départementebene angesiedelten Strukturen prüfen, die der Interministeriellen Mission zur Bekämpfung der Sekten zugeordnet werden und folgende Aufgaben haben (S. 249):
+  - in jeder Präfektur ein Informationszentrum für die Öffentlichkeit, die Unternehmen und die Finanzinstitute einzurichten;
+  - die Opfer, ehemalige Anhänger und ihre Familien zu orientieren und zu beraten;
+  - den betroffenen Verwaltungen die für ihr Handeln notwendigen Informationen zur Verfügung zu stellen;
+  - im Gegenzug alle Informationen der Verwaltungen über die sektiererische Tätigkeit im Département zu sammeln;
+- die Möglichkeit prüfen, im Zuständigkeitsbereich jedes Berufungsgerichts eine Stelle für einen besonders im Bereich Sektenfragen geschulten Richter zu schaffen. Diese Funktion würde eine sinnvolle Ergänzung zu der derzeit von dem beim Parquet benannten Sektenkontakt wahrgenommenen Aufgabe darstellen (S. 250 und 251);
+- innerhalb der Europäischen Union eine Konsultation einleiten, die auf eine spezifische Konvention zur Bekämpfung der Sekten hinausläuft (S. 251);
+- auf Ebene des Europarats eine diplomatische Initiative zu den Gefahren des Sektierertums, zur Präsenz von Sekten innerhalb nichtstaatlicher Organisationen mit erklärtem humanitärem Auftrag und zu den durch das Übereinkommen von 1986 geschaffenen Risiken ergreifen (S. 92).
 
--   die allgemeine Grenze des staatlichen Handelns im Zirkus jedes Ministeriums (s. 249) durch die Verwendung des Interuserausschusses unter der Leitung des Premierministers und der technischen Unterstützung der Verlagerung von sexueller Aktivität;
--   die Vertretung von Finanzinstituten bei der interversalen Mission mit Sex (s. 182);
--   Lernen Sie die Fähigkeit, eine Abteilung der Geheimnisse zu schaffen, gebundene interverse Missionen, um Sex zu bekämpfen, mit denen zu tun ist (s. 249):
-    -   ein Zentrum für öffentliches Bewusstsein, Unternehmen und Finanzinstitute in jedem Präfekten schaffen;
-    -   Beratung und Beratung bei den Opfern, ehemaligen Asduken und ihren Familien;
-    -   Bereitstellung angemessener administrativer Informationen, die für ihre Tätigkeiten erforderlich sind;
-    -   Erstellen Sie wiederum alle Informationen aus der Verwaltung über die Sexaktivität in der Abteilung;
--   Betrachten Sie die Fähigkeit, innerhalb jeder Appellabteilung die speziell für die Kultfragen vorbereiteten Autobahnen zu posten. Diese Funktion würde eine nützliche Ergänzung zur Funktion des aktuellen Sequenzers auf dem Patch werden (s. 250 und 251);
--   Beginnen Sie eine Konsultation innerhalb der Europäischen Union, um einen Sonderwettbewerb zur Bekämpfung von Sex einzuschreiben (s. 251);
--   Beginnen Sie diplomatische Maßnahmen im Europarat für die Geschlechtergefahr, das Vorhandensein von Geschlecht in Nichtregierungsorganisationen, die Bestätigung humanitärer Absichten und Risiken, die durch die Regel von 1986 geschaffen wurden.
+### 7. Nachverfolgung der Vorschläge:
 
-### 7\. Positionskontrolle:
-
-Gehen Sie zu der Regierung, die nach einer interliving Mission zur Bekämpfung des Geschlechts verlangt, bereiten Sie die Maßnahmen für die oben genannten Positionen vor.
+Die Regierung ersuchen, die Interministerielle Mission zur Bekämpfung der Sekten mit der Ausarbeitung der Maßnahmen zur Umsetzung der obigen Vorschläge zu beauftragen.

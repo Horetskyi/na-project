@@ -1,25 +1,25 @@
-## Absoluuttinen toimitus ihanteellinen ja murto linkit ulkopuolelle
+## Absoluuttinen antautuminen ihanteelle ja siteiden katkaiseminen ulkomaailmasta
 
-Jokainen päivä, joka menee, jokainen tunti, jokainen minuutti, joka kulkee sinun täytyy omistaa se täysin Acropolikselle. Joka päivä meidän on työskenneltävä Akropolikselle ja yritettävä saada jäsen, liitä julisteita, tehdä kaikki tarvittavat käännökset, vaihdot, joiden avulla saamme yhä enemmän veljiä, enemmän käsiä, enemmän aseita korkealla, mikä osoittaa horisontin.
+Jokainen kuluva päivä, jokainen kuluva tunti, jokainen kuluva minuutti on omistettava täysin Uudelle Akropolikselle. Meidän on joka päivä työskenneltävä Uuden Akropoliksen hyväksi ja pyrittävä hankkimaan jäseniä, liimaamaan julisteita, hoitamaan kaikki tarvittavat käännös- ja vaihtotehtävät, jotka antavat meille yhä enemmän veljiä, enemmän yhdistyneitä käsiä, enemmän ylös nostettuja käsivarsia, jotka osoittavat horisonttia.
 
-> Bastion nro 60-1: Uudenvuoden viesti GM. Jal. Tammikuussa 1982. Jorge Ángel Livraga
-
----
-
-Meidän Movementissamme emme pyydä sinua olemaan anacoreta, mutta se alkaa murtaa hyödyttömiä kahleita ystävien ja ystävien kanssa, jotka eivät osallistu ihanteeseesi, vaikka he tietävät sen, ja kaikkien kanssa, kuka se onkaan, vastustamaan nykyistä henkistä visiotasi, sillä näiden vanhojen suhteiden ylläpitäminen vahingoittaa sinua ja niitä ihmisiä, jotka eivät ole vielä heränneet filosofina; jotka häpeäisivät sinua tai pilkkaisivat sitä, mitä sinulla on pyhimmästä: Akropolis-ihanteesi.
-
-> Bastion No. 30: Käytännön vinkkejä uudelle Akropolikselle. Helmikuu 1979. Jorge Ángel Livraga
+> Bastión Nº 60-1: Uudenvuoden viesti MM. JAL. Tammikuu 1982. Jorge Ángel Livraga
 
 ---
 
-Meidän on vältettävä "Kama-manasin" psykologista ansaa tunteaksemme aikaa, joka on omistettu Uudelle Akropolikselle jonain "kiurrettuna" elämässämme. Totuus on aivan päinvastainen; ainoat hyödylliset tunnit nykyisestä inkarnaatiostamme ovat ne, jotka on omistettu ihanteelle. Kaikki muu on pölyä, jota elämän tuuli on vastuussa leviämisestä.
+Liikkeessämme emme vaadi sinulta erakoksi ryhtymistä, mutta ala katkaista hyödyttömiä kahleita niiden ystävien kanssa, jotka eivät osallistu ihanteeseesi vaikka tuntevat sen, sekä kaikkien niiden ihmisten kanssa, kuka hyvänsä he ovatkaan, jotka vastustavat nykyistä henkistä visiotasi; sillä näiden vanhojen suhteiden ylläpitäminen vahingoittaa sinua ja niitä ihmisiä, jotka eivät ole vielä heränneet philosophokseksi; jotka häpeäisivät sinua tai pilkkaisisivat sitä, mitä sinulla on pyhintä: akropolinen ihanteesi.
 
-> Bastion nro 63-3: Miten käyttää aikaa. Toukokuu 1982. Jorge Ángel Livraga
+> Bastión Nº 30: Käytännön neuvoja uusille akropolisteille. Helmikuu 1979. Jorge Ángel Livraga
 
 ---
 
-Ajatus siitä, että sinun on oltava "valmistautunut" muodostamaan opetuslapsia, ei saisi rajoittua älylliseen, jopa kulttuuriseen valmisteluun. Se on enemmänkin määrätietoisen ja heräävän tahdon arvoinen, - joka mahdollistaa todellisen sopimuksen NATURALEZAn ja jumalien kanssa... Encyclopedismin aika on ohi!
+Meidän on vältettävä "Kama-manas" -ansaa, joka saa tuntemaan Uudelle Akropolikselle omistetun ajan kuin jotain elämästämme revittyä. Totuus on päinvastainen; nykyisen inkarnaatiomme ainoat hyödylliset tunnit ovat ne, jotka on omistettu ihanteelle. Kaikki muu on pölyä, jonka elämän tuuli huolehtii levittävänsä.
 
-Ja jos on olemassa "vanhat opetuslapset," jotka eivät ymmärrä tätä, meidän täytyy siirtää heidät keskustaan ja antaa heille koulutyötä, jättäen ensimmäisen linjan, kokoelma ja puolustus Ihanteellinen muille nuoremmille sydämessä, enemmän "aggressiivinen" ja voimakas. Tarvitsemme "leikkaus reunat" Empire ihmiset täysin annetaan ihanteellinen, yksinkertaisia ja selkeitä ajatuksia, luonnollinen nouseva voima, jotka eivät tee mitään suurempia ongelmia ollenkaan.
+> Bastión Nº 63-3: Miten käyttää aika hyväksi. Toukokuu 1982. Jorge Ángel Livraga
 
-> Komento nro 26: NM:n ja opetuslasten suhde. Jorge Ángel Livraga
+---
+
+Ajatus siitä, että täytyy olla "valmis" muodostamaan opetuslapsia, ei saa rajoittua älylliseen valmistautumiseen, ei edes kulttuuriseen. Enemmän arvoa on päättäväisellä ja hereillä olevalla tahdolla, joka mahdollistaa AIDON YHTEYDEN LUONTOON JA JUMALIIN… "Ensyklopedismin" aika on jo ohi!
+
+Ja jos on olemassa "vanhoja opetuslapsia", jotka eivät ymmärrä tätä, heidät täytyy siirtää keskukseen ja antaa heille koululuonteisia tehtäviä, jättäen etulinjan rekrytointi- ja ihanteen puolustamistehtävät muille, nuoremmille sydämeltään, enemmän "aggressiivisille" ja voimakkaille. Tarvitsemme imperiumin reunamille ihmisiä, jotka ovat täysin antautuneet ihanteelle, yksinkertaisine ja selkeine ajatuksineen, luonnollisella nousevalla voimalla, jotka eivät tee suuria ongelmia mistään.
+
+> Mando Nº 26: MN:n ja opetuslasten suhde. Jorge Ángel Livraga

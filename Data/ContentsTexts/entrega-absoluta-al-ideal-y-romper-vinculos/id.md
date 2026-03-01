@@ -1,25 +1,25 @@
-## Pengiriman absolut ke ideal dan melanggar link ke luar
+## Pengabdian mutlak kepada Ideal dan memutuskan ikatan dengan lingkungan luar
 
-Setiap hari yang berlalu, setiap jam yang berlalu, setiap menit yang lewat Anda harus mendedikasikan sepenuhnya untuk Acropolis. Setiap hari kita harus bekerja untuk Acropolis, dan mencoba untuk membuat anggota, poster pasta, melakukan semua pekerjaan yang diperlukan dari terjemahan, pertukaran, yang memungkinkan kita untuk memiliki lebih dan lebih saudara, lebih tangan bersatu, lebih banyak lengan tinggi yang menunjukkan cakrawala.
+Setiap hari yang berlalu, setiap jam yang berlalu, setiap menit yang berlalu Anda harus mendedikasikannya sepenuhnya untuk Akropolis Baru. Setiap hari kita harus bekerja demi Akropolis Baru, dan berusaha merekrut seorang anggota, menempel poster, menyelesaikan semua pekerjaan yang diperlukan seperti terjemahan, pertukaran, yang memungkinkan kita semakin memiliki lebih banyak saudara, lebih banyak tangan bersatu, lebih banyak lengan terangkat yang menunjuk cakrawala.
 
-> Bastion No. 60- 1: Pesan Tahun Baru dari GM. JAL. Januari 1982. Jorge Ángel Livraga
-
----
-
-Dalam Gerakan kami kami tidak meminta Anda untuk menjadi anacoreta, tetapi mulai melanggar rantai tidak berguna dengan teman-teman dan teman-teman yang tidak berpartisipasi dalam Ideal Anda meskipun mereka tahu, dan dengan semua orang, siapa pun itu, untuk menentang Anda Spiritual Vision saat ini, untuk menjaga hubungan lama ini akan menyakiti Anda dan orang-orang, yang belum terbangun sebagai filsuf, yang akan malu dari Anda atau mengejek oleh apa yang paling suci: Acropolis Anda.
-
-> Beberapa tips praktis untuk Acropolis baru. Februari 1979. Jorge Ángel Livraga
+> Bastión Nº 60-1: Pesan Tahun Baru dari MM. JAL. Januari de 1982. Jorge Ángel Livraga
 
 ---
 
-Kita harus menghindari perangkap psikologis dari "Kama- manas" untuk merasakan waktu didedikasikan untuk Acropolis baru sebagai sesuatu "terkoyak" dalam hidup kita. Kebenaran hanyalah sebaliknya; satu-satunya waktu yang berguna dari inkarnasi kita saat ini adalah mereka yang didedikasikan untuk perjanjian tersebut. Segala sesuatu yang lain adalah debu bahwa angin kehidupan bertanggung jawab menyebarkan.
+Dalam Gerakan kami kami tidak meminta Anda menjadi seorang anacoreta, melainkan mulailah memutuskan rantai-rantai yang tidak berguna dengan teman-teman yang tidak berpartisipasi dalam Ideal Anda meskipun mereka mengetahuinya, dan dengan setiap orang, siapapun dia, yang menentang Visi Spiritual Anda saat ini, karena mempertahankan hubungan-hubungan lama itu akan menyakiti Anda dan orang-orang itu, yang belum terbangun sebagai filsuf; yang akan malu terhadap Anda atau mengejek apa yang paling suci yang Anda miliki: Ideal Akropolis Anda.
 
-> Bagaimana menggunakan waktu. Mei 1982. Jorge Ángel Livraga
+> Bastión Nº 30: Beberapa saran praktis untuk para akropolis baru. Februari de 1979. Jorge Ángel Livraga
 
 ---
 
-Pikiran bahwa Anda harus "siap" untuk membentuk murid tidak boleh terbatas pada intelektual, bahkan persiapan budaya. Hal ini lebih bernilai ditentukan dan bangun-up akan yang memungkinkan kesepakatan nyata dengan NATURALEZA dan para dewa... Waktu "ensiklopedism" sudah berakhir!
+Kita harus menghindari perangkap psikologis yang dipasang oleh "Kama-manas" yang membuat kita merasakan waktu yang didedikasikan untuk Akropolis Baru sebagai sesuatu yang "tercabut" dari hidup kita. Kebenarannya justru sebaliknya; satu-satunya jam yang berguna dari inkarnasi kita saat ini adalah yang didedikasikan untuk Ideal. Segala hal lain adalah debu yang angin kehidupan bertugas menyebarkan.
 
-Dan jika ada "tua murid" yang tidak memahami hal ini, kita harus memindahkan mereka ke Pusat dan memberi mereka pekerjaan scholastic, meninggalkan baris pertama, koleksi dan pertahanan perjanjian untuk orang lain yang lebih muda dalam hati, lebih "agresif" dan kuat. Kita perlu dalam "memotong tepi" dari orang-orang Kekaisaran sepenuhnya diberikan kepada Ideal, ide sederhana dan jelas, kekuatan naik alam, yang tidak membuat masalah yang lebih besar sama sekali.
+> Bastión Nº 63-3: Tentang bagaimana memanfaatkan waktu. Mei de 1982. Jorge Ángel Livraga
 
-> Perintah No. 26: Hubungan NM dan murid-murid. Jorge Ángel Livraga
+---
+
+Berpikir bahwa harus "siap" untuk membentuk murid tidak boleh dibatasi pada persiapan intelektual, bahkan tidak pada persiapan budaya. Lebih bernilai sebuah kehendak yang teguh dan terjaga yang memungkinkan KONTAK NYATA DENGAN ALAM DAN DENGAN PARA DEWA… ¡Zaman "ensiklopedisme" sudah berlalu!
+
+Dan jika ada "murid-murid tua" yang tidak memahami ini, mereka harus dipindahkan ke Pusat dan diberi pekerjaan sekolah, meninggalkan tugas-tugas garis depan, perekrutan dan pembelaan Ideal kepada yang lebih muda hatinya, lebih "agresif" dan bersemangat. Kita membutuhkan di "tepi-potong" Kekaisaran orang-orang yang sepenuhnya menyerahkan diri pada Ideal, dengan gagasan-gagasan sederhana dan jelas, dengan kekuatan kenaikan yang alami, yang tidak membuat masalah besar terhadap apa pun.
+
+> Mando Nº 26: Relación de los MN y discípulos. Jorge Ángel Livraga

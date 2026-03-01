@@ -1,9 +1,9 @@
-# La "Fachada esterna" del normale
+# La «Facciata Esterna» della normalità
 
-> Non è possibile che, facendo molte attività di fronte all'esterno che possono dare un prestigio relativo, o piuttosto una "maschera prestigiata", stiamo perdendo l'opportunità di dare ai nostri membri l'attenzione e il controllo necessari?
+> Non è possibile che, facendo molte attività rivolte all'esterno che possono dare un prestigio relativo, o meglio una «maschera di prestigio», stiamo perdendo l'opportunità di dare ai nostri Membri l'attenzione e il controllo necessari?
 > 
-> È mio parere che avremmo le mandrie nazionali, che si concentrano su una selezione molto veritiera e assente di preferenze personali riguardo alle attività esterne che se da un lato ci danno quella "maschera" dell'attività eclettica, dall'altro ci tolgono l'identità con i nostri principi e ideali.
+> A mio avviso dovremmo, noi Comandi Nazionali, dedicarci a una selezione molto veritiera e priva di preferenze personali riguardo alle attività esterne che, se da un lato ci danno quella «maschera» di attività eclettica, dall'altro ci privano dell'identità con i nostri stessi Principi e Ideali.
 > 
-> Credo che se continuiamo a dedicarci tanto alla "facade" della nostra Istituzione trascurando le persone che già la formano, la perdita annuale dei deputati continuerà.
+> Credo che se continuiamo a dedicarci tanto alla «facciata» della nostra Istituzione trascurando le persone che già la compongono, la perdita annuale di Membri continuerà.
 > 
-> \- No. *Comando n. 14: Come catturare e conservare i membri? Jorge Ángel Livraga*
+> — *Comando n. 14: Come attrarre e trattenere i Membri? Jorge Ángel Livraga*

@@ -1,25 +1,25 @@
-## Absoliutus pristatymas į idealų ir nutraukti nuorodas į išorę
+## Absoliutus pasišventimas idealui ir ryšių su išorė nutraukimas
 
-Kiekviena praeinanti diena, kiekviena praeinanti valanda, kiekviena praeinanti minutė turi skirti ją visai Akropoliui. Kiekvieną dieną mes turime dirbti Acropolis, ir pabandyti, kad narys, įklijuoti plakatai, atlikti visą reikalingą darbą vertimai, mainų, kad leistų mums turėti vis daugiau brolių, daugiau rankų suvienytas, daugiau ginklų aukšto, kad atkreipti dėmesį į horizontą.
+Kiekvieną praeinančią dieną, kiekvieną praeinančią valandą, kiekvieną praeinančią minutę turite visiškai atiduoti Naujajam Akropoliui. Kiekvieną dieną turime dirbti Naujajam Akropoliui ir stengtis pritraukti narius, klijuoti plakatus, atlikti visus būtinus vertimų ir mainų darbus, kurie leistų mums turėti vis daugiau brolių, daugiau suvienytų rankų, daugiau pakeltų rankų, rodančių į horizontą.
 
-> Bassion Nr. 60-1: Naujųjų metų pranešimas iš GM. JAL. 1982 m. sausio mėn. Jorge Ángel Livaga
-
----
-
-Mūsų judėjimo mes neprašome būti anacoreta, bet jis pradeda laužyti nenaudingas grandines su draugais ir draugais, kurie nedalyvauja jūsų Ideal, nors jie žino, ir su visais, kad ir kas jis yra, priešintis savo dabartinę Dvasinę viziją, už tai, kad išlaikyti šiuos senus santykius bus skauda jums ir tiems žmonėms, kurie dar atsibudo kaip filosofai; kurie būtų gėda jums arba tyčiojasi, ką jūs turite labiausiai šventas: Jūsų Acropolis Ideal.
-
-> Basttion Nr. 30: Kai kurie praktiniai patarimai naujajam akropoliui. 1979 m. vasario mėn. Jorge Ángel Livaga
+> Bastionas Nr. 60-1: Naujųjų metų pranešimas MM. JAL. 1982 m. sausio mėn. Jorge Ángel Livraga
 
 ---
 
-Turime vengti "Kama- manas" psichologinių spąstų, kad jaustume laiką, skirtą Naujajam akropoliui, kaip kažką "sudraskyto" mūsų gyvenime. Tiesa yra tiesiog priešinga; vienintelės naudingos valandos mūsų dabartinio įsikūnijimo yra tos, kurios skirtos Idealiai. Visa kita yra dulkės, už kurias atsakingas gyvybės vėjas.
+Mūsų judėjime mes neprašome tavęs būti anachoretu, tačiau pradėk laužyti nenaudingas grandines su draugais ir draugėmis, kurie nedalyvauja tavo Ideale, nors jį pažįsta, ir su bet kuriuo žmogumi, kas jis bebūtų, kuris priešinasi tavo dabartinei Dvasinei Vizijai; nes tokių senų santykių palaikymas pakenks tau ir tiems žmonėms, kurie dar neatsibudo kaip filosofai; kurie gėdintųsi tavęs arba tyčiotųsi iš to, kas tau yra švenčiausia: tavo akropolitinis idealas.
 
-> Basttion Nr. 63-3: Kaip naudoti laiką. 1982 m. gegužės mėn. Jorge Ángel Livaga
+> Bastionas Nr. 30: Keletas praktinių patarimų naujiems akropolietams. 1979 m. vasario mėn. Jorge Ángel Livraga
 
 ---
 
-Mintis, kad jūs turite būti "pasirengę" suformuoti mokinius, neturėtų apsiriboti intelektualiu, net kultūriniu pasirengimu. Tai labiau verta ryžtingas ir wakes-up, kad leidžia tikrą sandorį su NATURALEZA ir dievų... "enciklopedimo" laikas baigėsi!
+Turime vengti psichologinių spąstų, kuriuos sėja "Kama-manas" suvokiant Naujajam Akropoliui skirtą laiką kaip kažką „atplėšto“ iš mūsų gyvenimo. Tiesa yra visiškai priešinga; vienintelės naudingos valandos mūsų dabartiniame įsikūnijime yra tos, skirtos Idealui. Viskas kita — dulkės, kurias išbarsto gyvenimo vėjas.
 
-Ir jei yra "seni mokiniai", kurie to nesupranta, mes turime perkelti juos į Centrinį ir suteikti jiems mokslinį darbą, paliekant pirmąją liniją, Ideal kolekciją ir gynybą kitiems jaunesniems širdyje, daugiau "agresyvus" ir galingas. Mums reikia Empire žmonių "pjovimo kraštų" visiškai suteikta Ideal, paprastų ir aiškių idėjų, gamtos kilimo jėga, kad nedaro jokių didesnių problemų ne visi.
+> Bastionas Nr. 63-3: Apie laiko išnaudojimą. 1982 m. gegužės mėn. Jorge Ángel Livraga
 
-> Komanda Nr. 26: NM ir mokinių santykiai. Jorge Ángel Livaga
+---
+
+Mintis, kad reikia būti „pasiruošusiam“ formuoti mokinius, neturėtų apsiriboti tik intelektualiniu ar net kultūriniu pasirengimu. Daug daugiau reiškia ryžtinga ir pabudusi valia, leidžianti TIKRĄ KONTAKTĄ SU GAMTA IR SU DIEVAIS… „enciklopedizmo“ era jau praėjo!
+
+Ir jeigu yra „seni mokiniai“, kurie to nesupranta, juos reikia perkelti į Centrą ir duoti jiems mokyklinius darbus, paliekant pirmosios linijos — Idealo pritraukimo ir gynimo — užduotis kitiems, jaunesniems širdimi, labiau „agresyviems“ ir veržliems. Mums reikalingi Imperijos „pjūvio pakraščiuose“ žmonės, visiškai atsidavę Idealui, su paprastomis ir aiškiomis idėjomis, turintys natūralią kilimo jėgą, kurie dėl nieko nesukuria didesnių problemų.
+
+> Įsakymas Nr. 26: MN ir mokinių santykiai. Jorge Ángel Livraga

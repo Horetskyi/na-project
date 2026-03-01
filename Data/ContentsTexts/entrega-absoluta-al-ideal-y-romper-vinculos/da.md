@@ -1,25 +1,25 @@
-## Absolut levering til den ideelle og breaking links til ydersiden
+## Absolut overgivelse til idealet og at bryde bånd med omverdenen
 
-Hver dag, der går, hver time, der går, hvert minut, der går, du skal dedikere det helt til Akropolis. Hver dag skal vi arbejde for Akropolis, og forsøge at gøre et medlem, paste plakater, udføre alt det nødvendige arbejde med oversættelser, udvekslinger, der giver os mulighed for at have flere og flere brødre, flere hænder forenet, flere våben højt at pege horisonten.
+Hver dag der går, hver time der går, hvert minut der går skal I dedikere det fuldstændigt til Ny Akropolis. Hver dag skal vi arbejde for Ny Akropolis, og forsøge at skaffe et medlem, sætte plakater op, udføre alt det nødvendige arbejde med oversættelser og udvekslinger, som gør det muligt for os at få flere og flere brødre, flere forenede hænder, flere løftede arme, der peger mod horisonten.
 
-> Bastion nr. 60-1: Nytårsbudskab fra GM. JAL. Januar 1982. Jorge Ángel Livraga
-
----
-
-I vores bevægelse beder vi dig ikke om at være en anacoreta, men det begynder at bryde ubrugelige kæder med venner og venner, der ikke deltager i din Ideal, selvom de kender det, og med alle, uanset hvem det er, at modsætte sig din nuværende Spiritual Vision, for opretholdelse af disse gamle relationer vil skade dig og de mennesker, der endnu ikke har vækket som filosoffer; hvem ville skamme sig over dig eller hånet af, hvad du har af de mest hellige: Din Akropolis Ideal.
-
-> Bastion nr. 30: Nogle praktiske tips til den nye Akropolis. I februar 1979. Jorge Ángel Livraga
+> Bastión nr. 60-1: Nytårsbudskab fra MM. JAL. Januar 1982. Jorge Ángel Livraga
 
 ---
 
-Vi må undgå den psykologiske fælde "Kama-manas" for at føle tiden dedikeret til New Akropolis som noget "revet væk" i vores liv. Sandheden er det modsatte; de eneste nyttige timer i vores nuværende inkarnation er dem dedikeret til Ideen. Alt andet er støv, som livets vind har ansvaret for at sprede.
+I vores Bevægelse beder vi dig ikke om at være en eremitt, men begynd at bryde nytteløse kæder med venner og veninder, som ikke deltager i dit Ideal på trods af at kende det, og med enhver person, hvem det end er, der modsætter sig din nuværende åndelige vision; for det at bevare disse gamle relationer vil skade dig og disse mennesker, som endnu ikke er vågnet som filosoffer; som ville skamme sig over dig eller håne det, du har af mest helligt: Dit akropolistiske Ideal.
 
-> Bastion nr. 63-3: Hvordan man bruger tid. Maj 1982. Jorge Ángel Livraga
+> Bastión nr. 30: Nogle praktiske råd til de nye akropolister. Februar 1979. Jorge Ángel Livraga
 
 ---
 
-Tanken om, at man skal være "forberedt" på at danne disciple, bør ikke begrænses til en intellektuel, selv kulturel forberedelse. Det er mere værd en beslutsom og vågen- op vilje, der tillader en reel aftale med NATURALEZA og guderne... Tiden for "encyklopædi" er forbi!
+Vi må undgå den psykologiske fælde lagt af "Kama-manas" med at føle den tid, der er viet til Ny Akropolis, som noget "revet væk" fra vores liv. Sandheden er netop det modsatte; de eneste nyttige timer i vores nuværende inkarnation er dem, der er viet til Ideal. Alt andet er støv, som livets vind sørger for at sprede.
 
-Og hvis der er "gamle disciple", der ikke forstår dette, vi nødt til at flytte dem til Central og give dem skolemæssige arbejde, forlader den første linje, indsamling og forsvar af Ideen til andre yngre i hjertet, mere "aggressive" og magtfulde. Vi har brug for i "skære kanter" af Empire folk fuldt ud givet til Ideel, af enkle og klare ideer, af naturlige opstigende kraft, der ikke gør nogen større problemer overhovedet.
+> Bastión nr. 63-3: Om hvordan man udnytter tiden. Maj 1982. Jorge Ángel Livraga
 
-> Kommando nr. 26: NM 'ens og disciplenes forhold. Jorge Ángel Livraga
+---
+
+Tanken om, at man skal være "forberedt" på at danne disciple, bør ikke begrænses til en intellektuel forberedelse, heller ikke til en kulturel. Mere værd er en beslutsom og vågen vilje, som tillader EN ÆGTE KONTAKT MED NATUREN OG MED GUDERNE… Tiden for "encyklopedismen" er allerede forbi!
+
+Og hvis der er "gamle disciple", som ikke forstår dette, må man flytte dem til Centralen og give dem skoleprægede opgaver, mens man overlader førstelinjearbejdet med rekruttering og forsvar af Ideal til andre, som er yngre af hjertet, mere "aggressive" og drivende. Vi har brug for i Imperiets "skærekanter" mennesker fuldstændigt overgivne til Ideal, med enkle og klare ideer, med naturlig opstigningskraft, som ikke gør store problemer over noget som helst.
+
+> Kommando nr. 26: Forholdet mellem MN og disciple. Jorge Ángel Livraga

@@ -1,25 +1,25 @@
-## İdeale mutlak teslimat ve dış bağlantıları dışa kırmak
+## İdeale mutlak teslimiyet ve dış bağlantıları koparmak
 
-Her gün, geçen her saat, geçtiğin her dakika, onu tamamen Acropolis'e ayırmanız gerekir. Her gün Acropolis için çalışmalıyız ve bir üye yapmaya çalışıyoruz, bir posterler, tüm gerekli çevirileri, değişimleri gerçekleştirmek, bu bize daha fazla ve daha fazla erkek, ufukta daha fazla kol daha fazla.
+Her geçen gün, her geçen saat, her geçen minute bunu tamamen Yeni Akropolis'e adamalısınız. Her gün Yeni Akropolis için çalışmalıyız ve bir üye kazanmaya, afiş yapıştırmaya, çeviriler, değişimler gibi gerekli tüm işleri yerine getirmeye çalışmalıyız; bunlar bize her seferinde daha fazla kardeş, daha fazla birleşmiş el, ufku işaret eden daha fazla kol sağlayacaktır.
 
-> 60-1: GM'den Yeni Yıl Mesajı. JAL. Ocak 1982. Jorge Ángel Livraga
-
----
-
-Hareketimizde, bu eski ilişkileri korumak için size ve bu insanlara karşı çıkmanızı istemeyiz; en kutsal olanlarla hayal kırıklığına uğramayacaklar, Akropolis'iniz herkesle karşı karşıya kalır, kim bu eski ilişkileriniz size ve o insanlara zarar verecektir, ki, sen ve filozoflar olarak uyanmayacaklar; en kutsal olanlardan utanacaklar.
-
-> Bastion No. 30: Yeni Akropolis için bazı pratik ipuçları. Şubat 1979. Jorge Ángel Livraga
+> Bastión Nº 60-1: MM. JAL.'den Yeni Yıl Mesajı. Ocak 1982. Jorge Ángel Livraga
 
 ---
 
-Yeni Acropolis'e hayatımızda "torn away" bir şey olarak adanmış zamanı hissetmek için "Kama- manas" psikolojik tuzağından kaçınmalıyız. Gerçek sadece tam tersidir; şimdiki incarnasyonımızın tek kullanışlı saatleri ideale adanmıştır. Her şey yaşamın rüzgarının yayılmadan sorumlu olduğu tozdur.
+Hareketimizde senden bir münzevi olmanı istemiyoruz; ama idealini bilmesine rağmen ona katılmayan arkadaşlarınla gereksiz zincirleri kırmaya ve kim olursa olsun şu anki Ruhsal Görüşüne karşı çıkan herkesle bağları koparmaya başla. Çünkü o eski ilişkileri sürdürmek sana ve henüz bir filozof olarak uyanmamış olan o kişilere zarar verecektir; onlar senden utanır veya en kutsal olan şeye—Senin Yeni Akropolis İdealin—alay ederlerdi.
 
-> Bastion No. 63-3: Zaman nasıl kullanılır. 1982 Mayıs. Jorge Ángel Livraga
+> Bastión Nº 30: Yeni Akropolistler için bazı pratik öğütler. Şubat 1979. Jorge Ángel Livraga
 
 ---
 
-Öğrencilerin entelektüel, kültürel hazırlıkla sınırlı kalmaması için “ Hazırlık” olmanız gerektiğini düşündü. Daha kararlı ve uyanmaya değer, NATURALEZA ve tanrılarla gerçek bir anlaşmaya izin verecek... "İzmirlik" zamanı sona erdi!
+Kama-manas tarafından kurulmuş, Yeni Akropolis'e adanan zamanı hayatımızdan "koparılmış" bir şey gibi hissetme psikolojik tuzağından kaçınmalıyız. Gerçek tam tersidir; mevcut enkarnasyonumuzun tek yararlı saatleri İdeal'e adanmış olanlardır. Geri kalan her şey, yaşamın rüzgarının dağıtmaya uğraştığı tozdur.
 
-Ve bunu anlamayan “eskiler” varsa, onları Merkez'e taşımak ve onlara scholastic çalışma vermek zorundayız, ilk satırdan, idealin koleksiyonunu ve savunmasını kalpteki diğer gençlere, daha fazla "agresif" ve güçlü. İmparatorluğun "kırık kenarlarını" tamamen ideal, basit ve açık fikirlere, doğal yükselen güçlere, bu, her şeyden daha büyük bir sorun yaratmaz.
+> Bastión Nº 63-3: Zamanı nasıl değerlendirmek üzerine. Mayıs 1982. Jorge Ángel Livraga
 
-> Komut No. 26: NM ve öğrencilerin İlişkisi. Jorge Ángel Livraga
+---
+
+Öğrenciler yetiştirmek için "hazır" olunması gerektiğini düşünmek, sadece entelektüel ya da kültürel bir hazırlıkla sınırlı olmamalıdır. Doğa ve tanrılarla GERÇEK BİR TEMAS sağlayacak kararlı ve uyanık bir irade, yüzeysel hazırlıklardan daha değerlidir… "Ansiklopedizm" çağı zaten geçti!
+
+Ve eğer bunu anlamayan "eski öğrenciler" varsa, onları Merkeze nakletmeli ve onlara skolastik işler vermeliyiz; ön saflardaki İdealin kazanımı ve savunması işlerini ise yürekleri daha genç, daha "saldırgan" ve dinamik olan başkalarına bırakmalıyız. İmparatorluğun "kesim kenarlarında" İdeal'e tamamen teslim olmuş, fikirleri basit ve açık, doğal yükseliş gücüne sahip ve hiçbir şey karşısında aşırı sorun yapan kişiler olması gerekir.
+
+> Mando Nº 26: MN ile öğrenciler arasındaki ilişki. Jorge Ángel Livraga

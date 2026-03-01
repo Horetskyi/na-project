@@ -1,111 +1,113 @@
 (Pagina 51)
 
-Così la Nuova Acropoli fu in grado di riscoprirsi sotto il suo controllo dell'antica associazione, la Scuola Internazionale di Parigi creata nel 1883 e sospesa dopo la demolizione. Questa associazione ebbe una sorta di prestigio alla fine del XIX secolo coinvolgendo scienziati famosi, ma durante la seconda guerra mondiale si verificarono cambiamenti estremi. Restaurato dalla Nuova Acropoli, è ora un ramo del sesso che offre agli studenti stranieri di diventare.
+Così, la Nuova Acropoli ha potuto far rinascere sotto il suo controllo un’associazione antica, l’Ecole d’anthropologie de Paris, creata nel 1883 e rimasta in sonno dalla Liberazione. Si tratta di un’associazione che godette di un certo prestigio alla fine del XIX secolo reclutando scienziati di rilievo, prima di conoscere una deriva estremista durante la seconda guerra mondiale. Recuperata dalla Nuova Acropoli, è attualmente una «filiale» della setta che propone per questo tramite stage a studenti stranieri.
 
 ---
 
 (Pagina 65)
 
-La nuova Acropolis richiede ai suoi seguaci da un certo numero di ore di volontariato alla sua scuola di essere assunto, servizio e segretaria lavoro.
+La Nuova Acropoli esige dai suoi adepti un numero determinato di ore di lavoro volontario nella sua «scuola», consacrate a compiti di accoglienza, di manutenzione e di segreteria.
 
 ---
 
-(152- 153 pagine)
+(Pagine 152–153)
 
-La nuova Acropoli aveva un istituto educativo a causa di Hermware Consults, capo della signora Isabel Ludwig, capo dell'associazione sessuale. Registrata a SRC IldeFrance, questa società, che ora è esclusa dal registro di trading, tra cui, insegnando dipendenti FNSEA.
+La Nuova Acropoli ha disposto di un organismo di formazione attraverso la società Hermès consultants diretta dalla sig.ra Isabelle Ludwig, presidente dell’associazione madre della setta. Iscritta al SRC d’Île-de-France, questa società, oggi cancellata dal registro del commercio, ha in particolare formato dei salariati della FNSEA.
 
 ---
 
 (Pagina 182)
 
-Tra questi, Kṛṣṇa, che si stabilì nel castello di Bellow a Utah e nella Uscille Mansion in Indie; la tradizione della proprietà familiare, che è dall'associazione della "Future Culture" da parte delle Armi di Eryth-Loire; la Nuova Anropolis, il proprietario di Kur Petrol, l'ex monastero nello stesso dipartimento;
+Citiamo Krishna installato al castello di Bellevue nel Giura e al domaine d’Oublaisse nell’Indre; Tradition famille propriété disponendo attraverso l’associazione Avenir de la culture del castello di Jaglu nell’Eure-et-Loir; la Nuova Acropoli proprietaria della Cour Pétral, antico monastero situato nello stesso dipartimento; …
 
 ---
 
-(1992-200 pagine)
+(Pagine 199–200)
 
-La nuova Acropoll France Association, Kridell; Hiding stealing; rubare in furto; fallimento del crimine in determinate circostanze - TG Colmard, 27 / 03 / 98... - Come Coloura, 18 / 12 / 98...
-
----
-
-(Pagine 305-306)
-
-Mi dispiace. Mi dispiace. • La seconda guerra mondiale (scrittura) ... raccolti elementi di stima: Il reddito annuo della Nuova Aropol France Association: da 4 a 4,6 milioni di franchi secondo l'esercizio finanziario.
+NUOVA ACROPOLI — Association Nouvelle Acropole France — Vol ; Ricettazione di furto ; Complicità di furto ; Minacce di reato fatte a condizione — TGI di Colmar, 27/03/98 … — CA di Colmar, 18/12/98 …
 
 ---
 
-(Page 252)
+(Pagine 305–306)
 
-## Valutare
-
-Dopo aver fatto questo, la Commissione deve ammettere che il fenomeno del sesso è probabilmente abbastanza lungo nelle nostre società. Esso esprime l'inevitabile disfunzione, e a volte è una sorta di cluster, che porta all'emarginazione incomprensibile. Anche il diritto alla differenza deve essere tutelato. Ma non puoi permettere che questa destra sia minacciata da qualche principio, soprattutto dai deboli. Ecco perché combattere le deviazioni settarie, il parere della Commissione, rimane un requisito che richiede più mezzi, nuovi sforzi per informare la società e la consapevolezza a livello internazionale. La Commissione è consapevole che la tradizione delle contraddizioni tra la libertà di coscienza e l'ordine pubblico in materia di attività settaria è assolutamente scomoda. Non si tratta di contrastare questi due principi, ma si tratta anche di illuminare le loro complessità. Salvare la libertà di coscienza non può essere basata sull'ignoranza della libertà individuale di base: libertà di movimento, possesso di proprietà e uso, cura del proprio corpo e della propria salute, protezione dall'abuso di potere, protezione della sospensione sui loro interessi morali e materiali... La Commissione cerca di garantire la libertà di coscienza e di espressione che si trovano nei confronti dei diritti dell'uomo.
+NOME DELLA SETTA : LA NUOVA ACROPOLI
+A.– ORGANIZZAZIONE … 1°) SEDE INTERNAZIONALE : Bruxelles (Belgio) …
+… 7 sedi locali : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… elementi di valutazione raccolti : Entrate annuali dell’associazione Nouvelle Acropole France : tra 4 e 4,6 MF secondo l’esercizio.
 
 ---
 
-(Page 254)
+(Pagina 252)
 
-## LA CORTE DI MEMORIA
+## Conclusione
 
-(tassi di licenza)
+Al termine dei suoi lavori, la Commissione deve riconoscere che il fenomeno settario è probabilmente destinato a restare a lungo insediato nelle nostre società. Esso esprime i disfunzionamenti inevitabili e costituisce talvolta delle valvole di sfogo attraverso le quali un marginalismo incomprimibile trova modo di evadere. Il diritto alla differenza deve essere anch’esso salvaguardato. Ma non si può ammettere che l’esercizio di questo diritto possa minacciare alcuni principi, e innanzitutto il diritto alla protezione dei più deboli. È per questo che la lotta contro le derive settarie rimane, agli occhi della Commissione, un’esigenza che richiede mezzi meglio adattati, un nuovo sforzo di sensibilizzazione della società e una presa di coscienza a livello internazionale. La Commissione è convinta che la contraddizione tradizionalmente evocata tra libertà di coscienza e ordine pubblico, in materia di comportamenti settari, sia del tutto inoperante. Non si tratta di opporre questi due principi ma, al contrario, di mettere in luce la loro complementarità. La preservazione della libertà di coscienza non può, infatti, fondarsi su una méconnaissance (ignoranza) delle libertà individuali essenziali: di andare e venire, di possedere beni e di goderne, di curare il proprio corpo e la propria salute, di essere protetti contro gli abusi di potere, di difendersi contro le lesioni ai propri interessi morali e materiali… Lavorando affinché gli attacchi portati contro queste libertà dalle derive settarie siano più efficacemente perseguiti e repressi, la Commissione intende che siano così garantite le libertà di coscienza e di espressione, che sono nel cuore stesso del rispetto dei Diritti dell’Uomo.
 
-### 1\. Cambiamenti di associazione:
+---
 
--   rafforzare la democrazia all'interno delle associazioni: aggiungendo un dovere, sovrascrivendo un certo bilancio che può essere fissato a 500.000 franchi, almeno un anno di assemblea totale e la creazione di una relazione sulle attività e i rendiconti finanziari per i membri (s. 51 e 52);
--   mettere su strutture di associazione che hanno un certo impatto economico, ad esempio quelli il cui bilancio annuale è superiore a 500.000 franchi, la responsabilità minima di segnalazione (relazione finanziaria e bilancio);
--   Utilizzare una breve applicazione di istruzioni dal 15 settembre 1998 alle associazioni fiscali per includere i rischi di utilizzare nuove regole nella direzione adatta per lo sviluppo dei fenomeni sezionali (s. 60).
+(Pagina 254)
 
-### 2\. Applicare la legge dal 9 dicembre 1905 per separare la chiesa dallo stato:
+## SINTESI DELLE PROPOSTE DELLA COMMISSIONE
+(i numeri rinviano alle pagine del rapporto)
 
--   Marco all'indirizzo del prefetto e tutti i servizi appropriati circa la separazione della chiesa dallo stato, i criteri dell'Associazione religiosa definita dal Consiglio di Stato, nonché l'applicazione nel caso del Signore (s. 71)
--   Il centro degli organi statali è quello di impostare politiche generali per unire il sistema di protezione sociale delle organizzazioni religiose (s. 75).
+### 1. Adeguamenti allo statuto delle associazioni:
 
-### 3\. Cambiare la legge del finanziamento per la vita politica:
+- rafforzare la democrazia all’interno delle associazioni: mediante l’obbligo, oltre un certo bilancio che potrebbe essere fissato a 500.000 franchi, di procedere ad almeno un’assemblea generale annuale e di redigere una relazione morale e finanziaria a beneficio dei membri (p. 51 e 52) ;
+- sottoporre le strutture associative che hanno un certo peso economico – per esempio, quelle il cui bilancio annuo è superiore a 500.000 franchi – a obblighi minimi di dichiarazione (conto economico e bilancio) (p. 51 e 52) ;
+- sfruttare il rinvio dell’applicazione dell’istruzione del 15 settembre 1998 relativa alla fiscalità delle associazioni, per prendere in considerazione i rischi di utilizzo delle nuove regole in senso favorevole allo sviluppo del fenomeno settario (p. 60).
 
--   dare la prima parte dell'assistenza di bilancio annuale quando riceve una certa soglia di voti alle ultime elezioni parlamentari (C.84);
--   fornire accesso alle campagne radiofoniche e televisive all'unione politica, che hanno nominato un rappresentante nazionale, sostenuto dal numero minimo di deputati locali.
+### 2. Applicazione della legge del 9 dicembre 1905 concernente la separazione delle chiese e dello Stato:
 
-### 4\. Organizzazione degli affari sociali e della sanità:
+- richiamare, per via di circolare all’attenzione dei prefetti e dell’insieme dei servizi interessati, i principi della separazione tra le chiese e lo Stato, e i criteri dell’associazione cultuale definiti dal Conseil d’Etat, nonché l’applicazione che ne è stata fatta nel caso dei Testimoni di Geova (p. 71) ;
+- richiamare l’attenzione dei poteri pubblici sulla necessità di fissare d’ora in poi alcune regole generali per l’affiliazione al regime di protezione sociale dei culti (p. 75).
 
--   diffondere attraverso tutti i servizi pubblici e operatori medici un manuale pratico che identifica le macchie vulnerabili per il sesso del settore sanitario.
--   centralizzare le informazioni sulle sanzioni, utilizzate dai lavoratori sanitari professionali e dai processi giudiziari (s. 128);
--   assegnare un rappresentante dai colleghi dei medici all'interrogatorio per i combattimenti sessuali (sec. 128);
--   Imparare la capacità di introdurre procedure per lavori parametrici e assistenti sanitari per il comitato esperto che consentirebbe l'uso di metodi terapeutici e offrire un divieto di applicazione non approvati (s. 128);
--   Rafforzare gli istituti di formazione medica e paramilitare con le seguenti discipline:
-    -   I metodi di corte psicologica dei malati. 129;
-    -   posizione, ruolo e costrizione del lavoro della società (sec. 129);
--   Progettazione a partire dalla scuola primaria o secondaria, formazione sanitaria, stile di vita sano e comprensione body building (s. 129);
--   Avviare la procedura di Accreazione o certificazione per le associazioni condotte da una escort e con le persone construite (s. 129);
--   prevedere i metodi di monitoraggio terapeutico degli ex seguaci e includerli nel programma di formazione continua per i medici (s. 129);
--   ampliato, compresa l'istruzione nazionale, una campagna per migliorare la consapevolezza sui vaccini. 129.
+### 3. Adeguamenti alla legislazione relativa al finanziamento della vita politica:
 
-### 5\. Performance formativa:
+- subordinare il beneficio della prima frazione dell’aiuto di bilancio annuale al raggiungimento di una soglia di voti alle ultime elezioni legislative (p. 84) ;
+- riservare l’accesso alla campagna radiotelevisiva alle formazioni politiche che hanno designato un rappresentante nazionale sponsorizzato da un numero minimo di eletti locali (p. 84).
 
--   Istruzione e gestione dell'istituzione amministrativa pubblica saranno assegnati al finanziamento dei datori di lavoro (sec. 158 e 159);
--   Annullare il rilascio automatico dall'IVA, lasciandola solo per le organizzazioni accreditate adeguate (s. 159);
--   Dare all'amministrazione una chiara autorità per sbarazzarsi della registrazione dell'organizzazione, se si scopre che non corrisponde ai requisiti di istruzione professionale o associati a frode (s. 159);
--   Avviare una campagna di informazione rivolta alle aziende organizzate organizzazioni statali e professionali (s).
--   Progettare un programma di certificato di servizio educativo (sec. 161).
+### 4. L’organizzazione del settore degli affari sociali e della salute:
 
-### 6\. Entra per migliorare la lotta con la frode:
+- diffondere a tutto il personale dei servizi pubblici e ai professionisti della salute una guida pratica identificando i punti di vulnerabilità alle sette nel mondo medico-sociale (p. 128) ;
+- centralizzare l’informazione sulle sanzioni adottate dagli ordini professionali delle professioni sanitarie e sulle procedure giudiziarie in corso (p. 128) ;
+- far designare, dall’Ordine dei medici, un rappresentante presso la Missione interministeriale di lotta contro le sette (p. 128) ;
+- studiare un’eventuale procedura di accreditamento delle denominazioni delle professioni paramedicali e degli ausiliari medici, tramite una commissione di esperti che autorizzi l’uso di denominazioni terapeutiche e possa proporre l’interdizione dell’esercizio di quelle non accreditate (p. 128) ;
+- rafforzare, negli studi medici e paramedici, l’insegnamento su:
+  - i metodi di accompagnamento psicologico dei malati (p. 129) ;
+  - il posto, il ruolo e i limiti delle professioni mediche e paramediche nella società (p. 129) ;
+- sviluppare, fin dall’istruzione primaria o secondaria, corsi di educazione alla salute, all’igiene di vita e alla comprensione della rappresentazione corporea (p. 129) ;
+- mettere in atto una procedura di accreditamento o di etichettatura per le associazioni intervenenti nell’accompagnamento e nell’aiuto alle persone ospedalizzate (p. 129) ;
+- prevedere modalità di follow-up terapeutico da proporre agli ex adepti e integrarle nella formazione continua dei medici (p. 129) ;
+- amplificare, in particolare nel quadro dell’istruzione nazionale, le campagne di sensibilizzazione sui vaccini (p. 129).
 
-a) migliorare le procedure penali
+### 5. La regolamentazione della formazione professionale:
 
--   Iniziare la consultazione allo scopo di creare una " manipolazione mentale" (s. 216);
--   È difficile imparare, seguire i principi dell'innocenza, la capacità di trasportare l'onere dei fondi più trasferiti, se sono legati al sesso.
+- affidare l’accreditamento e il controllo degli organismi di formazione professionale a un ente pubblico amministrativo al quale una parte del contributo dei datori di lavoro sarebbe destinata per finanziare il suo funzionamento (p. 158 e 159) ;
+- porre termine all’automaticità dell’esenzione IVA riservandola agli organismi debitamente accreditati (p. 159) ;
+- attribuire esplicitamente all’amministrazione il potere di ritirare l’immatricolazione di un organismo quando risulti che esso non rientra nel quadro della formazione professionale o che si è prestato a manovre fraudolente (p. 159) ;
+- avviare una campagna di sensibilizzazione rivolta alle imprese, organizzata dallo Stato e dalle organizzazioni professionali (p. 160) ;
+- mettere a punto un programma di etichettatura (labellisation) degli organismi di formazione (p. 161).
 
-\= = = sincronizzazione, corretto da elderman = =
+### 6. Misure destinate a migliorare la lotta contro le frodi:
 
--   definire, utilizzando il comitato interutente sotto la guida del Primo Ministro e l'assistenza tecnica di interlocazione dell'attività sessuale, il confine generale dell'azione statale nel circo di ogni ministero (s. 249);
--   Predivisione della rappresentanza delle istituzioni finanziarie in missione interversa con il sesso (sec. 182);
--   Imparare la capacità di creare un Dipartimento di Segreti, bound missioni interverse per combattere il sesso con cui fare (s. 249):
-    -   creare un centro per la consapevolezza pubblica, le istituzioni imprenditoriali e finanziarie in ogni prefetto;
-    -   Consultare e consigliare le vittime, gli ex asduci e le loro famiglie;
-    -   fornire adeguate informazioni amministrative necessarie alle loro attività;
-    -   Costruire, a sua volta, tutte le informazioni dall'amministrazione circa l'attività sessuale nel dipartimento;
--   Considerare la capacità di creare all'interno di ogni reparto di appello per postare le autostrade appositamente preparate per le questioni di culto. Questa funzione diventerà un'aggiunta utile alla funzione eseguita dal sequencer corrente sul patch (sec. 250 e 251);
--   Avviare una consultazione all'interno dell'Unione europea al fine di iscrivere un concorso speciale per combattere il sesso (sec. 251);
--   Avviare l'azione diplomatica al Consiglio d'Europa per il pericolo di genere, la presenza di genere in organizzazioni non governative, confermando l'intento umanitario e i rischi creati dallo Stato del 1986.
+a) l’ammodernamento delle procedure penali
 
-### 7\. Controllo della posizione:
+- avviare una concertazione sull’opportunità di creare un reato di manipolazione mentale (p. 216) ;
+- studiare, nel rigoroso rispetto del principio della presunzione di innocenza, la possibilità di un’inversione dell’onere della prova per i trasferimenti di fondi più importanti quando siano collegati a sette (p. 218).
 
-Vada al governo chiedendo una missione di interferenze per combattere il sesso, preparare le misure per fare le posizioni di cui sopra.
+b) la mobilitazione dell’amministrazione
+
+- definire, mediante un comitato interministeriale, sotto l’autorità del Primo Ministro e con l’assistenza tecnica della Missione interministeriale di lotta contro le sette, il quadro generale dell’azione dello Stato precisato da circolare di ogni ministero (p. 249) ;
+- prevedere la rappresentanza degli istituti finanziari presso la Missione interministeriale di lotta contro le sette (p. 182) ;
+- valutare la creazione di strutture dipartimentali collegate alla Missione interministeriale di lotta contro le sette aventi per compiti (p. 249) :
+  - costituire un centro di informazione al pubblico, alle imprese e agli istituti finanziari in ogni prefettura ;
+  - orientare e consigliare le vittime, gli ex adepti e le loro famiglie ;
+  - fornire alle amministrazioni interessate le informazioni necessarie alla loro azione ;
+  - raccogliere, a ritroso, tutte le informazioni provenienti dalle amministrazioni sull’attività settaria nel dipartimento ;
+- riflettere sulla possibilità di creare, nel territorio di ciascuna corte d’appello, un posto di magistrato appositamente formato per trattare le questioni settarie. Questa funzione costituirebbe un complemento utile alla funzione esercitata dall’attuale corrispondente per le sette presso il Pubblico Ministero (p. 250 e 251) ;
+- avviare una concertazione all’interno dell’Unione europea per giungere a una convenzione specifica per la lotta contro le sette (p. 251) ;
+- intraprendere un’azione diplomatica a livello del Consiglio d’Europa sui pericoli del settarismo, sulla presenza di sette all’interno di organizzazioni non governative con vocazione umanitaria e sui rischi creati dalla convenzione del 1986 (p. 92).
+
+### 7. Monitoraggio delle proposte:
+
+chiedere al Governo di incaricare la Missione interministeriale di lotta contro le sette di preparare le misure di applicazione delle proposte sopra indicate.

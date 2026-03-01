@@ -1,111 +1,113 @@
 (Halaman 51)
 
-Jadi Acropolis Baru mampu menemukan kembali dirinya di bawah kendali asosiasi kuno, Sekolah Internasional Paris dibuat pada tahun 1883 dan ditangguhkan setelah pembongkaran tersebut. Asosiasi ini memiliki semacam prestise pada akhir abad ke-19 melibatkan ilmuwan terkenal, tapi selama Perang Dunia II, perubahan ekstrim telah terjadi. Dipulihkan oleh Acropolis Baru, sekarang cabang seks yang menawarkan siswa asing untuk menjadi.
+Dengan demikian, Akropolis Baru dapat menghidupkan kembali di bawah kendalinya sebuah asosiasi lama, Ecole d’anthropologie de Paris, yang didirikan pada tahun 1883 dan dibekukan sejak masa Pembebasan. Ini adalah sebuah asosiasi yang memiliki prestise tertentu pada akhir abad ke-19 dengan merekrut ilmuwan-ilmuwan terkemuka, sebelum kemudian mengalami penyimpangan ekstremis selama Perang Dunia Kedua. Diambil alih oleh Akropolis Baru, saat ini asosiasi tersebut menjadi “anak perusahaan” dari sekte itu yang melalui cara ini menawarkan pelatihan kepada mahasiswa asing.
 
 ---
 
 (Halaman 65)
 
-Acropolis baru membutuhkan pengikutnya dari beberapa jam kerja sukarela di sekolahnya untuk dipekerjakan, layanan dan pekerjaan sekretaris.
+Akropolis Baru menuntut dari para pengikutnya sejumlah jam kerja sukarela di “sekolah”-nya, yang didedikasikan untuk tugas penerimaan, pemeliharaan, dan kesekretarisan.
 
 ---
 
-(152- 153 halaman)
+(Halaman 152–153)
 
-Acropolis baru memiliki pendirian pendidikan karena Hermware Consults, kepala Mrs Isabel Ludwig, kepala asosiasi seks. Terdaftar untuk SRC IldeFrance, perusahaan ini, yang sekarang dikeluarkan dari register perdagangan, termasuk, dengan mengajar karyawan FNSEA.
+Akropolis Baru memiliki sebuah lembaga pelatihan melalui perusahaan Hermès consultants yang dipimpin oleh Ny. Isabelle Ludwig, ketua asosiasi induk sekte tersebut. Terdaftar pada SRC Ile-de-France, perusahaan ini, yang kini telah dihapus dari daftar perdagangan, khususnya pernah memberikan pelatihan kepada karyawan FNSEA.
 
 ---
 
 (Halaman 182)
 
-Di antara mereka, Kanchella, yang menetap di kastil Bellow di Utah dan di Uscille Mansion di Indie; tradisi properti keluarga, yang oleh asosiasi "Budaya Masa Depan" oleh Tentara Eryth-Loire; New Anropolis, pemilik Kar Petrol, mantan biara di departemen yang sama;
+Dapat disebutkan Krishna yang berpusat di château de Bellevue di Jura dan di domaine d’Oublaisse di Indre; Tradition famille propriété yang, melalui asosiasi Avenir de la culture, memiliki château de Jaglu di Eure-et-Loir; Akropolis Baru, pemilik la Cour Pétral, bekas biara yang terletak di departemen yang sama; …
 
 ---
 
-(1992-200 halaman)
+(Halaman 199–200)
 
-The New Acropolling France Association, Kridell, mencuri, mencuri dalam pencurian; kegagalan kejahatan dalam keadaan tertentu - TG Colmard, 27 / 03 / 98...
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Pencurian; Penadahan hasil pencurian; Keterlibatan dalam pencurian; Ancaman akan melakukan pelanggaran yang dibuat dengan syarat — TGI Colmar, 27/03/98 … — CA Colmar, 18/12/98 …
 
 ---
 
-(Halaman 305- 306)
+(Halaman 305–306)
 
-Maafkan aku. Maafkan aku. Perang Dunia Kedua (ditulis) ... mengumpulkan unsur-unsur perkiraan: Pendapatan tahunan dari Asosiasi Perancis Aropol Baru: dari 4 sampai 4,6 juta franc menurut tahun keuangan.
+NAMA SEKTE: AKROPOLIS BARU  
+A.– ORGANISASI … 1°) MARKAS INTERNASIONAL: Brussel (Belgia) …  
+… ð 7 lokasi setempat: Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …  
+… unsur-unsur penilaian yang dikumpulkan: Penerimaan tahunan Association Nouvelle Acropole France: antara 4 dan 4,6 juta franc tergantung tahun buku.
 
 ---
 
 (Halaman 252)
 
-## Evaluasi
+## Kesimpulan
 
-Setelah melakukan ini, Komisi harus mengakui bahwa fenomena seks mungkin cukup lama di masyarakat kita. Ini mengungkapkan disfungsi tak terelakkan, dan kadang-kadang itu semacam cluster, yang mengarah ke marginalisme dimengerti. Hak untuk perbedaan juga harus dilindungi. Tapi kau tidak bisa membiarkan sayap kanan ini terancam oleh beberapa prinsip, terutama oleh yang lemah. Itulah mengapa melawan penyimpangan sektarian, pendapat Komisi, tetap membutuhkan lebih banyak cara, upaya baru untuk menginformasikan masyarakat dan kesadaran pada tingkat internasional. Komisi sangat menyadari bahwa tradisi kontradiksi antara kebebasan hati nurani dan ketertiban publik dalam hal kegiatan sektarian benar-benar nyaman. Ini bukan tentang melawan kedua prinsip ini, tapi juga tentang menyalakan kompleksitas mereka. Menyelamatkan kebebasan hati nurani tidak dapat didasarkan pada mengabaikan kebebasan individu dasar: kebebasan bergerak, kepemilikan properti dan penggunaan, merawat tubuh dan kesehatannya sendiri, perlindungan dari penyalahgunaan kekuasaan, perlindungan terhadap kepentingan moral dan materi mereka... Bekerja pada kebebasan ini di sisi populasi sektarian lebih sering dianiaya dan dihukum, Komisi berusaha untuk menjamin kebebasan hati nurani dan ekspresi yang terletak dalam menghormati hak asasi manusia.
+Pada akhir tugasnya, Komisi harus mengakui bahwa fenomena sektarian kemungkinan besar akan lama mengakar dalam masyarakat kita. Fenomena ini mengekspresikan disfungsi yang tak terelakkan dan kadang-kadang merupakan katup pelepas di mana suatu marginalitas yang tidak dapat ditekan menemukan jalan keluar. Hak atas perbedaan juga harus dijaga. Namun tidak dapat diterima bahwa pelaksanaan hak ini dapat mengancam prinsip-prinsip tertentu, terutama hak atas perlindungan bagi yang paling lemah. Karena itu, perjuangan melawan penyimpangan sektarian tetap, bagi Komisi, merupakan suatu keharusan yang menuntut sarana yang lebih sesuai, upaya baru untuk menyadarkan masyarakat, dan peningkatan kesadaran di tingkat internasional. Komisi yakin bahwa pertentangan yang secara tradisional dikemukakan antara kebebasan berkeyakinan dan ketertiban umum, dalam hal tindakan sektarian, sama sekali tidak relevan. Masalahnya bukan mempertentangkan kedua prinsip ini, melainkan justru menyoroti sifat saling melengkapi di antara keduanya. Pelestarian kebebasan berkeyakinan, pada kenyataannya, tidak dapat didasarkan pada pengabaian kebebasan-kebebasan individual yang hakiki: untuk bergerak bebas, memiliki dan menikmati harta benda, memelihara tubuh dan kesehatannya, dilindungi dari penyalahgunaan kekuasaan, membela diri dari serangan terhadap kepentingan moral dan materialnya… Dengan bekerja agar serangan terhadap kebebasan-kebebasan ini oleh penyimpangan sektarian dapat lebih efektif dituntut dan direpresi, Komisi bermaksud menjamin kebebasan berkeyakinan dan berekspresi, yang merupakan inti dari penghormatan terhadap Hak Asasi Manusia.
 
 ---
 
 (Halaman 254)
 
-## PERUSAHAAN MEMORY
+## RINGKASAN USULAN KOMISI  
+(nomor merujuk pada halaman laporan)
 
-(Tingkat lisensi)
+### 1. Penyesuaian terhadap status asosiasi:
 
-### Persatuan berubah:
+- memperkuat demokrasi di dalam asosiasi: dengan mewajibkan, di atas ambang anggaran tertentu yang dapat ditetapkan pada 500.000 franc, diadakannya sedikitnya satu rapat umum tahunan dan penyusunan laporan moral dan laporan keuangan bagi para anggota (hlm. 51 dan 52);
+- mewajibkan struktur asosiasi yang memiliki bobot ekonomi tertentu – misalnya yang anggaran tahunannya lebih dari 500.000 franc – untuk memenuhi kewajiban minimal deklarasi (laporan laba rugi dan neraca) (hlm. 51 dan 52);
+- memanfaatkan penundaan penerapan instruksi 15 September 1998 mengenai perpajakan asosiasi, untuk mempertimbangkan risiko penggunaan aturan-aturan baru tersebut ke arah yang menguntungkan perkembangan fenomena sektarian (hlm. 60).
 
--   Perkuat demokrasi di dalam asosiasi: dengan menambahkan tugas, menimpa anggaran tertentu yang dapat diatur ke 500.000 francs, setidaknya satu tahun total perakitan dan menyiapkan laporan tentang kegiatan dan laporan keuangan untuk anggota;
--   menempatkan pada struktur asosiasi yang memiliki beberapa dampak ekonomi, misalnya, orang-orang yang anggaran tahunan lebih dari 500.000 franc, kewajiban minimum pelaporan (laporan keuangan dan keseimbangan);
--   Gunakan aplikasi singkat instruksi dari tanggal 15 September 1998 untuk asosiasi pajak untuk menyertakan risiko menggunakan aturan baru dalam arah yang cocok untuk pengembangan fenomena seksional.
+### 2. Penerapan undang-undang 9 Desember 1905 tentang pemisahan gereja dan negara:
 
-### Mengajukan hukum dari 9 Desember 1905 untuk memisahkan gereja dari negara:
+- mengingatkan, melalui surat edaran kepada para prefek dan seluruh layanan terkait, prinsip-prinsip pemisahan gereja dan negara, serta kriteria asosiasi keagamaan yang ditetapkan oleh Conseil d’Etat, berikut penerapannya dalam kasus Saksi-Saksi Yehuwa (hlm. 71);
+- menarik perhatian otoritas publik pada kebutuhan untuk kini menetapkan beberapa aturan umum bagi pengikutsertaan dalam skema jaminan sosial untuk agama-agama (hlm. 75).
 
--   Tandai alamat Kepala Asrama dan semua layanan yang sesuai untuk memisahkan gereja dari negara bagian, kriteria dari Asosiasi Agama yang ditentukan oleh Dewan Negara, serta diterapkan dalam kasus Jehovah (s. 71)
--   Fokus dari organ-organ negara adalah untuk mengatur kebijakan umum untuk bergabung dengan sistem perlindungan sosial organisasi agama. 75).
+### 3. Penyesuaian terhadap peraturan pembiayaan kehidupan politik:
 
-### 3.
+- mensyaratkan manfaat bagian pertama bantuan anggaran tahunan pada pencapaian ambang suara tertentu dalam pemilihan legislatif terakhir (hlm. 84);
+- membatasi akses ke kampanye radio dan televisi bagi partai politik yang telah menunjuk seorang wakil nasional yang didukung oleh sejumlah minimum pejabat terpilih lokal (hlm. 84).
 
--   memberikan bagian pertama dari anggaran tahunan perawatan ketika menerima ambang tertentu suara pada pemilihan parlemen terakhir (C.84);
--   menyediakan akses ke radio dan televisi kampanye untuk serikat politik, yang telah menunjuk perwakilan nasional, didukung oleh jumlah minimum deputi lokal.
+### 4. Organisasi sektor urusan sosial dan kesehatan:
 
-### Organisasi Sosial dan Sektor Kesehatan:
+- menyebarluaskan kepada seluruh layanan publik dan para profesional kesehatan sebuah panduan praktis yang mengidentifikasi titik-titik kerentanan terhadap sekte di dunia medisososial (hlm. 128);
+- memusatkan informasi mengenai sanksi yang dijatuhkan oleh lembaga-lembaga profesi kesehatan dan mengenai proses peradilan yang sedang berlangsung (hlm. 128);
+- meminta Ordre des médecins menunjuk seorang wakil di Mission interministérielle de lutte contre les sectes (hlm. 128);
+- mengkaji kemungkinan prosedur akreditasi penamaan profesi paramedis dan tenaga medis pembantu, oleh sebuah komisi ahli yang memberi wewenang penggunaan gelar-gelar terapi dan dapat mengusulkan pelarangan praktik terhadap terapi yang tidak diakreditasi (hlm. 128);
+- memperkuat, dalam studi kedokteran dan paramedis, pengajaran tentang:
+  - metode pendampingan psikologis bagi pasien (hlm. 129);
+  - tempat, peran, dan batas profesi medis dan paramedis dalam masyarakat (hlm. 129);
+- mengembangkan, sejak pendidikan dasar atau menengah, pelajaran pendidikan kesehatan, kebersihan hidup, dan pemahaman skema tubuh (hlm. 129);
+- menyiapkan prosedur akreditasi atau pelabelan bagi asosiasi yang terlibat dalam pendampingan dan bantuan kepada orang-orang yang dirawat di rumah sakit (hlm. 129);
+- merencanakan bentuk-bentuk tindak lanjut terapeutik yang dapat ditawarkan kepada mantan pengikut dan mengintegrasikannya ke dalam program pelatihan berkelanjutan bagi para dokter (hlm. 129);
+- memperluas, khususnya dalam kerangka pendidikan nasional, kampanye penyadaran tentang vaksin (hlm. 129).
 
--   tersebar melalui semua layanan publik dan pekerja medis manual praktis yang mengidentifikasi rentan tempat untuk seks sektor kesehatan.
--   Memcentralisasikan informasi tentang sanksi, digunakan oleh pekerja kesehatan profesional, dan proses pengadilan;
--   menugaskan perwakilan dari rekan-rekan dokter ke interquest untuk pertempuran seks (sec. 128);
--   Mempelajari kemampuan untuk memperkenalkan prosedur untuk pekerjaan paratmetric dan asisten kesehatan untuk komite ahli yang akan memungkinkan penggunaan metode terapi dan menawarkan larangan menerapkan tidak disetujui;
--   Untuk memperkuat lembaga pelatihan medis dan paramiliter dengan disiplin berikut:
-    -   Metode psikologis pengadilan sakit. 129;
-    -   lokasi, batasan peran dan pekerjaan masyarakat (sec. 129);
--   Desain dimulai dari SD atau SMP, pelatihan kesehatan, gaya hidup sehat dan pemahaman tubuh membangun s. 129);
--   Memulai prosedur Accreation atau sertifikasi untuk asosiasi yang dilakukan oleh pendamping dan dengan orang-orang konstruasi;
--   memprediksi metode terapi pemantauan mantan pengikut dan memasukkan mereka dalam program pelatihan terus-menerus untuk dokter;
--   memperluas, termasuk pendidikan nasional, kampanye untuk meningkatkan kesadaran tentang vaksin. 129.
+### 5. Regulasi pelatihan profesional:
 
-### 5.
+- menyerahkan akreditasi dan pengawasan lembaga pelatihan profesional kepada suatu lembaga publik administratif yang akan memperoleh bagian dari kontribusi pemberi kerja untuk membiayai operasinya (hlm. 158 dan 159);
+- mengakhiri otomatisnya pembebasan PPN dengan membatasinya pada lembaga yang benar-benar terakreditasi (hlm. 159);
+- secara tegas memberikan kewenangan kepada administrasi untuk mencabut pendaftaran suatu lembaga ketika ternyata lembaga tersebut tidak termasuk dalam kerangka pelatihan profesional atau telah terlibat dalam praktik penipuan (hlm. 159);
+- melancarkan kampanye penyadaran yang ditujukan kepada perusahaan-perusahaan, diselenggarakan oleh Negara dan organisasi-organisasi profesi (hlm. 160);
+- mengembangkan suatu program pelabelan lembaga-lembaga pelatihan (hlm. 161).
 
--   Instruksi dan manajemen institusi administrasi publik akan ditugaskan untuk membiayai majikan (sec, 158 dan 159);
--   Batalkan rilis otomatis dari VAT, biarkan hanya untuk organisasi terakreditasi yang tepat;
--   Berikan administrasi otoritas yang jelas untuk menyingkirkan pendaftaran organisasi, jika ternyata tidak cocok dengan persyaratan pendidikan profesional atau terkait dengan penipuan;
--   Mulai kampanye informasi yang ditujukan pada organisasi bisnis negara dan organisasi profesional.
--   Mendesain program sertifikat layanan pendidikan (detik. 161).
+### 6. Langkah-langkah untuk meningkatkan pemberantasan kecurangan:
 
-### Datang untuk meningkatkan perjuangan dengan penipuan:
+a) penyesuaian prosedur pidana
 
-a) meningkatkan prosedur kriminal
+- memulai konsultasi tentang peluang pembentukan delik manipulasi mental (hlm. 216);
+- mengkaji, dengan tetap menghormati asas praduga tak bersalah, kemungkinan pembalikan beban pembuktian untuk transfer dana yang paling besar ketika dana tersebut terkait dengan sekte (hlm. 218).
 
--   Memulai konsultasi dengan tujuan menciptakan "manipulasi mental";
--   Sulit untuk belajar, untuk mengikuti prinsip-prinsip tidak bersalah, kemampuan untuk mengangkut beban yang paling ditransfer dana, jika mereka terkait dengan seks.
+b) mobilisasi administrasi
 
-\= = Sync, dikoreksi oleh elderman = =
+- menetapkan, melalui komite antarkementerian di bawah otoritas Perdana Menteri dan dengan bantuan teknis Mission interministérielle de lutte contre les sectes, kerangka umum tindakan Negara yang kemudian diperjelas melalui surat edaran tiap kementerian (hlm. 249);
+- mengatur kehadiran lembaga keuangan dalam Mission interministérielle de lutte contre les sectes (hlm. 182);
+- mengkaji pembentukan struktur di tingkat departemen yang terkait dengan Mission interministérielle de lutte contre les sectes yang bertugas (hlm. 249):
+  - membentuk pusat informasi publik, perusahaan, dan lembaga keuangan di setiap prefektur;
+  - mengarahkan dan memberi nasihat kepada korban, mantan pengikut, dan keluarga mereka;
+  - menyediakan kepada administrasi terkait informasi yang diperlukan untuk tindakan mereka;
+  - mengumpulkan, sebagai imbal balik, semua informasi yang berasal dari administrasi mengenai aktivitas sektarian di departemen tersebut;
+- mempertimbangkan kemungkinan pembentukan, dalam wilayah setiap pengadilan banding, jabatan hakim yang mendapat pelatihan khusus untuk menangani masalah sektarian. Fungsi ini akan melengkapi dengan berguna fungsi koresponden urusan sekte yang saat ini bertugas di Kejaksaan (hlm. 250 dan 251);
+- memulai konsultasi dalam lingkup Uni Eropa untuk menghasilkan sebuah konvensi khusus mengenai pemberantasan sekte (hlm. 251);
+- melakukan tindakan diplomatik di tingkat Dewan Eropa mengenai bahaya sektarisme, kehadiran sekte di dalam organisasi nonpemerintah yang menyatakan diri memiliki misi kemanusiaan, dan risiko yang ditimbulkan oleh konvensi tahun 1986 (hlm. 92).
 
--   mendefinisikan, dengan menggunakan komite antar pengguna di bawah kepemimpinan Perdana Menteri dan bantuan teknis antara aktivitas seksual, perbatasan umum aksi negara dalam sirkus dari setiap departemen;
--   Menprediksikan representasi lembaga keuangan pada misi interverse dengan seks (sec. 182);
--   Pelajari kemampuan untuk membuat Departemen Rahasia, terikat misi interverse untuk melawan seks dengan yang harus dilakukan (s. 249):
-    -   membuat pusat untuk kesadaran publik, perusahaan dan lembaga keuangan di setiap prefek;
-    -   Konsultasi memimpin dan saran kepada para korban, mantan asducs dan keluarga mereka;
-    -   memberikan informasi administratif yang tepat yang diperlukan untuk kegiatan mereka;
-    -   Membangun, pada gilirannya, semua informasi dari administrasi tentang aktivitas seks di departemen;
--   Pertimbangkan kemampuan untuk menciptakan dalam setiap departemen banding untuk posting jalan raya khusus disiapkan untuk isu-isu kultus. Fungsi ini akan menjadi tambahan berguna untuk fungsi yang dilakukan oleh urutan saat ini pada patch (sec. 250 dan 251);
--   Memulai konsultasi dalam Uni Eropa untuk mendaftarkan kontes khusus untuk melawan seks (sec. 251);
--   Mulai tindakan diplomatik di Dewan Eropa untuk bahaya jenis kelamin, kehadiran gender dalam organisasi non-pemerintah, mengkonfirmasi tujuan kemanusiaan, dan risiko yang diciptakan oleh aturan 1986.
+### 7. Tindak lanjut usulan:
 
-### Posisi kontrol:
-
-Pergi ke pemerintah meminta untuk misi antara hidup untuk melawan seks, mempersiapkan langkah-langkah untuk melakukan posisi di atas.
+meminta Pemerintah menugaskan Mission interministérielle de lutte contre les sectes untuk menyiapkan langkah-langkah pelaksanaan usulan-usulan di atas.

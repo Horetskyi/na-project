@@ -1,9 +1,9 @@
-# "Dış Fachada" normal
+# Normalitenin «Dış Cephesi»
 
-> Bunun mümkün değil mi, dışarıdan karşı birçok aktivite yaparak, göreceli bir prestij verebilir ya da yerine "prestige maskesi" vermek yerine, Üyelerimize gerekli dikkat ve kontrol verme fırsatı kaybediyoruz?
+> Dışa yönelik, göreceli bir prestij verebilecek ya da daha doğrusu bir «prestij maskesi» sağlayabilecek çok sayıda etkinlik yaptığımız için, Üyelerimize gerekli ilgi ve denetimi verme fırsatını kaybediyor olabilir miyiz?
 > 
-> Bu benim görüşüm, Ulusal Mands’e sahip olacağımızı, bu da kendi ilkelerimiz ve ideallerimizle ilgili çok doğru ve kişisel tercihlere odaklanmaktır.
+> Bana göre, Ulusal Komutanlıkların dış faaliyetlere ilişkin olarak kişisel tercihlerden arınmış ve son derece doğru bir seçime yönelmesi gerekir; çünkü bu faaliyetler bir yandan bize o eklektik etkinlik «maskesini» verirken, öte yandan kendi İlkelerimiz ve İdeallerimizle olan kimliğimizi elimizden alıyor.
 > 
-> İnanıyorum ki, Kurumlarımızın “facade”’ye, zaten onu oluşturan insanları ihmal ederek, üyelerinin yıllık kaybı devam edecek.
+> Bence kurumumuzun «cephe»sine bu kadar çok zaman ayırıp onu oluşturan insanları ihmal etmeye devam edersek, Üyelerin yıllık kaybı sürecek.
 > 
-> \- *Komut No. 14: Üyeleri nasıl yakalamak ve korumak? Jorge Ángel Livraga*
+> — *Komuta No. 14: Üyeleri nasıl kazanıp tutarız? Jorge Ángel Livraga*

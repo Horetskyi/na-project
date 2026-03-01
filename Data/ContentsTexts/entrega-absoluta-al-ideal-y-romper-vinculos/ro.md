@@ -1,25 +1,25 @@
-## Livrare absolută la ideal și rupere link-uri spre exterior
+## Entrega absoluta al ideal y romper vínculos con el exterior
 
-Fiecare zi care trece, fiecare oră care trece, fiecare minut care trece trebuie să-l dedice complet Acropolis. In fiecare zi trebuie sa lucram pentru Acropolis, si sa incercam sa facem un membru, sa lipim postere, sa facem toata munca necesara de traduceri, de schimburi, care sa ne permita sa avem tot mai multi frati, mai multi maini unite, mai multe brate inalte care arata orizontul.
+Fiecare zi care trece, fiecare oră care trece, fiecare minut care trece trebuie să-l dedicați în totalitate Noua Acropolă. În fiecare zi trebuie să muncim pentru Noua Acropolă și să încercăm să câștigăm un membru, să lipim afișe, să îndeplinim toate lucrările necesare de traduceri, de schimburi, care să ne permită să avem tot mai mulți frați, mai multe mâini unite, mai multe brațe ridicate care arată orizontul.
 
-> Bastion nr. 60-1: Mesajul de Anul Nou de la GM. JAL. Ianuarie 1982. Jorge Ángel Livraga
-
----
-
-În Mişcarea noastră nu vă cerem să fiţi o anacoretă, dar începe să rupă lanţuri inutile cu prietenii şi prietenii care nu participă la idealul vostru, chiar dacă îl cunosc, şi cu toată lumea, oricine ar fi, să se opună viziunii voastre spirituale actuale, pentru că menţinerea acestor relaţii vechi vă va face rău ţie şi acelor oameni, care nu s-au trezit încă ca filozofi; care ar fi ruşinaţi de voi sau batjocoriţi de ceea ce aveţi mai sacru: Acropolis Ideal al vostru.
-
-> Bastion nr. 30: Unele sfaturi practice pentru noul Acropolis. Februarie 1979. Jorge Ángel Livraga
+> Bastionul nr. 60-1: Mesaj de Anul Nou al MM. JAL. Ianuarie 1982. Jorge Ángel Livraga
 
 ---
 
-Trebuie să evităm capcana psihologică a "Kama-Manas" pentru a simți timpul dedicat New Acropolis ca ceva "alungat" în viața noastră. Adevărul este exact opusul; singurele ore utile ale actualei noastre încarnări sunt cele dedicate Idealului. Orice altceva este praf că vântul vieții este responsabil de răspândirea.
+În Mișcarea noastră nu vă cerem să fiți o anacoretă, dar începeți să rupeți lanțuri inutile cu prietenii și prietenele care nu participă la Idealul vostru, deși îl cunosc, și cu orice persoană, oricine ar fi, care se opune actualei voastre Viziuni Spirituale, căci menținerea acelor relații vechi vă va face rău vouă și acelor persoane, care încă nu s-au trezit ca filosofi; care s-ar rușina de voi sau s-ar bate joc de ceea ce aveți mai sacru: Idealul vostru acropolitan.
 
-> Bastionul nr. 63-3: Cum se utilizează timpul. Mai 1982. Jorge Ángel Livraga
+> Bastionul nr. 30: Câteva sfaturi practice pentru noii acropoliști. Februarie 1979. Jorge Ángel Livraga
 
 ---
 
-Gândul că trebuie să fiţi "pregătiţi" pentru a forma discipoli nu trebuie limitat la o pregătire intelectuală, nici chiar culturală. Merită mai mult o voinţă hotărâtă şi de trezire care permite o afacere reală cu NATURALEZA şi zeii... Timpul "enciclopediei" s-a terminat!
+Trebuie să evităm capcana psihologică întinsă de "Kama-manas" de a simți timpul dedicat Noua Acropolă ca ceva "smuls" din viețile noastre. Adevărul este tocmai contrariul; singurele ore folositoare ale actualei noastre încarnări sunt cele dedicate Idealului. Tot restul este praf pe care vântul vieții se ocupă să-l risipească.
 
-Şi dacă există "discipoli bătrâni" care nu înţeleg acest lucru, trebuie să-i mutăm la Centru şi să le dăm o lucrare şcolară, lăsând prima linie, colecţia şi apărarea Idealului pentru alţii mai tineri în inimă, mai "agresivi" şi puternici. Avem nevoie în "marginile de tăiere" ale poporului Imperiului pe deplin dat Ideal, de idei simple și clare, de forță ascendentă naturală, care nu fac probleme mai mari deloc.
+> Bastionul nr. 63-3: Despre cum să valorifici timpul. Mai 1982. Jorge Ángel Livraga
 
-> Comanda nr. 26: Relația dintre NM și discipoli. Jorge Ángel Livraga
+---
+
+Gândul că trebuie să fii "pregătit" pentru a forma discipoli nu trebuie limitat la o pregătire intelectuală, nici măcar culturală. Valorează mai mult o voință hotărâtă și trează care să permită UN CONTACT REAL CU NATURA ȘI CU ZEII… Epoca "enciclopedismului" a trecut!
+
+Și dacă există "discipoli bătrâni" care nu înțeleg acest lucru, trebuie să-i mutăm la Centru și să le dăm lucrări școlare, lăsând primele linii, de captare și apărare a Idealului, altora mai tineri cu inima, mai "agresivi" și plini de elan. Avem nevoie, la "margini de tăiere" ale Imperiului, de persoane total dăruite Idealului, cu idei simple și clare, cu o forță ascensională naturală, care să nu-și facă probleme mari din nimic.
+
+> Comanda nr. 26: Relația dintre MN și discipoli. Jorge Ángel Livraga

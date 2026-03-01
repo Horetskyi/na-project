@@ -1,9 +1,9 @@
-# Die "Externe Fachada" des Normalen
+# Die «Externe Fassade» der Normalität
 
-> Ist es nicht möglich, dass wir, indem wir viele Aktivitäten vor der Außenseite machen, die ein relatives Prestige oder eher eine "Prestige Maske" geben können, die Möglichkeit verlieren, unseren Mitgliedern die nötige Aufmerksamkeit und Kontrolle zu geben?
-> 
-> Meiner Ansicht nach hätten wir die National Mands, die sich auf eine sehr wahrhaftige und abwesende Auswahl persönlicher Vorlieben bezüglich externer Aktivitäten konzentrieren sollen, die, wenn sie uns einerseits die "Masse" eklektrischer Aktivitäten geben, andererseits die Identität von uns mit eigenen Prinzipien und Idealen abnehmen.
-> 
-> Ich glaube, wenn wir uns weiterhin so sehr der "Fassade" unserer Institution widmen, indem wir die Menschen, die sie bereits bilden, vernachlässigen, wird der jährliche Verlust der Mitglieder weitergehen.
-> 
-> \- Ja. *Befehl Nr. 14: Wie erfassen und behalten Sie Mitglieder? Jorge Ángel Livraga*
+> Ist es nicht möglich, dass wir durch das Ausrichten vieler nach außen gerichteter Aktivitäten, die ein gewisses Prestige oder besser gesagt eine «Prestigemaske» verleihen können, die Gelegenheit verlieren, unseren Mitgliedern die notwendige Aufmerksamkeit und Kontrolle zukommen zu lassen?
+>
+> Meiner Ansicht nach sollten sich die nationalen Leitungen einer sehr sorgfältigen Auswahl ohne persönliche Präferenzen in Bezug auf externe Aktivitäten widmen; denn wenn diese uns einerseits diese «Maske» eklektischer Aktivität verleihen, nehmen sie uns andererseits die Identität mit unseren eigenen Prinzipien und Idealen.
+>
+> Ich glaube, dass, wenn wir uns weiterhin so sehr der «Fassade» unserer Institution widmen und die Menschen, die sie bereits bilden, vernachlässigen, der jährliche Verlust an Mitgliedern weitergehen wird.
+>
+> — *Mando Nr. 14: Wie Mitglieder gewinnen und binden? Jorge Ángel Livraga*

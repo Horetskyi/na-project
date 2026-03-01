@@ -1,9 +1,9 @@
 # A «Fachada Externa» de normalidade
 
-> Não é possível que, por fazer muitas atividades de face ao exterior que podem dar um relativo prestígio, ou melhor dito, uma “maiscara de prestígio”, estejamos perdendo a oportunidade de dar aos nossos membros a necessária atenção e controle?
-> 
-> É meu parecer que teríamos os Mandos Nacionais, que nos deparamos com uma seleção muito veraz e ausente de preferências pessoais em relação às atividades externas que, se por um lado nos dão essa “maiscara” de atividade ecléctica, pelo outro, nos retiram identidade com nossos próprios Princípios e Ideales.
-> 
-> Penso que se continuarmos a depender tanto da “fachada” da nossa Instituição descuidando as pessoas que já a forma, a perda anual de membros continuará.
-> 
-> — *Mando não 14: Como captar e reter membros? Jorge Ângelo Livraga*
+> Não cabe a possibilidade de que, por realizar muitas atividades de cara para o exterior que podem conferir um relativo prestígio, ou melhor dito, uma «máscara de prestígio», estejamos perdendo a oportunidade de dar aos nossos Membros a necessária atenção e controle?
+>
+> É meu parecer que deveríamos, os Mandos Nacionais, abocar‑nos a uma seleção muito veraz e isenta de preferências pessoais relativamente às atividades externas que, se por um lado nos dão essa «máscara» de atividade eclética, por outro nos retiram identidade em relação aos nossos próprios Princípios e Ideais.
+>
+> Creio que se continuarmos a dedicar‑nos tanto à «fachada» da nossa Instituição, descuidando as pessoas que já a conformam, a perda anual de Membros continuará.
+>
+> — *Mando nº 14: Como captar e reter membros? Jorge Ángel Livraga*

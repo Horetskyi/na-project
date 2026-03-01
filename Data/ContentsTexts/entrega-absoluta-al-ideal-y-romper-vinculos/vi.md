@@ -1,25 +1,25 @@
-## Hoàn toàn mang đến cho lý tưởng và phá vỡ liên kết đến bên ngoài
+## Hoàn toàn dâng hiến cho lý tưởng và cắt đứt liên kết với bên ngoài
 
-Mỗi ngày trôi qua, mỗi giờ trôi qua, mỗi phút trôi qua bạn phải dành nó hoàn toàn cho Accctown. Mỗi ngày, chúng ta phải làm việc cho Acriral, và cố gắng tạo ra một thành viên, dán áp phích, thực hiện tất cả các công việc dịch thuật cần thiết, trao đổi, cho phép chúng ta có thêm nhiều anh em, nhiều bàn tay đoàn kết hơn, nhiều vũ khí cao hơn mà chỉ ra chân trời.
+Mỗi ngày trôi qua, mỗi giờ trôi qua, mỗi phút trôi qua các bạn phải dành nó toàn bộ cho Tân Acropolis. Hằng ngày chúng ta phải làm việc vì Tân Acropolis, và cố gắng kết nạp một thành viên, dán áp phích, hoàn thành tất cả các công việc cần thiết về dịch thuật, về trao đổi, để cho phép chúng ta ngày càng có nhiều anh em hơn, nhiều bàn tay đoàn kết hơn, nhiều cánh tay giơ cao chỉ về chân trời.
 
-> Tin nhắn năm mới của giám đốc. JAL. Tháng 1 năm 1982. Jorge Ángel Livraga
-
----
-
-Trong phong trào của chúng tôi, chúng tôi không yêu cầu bạn là một anacoreta, nhưng nó bắt đầu phá vỡ vô ích xích với bạn bè và bạn bè những người không tham gia vào lý tưởng của bạn mặc dù họ biết điều đó, và với tất cả mọi người, cho dù nó là ai đi nữa, chống lại tầm nhìn thiêng liêng hiện tại của bạn, để duy trì những mối quan hệ cũ này sẽ làm tổn thương bạn và những người, những người chưa thức dậy như các triết gia; những người sẽ xấu hổ hoặc bị chế nhạo bởi những gì bạn có của thiêng liêng nhất: Accrimeus.
-
-> Bastian số 30: Một số tiền boa thực tế cho Accctown mới. Tháng 2 năm 1979. Jorge Ángel Livraga
+> Bastión Nº 60-1: Thông điệp năm mới của MM. JAL. Tháng 1 năm 1982. Jorge Ángel Livraga
 
 ---
 
-Chúng ta phải tránh cái bẫy tâm lý của "Kama manas" để cảm nhận được thời gian dành cho New Accrim như một cái gì đó "bị hủy diệt" trong cuộc sống của chúng ta. Sự thật là ngược lại; những giờ phút hữu ích duy nhất trong hiện tại của chúng ta là những giờ phút cống hiến cho lý tưởng. Tất cả những thứ khác là bụi đất mà gió của sự sống điều khiển để lan rộng.
+Trong Phong trào của chúng tôi chúng tôi không yêu cầu bạn trở thành một ẩn sĩ, nhưng hãy bắt đầu phá vỡ những xiềng xích vô ích với bạn bè, cả nam lẫn nữ, những người không tham gia vào Lý tưởng của bạn mặc dù biết đến nó, và với mọi người, dù là ai, chống lại Tầm nhìn Tinh thần hiện tại của bạn, vì việc duy trì những mối quan hệ cũ đó sẽ làm tổn hại đến bạn và những người ấy, những người vẫn chưa thức tỉnh như những triết gia; những người sẽ xấu hổ về bạn hoặc chế nhạo điều thiêng liêng nhất mà bạn có: Lý tưởng Tân Acropolis.
 
-> Cách dùng thời gian. Tháng 5 năm 1982. Jorge Ángel Livraga
+> Bastión Nº 30: Một số lời khuyên thực tiễn cho những người theo Tân Acropolis mới. Tháng 2 năm 1979. Jorge Ángel Livraga
 
 ---
 
-Ý nghĩ rằng bạn phải được chuẩn bị để thành môn đồ không chỉ giới hạn trong một sự chuẩn bị trí tuệ, ngay cả văn hóa. Nó đáng giá hơn một di chúc quyết định và thức tỉnh cho phép một thỏa thuận thực sự với NTURALEZA và các vị thần... Thời đại của chủ nghĩa phát triển hoàn hảo đã kết thúc!
+Chúng ta phải tránh cái bẫy tâm lý do "Kama-manas" giăng ra, khiến cảm nhận thời gian dành cho Tân Acropolis như một thứ bị "xé rời" khỏi cuộc sống của chúng ta. Sự thật hoàn toàn ngược lại; những giờ duy nhất hữu ích trong kiếp hiện tại của chúng ta chính là những giờ được dành cho Lý tưởng. Phần còn lại chỉ là bụi mà gió của sự sống loang ra.
 
-Và nếu có những "môn đồ già" không hiểu điều này, chúng ta phải đưa họ đến Trung tâm và cho họ một công việc phân loại, rời khỏi dòng đầu tiên, bộ sưu tập và phòng thủ của sự lý tưởng đối với những người trẻ hơn trong trái tim, nhiều "tham gia" và quyền lực hơn. Chúng ta cần "những cạnh cắt" của Đế chế những người hoàn toàn được trao cho lý tưởng, những ý tưởng đơn giản và rõ ràng, của sự tăng trưởng tự nhiên, mà không tạo ra những vấn đề lớn hơn.
+> Bastión Nº 63-3: Về cách tận dụng thời gian. Tháng 5 năm 1982. Jorge Ángel Livraga
 
-> Lệnh số 26: Quan hệ giữa các NM và môn đồ. Jorge Ángel Livraga
+---
+
+Việc cho rằng phải "chuẩn bị" để đào tạo môn đồ không nên giới hạn chỉ ở sự chuẩn bị trí tuệ, thậm chí cả về văn hóa. Một ý chí quyết tâm và tỉnh thức hơn có giá trị, cho phép MỘT TIẾP XÚC THỰC SỰ VỚI THIÊN NHIÊN VÀ VỚI CÁC VỊ THẦN… Thời đại của "chủ nghĩa bách khoa toàn thư" đã qua!
+
+Và nếu có những "môn đồ già" không hiểu điều này, phải chuyển họ về Trung tâm và giao cho họ những công việc học vụ, để những công việc tuyến đầu, thu hút và bảo vệ Lý tưởng thuộc về những người trẻ hơn trong trái tim, năng nổ và "quyết liệt" hơn. Chúng ta cần ở những "vành biên" của Đế chế những con người hoàn toàn dâng hiến cho Lý tưởng, có tư tưởng đơn giản và rõ ràng, có sức mạnh hướng thăng tự nhiên, và không làm mình bận tâm trước bất cứ điều gì.
+
+> Mando Nº 26: Relación de los MN y discípulos. Jorge Ángel Livraga

@@ -1,25 +1,25 @@
-## Absolútne dodanie na ideálne a prelomenie odkazy na vonkajšie
+## Absolútne odovzdanie ideálu a pretrhnutie väzieb s vonkajším prostredím
 
-Každý deň, ktorý prejde, každú hodinu, ktorá prejde, každú minútu, ktorá prejde, ju musíte venovať Acropolisu. Každý deň musíme pracovať pre Akropolis, a snažiť sa, aby člen, vložiť plagáty, vykonávať všetku potrebnú prácu prekladov, výmen, ktoré nám umožňujú mať stále viac bratov, viac rúk zjednotené, viac zbraní vysoko, ktoré poukazujú na horizont.
+Každý deň, každú hodinu, každú minútu ich máte venovať výlučne Novej Akropole. Každý deň musíme pracovať pre Novú Akropolu a snažiť sa získať člena, lepiť plagáty, vykonávať všetky nevyhnutné práce prekladov, výmen, ktoré nám umožnia mať čoraz viac bratov, viac zjednotených rúk, viac rúk zdvihnutých, ktoré ukazujú na horizont.
 
-> 60-1: Nová správa od GM. JAL. Január 1982. Jorge Ángel Livraga
-
----
-
-V našom hnutí vás nežiadame, aby ste boli anacoreta, ale začína to rozbíjať zbytočné reťazce s priateľmi a priateľmi, ktorí sa nezúčastňujú na vašom ideálnom, aj keď to vedia, a s každým, nech je to ktokoľvek, aby ste sa postavili proti vašej súčasnej Duchovnej vízii, pretože udržanie týchto starých vzťahov vás a tých ľudí, ktorí ešte neprebudili ako filozofov, ktorí by sa hanbili za vás alebo sa posmievali tomu, čo máte z najposvätnejšieho: Váš Akropolis Ideálny.
-
-> 30: Niekoľko praktických tipov pre novú Akropolu. Február 1979. Jorge Ángel Livraga
+> Bastión č. 60-1: Novoročné posolstvo MM. JAL. Január 1982. Jorge Ángel Livraga
 
 ---
 
-Musíme sa vyhnúť psychologickej pasci "Kama-manas" cítiť čas venovaný New Akropolis ako niečo "odvracať" v našom živote. Pravda je pravý opak; jediné užitočné hodiny nášho terajšieho vtelenia sú tie, ktoré sú zasvätené ideálu. Všetko ostatné je prach, ktorý má na starosti vietor života.
+V našom hnutí od teba nevyžadujeme, aby si bol anachoretom, ale začni pretrhávať zbytočné putá s priateľmi, ktorí sa nezúčastňujú na tvojom Ideáli hoci ho poznajú, a s každou osobou, nech je to ktokoľvek, ktorá sa postaví proti tvojej súčasnej duchovnej vízii; pretože udržiavanie týchto starých vzťahov ublíži tebe i týmto osobám, ktoré sa ešte neprebudili ako filozofi; ktoré by sa za teba hanbili alebo by sa posmievali tomu, čo máš z najsvätejšieho: tvojmu Akropolitnému Ideálu.
 
-> 63-3: Ako využiť čas. Máj 1982. Jorge Ángel Livraga
+> Bastión č. 30: Niekoľko praktických rád pre nových akropolistov. Február 1979. Jorge Ángel Livraga
 
 ---
 
-Myšlienka, že musíte byť "pripravení" na vytvorenie učeníkov, by sa nemala obmedzovať len na intelektuálnu, dokonca aj kultúrnu prípravu. Stojí to za odhodlanú a prebudenú vôľu, ktorá umožňuje skutočnú dohodu s NATURALEEZA a bohmi... Čas "encyklopédie" skončil!
+Musíme sa vyhnúť psychologickej pasci naviazanej "Kama-manas" cítiť čas venovaný Novej Akropole ako niečo "odtrhnuté" z nášho života. Pravda je práve naopak; jediné užitočné hodiny našej aktuálnej inkarnácie sú tie, ktoré sú zasvätené Ideálu. Všetko ostatné je prach, ktorý vietor života rozmetá.
 
-A ak existujú "starí učeníci," ktorí tomu nerozumejú, musíme ich presunúť do centrály a dať im ušľachtilú prácu, opúšťať prvú líniu, zbierku a obranu ideálnych pre iných mladších v srdci, viac "agresívny" a mocný. Potrebujeme "rezné hrany" ríše ľudí plne daných ideálne, jednoduchých a jasných nápadov, prirodzenej vzostupnej sily, ktoré nerobia žiadne väčšie problémy vôbec.
+> Bastión č. 63-3: O tom, ako využiť čas. Máj 1982. Jorge Ángel Livraga
 
-> Príkaz č. 26: Vzťah NM a učeníkov. Jorge Ángel Livraga
+---
+
+Myslieť si, že treba byť "pripravený" na formovanie učeníkov, by sa nemalo obmedzovať len na intelektuálnu prípravu, ba ani na kultúrnu. Viac stojí odhodlaná a prebudená vôľa, ktorá umožní SKUTOČNÝ KONTAKT S PRÍRODOU A S BOHMI… Éra "encyklopedizmu" už pominula!
+
+A ak sú "starí učeníci", ktorí tomu nerozumejú, treba ich presunúť do centrály a zadať im školské práce, pričom prácu prvej línie, získavania a obrany Ideálu, nechať iným mladším srdcom, viac "agresívnym" a snaživým. Potrebujeme na "rezných hraniciach" Impéria ľudí úplne odovzdaných Ideálu, s jednoduchými a jasnými ideami, s prirodzenou vzostupnou silou, ktorí si z ničoho nerobia veľké starosti.
+
+> Mando č. 26: Vzťah MN a učeníkov. Jorge Ángel Livraga

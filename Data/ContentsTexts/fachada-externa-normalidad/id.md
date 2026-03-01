@@ -1,9 +1,9 @@
-# The "Eksternal Fachada" dari normal
+# “Fachada Eksternal” dari normalitas
 
-> Apakah tidak mungkin bahwa, dengan melakukan banyak kegiatan menghadapi luar yang dapat memberikan prestise relatif, atau lebih tepatnya "masker prestise", kita kehilangan kesempatan untuk memberikan Anggota kita perhatian dan kontrol yang diperlukan?
-> 
-> Ini adalah pandangan saya bahwa kita akan memiliki Mands Nasional, yang untuk fokus pada sangat jujur dan tidak memilih preferensi pribadi mengenai kegiatan eksternal bahwa jika di satu sisi mereka memberi kita bahwa "topeng" aktivitas eklektik, di sisi lain mereka mengambil identitas dari kita dengan prinsip kita sendiri dan Ideals.
-> 
-> Saya percaya bahwa jika kita terus mengabdikan diri kita begitu banyak untuk "fasad" dari Lembaga kami dengan mengabaikan orang-orang yang sudah membentuk itu, hilangnya tahunan Anggota akan terus.
-> 
-> \- *Perintah No. 14: Bagaimana menangkap dan mempertahankan anggota? Jorge Ángel Livraga*
+> Tidakkah mungkin bahwa, dengan melakukan banyak kegiatan yang berorientasi ke luar yang dapat memberikan prestise relatif, atau lebih tepatnya sebuah “topeng prestise”, kita justru kehilangan kesempatan untuk memberikan kepada Para Anggota kita perhatian dan pengawasan yang diperlukan?
+>
+> Menurut pendapat saya, kita yang berada di Komando Nasional harus mencurahkan diri pada sebuah seleksi yang sangat jujur dan bebas dari kesukaan pribadi terhadap kegiatan-kegiatan eksternal yang, jika di satu sisi memberikan kepada kita “topeng” kegiatan eklektik itu, di sisi lain justru mengambil identitas kita sendiri yang bersumber dari Prinsip dan Ideal kita.
+>
+> Saya rasa, jika kita terus begitu banyak mencurahkan diri pada “fachada” Lembaga kita sambil mengabaikan orang-orang yang sudah membentuknya, maka kehilangan Anggota setiap tahun akan terus berlanjut.
+>
+> — *Mando nº 14: Bagaimana menarik dan mempertahankan anggota? Jorge Ángel Livraga*

@@ -1,111 +1,113 @@
-(51 puslapis).
+(51 puslapis)
 
-Taigi naujasis akropolis galėjo iš naujo atrasti save pagal savo kontrolę senovės asociacijos, Paryžiaus Tarptautinė mokykla sukurta 1883 ir sustabdytas po griovimo. Ši asociacija XIX a. pabaigoje turėjo tam tikrą prestižą, kuriame dalyvavo žymūs mokslininkai, tačiau pasaulinio karo Il metu įvyko ekstremalių pokyčių. Restauravo New Acropolis, tai dabar sekso filialas, kuris siūlo užsienio studentams tapti.
-
----
-
-(65 puslapis).
-
-Naujajame Akropolyje reikalaujama, kad jo pasekėjai iš tam tikro valandų skaičiaus savanoriškų darbų mokykloje būtų samdomi, aptarnaujami ir sekretoriai.
+Taigi Naujasis Akropolis sugebėjo atkurti savo kontrolėje seną asociaciją, Paryžiaus antropologijos mokyklą, įsteigtą 1883 m. ir nuo Išlaisvinimo likusią neveiklią. Tai asociacija, kuri XIX a. pabaigoje turėjo tam tikrą prestižą, pritraukdama žinomus mokslininkus, prieš patiriant ekstremistinį pasislinkimą Antrojo pasaulinio karo metu. Atgauta Naujajam Akropoliui, ji šiuo metu yra sektos „filialas“, per kurį siūlomi kursai užsienio studentams.
 
 ---
 
-(152 - 153 puslapiai)
+(65 puslapis)
 
-Naujasis Acropolis turėjo edukacinę įstaigą, nes Hermware Consults, vadovė Isabel Ludwig, sekso asociacijos vadovas. Užregistruota SRC IldeFrance, ši bendrovė, kuri dabar yra pašalintas iš prekybos registro, įskaitant, mokymo FNSEA darbuotojų.
-
----
-
-(182 puslapis).
-
-Tarp jų, Kavina, kuris įsikūrė Bellow pilį Utah ir Uscille dvaras Indie; šeimos nuosavybės tradicija, kuri yra pagal "Ateities kultūros" asociacijos Eryth- Loire armijos; Naujasis Anropolis, Kur Petrol savininkas, buvęs vienuolynas tame pačiame departamente;
+Naujasis Akropolis reikalauja iš savo adeptų tam tikro skaičiaus savanoriškų darbo valandų savo „mokykloje“, skirtų priėmimo, tvarkymo ir sekretoriato užduotims.
 
 ---
 
-(1992- 200 puslapių)
+(152–153 puslapiai)
 
-The New Acropoll France Association, Kridell; Hiding vaging; vagia vagystėje; nusikalstama veika esant tam tikroms aplinkybėms - TG Colmard, 27 / 03 / 98... - As Coloura, 18 / 12 / 98...
-
----
-
-(puslapiai 305- 306)
-
-Atleisk. Atleisk. • Antrasis pasaulinis karas (rašymas) ... surinkti įverčiai: Metinės pajamos New Aropol France Association: nuo 4 iki 4,6 milijonų frankų pagal finansinius metus.
+Naujasis Akropolis turėjo mokymo įstaigą per įmonę Hermès consultants, kuriai vadovavo ponia Isabelle Ludwig, sektos motininės asociacijos pirmininkė. Įregistruota SRC Ile-de-France, ši įmonė, šiandien pašalinta iš prekybos registro, ypač rengė FNSEA darbuotojų mokymus.
 
 ---
 
-(252 puslapis).
+(182 puslapis)
 
-## Įvertinti
-
-Po to Komisija turi pripažinti, kad mūsų visuomenėje sekso reiškinys tikriausiai yra pakankamai ilgas. Ji išreiškia neišvengiamą disfunkcionavimą, o kartais tai klasteris, kuris veda į nesuprantamą marginalizmą. Taip pat turi būti apsaugoti teisės skirtumai. Bet jūs negalite leisti, kad šiai teisei grėstų kažkoks principas, pirmiausia silpnųjų. Todėl kova su nukrypimais nuo sektančiųjų, Komisijos nuomone, ir toliau reikalauja daugiau priemonių, naujų pastangų informuoti visuomenę ir didinti informuotumą tarptautiniu lygmeniu. Komisija puikiai supranta, kad sąžinės laisvės ir viešosios tvarkos prieštaravimų tradicija sektarinės veiklos srityje yra visiškai nepatogi. Tai ne apie neutralizavimą šiems dviem principams, bet taip pat apie jų sudėtingumo apšvietimą. Sąžinės laisvės išsaugojimas negali būti grindžiamas pagrindinių asmens laisvių nepaisymu: judėjimo laisve, nuosavybės ir naudojimo turėjimu, rūpinimusi savo kūnu ir sveikata, apsauga nuo piktnaudžiavimo valdžia, moralinių ir materialinių interesų apsaugos... Komisija siekia užtikrinti sąžinės ir saviraiškos laisvę žmogaus teisių atžvilgiu.
+Paminėkime Krishna, įsikūrusį Bellevue pilyje Jura departamente ir Oublaisse dvare Indre departamente; Tradition Famille Propriété, turinčią per asociaciją Avenir de la culture Jaglu pilį Eure-et-Loir departamente; Naujasis Akropolis, Cour Pétral savininkė, buvęs vienuolynas tame pačiame departamente; …
 
 ---
 
-(254 puslapis).
+(199–200 puslapiai)
 
-## MEMORIJOS KŪRIMAS
+NAUJASIS AKROPOLIS — Association Nouvelle Acropole France — Vagystė ; Vogtų daiktų laikymas ; Bendrininkavimas vagystėje ; Grasinimai dėl nusikaltimo padarymo pagal sąlygą — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
-(licencijų tarifai)
+---
 
-### 1\. Asociacijos pakeitimai:
+(305–306 puslapiai)
 
--   stiprinti demokratiją asociacijose: pridedant pareigą, įkeičiant tam tikrą biudžetą, kuris gali būti nustatytas iki 500 000 frankų, bent vienerių metų visos asamblėjos ir parengiant ataskaitą apie narių veiklą ir finansines ataskaitas (51 ir 52 str.);
--   nustatyti asociacijų struktūras, turinčias tam tikrą ekonominį poveikį, pavyzdžiui, tas, kurių metinis biudžetas viršija 500 000 frankų, nustatyti minimalią atskaitomybės prievolę (finansinę ataskaitą ir balansą);
--   Trumpą 1998 m. rugsėjo 15 d. nurodymų taikymą mokesčių asociacijoms, siekiant įtraukti riziką, susijusią su naujų taisyklių taikymu sekcinių reiškinių vystymuisi tinkama kryptimi (-ėmis) (60).
+SEKTOS PAVADINIMAS : NAUJASIS AKROPOLIS
+A.– ORGANIZACIJA … 1°) TARPTAUTINĖ BŪSTINĖ : Briuselis (Belgija) …
+… 7 vietinės įsikūrimai : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… surinkti vertinimo elementai : Association Nouvelle Acropole France metinės pajamos : nuo 4 iki 4,6 MF priklausomai nuo finansinių metų.
 
-### 2\. Įstatymo taikymas nuo 1905 m. gruodžio 9 d. bažnyčiai atskirti nuo valstybės:
+---
 
--   Susipažinkite su prefekto adresu ir visomis atitinkamomis pamaldomis, susijusiomis su bažnyčios atskyrimu nuo valstybės, Valstybės tarybos nustatytais religinės asociacijos kriterijais, taip pat taikoma Jehovos atveju (71)
--   Valstybinių organų tikslas - nustatyti bendrą politiką, kaip prisijungti prie religinių organizacijų socialinės apsaugos sistemos (75).
+(252 puslapis)
 
-### 3\. Politinio gyvenimo finansavimo įstatymo pakeitimas:
+## Išvada
 
--   suteikti pirmąją metinio biudžeto dalį gavus tam tikrą balsų skaičių per paskutinius Parlamento rinkimus (C.84);
--   suteikti prieigą prie radijo ir televizijos kampanijų politinei sąjungai, paskyrusiai nacionalinį atstovą, kuriam skiriamas minimalus vietos pavaduotojų skaičius.
+Baigus savo darbus, Komisija turi pripažinti, kad sektų reiškinys tikriausiai dar ilgai bus įsišaknijęs mūsų visuomenėse. Jis atskleidžia neišvengiamus veiklos sutrikimus ir kartais sudaro vožtuvus, per kuriuos neišvengiama marginalizacija randa išeitį. Teisė į kitoniškumą taip pat turi būti saugoma. Tačiau negalima leisti, kad šios teisės vykdymas kelia grėsmę tam tikriems principams, visų pirma silpniausiųjų apsaugos teisei. Todėl kova su sektų nukrypimais išlieka, Komisijos požiūriu, reikalavimas, kuriam reikalingi geriau pritaikyti ištekliai, naujos visuomenės sąmoninimo pastangos ir tarptautinis suvokimas. Komisija įsitikinusi, kad tradiciškai minėta priešprieša tarp sąžinės laisvės ir viešosios tvarkos sektinių veiksmų srityje yra visiškai neveiksminga. Nebūtina priešpastatyti šių dviejų principų; priešingai — reikia atskleisti jų papildomumą. Sąžinės laisvės išsaugojimas negali remtis esminių asmens laisvių nepaisymu: laisve judėti, teisėmis turėti ir naudotis turtu, rūpinimusi savo kūnu ir sveikata, apsauga nuo valdžios piktnaudžiavimo, gynyba nuo pažeidimų, darančių poveikį moraliniams ir materialiems interesams… Siekdama, kad sektų nukrypimų atakos prieš šias laisves būtų veiksmingiau persekiotos ir baudžiamos, Komisija siekia, kad būtų taip užtikrintos sąžinės ir žodžio laisvės, kurios yra žmogaus teisių pagarbos šerdis.
 
-### 4\. Socialinių reikalų ir sveikatos sektoriaus organizavimas:
+---
 
--   per visas viešąsias tarnybas ir medicinos darbuotojus paskelbti praktinį vadovą, kuriame būtų nurodytos pažeidžiamos sveikatos sektoriaus sekso vietos.
--   centralizuoti informaciją apie sankcijas, kurias naudoja profesinės sveikatos priežiūros darbuotojai, ir teismo procesus (128);
--   paskirti gydytojo kolegų atstovą į sekso kovų užkariavimą (128 dalis);
--   išmokyti įdiegti procedūras, taikomas parametrinėms darbo vietoms ir sveikatos padėjėjams ekspertų komitete, kurios leistų taikyti terapinius metodus ir uždraustų taikyti nepatvirtintus (128);
--   Stiprinti medicinos ir sukarintų mokymo įstaigų veiklą pagal šias disciplinas:
-    -   Psichologinio ligonių teismo metodai. 129;
-    -   visuomenės buvimo vieta, vaidmuo ir darbo vietų ribojimas (129 skirsnis);
--   Projektavimas pradedant pradine ar vidurine mokykla, sveikatos mokymas, sveikas gyvenimo būdas ir kūno formavimo supratimas (129);
--   inicijuoja asociacijų, kurias lydi lydintis asmuo ir su asocijuotais asmenimis (-iais), steigimo arba sertifikavimo procedūrą;
--   numatyti terapinio stebėjimo metodus buvusiems pasekėjams ir įtraukti juos į tęstinio gydytojų mokymo programą (129);
--   plėsti informavimo apie vakcinas kampaniją, įskaitant nacionalinį švietimą. OL L 248, 2002 9 16, p. 1.
+(254 puslapis)
 
-### 5\. Mokymo rezultatai:
+## KOMISIJOS SIŪLYMŲ SANTRAUKA
+(numeriai nurodo ataskaitos puslapius)
 
--   Darbdaviams finansuoti bus paskirti valstybinės administracinės institucijos nurodymai ir valdymas (158 ir 159 skirsniai);
--   Atšaukti automatinį atleidimą nuo PVM, paliekant jį tik tinkamai akredituotoms organizacijoms (-oms);
--   suteikti administracijai aiškius įgaliojimus atsikratyti organizacijos registracijos, jei paaiškėja, kad ji neatitinka profesinio mokymo reikalavimų arba yra susijusi su sukčiavimu (159);
--   Pradėti informacinę kampaniją, skirtą įmonėms organizuotoms valstybinėms ir profesinėms organizacijoms.
--   Sukurti mokymo paslaugų sertifikatų programą (161 sek.).
+### 1. Asociacijų statuso pakeitimai:
 
-### 6\. Užeikite pagerinti kovą su sukčiavimu:
+- stiprinti demokratiją asociacijų viduje: įpareigojant, viršijus tam tikrą biudžetą, kuris galėtų būti nustatytas 500 000 frankų, rengti bent vieną metinę visuotinio susirinkimo sesiją ir sudaryti moralinę bei finansinę ataskaitą nariams (p. 51 ir 52) ;
+- taikyti asociacines struktūras, turinčias tam tikrą ekonominį svorį – pavyzdžiui, tas, kurių metinis biudžetas viršija 500 000 frankų – minimalioms deklaravimo prievolėms (pelno (nuostolio) ataskaita ir balansas) (p. 51 ir 52) ;
+- pasinaudoti 1998 m. rugsėjo 15 d. instrukcijos dėl asociacijų mokesčių atidėjimu, kad būtų atsižvelgta į riziką, jog naujos taisyklės gali būti panaudotos sektinio reiškinio plėtrai palankia linkme (p. 60).
 
-a) baudžiamojo proceso gerinimas
+### 2. 1905 m. gruodžio 9 d. įstatymo dėl bažnyčių ir valstybės atskyrimo taikymas:
 
--   pradėti konsultacijas dėl "protinės manipuliacijos" (-ų) sukūrimo tikslo;
--   Sunku išmokti, laikytis nekaltumo principų, sugebėjimo perkelti daugiausiai pervestų lėšų naštą, jei jos susijusios su seksu.
+- priminti prefektams ir visoms suinteresuotoms tarnyboms, per cirkuliarą, bažnyčių ir valstybės atskyrimo principus bei Valstybės Tarybos apibrėžtus kultinės asociacijos kriterijus ir jų taikymą Jehovos liudytojų atveju (p. 71) ;
+- atkreipti valdžios institucijų dėmesį į būtinybę dabar nustatyti keletą bendrų taisyklių dėl prisijungimo prie religijų socialinės apsaugos režimo (p. 75).
 
-\= sync, pataisyta pagal elderman = =
+### 3. Politinio gyvenimo finansavimo įstatymo pakeitimai:
 
--   pasinaudojant tarpvartotojų komitetu, kuriam vadovauja Ministras Pirmininkas, ir technine pagalba, susijusia su lytinės veiklos perkėlimu, apibrėžti bendrą valstybės veiksmų ribą kiekvienos ministerijos cirke (-uose);
--   numatyti, kad finansų įstaigoms būtų atstovaujama su seksu susijusioje misijoje (182 skirsnis);
--   Sužinokite galimybę sukurti Paslapčių departamentas, saistomas interverse misijas kovoti su seksu su kuria daryti (s. 249):
-    -   kiekviename prefekte sukurti visuomenės informavimo, įmonių ir finansų įstaigų centrą;
-    -   teikti konsultacijas ir patarimus aukoms, buvusiems asistentams ir jų šeimoms;
-    -   teikti tinkamą jų veiklai būtiną administracinę informaciją;
-    -   Kurti, savo ruožtu, visą informaciją iš administracijos apie sekso veiklos departamentas;
--   Apsvarstykite galimybę sukurti per kiekvieną apeliacijos departamentas rašyti greitkelius specialiai paruošti kulto klausimais. Ši funkcija taptų naudingu funkcijos papildymu, kurį atlieka dabartinis tęsėjas ant pleistro (sek. 250 ir 251);
--   pradėti konsultacijas Europos Sąjungoje siekiant surengti specialų kovos su seksu konkursą (251 skirsnis);
--   Europos Taryboje pradėti diplomatinius veiksmus dėl lyties pavojaus, lyties buvimo nevyriausybinėse organizacijose, humanitarinių ketinimų patvirtinimo ir 1986 m. taisyklės keliamos rizikos.
+- priklausyti pirmosios dalies metinės biudžetinės paramos gavimui nuo tam tikro balsų slenksčio paskutiniuose parlamento rinkimuose (p. 84) ;
+- rezervuoti prieigą prie radijo ir televizijos kampanijos politinėms formacijoms, kurios paskyrė nacionalinį atstovą, paremta minimalios vietos rinktinių skaičiaus (p. 84).
 
-### 7\. Padėties kontrolė:
+### 4. Socialinių reikalų ir sveikatos sektoriaus organizavimas:
 
-Eik į vyriausybę, prašydamas tarpgyvos misijos kovoti su seksu, paruošk priemones pirmiau minėtoms pozicijoms.
+- išleisti visoms viešosioms tarnyboms ir sveikatos profesionalams praktinį vadovą, identifikuojantį jautrias sektoms vietas medicinos ir socialiniame pasaulyje (p. 128) ;
+- centralizuoti informaciją apie sankcijas, kurias taiko sveikatos profesijų ordinarinės institucijos, ir apie vykstančias teisinias procedūras (p. 128) ;
+- paskirti, per Gydytojų Ordino, atstovą prie Tarpministrinės misijos kovai su sektomis (p. 128) ;
+- ištirti galimą procedūrą dėl paramedikos profesijų ir medicinos pagalbininkų pavadinimų patvirtinimo per ekspertų komisiją, kuri leistų naudoti terapijų pavadinimus ir galėtų siūlyti uždrausti praktikuoti nepatvirtintas terapijas (p. 128) ;
+- sustiprinti medicinos ir paramedikų studijose dėstymą apie:
+  - sergančiųjų psichologinio palaikymo metodus (p. 129) ;
+  - medicinos ir paramedikų profesijų vietą, vaidmenį ir ribas visuomenėje (p. 129) ;
+- plėtoti nuo pradinio ar vidurinio mokymo sveikatos ugdymo, gyvenimo higienos ir kūno schemos supratimo pamokas (p. 129) ;
+- sukurti patvirtinimo ar ženklinimo procedūrą asociacijoms, veikiančioms palydos ir pagalbos hospitalizuotiems asmenims srityje (p. 129) ;
+- numatyti terapinio stebėjimo būdus, siūlomus buvusiems adeptams, ir integruoti juos į gydytojų tęstinį rengimą (p. 129) ;
+- sustiprinti skiepų sąmoninimo kampanijas, ypač nacionalinio švietimo kontekste (p. 129).
+
+### 5. Profesinio mokymo reguliavimas:
+
+- patikėti profesinio mokymo įstaigų patvirtinimą ir kontrolę viešajai administracinei įstaigai, kuriai būtų skiriama darbdavių įmokos dalis jos veiklai finansuoti (p. 158 ir 159) ;
+- nutraukti PVM atleidimo automatizmą, paliekant jį tik tinkamai patvirtintoms organizacijoms (p. 159) ;
+- aiškiai suteikti administracijai galią atimti įstaigos įregistravimą, kai paaiškėja, kad ji nepatenka į profesinio mokymo ribas arba dalyvavo sukčiavimo veiksmuose (p. 159) ;
+- pradėti informavimo kampaniją įmonėms, organizuotą valstybės ir profesinių organizacijų (p. 160) ;
+- parengti mokymo organizacijų ženklinimo programą (p. 161).
+
+### 6. Priemonės, skirtos pagerinti kovą su sukčiavimais:
+
+a) baudžiamųjų procedūrų pakeitimai
+
+- pradėti diskusiją apie galimybę sukurti psichinio manipuliavimo nusikaltimą (p. 216) ;
+- ištirti, griežtai gerbdami nekaltumo prezumpcijos principą, galimybę apversti įrodinėjimo naštą didžiausiems pinigų pervedimams, kai jie susiję su sektomis (p. 218).
+
+b) administracijos įtraukimas
+
+- apibrėžti, per tarpministrinį komitetą, premjero valdžioje ir su Tarpministrinės misijos kovai su sektomis technine pagalba, valstybės veiksmų bendrą rėmą, nurodytą kiekvienos ministerijos cirkuliaru (p. 249) ;
+- numatyti finansų įstaigų atstovavimą Tarpministrinėje misijoje kovai su sektomis (p. 182) ;
+- svarstyti sukurti departamentines struktūras, priklausančias Tarpministrinei misijai kovai su sektomis, kurių uždaviniai būtų (p. 249) :
+  - sudaryti visuomenės, įmonių ir finansų įstaigų informacijos centrą kiekviename prefektūroje ;
+  - nukreipti ir patarti aukoms, buvusiems adeptams ir jų šeimoms ;
+  - suteikti suinteresuotoms administracijoms informaciją, reikalingą jų veiklai ;
+  - surinkti atgalinę informaciją iš administracijų apie sektinę veiklą departamente ;
+- apsvarstyti galimybę sukurti, kiekvienos apeliacinės struktūros srityje, specialiai paruošto teisėjo pareigybę sektiniams klausimams tvarkyti. Ši funkcija būtų naudinga papildant dabartinio sektų korespondento Prokuratūroje vaidmenį (p. 250 ir 251) ;
+- inicijuoti konsultacijas Europos Sąjungoje, siekiant sukurti specialią konvenciją kovai su sektomis (p. 251) ;
+- pradėti diplomatines veiklas Europos Tarybos lygiu dėl sektariškumo pavojų, sektų buvimo nevyriausybinėse organizacijose, deklaruojančiose humanitarinę paskirtį, ir dėl 1986 m. konvencijos keliamų rizikų (p. 92).
+
+### 7. Siūlymų stebėsena:
+
+paprašyti Vyriausybės įpareigoti Tarpministrinę misiją kovai su sektomis parengti priemones aukščiau išvardytų siūlymų įgyvendinimui.

@@ -1,9 +1,9 @@
-# Parastās "Ārējās Fačadas"
+# «Ārējā fasāde» normalitātes
 
-> Vai nav iespējams, ka, veicot daudzas darbības, kas saskaras ar ārpusi, kas var dot relatīvo prestižu vai drīzāk "prestiža masku", mēs zaudējam iespēju dot saviem deputātiem nepieciešamo uzmanību un kontroli?
+> Vai nav iespējams, ka, veicot daudzas darbības, vērstas uz ārpusi, kas var dot relatīvu prestižu, vai drīzāk «prestiža masku», mēs zaudējam iespēju sniegt mūsu Biedriem nepieciešamo uzmanību un kontroli?
 > 
-> Es uzskatu, ka mums būtu nacionālie mandi, kam būtu jākoncentrējas uz ļoti patiesu un neesošu personīgo preferenču izvēli attiecībā uz ārējām darbībām, ja, no vienas puses, tie mums dotu eklektiskas darbības "masku", no otras puses, tie atņemtu mums identitāti ar mūsu principiem un ideāliem.
+> Manuprāt, Nacionālajiem vadītājiem būtu jāvēršas pie ļoti patiesas atlases, brīvas no personiskām preferencēm attiecībā uz ārējām aktivitātēm, kas, no vienas puses, dod mums šo «masku» eklektiskas darbības izskatam, bet, no otras puses, atņem mūsu identitāti ar mūsu Principiem un Ideāliem.
 > 
-> Es uzskatu, ka tad, ja mēs turpināsim tik daudz veltīt mūsu iestādes "facade”, neņemot vērā cilvēkus, kas to jau veido, deputātu ikgadējais zaudējums turpināsies.
+> Uzskatu, ka, ja mēs turpināsim tik daudz nodarboties ar mūsu Institūcijas «fasādi», atstājot novārtā cilvēkus, kas to jau veido, ikgadējais Biedru zudums turpināsies.
 > 
-> \- *14\. komanda: Kā sagūstīt un noturēt biedrus? Jorge Ángel Livraga*
+> — *Mando nr. 14: Kā piesaistīt un noturēt Biedrus? Jorge Ángel Livraga*

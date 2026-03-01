@@ -1,19 +1,21 @@
-## Catatan dari administrator blog:
+## Catatan dari administrator blog: 
 
-Istilah Kama- Manas mengacu pada "pikiran rasional". Ini adalah pikiran yang Anda melacak dan menganalisis hal-hal dengan cara yang konkret. Lalu akan ada jenis lain pikiran disebut "Manas", yang sesuai dengan "pikiran spiritual", yang mampu menangkap hal-hal yang lebih intuitif. Pengetahuan milik Kama- Manas, sementara kebijaksanaan milik "Manas".
+Istilah Kama-manas mengacu pada "pikiran rasional". Ini adalah pikiran yang bernalar dan menganalisis hal-hal secara konkret. Lalu ada jenis pikiran lain yang disebut "Manas", yang sesuai dengan "pikiran spiritual", yang mampu menangkap hal-hal secara lebih intuitif. Pengetahuan milik "Kama-Manas", sementara Kebijaksanaan milik "Manas". 
 
-## RECOPILASI CITAS:
+## KUMPULAN KUTIPAN:
 
-Para Acropolitan harus tahu bagaimana membungkam Kama- nya manas dan membersihkan dirinya dari elemen-elemen feminoid (dalam rasa terburuk kata) yang mendorong dia ke dalam pelukan kejantanan bawah sadar; semangat melarikan diri, mengubah kembali pada kehidupan dan diculik oleh Dark Forces. Anda harus menghindari jenis pemerkosaan psikis sehingga mereka tidak dilahirkan, kemudian, dalam astral dan mental tubuh, larva elemental yang akan bergema Roh.
+Seorang akropolis harus tahu cara membungkam Kama-manas-nya dan membersihkan diri dari unsur-unsur feminoid itu (dalam arti terburuk kata) yang menyeretnya ke dalam pelukan animalitas bawah sadar; dari semangat melarikan diri, dari membelakangi kehidupan dan dari membiarkan diri diculik oleh Kekuatan Kegelapan. Ia harus menghindari jenis pemerkosaan psikis itu agar tidak lahir, kemudian, dalam tubuh astral dan mentalnya, larva-larva elemental yang akan mengeringkan Jiwanya.
 
-Bastion nomor 61- 3. Tentang kerapuhan psikologis dari beberapa akropolitan. Jorge Ángel Livraga
+Bastión nº 61-3. Tentang kerapuhan psikologis beberapa akropolis. Jorge Ángel Livraga
 
-Menjaga dan memulihkan, jika hilang, tingkat dasar disiplin. Menjaga aktivitas yang mempromosikan kekuatan dalam hati dan kapasitas pengorbanan. Dialog dengan Kamanas tidak sama dengan Ladies or Gentlemen.
+Memelihara dan memulihkan, jika telah hilang, tingkat dasar disiplin. Menjaga aktivitas yang mempromosikan keteguhan di dalam hati dan kemampuan berkorban. Dialog dengan Kama-manas tidak pantas bagi Nyonya maupun Tuan. 
 
-Perintah No. 59. Sangat penting untuk mempertahankan kohesi. Jorge Ángel Livraga
+Mando nº 59. Sangat penting untuk mempertahankan kohesi. Jorge Ángel Livraga
 
-Kita harus menghindari perangkap psikologis dari "Kama- manas" untuk merasakan waktu didedikasikan untuk Acropolis baru sebagai sesuatu "terkoyak" dalam hidup kita. Kebenaran hanyalah sebaliknya; satu-satunya waktu yang berguna dari inkarnasi kita saat ini adalah mereka yang didedikasikan untuk perjanjian tersebut. Segala sesuatu yang lain adalah debu bahwa angin kehidupan bertanggung jawab menyebarkan.
+Kita harus menghindari perangkap psikologis yang dipasang oleh "Kama-manas" yang membuat waktu yang didedikasikan untuk Akropolis Baru terasa sebagai sesuatu yang "dicabut" dari hidup kita. Kenyataannya justru sebaliknya; satu-satunya jam yang berguna dari inkarnasi kita saat ini adalah yang didedikasikan untuk Ideal. Segala yang lain hanyalah debu yang angin kehidupan yang bertugas menyebarkannya. 
 
-Bagaimana menggunakan waktu. Mei 1982. Jorge Ángel Livraga Untuk keseratus kalinya, kami ulangi: konsep teologis yang buruk lebih baik daripada doktrin materialis yang paling rumit. Dalam jangka panjang, orang yang percaya pada Allah, yang melahirkan dia seperti yang dia inginkan, akan lebih kuat dan lebih tahan dari seribu orang yang kafir. Dengan demikian, New Acropolis akan hidup selama itu adalah spiritual dan setidaknya akan tetap hidup percikan api Mystic dari Mysteries.
+Bastión Nº 63-3: Tentang bagaimana memanfaatkan waktu. Mei 1982. Jorge Ángel Livraga
 
-Petunjuk Manual (1976). Jorge Ángel Livraga
+Untuk kesekian kalinya, kami ulangi: lebih baik sebuah konsep teologis yang miskin daripada doktrin materialis yang paling rumit. Dalam jangka panjang, seorang pria yang percaya kepada Tuhan, yang memahaminya sesuai keinginannya, akan lebih kuat dan lebih tahan dibandingkan seribu orang yang menyangkalnya. Dengan demikian, Akropolis Baru akan hidup selama ia bersifat spiritual dan setidaknya akan mempertahankan hidup sebuah percikan dari Nyala Mistis Misteri.
+
+Manual del Dirigente (1976). Jorge Ángel Livraga

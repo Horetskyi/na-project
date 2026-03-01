@@ -1,9 +1,9 @@
-# "Ulkoinen Fachada" normaali
+# «Ulkoinen julkisivu» normaalisuudesta
 
-> Eikö ole mahdollista, että tekemällä monia ulkoisia toimia, jotka voivat antaa suhteellista arvostusta tai pikemminkin "prestige-naamiota," menetämme mahdollisuuden antaa jäsenillemme tarvittavaa huomiota ja valvontaa?
-> 
-> Olen sitä mieltä, että meillä olisi kansalliset mandit, jotka keskittyisivät hyvin totuudenmukaiseen ja poissaolevaan ulkoiseen toimintaan liittyvien henkilökohtaisten mieltymysten valintaan, että jos ne toisaalta antavat meille "naamion" eklektisen toiminnan osalta, toisaalta ne ottavat meiltä pois identiteetin omilla periaatteillamme ja ihanteillamme.
-> 
-> Uskon, että jos omistaudumme jatkossakin niin paljon toimielimemme "julkisuudelle" laiminlyömällä jo muodostaneet ihmiset, jäsenten vuosittainen menetys jatkuu.
-> 
-> \- *Komento nro 14: Miten vangita ja säilyttää jäseniä? Jorge Ángel Livraga*
+> Eikö ole mahdollista, että tekemällä paljon ulospäin suuntautuvia toimintoja, jotka voivat antaa suhteellista arvostusta, tai oikeammin «arvostuksen naamiota», menetämme mahdollisuuden antaa jäsenillemme tarvittavaa huomiota ja valvontaa?
+>
+> Minusta kansallisten johtajien tulisi ryhtyä erittäin totuudenmukaiseen valintaan, joka on vapaa henkilökohtaisista mieltymyksistä suhteessa ulkoisiin toimintoihin; sillä jos toisaalta ne antavat meille tuon «naamion» eklektisestä toiminnasta, toisaalta ne riistävät meiltä identiteetin suhteessa omiin Periaatteisiimme ja Ihanteisiimme.
+>
+> Uskon, että jos jatkamme niin paljon instituutiomme «julkisivuun» keskittymistä samalla laiminlyöden sen jo muodostavat ihmiset, jäsenten vuotuinen menetys jatkuu.
+>
+> — *Johto nro 14: Kuinka hankkia ja pitää jäseniä? Jorge Ángel Livraga*

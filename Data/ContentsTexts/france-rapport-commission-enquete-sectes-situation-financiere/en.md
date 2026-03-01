@@ -1,111 +1,113 @@
 (Page 51)
 
-So the New Acropolis was able to rediscover itself under its control of the ancient association, the Paris International School created in 1883 and suspended after the demolition. This association had a kind of prestige at the end of the 19th century involving famous scientists, but during World War Il, extreme changes had been happening. Restored by the New Acropolis, it's now a sex branch branch that offers foreign students to become.
+Thus, New Acropolis was able to revive under its control an old association, the School of Anthropology of Paris, created in 1883 and put into dormancy since the Liberation. This is an association that enjoyed a certain prestige at the end of the 19th century by recruiting renowned scientists, before experiencing an extremist drift during the Second World War. Reclaimed by New Acropolis, it is currently a “subsidiary” of the cult which, by this means, offers internships to foreign students.
 
 ---
 
 (Page 65)
 
-The new Acropolis requires its followers from a certain number of hours of volunteer work at her school to be hired, service and secretary job.
+New Acropolis requires its adherents to perform a certain number of hours of volunteer work in its “school”, devoted to reception, maintenance and secretarial tasks.
 
 ---
 
-(152- 153 pages)
+(Pages 152–153)
 
-The new Acropolis had an educational establishment because of Hermware Consults, head of Mrs. Isabel Ludwig, head of the sex association. Registered to SRC IldeFrance, this company, who is now excluded from the trading register, including, by teaching FNSEA employees.
+New Acropolis had a training organisation through the company Hermès Consultants, directed by Ms Isabelle Ludwig, president of the parent association of the cult. Registered at the SRC of Île-de-France, this company, now struck from the commercial register, notably trained employees of the FNSEA.
 
 ---
 
 (Page 182)
 
-Among them, Kṛṣṇa, who settled in the castle of Bellow in Utah and in the Uscille Mansion in Indie; the tradition of family property, which is by the association of the "Future Culture" by the Armies of Eryth-Loire; the New Anropolis, the owner of Kur Petrol, the former monastery in the same department;
+For example, Krishna established at the Château de Bellevue in the Jura and at the Domaine d’Oublaisse in the Indre; Tradition Famille Propriété holding, through the association Avenir de la culture, the Château de Jaglu in Eure-et-Loir; New Acropolis owner of the Cour Pétral, a former monastery located in the same department; …
 
 ---
 
-(1992-200 pages)
+(Pages 199–200)
 
-The New Acropoll France Association, Kridell; Hiding stealing; stealing in theft; crime failure under certain circumstances - TG Colmard, 27 / 03 / 98... - As Coloura, 18 / 12 / 98...
+NEW ACROPOLIS — Association New Acropolis France — Theft; Handling of stolen goods; Complicity in theft; Conditional threats of an offence — TGI of Colmar, 27/03/98 … — Court of Appeal of Colmar, 18/12/98 …
 
 ---
 
-(Pages 305-306)
+(Pages 305–306)
 
-I'm sorry. I'm sorry. • • The Second World War (writing) ... collected estimate elements: The annual income of the New Aropol France Association: from 4 to 4.6 million francs according to the financial year.
+NAME OF THE CULT : NEW ACROPOLIS
+A.– ORGANISATION … 1°) INTERNATIONAL HEADQUARTERS : Brussels (Belgium) …
+… ð 7 local branches : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… evaluation elements collected : Annual receipts of the association New Acropolis France : between 4 and 4.6 MF depending on the fiscal year.
 
 ---
 
 (Page 252)
 
-## Evaluate
+## Conclusion
 
-After doing this, the Commission has to admit that the sex phenomenon is probably long enough in our societies. It expresses the inevitable disfunction, and sometimes it's a kind of cluster, which leads to the incomprehensible marginalism. The right-to-difference must also be protected. But you can't allow this right-wing to be threatened by some principle, primarily by the weak. That's why fighting the sectarian deviations, the Commission's opinion, remains a requirement that requires more means, new efforts to inform society and awareness at an international level. The Commission is strongly aware that the tradition of contradictions between the freedom of conscience and public order in the matter of sectarian activity is absolutely inconvenient. It's not about counteracting these two principles, but it's also about lighting their complexities. Saving the freedom of conscience cannot be based on ignoring basic individual freedom: freedom of movement, possession of property and use, caring for its own body and health, protection from abuse of power, protection of suspension on their moral and material interests... Working on this freedom on the side of the sectarian population is more closely persecuted and punished, the Commission seeks to guarantee the freedom of conscience and expression that lie in respect of human rights.
+At the end of its work, the Commission must acknowledge that the cult phenomenon is probably installed in our societies for a long time. It expresses inevitable dysfunctions and sometimes constitutes safety valves through which an irreducible marginalism finds an outlet. The right to be different must also be safeguarded. But one cannot accept that the exercise of this right should threaten certain principles, first and foremost the right to the protection of the weakest. That is why the fight against cultic excesses remains, in the Commission’s view, a requirement that calls for better adapted means, a renewed effort to raise societal awareness and a consciousness-raising at the international level. The Commission is convinced that the traditional contradiction invoked between freedom of conscience and public order, in matters of cultist actions, is entirely irrelevant. It is not a question of opposing these two principles but, on the contrary, of highlighting their complementarity. The preservation of freedom of conscience cannot, indeed, rely on a disregard for essential individual freedoms: freedom of movement, of owning and enjoying property, of caring for one’s body and health, of being protected against abuses of power, of defending oneself against attacks on one’s moral and material interests… By working to ensure that attacks on these freedoms by cultic excesses are more effectively prosecuted and punished, the Commission intends thereby to guarantee freedoms of conscience and expression, which are at the very heart of respect for Human Rights.
 
 ---
 
 (Page 254)
 
-## THE COURSTATION OF MEMORY
+## SUMMARY OF THE COMMISSION'S PROPOSALS
+(the numbers refer to the pages of the report)
 
-(license rates)
+### 1. Adjustments to the status of associations:
 
-### 1\. Association changes:
+- strengthen democracy within associations: by requiring, beyond a certain budget which could be set at 500,000 francs, at least one annual general meeting and the preparation of a moral and financial report for the members (p. 51 and 52) ;
+- subject associative structures with a certain economic weight – for example, those whose annual budget exceeds 500,000 francs – to minimum declaration obligations (profit and loss account and balance sheet) (p. 51 and 52) ;
+- use the postponement of the application of the instruction of 15 September 1998 concerning the taxation of associations to take into account the risks of using the new rules in a way favourable to the development of the cult phenomenon (p. 60).
 
--   strengthen democracy inside associations: by adding a duty, overriding a certain budget which can be set to 500,000 francs, at least one year's total assembly and setting up a report about activities and financial statements for members (s. 51 and 52);
--   put on association structures that have some economic impact, for example, the ones whose annual budget is above 500,000 francs, the minimum liability of reporting (financial report and balance);
--   Use a brief application of instructions from the 15th of September 1998 to tax associations to include the risks of using new rules in the direction suitable for the development of the sectional phenomena (s. 60).
+### 2. Application of the law of 9 December 1905 concerning the separation of churches and the State:
 
-### 2\. Applying the law from 9 December 1905 to separate the church from the state:
+- remind, by circular addressed to the prefects and all concerned services, the principles of the separation between churches and the State, and the criteria of a cult association defined by the Council of State, as well as the application it made in the case of the Jehovah’s Witnesses (p. 71) ;
+- draw the attention of public authorities to the necessity of now setting some general rules for affiliation to the social protection scheme for cults (p. 75).
 
--   Mark to the prefect's address and all appropriate services about separating the church from the state, the criteria of the religious Association defined by the State Council, as well as being applied in the case of the Jehovah (s. 71)
--   The focus of state organs is to set general policies to join the social protection system of religious organizations (s. 75).
+### 3. Adjustments to the legislation concerning the financing of political life:
 
-### 3\. Change to the law of funding for political life:
+- make the benefit of the first fraction of the annual budgetary aid conditional on obtaining a threshold of votes at the last legislative elections (p. 84) ;
+- reserve access to the radio-television campaign to political formations that have designated a national representative sponsored by a minimum number of local elected officials (p. 84).
 
--   giving the first part of annual budget care when receiving a certain threshold of votes at the last parliamentary election (C.84);
--   provide access to radio and television campaigns to political union, which have appointed a national representative, supported by the minimum number of local deputies.
+### 4. Organisation of the social affairs and health sector:
 
-### 4\. Organization of Social Affairs and Health sector:
+- distribute to all public services and health professionals a practical guide identifying points of vulnerability to cults in the medico-social world (p. 128) ;
+- centralise information on sanctions taken by the professional bodies of health professions and on ongoing judicial proceedings (p. 128) ;
+- have the Order of Physicians designate a representative to the Interministerial Mission for the Fight Against Cults (p. 128) ;
+- study a possible approval procedure for the denominations of paramedical professions and medical auxiliaries, by a commission of experts that authorises the use of therapy titles and can propose the ban on the practice of those not approved (p. 128) ;
+- strengthen, in medical and paramedical studies, teaching on :
+  - methods of psychological support for patients (p. 129) ;
+  - the place, role and limits of medical and paramedical professions in society (p. 129) ;
+- develop, from primary or secondary education, courses in health education, healthy living and the understanding of body schema (p. 129) ;
+- set up an approval or labelling procedure for associations involved in accompaniment and assistance to hospitalized persons (p. 129) ;
+- provide modes of therapeutic follow-up to offer to former adherents and integrate them into the continuing education of physicians (p. 129) ;
+- amplify, notably within the framework of national education, awareness campaigns on vaccines (p. 129).
 
--   spread through all public services and medical workers a practical manual that identifies vulnerable spots for the health sector sex.
--   centralize information about sanctions, used by professional health workers, and the court processes (s. 128);
--   assign a representative from the doctors' colleagues to the interquest for sex fighting (sec. 128);
--   Learning the ability to introduce procedures for parametric jobs and health assistants for the expert committee that would allow the use of therapeutic methods and offer a ban on applying unapproved (s. 128);
--   To reinforce medical and paramilitary training institutions with the following disciplines:
-    -   The methods of psychological court of the sick. 129;
-    -   location, role and job constraint of the society (sec. 129);
--   Design starting from primary or secondary school, health training, healthy lifestyle and understanding body building (s. 129);
--   Initiate the Accreation or certification procedure for associations conducted by an escort and with the construated persons (s. 129);
--   predict the methods of therapeutic monitoring of former followers and include them in the program of continuous training for doctors (s. 129);
--   expanded, including national education, a campaign to improve awareness about vaccines. 129.
+### 5. Regulation of vocational training:
 
-### 5\. Training performance:
+- entrust the approval and control of vocational training organisations to an administrative public establishment to which a portion of employers’ contributions would be allocated to finance its operation (p. 158 and 159) ;
+- end the automatic exemption from VAT by reserving it to duly approved organisations (p. 159) ;
+- explicitly give the administration the power to withdraw the registration of an organisation when it appears that it does not fall within the framework of vocational training or that it has engaged in fraudulent manoeuvres (p. 159) ;
+- launch an awareness campaign aimed at companies, organised by the State and professional organisations (p. 160) ;
+- develop a labelling programme for training organisations (p. 161).
 
--   Instruction and management of the public administrative institution will be assigned to finance the employers (sec. 158 and 159);
--   Cancel automatic release from VAT, leaving it only for proper accredited organizations (s. 159);
--   Give the administration a clear authority to get rid of the organization registration, if it turns out that it does not match the requirements of professional education or associated with fraud (s. 159);
--   Start an information campaign aimed at businesses organized state and professional organizations (s).
--   Design an educational service certificate program (sec. 161).
+### 6. Measures aimed at improving the fight against fraud:
 
-### 6\. Come in to improve the struggle with fraud:
+a) adjustment of criminal procedures
 
-a) improving criminal procedures
+- initiate a consultation on the advisability of creating an offence of mental manipulation (p. 216) ;
+- study, in strict respect of the presumption of innocence, the possibility of reversing the burden of proof for the largest transfers of funds when they are linked to cults (p. 218).
 
--   Start consultation on the purpose of creating a "mental manipulation" (s. 216);
--   It's hard to learn, to follow the principles of innocence, the ability to transport the burden of the most transferred funds, if they are related to sex.
+b) mobilisation of the administration
 
-\= = sync, corrected by elderman = =
+- define, by an interministerial committee under the authority of the Prime Minister and with the technical assistance of the Interministerial Mission for the Fight Against Cults, the general framework of State action specified by circular from each ministry (p. 249) ;
+- provide for the representation of financial institutions at the Interministerial Mission for the Fight Against Cults (p. 182) ;
+- study the creation of departmental structures attached to the Interministerial Mission for the Fight Against Cults with the tasks (p. 249) :
+  - to constitute a public information centre for companies and financial institutions in each prefecture ;
+  - to guide and advise victims, former adherents and their families ;
+  - to provide administrations concerned with the information necessary for their action ;
+  - to collect, in return, all information coming from administrations on cult activity in the department ;
+- consider creating, within the jurisdiction of each Court of Appeal, a magistrate’s post specially trained to deal with cult-related issues. This function would constitute a useful complement to the role currently exercised by the cult correspondent at the Public Prosecutor’s Office (p. 250 and 251) ;
+- initiate a consultation within the European Union to lead to a specific convention on the fight against cults (p. 251) ;
+- undertake diplomatic action at the Council of Europe on the dangers of sectarianism, on the presence of cults within non-governmental organisations claiming a humanitarian vocation and on the risks created by the 1986 convention (p. 92).
 
--   defining, by using the interuser committee under the leadership of the Prime Minister and technical assistance of interlocating sexual activity, the general border of state action in the circus of each ministry (s. 249);
--   Predicting the representation of financial institutions at interverse mission with sex (sec. 182);
--   Learn the ability to create a Department of Secrets, bound interverse missions to fight sex with which to do (s. 249):
-    -   create a center for public awareness, enterprise and financial institutions in every prefect;
-    -   Lead consultation and advice to the victims, former asducs and their families;
-    -   providing appropriate administrative information necessary to their activities;
-    -   Build, in turn, all information from the administration about the sex activity in the department;
--   Consider the ability to create within each appeal department to post the highways specially prepared for the cult issues. This function would become a useful addition to the function performed by the current sequencer on the patch (sec. 250 and 251);
--   Start a consultation within the European Union in order to enroll a special contest to fight sex (sec. 251);
--   Start diplomatic action at the Council of Europe for gender danger, presence of gender in non-governmental organizations, confirming humanitarian intent, and risks created by the rule of 1986.
+### 7. Follow-up of the proposals:
 
-### 7\. Position control:
-
-Go to the government asking for an interliving mission to fight the sex, prepare the measures for doing the above positions.
+request that the Government charge the Interministerial Mission for the Fight Against Cults with preparing the measures for the implementation of the above proposals.

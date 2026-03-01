@@ -1,9 +1,9 @@
-# "Išorės Fachada" normalus
+# «Išorinė fasada» normalumo
 
-> Ar neįmanoma, kad atlikdami daugelį su išore susijusių veiksmų, kurie gali suteikti santykinį prestižą, o tiksliau - "prestižo kaukę", prarasime galimybę savo nariams skirti reikiamą dėmesį ir kontrolę?
-> 
-> Mano nuomone, turėtume nacionalinius vadovus, kurie sutelktų dėmesį į labai teisingą ir nereikalingą asmeninių prioritetų dėl išorės veiklos pasirinkimą, kad, viena vertus, jie suteiktų mums eklektinės veiklos "kaukę", kita vertus, iš mūsų atimtų tapatybę su mūsų pačių principais ir idealais.
-> 
-> Manau, kad jei ir toliau tiek daug skirsime savo institucijos "fasadui", nepaisydami žmonių, kurie ją jau sudaro, metinis narių praradimas tęsis.
-> 
-> \- *Komanda Nr. 14: Kaip surinkti ir išlaikyti narius? Jorge Ángel Livaga*
+> Ar neįmanoma, kad, vykdydami daug viešų veiklų, kurios gali suteikti santykinį prestižą, arba, tiksliau, dėl «prestižo kaukės», prarandame galimybę skirti mūsų nariams būtiną dėmesį ir kontrolę?
+>
+> Mano nuomone, Nacionaliniai vadovai turėtų imtis labai tikslios atrankos, laisvos nuo asmeninių pageidavimų dėl išorinių veiklų, kurios, viena vertus, suteikia mums tą «kaukę» eklektiškos veiklos, o kita vertus atima mūsų tapatybę su mūsų pačių Principais ir Idealais.
+>
+> Manau, kad jei toliau tiek daug skirsime mūsų Institucijos «fasadai», apleisdami žmones, kurie ją jau sudaro, metinis narių praradimas tęsis.
+>
+> — *Mando Nr. 14: Kaip pritraukti ir išlaikyti narius? Jorge Ángel Livraga*
