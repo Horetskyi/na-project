@@ -1,31 +1,31 @@
-# Homofobija Naujajame akropolyje
+# Homofobija Naujajame Akropolyje
 
-> Paimkite Hachado, jei tai džentelmenas, vyriškas buvimas, ir jei tai moteris, moteris buvimas. Priešingybgamtai ir mes esame susiję su homoseksualų ir lesbiečių subpasauliu.
-> 
-> \- *Acropolis mandagumo vadovas*
+> Tegul turi Hachado: jei jis džentelmenas — vyrišką buvimą, o jei dama — moterišką buvimą. Priešingas elgesys prieštarauja Gamtoje ir sieja mus su homoseksualų ir lesbiečių pogrindžiu.
+>
+> — *Akropolio mandagumo vadovas*
 
-> Prieš porą metų iš šių puslapių išleidiau savo mintis apie būtinybę apsaugoti Naująjį akropolį nuo vis pavojingesnės grėsmės: homoseksualumo ir priklausomybės nuo narkotikų.
+> Prieš porą metų aš, būdamas šių pačių puslapių autorius, paskelbiau savo mintis apie būtinybę apsaugoti Naująjį Akropolį nuo grėsmės, kuri darėsi vis pavojingesnė: homoseksualumo ir narkomanijos.
 > 
-> Homoseksualumas ir narkomanija yra ne liga ar būtinybė, bet mirtingojo pavaduotojas, kurį kiekvienas fizinis ir padorus žmogus privalo kovoti.
+> Homoseksualumas ir narkomanija nėra liga ar būtinybė, o mirtinas ydingas įprotis, kurio kiekvienas natūralus ir padorus asmuo privalo kovoti.
 > 
-> \- *Almena Nr. 53: Viso pasaulio ponios ir ponai. Jorge Ángel Livaga*
+> — *Almena nº 53: Visų pasaulio Hachados ponioms ir poniams. Jorge Ángel Livraga*
 
-> Elgesys tampa daugiavalenčiu; viskas yra gerai ir turi savo pateisinimą. Apverčiai ir lesbietės skelbia savo būklę su dideliais vėliavomis ant pagrindinių sostinių planetos gatvėse, ir nusikaltėliai uždaryti kalėjimuose vadinami "marginalizuota".
-> 
-> \- *Bastion Nr. 106-1: Rožinis vėžys. Jorge Ángel Livaga*
+> Elgesys tampa daugiaprasmis; viskas yra gerai ir turi savo pateisinimą. Iškreiptieji ir lesbietės skleidžia savo būklę didžiulėmis plakatais pagrindinių Pasaulio sostinių gatvėse, o nusikaltėliai, uždaryti kalėjimuose, vadinami «marginalais».
+>
+> — *Bastión nº 106-1: Rožinis vėžys. Jorge Ángel Livraga*
 
-> Kai kuriose šalyse "senojo pasaulio" reaktoriai nuleido nuo liberalių obligacijų kaukes ir skyrė baudą mūsų plakatams, o lesbietės ir teroristai "paleido".
-> 
-> \- *Bassion Nr. 23-1: parinktis. Jorge Ángel Livaga*
+> Kai kuriose šalyse „senojo pasaulio“ reakcionieriai nusimetė savo liberalių gerovių kaukes ir baudžia mūsų plakatų autorus, tuo tarpu „leidžia praeiti“ lesbiečių ir teroristų plakatus.
+>
+> — *Bastión nº 23-1: Pasirinkimas. Jorge Ángel Livraga*
 
-> Vagystė, melas, amoralūs papročiai (narkomanija, alkoholizmas, homoseksualumas, prostitucija, lošimas ir daugelis kitų dažnai pažymėtų) neatitinka mūsų gretų. Mūsų priemonės turi atitikti mūsų tikslus ir principus.
-> 
-> \- *Komanda Nr. 95: Suderinamumas. Delia Steinberg*
+> Vagystė, melas, amoralių papročių (narkomanija, alkoholizmas, homoseksualumas, prostitucija, polinkis lošti ir daugelis kitų dažnai pažymimų) neturi vietos mūsų gretose. Mūsų priemonės turi atitikti mūsų tikslus ir principus.
+>
+> — *Mando nº 95: Nuoseklumas. Delia Steinberg*
 
-> (...) ten, kur trapios moterys randa šlykščius džinsus ir jojančius batus... net ir pianino koncertui. Ir kur žmonės mėgsta afeitus, šilkinius masažus, "unisex" marškinėlius, ir jie patenka į jį, kai šoka kaip Havajų danzarinai, tuo tarpu jie bijo turėti ginklą rankose ir net nežino, kaip elgtis su plaktuku. Visa tai sukėlchaosą, kuriame mes turime gyventi, su jo padariniais narkotikų, šnipų, homoseksualų ir savanaudiškų bailių.
-> 
-> \- *Bastionas Nr. 154-2: Ponios ir ponai, ar mes vienodi? Jorge Ángel Livaga*
+> (...) kur trapioms damutėms užsidedami grubi džinsai ir jojimo batai... net pianino koncertui. Ir kur vyrai mėgaujasi puošmenomis, šilkiniu masažu, „unisex“ marškiniais ir linguoja šokydami tarsi Havajų šokėjos, tuo tarpu bijo laikyti ginklą rankoje ir net nemoka tvarkyti plaktuko. Visa tai sukėlė chaosą, kuriame turime gyventi, su jo pasekmėmis: narkomanai, girtuokliai, homoseksualai ir bailus savanaudiškumas.
+>
+> — *Bastión nº 154-2: Poniai ir ponai, ar mes vienodi? Jorge Ángel Livraga*
 
-> Judėjimo mes neprašome būti moralistais, bet pasistenkite būti moralistais. Niekam nerodyk blogo pavyzdžio ir nesutelk savo sielos į korupcijos dumblą. Pasitrauk nuo narkotikų, homoseksualų, vagių, smurtinių, bailių, haraganų, politikų, fanatikų.
-> 
-> \- *Baseinas Nr. 30-1: Patarimai naujiems akropolitiečiams. Jorge Ángel Livaga*
+> Mūsų Judėjimas neprašo tavęs būti moralistu; bet stenkis būti kiek įmanoma moralesnis. Niekam nerodyk blogo pavyzdžio ir neįmirk savo Sielos korupcijos dumble. Laikykis atokiau nuo narkotikų, nuo homoseksualų, nuo vagių, nuo smurtautojų, nuo bailių, nuo tinginių, nuo politikierių, nuo fanatikų.
+>
+> — *Bastión nº 30-1: Patarimai naujiems akropolietams. Jorge Ángel Livraga*

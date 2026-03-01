@@ -1,111 +1,113 @@
-(pagina 51)
+(Pagina 51)
 
-Astfel, Noua Acropolis a reuşit să se redescopere sub controlul asociaţiei antice, Şcoala Internaţională de la Paris, creată în 1883 şi suspendată după demolare. Această asociere a avut un fel de prestigiu la sfârșitul secolului al XIX-lea, implicând oameni de știință celebri, dar în timpul celui de-al Doilea Război Mondial, schimbări extreme au avut loc. Restaurat de New Acropolis, este acum o ramură de sex care oferă studenților străini să devină.
-
----
-
-(pagina 65)
-
-Noul Acropolis are nevoie de adepții săi de la un anumit număr de ore de muncă voluntară la școala ei pentru a fi angajat, serviciu și loc de muncă secretar.
+Astfel, Noua Acropolă a reușit să readucă la viață, sub controlul său, o veche asociație, Școala de antropologie din Paris, creată în 1883 și pusă în stare de inactivitate de la Eliberare. Este vorba despre o asociație care a avut un anumit prestigiu la sfârșitul secolului al XIX‑lea, recrutând oameni de știință de renume, înainte de a cunoaște o deriva extremista în timpul celui de‑al Doilea Război Mondial. Recuperată de Noua Acropolă, ea este în prezent o „filială” a sectei, care propune pe această cale stagii pentru studenți străini.
 
 ---
 
-(152- 153 pagini)
+(Pagina 65)
 
-Noul Acropolis a avut o instituţie de învăţământ din cauza lui Hermware Consults, şeful doamnei Isabel Ludwig, şeful asociaţiei sexuale. Înregistrată la SRC IldeFrance, această companie, care este acum exclusă din registrul comercial, inclusiv prin predarea angajaților FNSEA.
-
----
-
-(pagina 182)
-
-Printre acestea se numără şi K
+Noua Acropolă le cere adepților săi un anumit număr de ore de muncă voluntară în „școala” sa, consacrate unor sarcini de primire, întreținere și secretariat.
 
 ---
 
-(1992-200 pagini)
+(Paginile 152–153)
 
-Asociaţia New Acropoll France, Kridell; Ascunderea furtului; furtul în furt; eşecul criminalităţii în anumite circumstanţe - TG Colmard, 27 / 03 / 98... - Ca Colora, 18 / 12 / 98...
-
----
-
-(pagina 305-306)
-
-Îmi pare rău. Îmi pare rău. • • Al doilea război mondial (scris) ... elemente estimate colectate: Venitul anual al Asociaţiei New Aropol Franţa: de la 4 la 4,6 milioane de franci conform exerciţiului financiar.
+Noua Acropolă a dispus de un organism de formare prin intermediul societății Hermès consultants, condusă de doamna Isabelle Ludwig, președinta asociației‑mamă a sectei. Înregistrată la SRC d’Ile‑de‑France, această societate, radiată astăzi din registrul comerțului, a format în special salariați ai FNSEA.
 
 ---
 
-(pagina 252)
+(Pagina 182)
 
-## Evaluează
-
-După ce a făcut acest lucru, Comisia trebuie să recunoască faptul că fenomenul sexual este probabil suficient de lung în societățile noastre. Exprimă disfuncţia inevitabilă, şi uneori este un fel de grup, care duce la marginalismul de neînţeles. Dreptul la diferenţă trebuie protejat. Dar nu poţi permite ca această dreaptă să fie ameninţată de un principiu, în primul rând de cei slabi. De aceea, combaterea abaterilor sectare, opinia Comisiei, rămâne o cerinţă care necesită mai multe mijloace, noi eforturi de informare a societăţii şi de sensibilizare la nivel internaţional. Comisia este conştientă cu tărie de faptul că tradiţia contradicţiilor dintre libertatea de conştiinţă şi ordinea publică în materie de activitate sectară este absolut incomodă. Nu este vorba despre contracararea acestor două principii, dar este, de asemenea, despre iluminat complexitatea lor. Salvarea libertăţii de conştiinţă nu se poate baza pe ignorarea libertăţii individuale fundamentale: libertatea de circulaţie, deţinerea proprietăţii şi de utilizare, îngrijirea propriului corp şi sănătate, protecţia împotriva abuzului de putere, protecţia suspendării intereselor lor morale şi materiale... Lucrul la această libertate de partea populației sectare este mai strâns persecutat și pedepsit, Comisia urmărește să garanteze libertatea de conștiință și de exprimare care stau la baza drepturilor omului.
+Să‑i menționăm pe Krishna, instalat la castelul Bellevue din Jura și pe domeniul Oublaisse din Indre; Tradition famille propriété, care dispune, prin intermediul asociației Avenir de la culture, de castelul Jaglu din Eure‑et‑Loir; Noua Acropolă, proprietară a Curții Pétral, fostă mănăstire situată în același departament; …
 
 ---
 
-(pagina 254)
+(Paginile 199–200)
 
-## CURSTAREA MEMORIEI
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Furt; Tăinuire de bunuri provenite din furt; Complicitate la furt; Amenințări cu săvârșirea unui delict făcute sub condiție — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
-(ratele de licenţă)
+---
 
-### 1\. Modificări de asociere:
+(Paginile 305–306)
 
--   consolidarea democraţiei în cadrul asociaţiilor: prin adăugarea unei obligaţii care să impună un anumit buget care să poată fi stabilit la 500 000 de franci, adunarea totală de cel puţin un an şi elaborarea unui raport privind activităţile şi situaţiile financiare pentru membri (s. 51 şi 52);
--   pune pe structurile de asociere care au un impact economic, de exemplu, cele ale căror buget anual este mai mare de 500.000 de franci, răspunderea minimă de raportare (raport financiar și echilibru);
--   Utilizaţi o scurtă aplicare a instrucţiunilor din 15 septembrie 1998 asociaţiilor fiscale pentru a include riscurile utilizării noilor reguli în direcţia adecvată dezvoltării fenomenelor secţionale (s. 60).
+NUMELE SECTEI: NOUA ACROPOLĂ  
+A. – ORGANIZARE … 1°) SEDIUL INTERNAȚIONAL: Bruxelles (Belgia) …  
+… ð 7 implantări locale: Boissy‑lès‑Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …  
+… elemente de evaluare culese: Venituri anuale ale asociației Nouvelle Acropole France: între 4 și 4,6 milioane de franci, în funcție de exercițiu.
 
-### 2\. Aplicarea legii din 9 decembrie 1905 pentru separarea bisericii de stat:
+---
 
--   Marcu la adresa prefectului și toate serviciile adecvate despre separarea bisericii de stat, criteriile Asociației religioase definite de Consiliul de Stat, precum și care se aplică în cazul lui Iehova (s. 71)
--   Organele de stat se concentrează pe stabilirea politicilor generale de aderare la sistemul de protecţie socială a organizaţiilor religioase (s. 75).
+(Pagina 252)
 
-### 3\. Modificarea legii finanţării pentru viaţa politică:
+## Concluzie
 
--   acordarea primei părţi a asistenţei bugetare anuale la primirea unui anumit prag de voturi la ultimele alegeri parlamentare (C.84);
--   asigurarea accesului la campaniile de radio și televiziune la uniunea politică, care au numit un reprezentant național, sprijinit de numărul minim de deputați locali.
+La încheierea lucrărilor sale, Comisia trebuie să recunoască faptul că fenomenul sectar este, probabil pentru mult timp, instalat în societățile noastre. El exprimă disfuncționalitățile inevitabile și reprezintă uneori supape prin care un marginalism incomprimabil își găsește o cale de manifestare. Dreptul la diferență trebuie, de asemenea, să fie protejat. Dar nu se poate admite ca exercitarea acestui drept să poată amenința anumite principii și, înainte de toate, dreptul la protecția celor mai slabi. De aceea, lupta împotriva derivelor sectare rămâne, în ochii Comisiei, o exigență care reclamă mijloace mai bine adaptate, un nou efort de sensibilizare a societății și o conștientizare la nivel internațional. Comisia este convinsă că opoziția, evocată în mod tradițional, dintre libertatea de conștiință și ordinea publică, în materie de fapte sectare, este cu totul nefondată. Nu este vorba de a opune aceste două principii, ci, dimpotrivă, de a pune în lumină complementaritatea lor. Păstrarea libertății de conștiință nu se poate întemeia, de fapt, pe necunoașterea libertăților individuale esențiale: de a se deplasa liber, de a deține bunuri și de a se bucura de ele, de a‑și întreține corpul și sănătatea, de a fi protejat împotriva abuzurilor de putere, de a se apăra împotriva atingerilor aduse intereselor sale morale și materiale… Lucrând pentru ca atacurile aduse acestor libertăți prin derivele sectare să fie urmărite și reprimate mai eficient, Comisia înțelege să garanteze astfel libertățile de conștiință și de exprimare, care se află în chiar centrul respectării Drepturilor Omului.
 
-### 4\. Organizarea sectorului social şi al sănătăţii:
+---
 
--   răspândirea prin toate serviciile publice și lucrătorii medicali a unui manual practic care identifică punctele vulnerabile pentru sexul din sectorul sănătății.
--   centralizarea informațiilor privind sancțiunile, utilizate de lucrătorii din domeniul sănătății profesionale și procesele judiciare (s. 128);
--   atribuirea unui reprezentant din partea colegilor medicilor la interogare pentru lupte sexuale (sec. 128);
--   Învățarea capacității de a introduce proceduri pentru locuri de muncă parametrice și asistenți medicali pentru comitetul de experți care ar permite utilizarea metodelor terapeutice și ar oferi o interdicție privind aplicarea neaprobată (s. 128);
--   Consolidarea instituţiilor de formare medicală şi paramilitară cu următoarele discipline:
-    -   Metodele tribunalului psihologic al bolnavilor. 129;
-    -   localizarea, rolul și constrângerile în materie de locuri de muncă ale societății (sec. 129);
--   Proiectare incepand de la scoala primara sau secundara, formare de sanatate, stil de viata sanatos si intelegerea cladirii corpului (s. 129);
--   Inițierea procedurii de creare sau certificare a asociațiilor conduse de o escortă și cu persoanele construite (s. 129);
--   prezice metodele de monitorizare terapeutică a foştilor adepţi şi le include în programul de formare continuă pentru medici (s. 129);
--   extinderea, inclusiv a educației naționale, a unei campanii de sensibilizare cu privire la vaccinuri. 129.
+(Pagina 254)
 
-### 5\. Performanță de formare:
+## SINTEZA PROPUNERILOR COMISIEI
+(numerele trimit la paginile raportului)
 
--   Instrucțiunea și gestionarea instituției administrative publice vor fi alocate pentru finanțarea angajatorilor (sec. 158 și 159);
--   Anuleaza eliberarea automata din TVA, lasand-o doar pentru organizatiile acreditate corespunzatoare (s. 159);
--   Da administratiei o autoritate clara pentru a scapa de inregistrarea organizatiei, daca se dovedeste ca aceasta nu corespunde cerintelor educatiei profesionale sau asociate cu frauda (s. 159);
--   Începeţi o campanie de informare destinată întreprinderilor organizate de stat şi organizaţii profesionale.
--   Proiectează un program de certificare a serviciului educaţional (sec. 161).
+### 1. Amenajări ale statutului asociațiilor:
 
-### 6\. Intră pentru a îmbunătăţi lupta cu frauda:
+- întărirea democrației în interiorul asociațiilor: prin instituirea obligației, peste un anumit buget care ar putea fi fixat la 500.000 de franci, de a organiza cel puțin o adunare generală anuală și de a elabora un raport moral și financiar destinat membrilor (p. 51 și 52);
+- supunerea structurilor asociative care au o anumită pondere economică – de exemplu, cele al căror buget anual este superior sumei de 500.000 de franci – unor obligații minime de declarare (cont de rezultat și bilanț) (p. 51 și 52);
+- valorificarea amânării aplicării instrucțiunii din 15 septembrie 1998 privind fiscalitatea asociațiilor, pentru a lua în considerare riscurile de utilizare a noilor reguli într‑un sens favorabil dezvoltării fenomenului sectar (p. 60).
 
-a) îmbunătățirea procedurilor penale
+### 2. Aplicarea legii din 9 decembrie 1905 privind separarea bisericilor de stat:
 
--   Începe consultarea cu scopul de a crea o "manipulare psihică" (s. 216);
--   E greu să înveţi, să urmezi principiile inocenţei, capacitatea de a transporta povara celor mai transferate fonduri, dacă sunt legate de sex.
+- reamintirea, printr‑o circulară adresată prefecților și tuturor serviciilor interesate, a principiilor separării dintre biserici și stat, a criteriilor asociației cultuale definite de Consiliul de Stat, precum și a aplicării lor în cazul Martorilor lui Iehova (p. 71);
+- atragerea atenției autorităților publice asupra necesității de a stabili de acum înainte câteva reguli generale pentru afilierea la regimul de protecție socială al cultelor (p. 75).
 
-Traducerea şi adaptarea Little Badger
+### 3. Amenajări ale legislației privind finanțarea vieții politice:
 
--   definirea, prin utilizarea comitetului interutilizator sub conducerea prim-ministrului şi asistenţa tehnică a interlocurii activităţii sexuale, a graniţei generale a acţiunii de stat la circul fiecărui minister (s. 249);
--   Predictarea reprezentării instituţiilor financiare în cadrul misiunii interverse cu sexul (sec. 182);
--   Învață abilitatea de a crea un departament de secrete, legat misiuni interverse pentru a lupta împotriva sexului cu care să facă (s. 249):
-    -   crearea unui centru pentru sensibilizarea publicului, întreprinderi și instituții financiare în fiecare prefect;
-    -   Consultarea și consilierea victimelor, foștilor ascunși și familiilor acestora;
-    -   furnizarea de informații administrative adecvate necesare activităților lor;
-    -   Construi, la rândul său, toate informațiile din partea administrației cu privire la activitatea sexuală în departament;
--   Luați în considerare capacitatea de a crea în cadrul fiecărui departament de apel pentru a posta autostrăzi special pregătite pentru problemele de cult. Această funcție ar deveni o completare utilă a funcției efectuate de secvențiatorul curent de pe plasture (sec. 250 și 251);
--   să înceapă o consultare în cadrul Uniunii Europene pentru a înscrie un concurs special de luptă împotriva sexului (sec. 251);
--   Începeţi acţiunea diplomatică la Consiliul Europei pentru pericolul de gen, prezenţa genului în organizaţiile neguvernamentale, confirmând intenţia umanitară şi riscurile create de regula din 1986.
+- condiționarea beneficiului primei fracțiuni a ajutorului bugetar anual de obținerea unui prag de voturi la ultimele alegeri legislative (p. 84);
+- rezervarea accesului la campania radiotelevizată formațiunilor politice care au desemnat un reprezentant național susținut de un număr minim de aleși locali (p. 84).
 
-### 7\. Controlul poziţiei:
+### 4. Organizarea sectorului afacerilor sociale și al sănătății:
 
-Du-te la guvern cerând o misiune interlocutoare pentru a lupta împotriva sexului, pregăti măsurile pentru a face pozițiile de mai sus.
+- difuzarea, către ansamblul serviciilor publice și al profesioniștilor din sănătate, a unui ghid practic care identifică punctele de vulnerabilitate în fața sectelor în domeniul medico‑social (p. 128);
+- centralizarea informațiilor referitoare la sancțiunile pronunțate de instituțiile ordinelor profesionale din domeniul sănătății și la procedurile judiciare în curs (p. 128);
+- desemnarea, de către Ordinul medicilor, a unui reprezentant pe lângă Misiunea interministerială de luptă împotriva sectelor (p. 128);
+- studierea unei eventuale proceduri de omologare a denumirilor profesiilor paramedicale și ale auxiliarelor medicali, de către o comisie de experți care să autorizeze utilizarea titlurilor de terapii și să poată propune interzicerea exercitării celor care nu sunt omologate (p. 128);
+- consolidarea, în studiile medicale și paramedicale, a învățământului privind:
+  - metodele de însoțire psihologică a bolnavilor (p. 129);
+  - locul, rolul și limitele profesiilor medicale și paramedicale în societate (p. 129);
+- dezvoltarea, încă din învățământul primar sau secundar, a cursurilor de educație pentru sănătate, igienă de viață și înțelegere a schemei corporale (p. 129);
+- instituirea unei proceduri de omologare sau de atribuire a unui label pentru asociațiile care intervin în însoțirea și ajutorul acordat persoanelor spitalizate (p. 129);
+- prevederea unor modalități de urmărire terapeutică ce pot fi propuse foștilor adepți și integrarea acestora în formarea continuă a medicilor (p. 129);
+- intensificarea, în special în cadrul educației naționale, a campaniilor de sensibilizare cu privire la vaccinuri (p. 129).
+
+### 5. Reglementarea formării profesionale:
+
+- încredințarea omologării și controlului organismelor de formare profesională unui stabiliment public administrativ, căruia o parte din contribuția angajatorilor i‑ar fi alocată pentru finanțarea funcționării sale (p. 158 și 159);
+- încetarea automatismului scutirii de TVA, rezervând‑o organismelor în mod corespunzător omologate (p. 159);
+- atribuirea explicită administrației a puterii de a retrage înregistrarea unui organism atunci când se dovedește că acesta nu intră în cadrul formării profesionale sau că s‑a pretat la manevre frauduloase (p. 159);
+- lansarea unei campanii de sensibilizare adresate întreprinderilor, organizată de stat și de organizațiile profesionale (p. 160);
+- elaborarea unui program de acordare a unui label organismelor de formare (p. 161).
+
+### 6. Măsuri destinate îmbunătățirii luptei împotriva fraudelor:
+
+a) amenajarea procedurilor penale
+
+- inițierea unei consultări privind oportunitatea creării unei infracțiuni de manipulare mentală (p. 216);
+- studierea, în strictul respect al principiului prezumției de nevinovăție, a posibilității răsturnării sarcinii probei pentru transferurile de fonduri cele mai importante atunci când sunt legate de secte (p. 218).
+
+b) mobilizarea administrației
+
+- definirea, de către un comitet interministerial, sub autoritatea Primului‑ministru și cu asistența tehnică a Misiunii interministeriale de luptă împotriva sectelor, a cadrului general al acțiunii statului, detaliat printr‑o circulară a fiecărui minister (p. 249);
+- prevederea reprezentării instituțiilor financiare în cadrul Misiunii interministeriale de luptă împotriva sectelor (p. 182);
+- studierea posibilității de creare a unor structuri departamentale atașate Misiunii interministeriale de luptă împotriva sectelor, având ca sarcini (p. 249):
+  - constituirea, în fiecare prefectură, a unui centru de informare a publicului, a întreprinderilor și a instituțiilor financiare;
+  - orientarea și consilierea victimelor, foști adepți, și a familiilor acestora;
+  - furnizarea către administrațiile interesate a informațiilor necesare acțiunii lor;
+  - colectarea, în schimb, a tuturor informațiilor provenite de la administrații privind activitatea sectară din departament;
+- reflecția asupra posibilității de a crea, în raza fiecărei curți de apel, un post de magistrat format în mod special pentru a trata problemele sectare. Această funcție ar constitui un complement util rolului exercitat în prezent de corespondentul „secte” pe lângă Parchet (p. 250 și 251);
+- inițierea unei consultări în cadrul Uniunii Europene care să conducă la încheierea unei convenții specifice luptei împotriva sectelor (p. 251);
+- lansarea unei acțiuni diplomatice la nivelul Consiliului Europei privind pericolele sectarismului, prezența sectelor în cadrul organizațiilor neguvernamentale care afișează o vocație umanitară și riscurile create de convenția din 1986 (p. 92).
+
+### 7. Urmărirea propunerilor:
+
+solicitarea ca Guvernul să însărcineze Misiunea interministerială de luptă împotriva sectelor cu pregătirea măsurilor de aplicare a propunerilor de mai sus.

@@ -1,111 +1,113 @@
 (Página 51)
 
-Assim, a Nova Acrópole conseguiu redescobrir-se sob o seu controlo da antiga associação, a Escola Internacional de Paris criada em 1883 e suspensa após a demolição. Esta associação tinha uma espécie de prestígio no fim do século 19, envolvendo cientistas famosos, mas durante a Segunda Guerra Mundial, mudanças extremas tinham acontecido. Restaurado pela Nova Acrópole, é agora um ramo sexual que oferece estudantes estrangeiros para se tornarem.
+Assim, a Nova Acrópole conseguiu fazer renascer sob o seu controlo uma antiga associação, a Escola de Antropologia de Paris, criada em 1883 e colocada em suspensão desde a Libertação. Trata‑se de uma associação que teve um certo prestígio no fim do século XIX, ao recrutar cientistas de renome, antes de conhecer uma deriva extremista durante a Segunda Guerra Mundial. Recuperada pela Nova Acrópole, é atualmente uma “filial” da seita que, por este meio, propõe estágios a estudantes estrangeiros.
 
 ---
 
 (Página 65)
 
-A nova Acrópole exige que seus seguidores de um certo número de horas de trabalho voluntário em sua escola para ser contratado, serviço e trabalho de secretária.
+A Nova Acrópole exige dos seus adeptos um certo número de horas de trabalho voluntário na sua “escola”, consagradas a tarefas de acolhimento, manutenção e secretariado.
 
 ---
 
-(152- 153 páginas)
+(Páginas 152–153)
 
-A nova Acrópole tinha um estabelecimento educacional por causa de Hermware Consultas, chefe da Sra. Isabel Ludwig, chefe da associação sexual. Registada na SRC IldeFrance, esta empresa, que está agora excluída do registo comercial, incluindo, através do ensino de funcionários da FNSEA.
+A Nova Acrópole dispôs de um organismo de formação através da sociedade Hermès Consultants, dirigida pela Sra. Isabelle Ludwig, presidente da associação‑mãe da seita. Matriculada no SRC da Île‑de‑France, essa sociedade, hoje cancelada do registo comercial, formou nomeadamente trabalhadores da FNSEA.
 
 ---
 
 (Página 182)
 
-Entre eles, Klöa, que se estabeleceu no castelo de Bellow em Utah e na Mansão Uscille em Indie; a tradição da propriedade familiar, que é pela associação da "Cultura Futura" pelos exércitos de Eryth-Loire; a Nova Anrópole, o proprietário de Kur Petrol, o antigo mosteiro no mesmo departamento;
+Citem‑se Krishna, instalado no castelo de Bellevue no Jura e na herdade de Oublaisse no Indre; Tradition famille propriété dispondo, através da associação Avenir de la culture, do castelo de Jaglu no Eure‑et‑Loir; a Nova Acrópole, proprietária da Cour Pétral, antigo mosteiro situado no mesmo departamento; …
 
 ---
 
-(1992-200 páginas)
+(Páginas 199–200)
 
-A New Acropoll France Association, Kridell; Ocultar roubo; Roubar em roubo; Falha criminal em certas circunstâncias - TG Colmard, 27 / 03 / 98... - Como Colora, 18 / 12 / 98...
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Furto; Recetação de furto; Cumplicidade em furto; Ameaças de delito feitas sob condição — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
 ---
 
-(Páginas 305-306)
+(Páginas 305–306)
 
-Desculpa. Desculpa. • A Segunda Guerra Mundial (escrita) ... elementos estimados recolhidos: O rendimento anual da New Aropol France Association: de 4 a 4,6 milhões de francos de acordo com o exercício.
+NOME DA SEITA: A NOUVELLE ACROPOLE  
+A. – ORGANIZAÇÃO … 1°) SEDE INTERNACIONAL: Bruxelas (Bélgica) …  
+… ð 7 implantações locais: Boissy‑lès‑Perche, Bordéus, Paris, Rennes, Ruão, Estrasburgo, Villeurbanne …  
+… elementos de avaliação recolhidos: Receitas anuais da associação Nouvelle Acropole France: entre 4 e 4,6 milhões de francos, consoante o exercício.
 
 ---
 
 (Página 252)
 
-## Avaliar
+## Conclusão
 
-Depois de o fazer, a Comissão tem de admitir que o fenómeno sexual é provavelmente suficientemente longo nas nossas sociedades. Expressa a inevitável disfunção, e às vezes é uma espécie de aglomerado, que leva ao marginalismo incompreensível. O direito à diferença deve também ser protegido. Mas você não pode permitir que esta direita seja ameaçada por algum princípio, principalmente pelos fracos. É por isso que combater os desvios sectários, a opinião da Comissão, continua a ser uma exigência que exige mais meios, novos esforços para informar a sociedade e a consciência a nível internacional. A Comissão tem plena consciência de que a tradição das contradições entre a liberdade de consciência e a ordem pública em matéria de actividade sectária é absolutamente inconveniente. Não se trata de neutralizar estes dois princípios, mas também de iluminar as suas complexidades. Salvar a liberdade de consciência não pode ser baseado em ignorar a liberdade individual básica: liberdade de circulação, posse de bens e uso, cuidar de seu próprio corpo e saúde, proteção contra abuso de poder, proteção da suspensão sobre seus interesses morais e materiais... Trabalhando nesta liberdade do lado da população sectária é mais perseguido e punido, a Comissão procura garantir a liberdade de consciência e de expressão que se encontram no que respeita aos direitos humanos.
+No termo dos seus trabalhos, a Comissão deve reconhecer que o fenómeno sectário está provavelmente instalado por muito tempo nas nossas sociedades. Ele exprime os seus inevitáveis disfuncionamentos e constitui, por vezes, válvulas de escape pelas quais um marginalismo incompressível encontra forma de se exprimir. O direito à diferença também deve ser salvaguardado. Mas não se pode admitir que o exercício desse direito possa ameaçar certos princípios e, antes de mais, o direito à proteção dos mais fracos. É por isso que a luta contra as derivas sectárias continua a ser, aos olhos da Comissão, uma exigência que reclama meios mais adaptados, um novo esforço de sensibilização da sociedade e uma tomada de consciência a nível internacional. A Comissão está convencida de que a contradição tradicionalmente evocada entre liberdade de consciência e ordem público, em matéria de agimentos sectários, é totalmente inoperante. Não se trata de opor estes dois princípios mas, pelo contrário, de pôr em evidência a sua complementaridade. A preservação da liberdade de consciência não poderia, com efeito, basear‑se no desconhecimento das liberdades individuais essenciais: de ir e vir, de possuir bens e deles usufruir, de cuidar do próprio corpo e da saúde, de ser protegido contra abusos de poder, de se defender contra atentados aos seus interesses morais e materiais… Ao trabalhar para que os ataques desferidos contra essas liberdades pelas derivas sectárias sejam mais eficazmente perseguidos e reprimidos, a Comissão entende que sejam assim garantidas as liberdades de consciência e de expressão, que estão no próprio cerne do respeito dos Direitos do Homem.
 
 ---
 
 (Página 254)
 
-## A CORSTAÇÃO DA MEMÓRIA
+## SÍNTESE DAS PROPOSTAS DA COMISSÃO
+(os números remetem para as páginas do relatório)
 
-(taxas de licenciamento)
+### 1. Ajustamentos ao estatuto das associações:
 
-### 1\. Alterações de associação:
+- reforçar a democracia no seio das associações: mediante a obrigação, para além de um certo orçamento que poderia ser fixado em 500.000 francos, de realizar pelo menos uma assembleia geral anual e de estabelecer um relatório moral e financeiro destinado aos membros (p. 51 e 52);
+- sujeitar as estruturas associativas que tenham um certo peso económico – por exemplo, aquelas cujo orçamento anual seja superior a 500.000 francos – a obrigações mínimas de declaração (conta de resultados e balanço) (p. 51 e 52);
+- aproveitar o adiamento da aplicação da instrução de 15 de setembro de 1998 relativa à fiscalidade das associações, para tomar em consideração os riscos de utilização das novas regras num sentido favorável ao desenvolvimento do fenómeno sectário (p. 60).
 
--   reforçar a democracia no seio das associações: acrescentando um dever, ultrapassando um determinado orçamento que pode ser fixado em 500 000 francos, pelo menos um ano de assembleia total e estabelecendo um relatório sobre as actividades e as demonstrações financeiras dos membros (s. 51 e 52);
--   colocar em estruturas de associação que tenham algum impacto económico, por exemplo, aquelas cujo orçamento anual seja superior a 500 000 francos, a responsabilidade mínima da prestação de informação (relatório financeiro e saldo);
--   Utilizar uma breve aplicação de instruções a partir de 15 de Setembro de 1998 às associações fiscais para incluir os riscos de utilização de novas regras na direcção adequada para o desenvolvimento dos fenómenos seccionais (s. 60).
+### 2. Aplicação da lei de 9 de dezembro de 1905 relativa à separação das igrejas e do Estado:
 
-### 2\. Aplicando a lei de 9 de dezembro de 1905 para separar a igreja do estado:
+- recordar, por via de circular dirigida aos prefeitos e a todos os serviços envolvidos, os princípios da separação entre as igrejas e o Estado, e os critérios da associação cultual definidos pelo Conselho de Estado, bem como a aplicação que dele foi feita no caso das Testemunhas de Jeová (p. 71);
+- chamar a atenção dos poderes públicos para a necessidade de, doravante, fixar algumas regras gerais para a filiação ao regime de proteção social dos cultos (p. 75).
 
--   Marque para o discurso do prefeito e todos os serviços apropriados sobre a separação da igreja do estado, os critérios da Associação religiosa definida pelo Conselho de Estado, bem como ser aplicado no caso de Jeová (s. 71)
--   O foco dos órgãos estatais é definir políticas gerais para aderir ao sistema de proteção social das organizações religiosas (s. 75).
+### 3. Ajustamentos à legislação relativa ao financiamento da vida política:
 
-### 3\. Mudança para a lei de financiamento para a vida política:
+- submeter o benefício da primeira fração da ajuda orçamental anual à obtenção de um limiar de votos nas últimas eleições legislativas (p. 84);
+- reservar o acesso à campanha radio‑televisiva às formações políticas que tenham designado um representante nacional patrocinado por um número mínimo de eleitos locais (p. 84).
 
--   Dar a primeira parte dos cuidados orçamentais anuais ao receber um determinado limiar de votos nas últimas eleições parlamentares (C.84);
--   Dar acesso às campanhas de rádio e televisão à união política, que nomearam um representante nacional, apoiado pelo número mínimo de deputados locais.
+### 4. A organização do setor dos assuntos sociais e da saúde:
 
-### 4\. Organização dos Assuntos Sociais e da Saúde:
+- difundir a todos os serviços públicos e profissionais de saúde um guia prático identificando os pontos de vulnerabilidade às seitas no mundo médico‑social (p. 128);
+- centralizar a informação sobre as sanções tomadas pelas instituições ordinais das profissões de saúde e sobre os processos judiciais em curso (p. 128);
+- fazer designar, pela Ordem dos Médicos, um representante junto da Missão Interministerial de Luta contra as Seitas (p. 128);
+- estudar um eventual procedimento de acreditação das denominações das profissões paramédicas e dos auxiliares médicos, por uma comissão de peritos que autorize a utilização de títulos de terapias e possa propor a proibição de exercício das que não sejam acreditadas (p. 128);
+- reforçar, nos estudos médicos e paramédicos, o ensino sobre:
+  - os métodos de acompanhamento psicológico dos doentes (p. 129);
+  - o lugar, o papel e os limites das profissões médicas e paramédicas na sociedade (p. 129);
+- desenvolver, desde o ensino primário ou secundário, cursos de educação para a saúde, higiene de vida e compreensão do esquema corporal (p. 129);
+- pôr em prática um procedimento de acreditação ou de rotulagem para as associações que intervêm no acompanhamento e na ajuda às pessoas hospitalizadas (p. 129);
+- prever modos de seguimento terapêutico a propor aos ex‑adeptos e integrá‑los na formação contínua dos médicos (p. 129);
+- ampliar, nomeadamente no quadro da educação nacional, as campanhas de sensibilização para as vacinas (p. 129).
 
--   disseminar através de todos os serviços públicos e médicos um manual prático que identifica pontos vulneráveis para o sexo do setor saúde.
--   centralizar informações sobre sanções, utilizadas pelos profissionais de saúde, e os processos judiciais (s. 128);
--   atribuir um representante dos colegas dos médicos ao processo de luta sexual (seg. 128);
--   Aprender a possibilidade de introduzir procedimentos para empregos paramétricos e auxiliares de saúde para o comité de peritos que permitam a utilização de métodos terapêuticos e proíbam a aplicação de métodos não aprovados (s. 128);
--   Reforçar as instituições de formação médica e paramilitar com as seguintes disciplinas:
-    -   Os métodos do tribunal psicológico dos doentes. 129;
-    -   localização, papel e restrição do emprego da sociedade (seg. 129);
--   Desenho a partir do ensino primário ou secundário, formação em saúde, estilo de vida saudável e compreensão do corpo (s. 129);
--   Iniciar o procedimento de criação ou certificação para associações conduzidas por uma escolta e com as pessoas construídas (s. 129);
--   prever os métodos de monitorização terapêutica dos antigos seguidores e incluí-los no programa de formação contínua dos médicos (s. 129);
--   Expandiu, incluindo a educação nacional, uma campanha para melhorar a sensibilização para as vacinas. 129.
+### 5. A regulamentação da formação profissional:
 
-### 5\. Desempenho de treinamento:
+- confiar a acreditação e o controlo dos organismos de formação profissional a um estabelecimento público administrativo ao qual uma parte da contribuição dos empregadores seria afeta para financiar o seu funcionamento (p. 158 e 159);
+- pôr termo à automaticidade da isenção de IVA, reservando‑a aos organismos devidamente acreditados (p. 159);
+- atribuir explicitamente à administração o poder de retirar a matrícula de um organismo quando se verificar que ele não se enquadra na formação profissional ou que se prestou a manobras fraudulentas (p. 159);
+- lançar uma campanha de sensibilização dirigida às empresas, organizada pelo Estado e pelas organizações profissionais (p. 160);
+- elaborar um programa de rotulagem dos organismos de formação (p. 161).
 
--   A instrução e a gestão da instituição administrativa pública serão atribuídas ao financiamento dos empregadores (ver 158 e 159);
--   Cancelar a libertação automática do IVA, deixando-o apenas para as organizações acreditadas (s. 159);
--   Dar à administração uma autoridade clara para se livrar do registro da organização, se ela não corresponder às exigências da educação profissional ou associada à fraude (s. 159);
--   Iniciar uma campanha de informação destinada às empresas organizadas organizações estatais e profissionais (s).
--   Criar um programa de certificado de serviço educacional (seg. 161).
+### 6. Medidas destinadas a melhorar a luta contra as fraudes:
 
-### 6\. Entre para melhorar a luta contra a fraude:
+a) o ajustamento dos processos penais
 
-a) Melhorar os processos penais
+- iniciar uma concertação sobre a oportunidade de criar um delito de manipulação mental (p. 216);
+- estudar, no estrito respeito do princípio da presunção de inocência, a possibilidade de inversão do ónus da prova para as transferências de fundos mais importantes quando estejam ligadas a seitas (p. 218).
 
--   Iniciar a consulta com o objectivo de criar uma "manipulação mental" (s. 216);
--   É difícil aprender, seguir os princípios da inocência, a capacidade de transportar o fardo dos fundos mais transferidos, se eles estão relacionados com o sexo.
+b) a mobilização da administração
 
-Tradução e Sincronia:
+- definir, por um comité interministerial, sob a autoridade do Primeiro‑Ministro e com a assistência técnica da Missão Interministerial de Luta contra as Seitas, o quadro geral da ação do Estado, precisado por circular de cada ministério (p. 249);
+- prever a representação dos estabelecimentos financeiros na Missão Interministerial de Luta contra as Seitas (p. 182);
+- estudar a criação de estruturas departamentais ligadas à Missão Interministerial de Luta contra as Seitas, com as seguintes tarefas (p. 249):
+  - constituir um centro de informação do público, das empresas e dos estabelecimentos financeiros em cada prefeitura;
+  - orientar e aconselhar as vítimas, ex‑adeptos e suas famílias;
+  - fornecer às administrações envolvidas as informações necessárias à sua ação;
+  - recolher, em retorno, todas as informações provenientes das administrações sobre a atividade sectária no departamento;
+- refletir sobre a possibilidade de criar, na área de competência de cada tribunal da Relação, um cargo de magistrado especialmente formado para tratar as questões sectárias. Esta função constituiria um complemento útil à função exercida pelo atual correspondente “seitas” junto do Ministério Público (p. 250 e 251);
+- iniciar uma concertação no seio da União Europeia que conduza a uma convenção específica de luta contra as seitas (p. 251);
+- empreender uma ação diplomática ao nível do Conselho da Europa sobre os perigos do sectarismo, sobre a presença de seitas no seio de organizações não governamentais com vocação humanitária e sobre os riscos criados pela convenção de 1986 (p. 92).
 
--   Definir, utilizando o comité interusuário sob a direcção do Primeiro-Ministro e a assistência técnica para a interlocalização da actividade sexual, a fronteira geral de acção estatal no circo de cada ministério (s. 249);
--   Prever a representação das instituições financeiras em missão interversa com o sexo (seg. 182);
--   Aprenda a capacidade de criar um Departamento de Segredos, missões interversas ligadas para combater o sexo com que fazer (s. 249):
-    -   criar um centro de sensibilização pública, empresas e instituições financeiras em cada prefeito;
-    -   Aconselhar e aconselhar as vítimas, ex-asducs e suas famílias;
-    -   Fornecer as informações administrativas adequadas necessárias às suas actividades;
-    -   Construir, por sua vez, todas as informações da administração sobre a atividade sexual no departamento;
--   Considere a capacidade de criar dentro de cada departamento de recurso para postar as estradas especialmente preparadas para as questões de culto. Essa função se tornaria uma adição útil à função realizada pelo sequenciador atual no patch (seg. 250 e 251);
--   Iniciar uma consulta na União Europeia a fim de se inscrever num concurso especial de luta contra o sexo (seg. 251);
--   Iniciar uma acção diplomática no Conselho da Europa em matéria de perigo de género, presença de género em organizações não governamentais, confirmação da intenção humanitária e riscos criados pela regra de 1986.
+### 7. Acompanhamento das propostas:
 
-### 7\. Controle de posição:
-
-Vá para o governo pedindo uma missão interviva para combater o sexo, preparar as medidas para fazer as posições acima.
+pedir ao Governo que encarregue a Missão Interministerial de Luta contra as Seitas de preparar as medidas de aplicação das propostas acima.

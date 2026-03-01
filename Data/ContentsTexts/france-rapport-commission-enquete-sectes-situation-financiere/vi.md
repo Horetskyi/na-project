@@ -1,111 +1,113 @@
-( Trang 51)
+(Page 51)
 
-Vì vậy, New Accrural đã có thể tự tái khám phá dưới sự kiểm soát của liên minh cổ đại, trường quốc tế Paris được thành lập năm 1883 và bị đình chỉ sau khi phá hủy. Sự kết hợp này có uy tín vào cuối thế kỷ 19 liên quan đến các nhà khoa học nổi tiếng, nhưng trong Thế Chiến II, những thay đổi cực đoan đã xảy ra. Được phục hồi bởi New Accrum, bây giờ nó là một chi nhánh tình dục giúp các sinh viên nước ngoài trở thành.
-
----
-
-( Trang 65)
-
-Hội nghị mới đòi hỏi những người làm việc tình nguyện trong một số giờ ở trường phải làm việc tình nguyện, phục vụ và thư ký.
+Như vậy, Tân Acropolis đã có thể phục hồi, đặt dưới sự kiểm soát của mình, một hội cũ là Trường Nhân học Paris, được thành lập năm 1883 và bị ngừng hoạt động từ sau Giải phóng. Đây là một hội từng có uy tín nhất định vào cuối thế kỷ XIX nhờ quy tụ các nhà khoa học nổi tiếng, trước khi trượt sang khuynh hướng cực đoan trong Thế chiến thứ hai. Được Tân Acropolis tiếp quản, hiện nay hội này là một “chi nhánh” của giáo phái, qua đó tổ chức các khóa thực tập cho sinh viên nước ngoài.
 
 ---
 
-(152- 153 trang)
+(Page 65)
 
-Thành phố Acrido có một cơ sở giáo dục bởi vì có tư vấn viên Hermware, người đứng đầu của bà Isabel Ludwig, người đứng đầu hiệp hội tình dục. Được đăng ký cho SEC IldeFrance, công ty này, giờ bị loại ra khỏi danh sách thương mại, kể cả, bằng cách dạy nhân viên FNSEA.
-
----
-
-( Trang 182)
-
-Trong số họ, K vội vàng, người định cư trong lâu đài Bellow ở Utah và trong khu định cư Urcille ở Indie; truyền thống của tài sản gia đình, được kết hợp bởi "Fuure Văn hóa" của các đạo quân Eryth-Loire; New Anrlith, chủ sở hữu của Kur Petrol, cựu tu viện của cùng một bộ phận;
+Tân Acropolis yêu cầu các tín đồ phải dành một số giờ làm việc tình nguyện trong “trường” của mình, thực hiện các công việc đón tiếp, bảo trì và thư ký.
 
 ---
 
-(1992-200 trang)
+(Pages 152–153)
 
-Hiệp hội New Acropell France, Kridell; trốn tránh trộm cắp; ăn cắp; thất bại trong tội ác trong một số trường hợp - TG Colmard, 27 / 3 / 98...
-
----
-
-(Pô 305-306)
-
-Tôi xin lỗi. Tôi xin lỗi. • Thế Chiến II (viết) ... thu thập các yếu tố ước tính: thu nhập hàng năm của Hiệp hội New Aropol France: từ 4 đến 4.6 triệu quan theo năm tài chính.
+Tân Acropolis từng có một cơ quan đào tạo thông qua công ty Hermès consultants do bà Isabelle Ludwig, chủ tịch hội mẹ của giáo phái, điều hành. Được đăng ký tại SRC vùng Ile-de-France, công ty này, nay đã bị xóa khỏi sổ đăng ký thương mại, đặc biệt đã đào tạo cho một số nhân viên của FNSEA.
 
 ---
 
-( Trang 252)
+(Page 182)
 
-## Đánh giá
-
-Sau khi làm điều này, Ủy ban phải thừa nhận rằng hiện tượng tình dục có lẽ là đủ dài trong xã hội của chúng ta. Nó thể hiện sự khác biệt không thể tránh khỏi, và đôi khi nó là một cụm, dẫn đến sự phân biệt đối lập không thể hiểu nổi. Quyền bầu cử bên phải cũng phải được bảo vệ. Nhưng bạn không thể để cho cánh hữu này bị đe dọa bởi một số nguyên tắc, chủ yếu bởi những người yếu. Đó là lý do tại sao chiến đấu với sự lệch lạc bè phái, ý kiến của Ủy ban, vẫn là một yêu cầu đòi hỏi nhiều phương tiện hơn, những nỗ lực mới để thông báo cho xã hội và nhận thức ở cấp quốc tế. Ủy ban ý thức rõ rằng truyền thống mâu thuẫn giữa sự tự do lương tâm và trật tự công cộng trong các hoạt động bè phái là hoàn toàn bất tiện. Nó không phải là về việc chống lại hai nguyên tắc này, nhưng nó cũng là về ánh sáng phức tạp của chúng. Bảo vệ sự tự do lương tâm không thể dựa trên việc lờ đi sự tự do cơ bản của mỗi cá nhân: quyền tự do di chuyển, sở hữu tài sản và sử dụng, chăm sóc thân thể và sức khỏe của chính mình, che chở khỏi sự lạm dụng quyền hành, bảo vệ quyền lợi về đạo đức và vật chất... Ủy ban tìm cách bảo đảm sự tự do về lương tâm và biểu lộ lòng tôn trọng nhân quyền.
+Có thể kể đến Krishna đặt cơ sở tại lâu đài Bellevue ở vùng Jura và tại khu điền trang Oublaisse ở Indre; tổ chức Tradition famille propriété có được, thông qua hội Avenir de la culture, lâu đài Jaglu ở Eure-et-Loir; Tân Acropolis là chủ sở hữu khu Cour Pétral, một tu viện cũ nằm trong cùng tỉnh; …
 
 ---
 
-( Trang 254)
+(Page 199–200)
 
-## SỰ HÌNH CỦA MỘT SỐ HỌC HỎI
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Trộm cắp; Tiêu thụ tài sản do trộm cắp mà có; Đồng phạm trộm cắp; Đe dọa phạm tội có điều kiện — Tòa án cấp khu vực Colmar (TGI de Colmar), 27/03/98 … — Tòa phúc thẩm Colmar (CA de Colmar), 18/12/98 …
 
-(Tiếng nói chuyện)
+---
 
-### 1.
+(Page 305–306)
 
--   củng cố nền dân chủ bên trong các liên kết: bằng cách thêm một nhiệm vụ, vượt quá một số ngân sách nhất định có thể được thiết lập đến 500.000 quan, ít nhất một năm hội nghị tổng cộng và thiết lập một báo cáo về hoạt động và báo cáo tài chính cho các thành viên. 51 và 52;
--   đưa vào các cấu trúc liên kết có ảnh hưởng kinh tế, ví dụ, những người có ngân sách hàng năm là trên 500.000 quan, trách nhiệm tối thiểu của báo cáo tài chính và sự cân bằng;
--   Hãy áp dụng ngắn gọn các chỉ dẫn từ ngày 15 - 9 - 1998 đến việc liên kết thuế vụ để bao gồm những nguy cơ dùng những luật lệ mới theo hướng thích hợp cho sự phát triển của hiện tượng vùng (s.60).
+TÊN GIÁO PHÁI: TÂN ACROPOLIS  
+A.– TỔ CHỨC … 1°) TRỤ SỞ QUỐC TẾ: Bruxelles (Bỉ) …  
+… ð 7 cơ sở địa phương: Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …  
+… các yếu tố đánh giá thu thập được: Doanh thu hằng năm của hội Nouvelle Acropole France: từ 4 đến 4,6 triệu franc, tùy năm tài chính.
 
-### Áp dụng luật từ 9 tháng 12 năm 1905 để tách nhà thờ khỏi chính quyền:
+---
 
--   Mark gửi bài diễn văn của quận trưởng và tất cả các nghi lễ thích hợp về việc tách nhà thờ khỏi chính quyền, các tiêu chuẩn của Hiệp hội tôn giáo được xác định bởi Hội đồng Nhà nước, cũng như được áp dụng trong trường hợp của Đức Giê - hô - va (s 71).
--   Trọng tâm của các cơ quan chính quyền là thiết lập các chính sách chung để gia nhập hệ thống bảo vệ xã hội của các tổ chức tôn giáo (s. 75).
+(Page 252)
 
-### 3\. Thay đổi theo luật tài trợ cho cuộc sống chính trị:
+## Kết luận
 
--   cung cấp phần đầu tiên của việc chăm sóc ngân sách hàng năm khi nhận được một ngưỡng bỏ phiếu nhất định tại cuộc bầu cử Quốc hội cuối cùng (C.84);
--   cung cấp phương tiện truyền thông và truyền hình cho các đoàn thể chính trị được bổ nhiệm làm đại diện quốc gia, được hỗ trợ bởi số lượng ít phụ tá địa phương nhất.
+Kết thúc công việc của mình, Ủy ban phải thừa nhận rằng hiện tượng giáo phái có lẽ sẽ còn tồn tại lâu dài trong các xã hội của chúng ta. Nó biểu hiện những rối loạn khó tránh khỏi và đôi khi tạo thành những van xả, qua đó một mức độ ngoài lề không thể triệt tiêu được tìm được lối thoát. Quyền được khác biệt cũng phải được bảo vệ. Tuy nhiên, không thể chấp nhận rằng việc thực thi quyền này lại có thể đe dọa một số nguyên tắc, trước hết là quyền được bảo vệ của những người yếu thế nhất. Vì vậy, cuộc đấu tranh chống các hành vi lệch lạc của giáo phái, theo quan điểm của Ủy ban, vẫn là một yêu cầu đòi hỏi những phương tiện thích ứng hơn, một nỗ lực mới nhằm nâng cao nhận thức của xã hội và một sự tự ý thức ở cấp độ quốc tế. Ủy ban tin chắc rằng mâu thuẫn truyền thống thường được nêu giữa tự do lương tâm và trật tự công cộng, trong lĩnh vực hành vi của các giáo phái, hoàn toàn không thích đáng. Vấn đề không phải là đối lập hai nguyên tắc này, mà trái lại, làm sáng tỏ tính bổ trợ của chúng. Việc bảo vệ tự do lương tâm, trên thực tế, không thể dựa trên sự xem nhẹ các quyền tự do cá nhân thiết yếu: tự do đi lại, sở hữu và hưởng thụ tài sản, chăm sóc thân thể và sức khỏe, được bảo vệ khỏi lạm dụng quyền lực, được tự bảo vệ trước những xâm hại đến lợi ích đạo đức và vật chất của mình… Bằng cách làm sao cho những cuộc tấn công nhắm vào các quyền tự do này do các lệch lạc giáo phái gây ra được truy cứu và trừng trị hiệu quả hơn, Ủy ban mong muốn qua đó bảo đảm các quyền tự do lương tâm và tự do ngôn luận, vốn là cốt lõi của việc tôn trọng Nhân quyền.
 
-### Tổ chức 4 tổ chức phụ trách xã hội và y tế:
+---
 
--   Truyền thông qua tất cả các dịch vụ công cộng và nhân viên y tế một sách hướng dẫn thực tế để xác định những điểm dễ bị tổn thương cho tình dục khu vực y tế.
--   Tập trung thông tin về các biện pháp trừng phạt, các nhân viên y tế chuyên nghiệp, và các tiến trình của tòa án (s. 128);
--   Chỉ định một đại diện từ các đồng nghiệp của các bác sĩ cho sự tương tác giữa tình dục và tình dục; 128)
--   Học được khả năng giới thiệu các thủ tục cho công việc và trợ lý y tế cho ủy ban chuyên gia cho phép sử dụng các phương pháp điều trị và đưa ra lệnh cấm áp dụng các thủ tục không được chấp thuận (s. 128);
--   Để củng cố các tổ chức y tế và bán quân sự bằng những nguyên tắc sau:
-    -   Phương pháp điều trị tâm lý của người bệnh. 123;
-    -   địa điểm, vai trò và việc làm ràng buộc xã hội (sec. 123);
--   Thiết kế bắt đầu từ tiểu học hoặc trung học, đào tạo y tế, lối sống lành mạnh và hiểu cơ thể xây dựng (s. 129);
--   Bắt đầu quy trình kết tội hoặc xác nhận các bạn bè do một đoàn hộ tống và với những người có kinh (s. 123);
--   dự đoán phương pháp giám sát trị liệu của các cựu môn đồ và bao gồm các phương pháp này trong chương trình huấn luyện liên tục cho các bác sĩ (s.12);
--   mở rộng, bao gồm giáo dục quốc gia, một chiến dịch cải thiện nhận thức về vắc xin. 123.
+(Page 254)
 
-### Kết quả huấn luyện 5.
+## TÓM TẮT CÁC KIẾN NGHỊ CỦA ỦY BAN
+(các số trang trong ngoặc tham chiếu đến các trang của báo cáo)
 
--   Hướng dẫn và quản lý của cơ quan hành chính công sẽ được chỉ định tài trợ cho các chủ nhân (sec. 158 và 159);
--   Hủy bỏ việc tự động thoát khỏi VT, chỉ để lại cho các tổ chức đã được công nhận (s. 159);
--   Hãy cho chính quyền có thẩm quyền rõ ràng để bãi bỏ giấy đăng ký của tổ chức, nếu nó không phù hợp với những đòi hỏi của giáo dục chuyên môn hoặc liên quan đến gian lận. 159;
--   Bắt đầu một chiến dịch thông tin nhắm vào việc tổ chức các doanh nghiệp và các tổ chức chuyên nghiệp.
--   Thiết kế một chương trình chứng nhận dịch vụ giáo dục (sec. 161)
+### 1. Điều chỉnh quy chế của các hội đoàn:
 
-### 6 Hãy đến để cải thiện cuộc đấu tranh với gian lận:
+- tăng cường dân chủ trong nội bộ các hội: bằng cách quy định nghĩa vụ, vượt quá một mức ngân sách nhất định có thể ấn định là 500.000 franc, phải tổ chức ít nhất một đại hội thường niên và lập báo cáo hoạt động và báo cáo tài chính gửi cho các hội viên (tr. 51 và 52);
+- buộc các cấu trúc hội đoàn có trọng lượng kinh tế nhất định – chẳng hạn các hội có ngân sách hằng năm trên 500.000 franc – phải thực hiện các nghĩa vụ khai báo tối thiểu (báo cáo kết quả và bảng cân đối kế toán) (tr. 51 và 52);
+- tận dụng việc hoãn áp dụng chỉ thị ngày 15 tháng 9 năm 1998 về thuế đối với hội đoàn, để tính đến các nguy cơ sử dụng những quy tắc mới theo hướng có lợi cho sự phát triển của hiện tượng giáo phái (tr. 60).
 
-a) cải tiến các thủ tục hình sự
+### 2. Áp dụng luật ngày 9 tháng 12 năm 1905 về tách nhà thờ và Nhà nước:
 
--   Bắt đầu tham khảo ý kiến về mục đích của việc tạo ra "điều khiển tinh thần" (s. 216);
--   Thật khó để học, để làm theo những nguyên tắc của sự ngây thơ, khả năng vận chuyển gánh nặng của những quỹ chuyển nhượng nhiều nhất, nếu chúng liên quan đến tình dục.
+- nhắc lại, bằng thông tư gửi các tỉnh trưởng và toàn bộ các cơ quan liên quan, các nguyên tắc về sự tách biệt giữa nhà thờ và Nhà nước, cũng như các tiêu chí của hội tôn giáo do Hội đồng Nhà nước xác định, cùng với cách áp dụng các tiêu chí đó trong trường hợp Nhân Chứng Giêhovah (tr. 71);
+- lưu ý các cơ quan công quyền về sự cần thiết kể từ nay phải ấn định một số quy tắc chung cho việc tham gia chế độ bảo hiểm xã hội của giới tu hành (tr. 75).
 
-\= Đồng bộ, chỉnh sửa bởi elderman = = = =
+### 3. Điều chỉnh luật về tài trợ đời sống chính trị:
 
--   Xác định, bằng cách sử dụng ủy ban liên hợp dưới sự lãnh đạo của Thủ tướng và sự giúp đỡ kỹ thuật để xen vào hoạt động tình dục, biên giới quốc gia trong rạp xiếc của mỗi bộ phận (s. 249);
--   Dự đoán sự đại diện của các tổ chức tài chính tại các nhiệm vụ liên tiếp với tình dục;
--   Hãy học khả năng tạo ra một bộ bí mật, những nhiệm vụ liên kết để chống lại tình dục cần làm. 249:
-    -   tạo ra một trung tâm cho nhận thức cộng đồng, doanh nghiệp và các tổ chức tài chính trong mỗi quận trưởng;
-    -   Tư vấn và khuyên nhủ cho các nạn nhân, cựu pháp sư và gia đình của họ;
-    -   cung cấp thông tin hành chính thích hợp cho các hoạt động của họ;
-    -   Xây dựng lại tất cả các thông tin từ chính quyền về hoạt động tình dục trong sở;
--   Hãy xem xét khả năng sáng tạo trong mỗi ban phúc thẩm để đăng các xa lộ đặc biệt được chuẩn bị cho các vấn đề về giáo phái. Chức năng này sẽ trở thành một bổ sung hữu ích cho chức năng được thực hiện bởi bộ xếp dãy hiện thời trên bản vá (sec. 250 và 251);
--   Bắt đầu một cuộc tư vấn trong Liên minh Châu Âu để đăng ký một cuộc thi đặc biệt để chống lại tình dục (sec. 251);
--   Bắt đầu hành động ngoại giao tại Hội đồng Châu Âu về mối nguy hiểm giới tính, sự hiện diện của giới tính trong các tổ chức phi chính phủ, xác nhận mục đích nhân đạo, và rủi ro do luật năm 1986 tạo ra.
+- gắn việc hưởng phần thứ nhất của khoản trợ cấp ngân sách hằng năm với việc đạt được một ngưỡng phiếu bầu nhất định tại kỳ bầu cử Quốc hội gần nhất (tr. 84);
+- giới hạn quyền tiếp cận chiến dịch vận động trên đài phát thanh và truyền hình cho những tổ chức chính trị đã chỉ định một đại diện cấp quốc gia được một số lượng tối thiểu các dân cử địa phương bảo trợ (tr. 84).
 
-### Điều khiển vị trí:
+### 4. Tổ chức lĩnh vực các vấn đề xã hội và y tế:
 
-Hãy đến với chính phủ yêu cầu một nhiệm vụ liên sinh để chống lại giới tính, chuẩn bị các biện pháp để thực hiện các vị trí trên.
+- phổ biến đến toàn bộ các dịch vụ công và các chuyên gia y tế một sổ tay thực hành nhận diện các điểm dễ bị giáo phái xâm nhập trong lĩnh vực y tế – xã hội (tr. 128);
+- tập trung hóa thông tin về các biện pháp kỷ luật do các tổ chức nghề nghiệp trong ngành y áp dụng và về các thủ tục tư pháp đang tiến hành (tr. 128);
+- yêu cầu Hội đồng Y khoa chỉ định một đại diện bên cạnh Phái bộ liên bộ đấu tranh chống các giáo phái (tr. 128);
+- nghiên cứu khả năng thiết lập một thủ tục công nhận các tên gọi của các nghề cận y và trợ lý y tế, do một ủy ban chuyên gia cấp phép sử dụng các danh xưng trị liệu và có thể đề xuất cấm hành nghề đối với những hình thức trị liệu không được công nhận (tr. 128);
+- tăng cường, trong đào tạo y khoa và cận y, nội dung giảng dạy về:
+  - các phương pháp hỗ trợ tâm lý cho người bệnh (tr. 129);
+  - vị trí, vai trò và giới hạn của các nghề y và cận y trong xã hội (tr. 129);
+- phát triển, ngay từ bậc tiểu học hoặc trung học, các khóa giáo dục sức khỏe, vệ sinh sinh hoạt và hiểu biết về sơ đồ cơ thể (tr. 129);
+- thiết lập một thủ tục công nhận hoặc gắn nhãn cho các hội tham gia hỗ trợ và trợ giúp người bệnh nằm viện (tr. 129);
+- dự trù các hình thức theo dõi trị liệu dành cho các cựu tín đồ và tích hợp các hình thức này vào chương trình đào tạo liên tục cho bác sĩ (tr. 129);
+- tăng cường, đặc biệt trong khuôn khổ giáo dục quốc gia, các chiến dịch tuyên truyền nâng cao nhận thức về tiêm chủng (tr. 129).
+
+### 5. Quy định về đào tạo nghề:
+
+- giao việc công nhận và kiểm soát các cơ quan đào tạo nghề cho một cơ quan công lập có tư cách pháp nhân hành chính, trong đó một phần khoản đóng góp của người sử dụng lao động sẽ được dùng để tài trợ hoạt động của cơ quan này (tr. 158 và 159);
+- chấm dứt việc tự động miễn thuế VAT, chỉ dành miễn trừ cho các cơ quan đã được công nhận hợp lệ (tr. 159);
+- trao cho chính quyền thẩm quyền rõ ràng để rút đăng ký của một cơ quan khi thấy rằng cơ quan đó không thuộc phạm vi đào tạo nghề hoặc đã tham gia vào các hành vi gian lận (tr. 159);
+- triển khai một chiến dịch tuyên truyền nâng cao nhận thức hướng đến các doanh nghiệp, do Nhà nước và các tổ chức nghề nghiệp phối hợp tổ chức (tr. 160);
+- xây dựng một chương trình gắn nhãn cho các cơ quan đào tạo (tr. 161).
+
+### 6. Các biện pháp nhằm cải thiện cuộc đấu tranh chống gian lận:
+
+a) điều chỉnh các thủ tục hình sự
+
+- tiến hành tham vấn về tính hợp lý của việc tạo ra tội danh thao túng tinh thần (tr. 216);
+- nghiên cứu, trong khuôn khổ tôn trọng nghiêm ngặt nguyên tắc suy đoán vô tội, khả năng đảo gánh nặng chứng minh đối với những khoản chuyển giao tiền lớn nhất khi các khoản này có liên quan đến các giáo phái (tr. 218).
+
+b) huy động bộ máy hành chính
+
+- xác định, thông qua một ủy ban liên bộ đặt dưới quyền Thủ tướng và với sự hỗ trợ kỹ thuật của Phái bộ liên bộ đấu tranh chống các giáo phái, khuôn khổ chung cho hành động của Nhà nước, được cụ thể hóa bằng thông tư của từng bộ (tr. 249);
+- dự liệu sự tham gia đại diện của các tổ chức tài chính tại Phái bộ liên bộ đấu tranh chống các giáo phái (tr. 182);
+- nghiên cứu việc thành lập các cơ cấu cấp tỉnh trực thuộc Phái bộ liên bộ đấu tranh chống các giáo phái, được giao các nhiệm vụ sau (tr. 249):
+  - lập một trung tâm thông tin cho công chúng, doanh nghiệp và các tổ chức tài chính tại mỗi tỉnh;
+  - hướng dẫn và tư vấn cho các nạn nhân là cựu tín đồ và gia đình họ;
+  - cung cấp cho các cơ quan hành chính liên quan những thông tin cần thiết cho hành động của họ;
+  - thu thập, theo chiều ngược lại, mọi thông tin do các cơ quan hành chính cung cấp về hoạt động giáo phái trong tỉnh;
+- xem xét khả năng tạo lập, trong phạm vi mỗi tòa phúc thẩm, một chức danh thẩm phán được đào tạo chuyên sâu để xử lý các vấn đề về giáo phái. Chức năng này sẽ là bổ sung hữu ích cho nhiệm vụ hiện nay của công tố viên phụ trách vấn đề giáo phái tại Viện Công tố (tr. 250 và 251);
+- tổ chức một cuộc tham vấn trong Liên minh châu Âu nhằm tiến tới một công ước chuyên biệt về đấu tranh chống các giáo phái (tr. 251);
+- tiến hành hành động ngoại giao tại Hội đồng châu Âu về các nguy cơ của chủ nghĩa giáo phái, về sự hiện diện của các giáo phái trong các tổ chức phi chính phủ mang danh nghĩa nhân đạo và về những rủi ro do công ước năm 1986 tạo ra (tr. 92).
+
+### 7. Theo dõi việc thực hiện các kiến nghị:
+
+đề nghị Chính phủ giao cho Phái bộ liên bộ đấu tranh chống các giáo phái chuẩn bị các biện pháp thực thi những kiến nghị nêu trên.

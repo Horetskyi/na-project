@@ -1,111 +1,113 @@
 (bladzijde 51)
 
-Dus de Nieuwe Acropolis kon zichzelf herontdekken onder zijn controle van de oude vereniging, de Parijse Internationale School opgericht in 1883 en geschorst na de sloop. Deze vereniging had een soort prestige aan het einde van de 19e eeuw waarbij beroemde wetenschappers betrokken waren, maar tijdens de Tweede Wereldoorlog waren er extreme veranderingen aan de gang. Gerestaureerd door de New Acropolis, is het nu een sekstak die buitenlandse studenten aanbiedt om te worden.
+Zo kon de Nieuwe Akropolis onder haar controle een oude vereniging nieuw leven inblazen, de École d’anthropologie de Paris, opgericht in 1883 en sinds de Bevrijding in ruststand. Het gaat om een vereniging die tegen het einde van de 19e eeuw enig prestige genoot door het aantrekken van vooraanstaande wetenschappers, voordat ze tijdens de Tweede Wereldoorlog een extremistische afslag kende. Door de Nieuwe Akropolis geheroriënteerd, is zij momenteel een „dochteronderneming” van de sekte die via die weg stages aanbiedt aan buitenlandse studenten.
 
 ---
 
 (bladzijde 65)
 
-De nieuwe Acropolis vereist dat zijn volgelingen van een aantal uren vrijwilligerswerk op haar school worden ingehuurd, dienst en secretaresse baan.
+De Nieuwe Akropolis eist van haar aanhangers een aantal uren vrijwilligerswerk in haar „school”, toegewijd aan taken van onthaal, onderhoud en secretariaat.
 
 ---
 
-(152 153 bladzijden)
+(bladzijde 152–153)
 
-De nieuwe Acropolis had een onderwijsinstelling vanwege Hermware Consults, hoofd van mevrouw Isabel Ludwig, hoofd van de geslachtsvereniging. Ingeschreven bij SRC IldeFrance, dit bedrijf, dat nu is uitgesloten van het handelsregister, inclusief, door het onderwijzen van FNSEA medewerkers.
+De Nieuwe Akropolis beschikte over een opleidingsinstelling via de vennootschap Hermès consultants geleid door mevrouw Isabelle Ludwig, voorzitster van de moedervereniging van de sekte. Ingeschreven in het SRC van Île-de-France, heeft deze vennootschap, die vandaag uit het handelsregister is geschrapt, onder meer personeelsleden van de FNSEA opgeleid.
 
 ---
 
 (bladzijde 182)
 
-Onder hen, K
+Te noemen zijn Krishna, gevestigd in het kasteel van Bellevue in de Jura en op het domein van Oublaisse in de Indre; Tradition famille propriété die via de vereniging Avenir de la culture beschikt over het kasteel van Jaglu in de Eure-et-Loir; de Nieuwe Akropolis, eigenaar van de Cour Pétral, voormalig klooster gelegen in hetzelfde departement; …
 
 ---
 
-(1992-200 bladzijden)
+(bladzijde 199–200)
 
-De New Acropoll France Association, Kridell; Verbergen stelen; stelen bij diefstal; Misdaad falen onder bepaalde omstandigheden - TG Colmard, 27 / 03 / 98... - Als Colora, 18 / 12 / 98...
+NIEUWE AKROPOLIS — Association Nouvelle Acropole France — Vol ; Recel de vol ; Complicité de vol ; Menaces de délit faites sous condition — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
 ---
 
-(blz. 305-306)
+(bladzijde 305–306)
 
-Het spijt me. Het spijt me. • De Tweede Wereldoorlog (schriftelijk) ... verzamelde ramingselementen: Het jaarinkomen van de New Aropol France Association: van 4 tot 4,6 miljoen frank volgens het boekjaar.
+NAAM VAN DE SEKTE : DE NIEUWE AKROPOLIS
+A.– ORGANISATIE … 1°) INTERNATIONAAL ZETEL : Bruxelles (Belgique) …
+… ð 7 lokale vestigingen : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… verzamelde evaluatie-elementen : Jaarontvangsten van de vereniging Nouvelle Acropole France : tussen 4 en 4,6 MF volgens het boekjaar.
 
 ---
 
 (bladzijde 252)
 
-## Evaluatie
+## Conclusie
 
-Na dit te hebben gedaan, moet de Commissie toegeven dat het geslachtsverschijnsel waarschijnlijk lang genoeg is in onze samenlevingen. Het drukt de onvermijdelijke disfunctionering uit, en soms is het een soort cluster, wat leidt tot het onbegrijpelijke marginalisme. Ook het recht op verschil moet worden beschermd. Maar je kunt niet toestaan dat deze rechtse wordt bedreigd door een principe, vooral door de zwakken. Daarom blijft het bestrijden van de sektarische afwijkingen, het standpunt van de Commissie, een vereiste die meer middelen, nieuwe inspanningen vergt om de samenleving en het bewustzijn op internationaal niveau te informeren. De Commissie is zich er terdege van bewust dat de traditie van tegenstellingen tussen de vrijheid van geweten en de openbare orde op het gebied van sektarische activiteiten absoluut ongelegen komt. Het gaat niet om het tegengaan van deze twee principes, maar het gaat ook om het verlichten van hun complexiteit. Het redden van de gewetensvrijheid mag niet gebaseerd zijn op het negeren van de fundamentele individuele vrijheid: vrijheid van verkeer, bezit van eigendom en gebruik, zorg voor haar eigen lichaam en gezondheid, bescherming tegen machtsmisbruik, bescherming van opschorting van hun morele en materiële belangen... De Commissie streeft ernaar de vrijheid van geweten en meningsuiting te waarborgen die op het gebied van de mensenrechten liggen.
+Na voltooiing van haar werkzaamheden moet de Commissie erkennen dat het sekteverschijnsel waarschijnlijk voor lange tijd in onze samenlevingen is verankerd. Het brengt onvermijdelijke disfuncties aan het licht en fungeert soms als een ontluchtingsklep waarlangs een onvermijdelijk marginalisme zich kan ontladen. Het recht op verschil moet ook worden beschermd. Maar men kan niet toelaten dat de uitoefening van dit recht bepaalde principes bedreigt, en in de eerste plaats het recht op bescherming van de zwaksten. Daarom blijft de strijd tegen sektarische afwijkingen, naar de mening van de Commissie, een vereiste die beter aangepaste middelen vraagt, een nieuwe inspanning om de samenleving te sensibiliseren en een bewustwording op internationaal niveau. De Commissie is ervan overtuigd dat de traditionele tegenstelling tussen gewetensvrijheid en openbare orde, in zaken betreffende sektarische handelingen, volledig onbevredigend is. Het gaat er niet om deze twee principes tegenover elkaar te zetten maar, integendeel, om hun complementariteit te belichten. De bescherming van de gewetensvrijheid kan immers niet berusten op een onbegrip van essentiële individuele vrijheden: zich vrij te bewegen, goederen te bezitten en ervan te genieten, voor het lichaam en de gezondheid te zorgen, beschermd te worden tegen machtsmisbruik, zich te verdedigen tegen aantastingen van zijn morele en materiële belangen… Door ervoor te werken dat de aanvallen op deze vrijheden door sektarische afwijkingen efficiënter worden vervolgd en bestraft, streeft de Commissie ernaar dat zo de gewetens- en meningsvrijheid gegarandeerd blijven, die precies in het hart liggen van de eerbied voor de Mensenrechten.
 
 ---
 
 (bladzijde 254)
 
-## DE CURSTATIE VAN DE MEMORY
+## SAMENVATTING VAN DE VOORSTELLEN VAN DE COMMISSIE
+(de nummers verwijzen naar de pagina’s van het rapport)
 
-(licentietarieven)
+### 1. Wijzigingen in de statuten van verenigingen:
 
-### 1\. Associatiewijzigingen:
+- renforcer la démocratie à l’intérieur des associations : par l’obligation, au-delà d’un certain budget qui pourrait être fixé à 500.000 francs, de procéder à au moins une assemblée générale annuelle et d’établir un rapport moral et financier à l’intention des membres (p. 51 et 52) ;
+- soumettre les structures associatives ayant un certain poids économique – par exemple, celles dont le budget annuel est supérieur à 500.000 francs – à des obligations minimales de déclaration (compte de résultat et bilan) (p. 51 et 52) ;
+- mettre à profit le report de l’application de l’instruction du 15 septembre 1998 relative à la fiscalité des associations, pour prendre en considération les risques d’utilisation des nouvelles règles dans un sens favorable au développement du phénomène sectaire (p. 60).
 
--   versterking van de democratie binnen verenigingen: door toevoeging van een verplichting, waardoor een bepaalde begroting kan worden vastgesteld op 500.000 frank, ten minste een jaar totale vergadering en het opstellen van een verslag over activiteiten en financiële overzichten voor de leden (vgl. 51 en 52);
--   het opzetten van associatiestructuren die enige economische impact hebben, bijvoorbeeld de structuren waarvan de jaarlijkse begroting meer dan 500.000 frank bedraagt, de minimale rapportageverplichting (financieel verslag en saldo);
--   Gebruik een korte toepassing van de instructies van 15 september 1998 op belastingverenigingen om de risico's van het gebruik van nieuwe regels in de richting die geschikt is voor de ontwikkeling van de sectionale verschijnselen (v. 60) op te nemen.
+### 2. Toepassing van de wet van 9 december 1905 betreffende de scheiding van kerk en staat:
 
-### 2\. De wet toepassen vanaf 9 december 1905 om de kerk te scheiden van de staat:
+- rappeler, par voie de circulaire à l’attention des préfets et de l’ensemble des services concernés, les principes de la séparation entre les églises et l’Etat, et les critères de l’association cultuelle définis par le Conseil d’Etat, ainsi que l’application qu’il en a faite dans le cas des Témoins de Jéhovah (p. 71) ;
+- appeler l’attention des pouvoir publics sur la nécessité de fixer désormais quelques règles générales pour l’affiliation au régime de protection sociale des cultes (p. 75).
 
--   Merk op het adres van de prefect en alle passende diensten over het scheiden van de kerk van de staat, de criteria van de religieuze vereniging bepaald door de Staatsraad, evenals worden toegepast in het geval van de Jehova (v. 71)
--   Het doel van de overheidsorganen is om algemene beleidsmaatregelen vast te stellen om deel te nemen aan de sociale bescherming van religieuze organisaties (v. 75).
+### 3. Wijzigingen in de wetgeving inzake de financiering van het politieke leven:
 
-### 3\. Wijziging van de wet op de financiering van het politieke leven:
+- soumettre le bénéfice de la première fraction de l’aide budgétaire annuelle à l’obtention d’un seuil de voix aux dernières élections législatives (p. 84) ;
+- réserver l’accès à la campagne radiotélévisée aux formations politiques qui ont désigné un représentant national parrainé par un nombre minimum d’élus locaux (p. 84).
 
--   het eerste deel van de jaarlijkse begrotingssteun te verlenen bij het ontvangen van een bepaalde drempel van stemmen bij de laatste parlementsverkiezingen (C.84);
--   toegang verlenen tot radio- en televisieprogramma's tot de politieke unie, die een nationale vertegenwoordiger hebben aangewezen, ondersteund door het minimumaantal lokale afgevaardigden.
+### 4. Organisatie van de sector sociale zaken en gezondheid:
 
-### 4\. Organisatie van sociale zaken en gezondheidszorg:
+- diffuser à l’ensemble des services publics et des professionnels de santé un guide pratique identifiant les points de vulnérabilité aux sectes dans le monde médico-social (p. 128) ;
+- centraliser l’information sur les sanctions prises par les institutions ordinales des professions de santé et sur les procédures judiciaires en cours (p. 128) ;
+- faire désigner, par l’Ordre des médecins, un représentant auprès de la Mission interministérielle de lutte contre les sectes (p. 128) ;
+- étudier une éventuelle procédure d’agrément des dénominations des professions paramédicales et des auxiliaires médicaux, par une commission d’experts qui autorise l’utilisation de titres de thérapies et puisse proposer l’interdiction d’exercice de celles qui ne sont pas agréées (p. 128) ;
+- renforcer, dans les études médicales et paramédicales, l’enseignement sur :
+  - les méthodes d’accompagnement psychologique des malades (p. 129) ;
+  - la place, le rôle et les limites des professions médicales et paramédicales dans la société (p. 129) ;
+- développer, dès l’instruction primaire ou secondaire, des cours d’éducation pour la santé, l’hygiène de vie et la compréhension du schéma corporel (p. 129) ;
+- mettre en place une procédure d’agrément ou de labellisation pour les associations intervenant dans l’accompagnement et dans l’aide aux personnes hospitalisées (p. 129) ;
+- prévoir des modes de suivi thérapeutique à proposer aux anciens adeptes et les intégrer dans la formation continue des médecins (p. 129) ;
+- amplifier, notamment dans le cadre de l’éducation nationale, les campagnes de sensibilisation aux vaccins (p. 129).
 
--   door alle openbare diensten en medische werkers een praktische handleiding te verspreiden waarin kwetsbare plekken voor het geslacht van de gezondheidssector worden geïdentificeerd.
--   informatie centraliseren over sancties, gebruikt door professionele gezondheidswerkers, en de processen van de rechtbank (v. 128);
--   een vertegenwoordiger van de collega's van de artsen toe te wijzen aan het verhoor voor seksgevecht (zie 128);
--   Het leren van de mogelijkheid om procedures in te voeren voor parametrische banen en gezondheidsassistenten voor het comité van deskundigen dat het gebruik van therapeutische methoden toestaat en een verbod op het toepassen van niet-goedgekeurde (vgl. 128);
--   Versterking van medische en paramilitaire opleidingsinstituten met de volgende disciplines:
-    -   De methoden van de psychologische rechtbank van de zieken. 129;
-    -   plaats, rol en werkdruk van de samenleving (zie 129);
--   Ontwerp vanaf de lagere of middelbare school, gezondheidsopleiding, gezonde levensstijl en begrip voor body building (v. 129);
--   Start de procedure voor het verkrijgen of certificeren van verenigingen door een begeleider en met de geconstrueerde personen (v. 129);
--   voorspellen van de methoden voor therapeutische monitoring van voormalige volgelingen en opnemen in het programma van continue opleiding voor artsen (v. 129);
--   uitgebreid, waaronder nationaal onderwijs, een campagne om het bewustzijn over vaccins te verbeteren. 129.
+### 5. De regelgeving voor de beroepsopleiding:
 
-### 5\. Opleidingsprestaties:
+- confier l’agrément et le contrôle des organismes de formation professionnelle à un établissement public administratif auquel une part de la contribution des employeurs serait affectée pour financer son fonctionnement (p. 158 et 159) ;
+- mettre fin à l’automaticité de l’exonération de TVA en la réservant aux organismes dûment agréés (p. 159) ;
+- donner explicitement à l’administration le pouvoir de retirer l’immatriculation d’un organisme lorsqu’il apparaît qu’il ne rentre pas dans le cadre de la formation professionnelle ou qu’il s’est prêté à des manoeuvres frauduleuses (p. 159) ;
+- engager une campagne de sensibilisation s’adressant aux entreprises, organisée par l’Etat et les organisations professionnelles (p. 160) ;
+- mettre au point un programme de labellisation des organismes de formation (p. 161).
 
--   Instructie en beheer van de overheidsinstelling voor de financiering van de werkgevers (zie nrs. 158 en 159);
--   Annuleer automatische vrijstelling van BTW, waardoor het alleen voor erkende organisaties (v. 159);
--   Geef de administratie een duidelijke bevoegdheid om zich te ontdoen van de organisatieregistratie, als blijkt dat het niet voldoet aan de eisen van het beroepsonderwijs of verband houdt met fraude (vgl. 159);
--   Start een voorlichtingscampagne gericht op bedrijven georganiseerd staats- en beroepsorganisaties.
--   Ontwerp een educatief service certificaat programma (zie 161).
+### 6. Maatregelen bedoeld om de bestrijding van fraude te verbeteren:
 
-### 6\. Kom binnen om de strijd tegen fraude te verbeteren:
+a) l’aménagement des procédures pénales
 
-a) verbetering van de strafrechtelijke procedures
+- engager une concertation sur l’opportunité de créer un délit de manipulation mentale (p. 216) ;
+- étudier, dans le strict respect du principe de la présomption d’innocence, la possibilité d’un renversement de la charge de la preuve pour les transferts de fonds les plus importants lorsqu’ils sont liés à des sectes (p. 218).
 
--   Start overleg over het doel van het creëren van een "mentale manipulatie" (v. 216);
--   Het is moeilijk om te leren, om de principes van onschuld te volgen, het vermogen om de last van de meeste overgedragen fondsen te transporteren, als ze gerelateerd zijn aan seks.
+b) la mobilisation de l’administration
 
-Vertaling:
+- définir, par un comité interministériel, sous l’autorité du Premier ministre et avec l’assistance technique de la Mission interministérielle de lutte contre les sectes, le cadre général de l’action de l’Etat précisée par circulaire de chaque ministère (p. 249) ;
+- prévoir la représentation des établissements financiers à la Mission interministérielle de lutte contre les sectes (p. 182) ;
+- mettre à l’étude la création de structures départementales rattachées à la Mission interministérielle de lutte contre les sectes ayant pour tâches (p. 249) :
+  - de constituer un centre d’information du public, des entreprises et des établissements financiers dans chaque préfecture ;
+  - d’orienter et de conseiller les victimes anciens adeptes et leurs familles ;
+  - de fournir aux administrations concernées les informations nécessaires à leur action ;
+  - de collecter, en retour, toutes les informations en provenance des administrations sur l’activité sectaire dans le département ;
+- réfléchir à la possibilité de créer, dans le ressort de chaque cour d’appel, un poste de magistrat spécialement formé pour traiter des questions sectaires. Cette fonction constituerait un complément utile à la fonction exercée par l’actuel correspondant sectes auprès du Parquet (p. 250 et 251) ;
+- engager une concertation au sein de l’Union européenne pour déboucher sur une convention spécifique à la lutte contre les sectes (p. 251) ;
+- engager une action diplomatique au niveau du Conseil de l’Europe sur les dangers du sectarisme, sur la présence de sectes au sein d’organisations non gouvernementales affichant une vocation humanitaire et sur les risques créés par la convention de 1986 (p. 92).
 
--   door gebruik te maken van de interusercommissie onder leiding van de eerste minister en technische bijstand voor het interlokaliseren van seksuele activiteiten, de algemene grens van staatsacties in het circus van elk ministerie (vgl. 249);
--   Voorspelling van de vertegenwoordiging van financiële instellingen bij een interverse missie met sekse (zie 182);
--   Leer de mogelijkheid om een Departement van Geheimen te creëren, gebonden interverse missies om seks waarmee te doen te bestrijden (v. 249):
-    -   in elke prefect een centrum voor publieksbewustzijn, ondernemingszin en financiële instellingen te creëren;
-    -   leiding geven aan overleg en advies aan de slachtoffers, voormalige asducs en hun families;
-    -   het verstrekken van passende administratieve informatie die nodig is voor hun activiteiten;
-    -   Bouw op zijn beurt alle informatie van de administratie over de geslachtsactiviteit in de afdeling;
--   Beschouw het vermogen om binnen elke beroep afdeling te creëren om de snelwegen speciaal voorbereid op de cult problemen te posten. Deze functie zou een nuttige aanvulling worden op de functie uitgevoerd door de huidige sequencer op de patch (sec. 250 en 251);
--   Start een raadpleging binnen de Europese Unie om een speciale wedstrijd ter bestrijding van sekse in te schrijven (zie 251);
--   Begin diplomatieke actie bij de Raad van Europa voor genderrisico's, de aanwezigheid van gender in niet-gouvernementele organisaties, de bevestiging van humanitaire bedoelingen en de risico's die voortvloeien uit de regel van 1986.
+### 7. Suivi des propositions:
 
-### 7\. Positieregeling:
-
-Ga naar de regering vragen voor een interliving missie om het geslacht te bestrijden, de maatregelen voor het doen van de bovenstaande posities voorbereiden.
+demander au Gouvernement de charger la Mission interministérielle de lutte contre les sectes de préparer les mesures d’application des propositions ci-dessus.

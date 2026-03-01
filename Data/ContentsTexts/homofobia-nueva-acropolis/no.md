@@ -1,31 +1,31 @@
-# Homofobi i New Akropolis
+# Homofobi i Nye Akropolis
 
-> Hachado, hvis det er en herre, en mannlig tilstedeværelse, og hvis det er en dame, en kvinnelig tilstedeværelse. Det motsatte er mot naturen og vi er relatert til underverdenen til homoseksuelle og lesbiske.
-> 
-> \- *Akropolis høflighetsmanual*
+> Hachado, hvis det er en herre, bør ha en mannlig tilstedeværelse, og hvis det er en dame, en kvinnelig tilstedeværelse. Det motsatte er i strid med naturen og knytter oss til underverdenen til homofile og lesbiske.
+>
+> — *Akropolistisk høflighetsmanual*
 
-> For et par år siden publiserte jeg fra disse sidene mine ideer om behovet for å beskytte New Akropolis mot en trussel som ble stadig farligere: homofili og narkotikaavhengighet.
-> 
-> Homoseksualitet og narkotikaavhengighet er ikke en sykdom eller en nødvendighet, men en dødelig vise som enhver naturlig og anstendig person er forpliktet til å kjempe.
-> 
-> \- *Almena nr. 53: Til alle verdens damer og herrer. Jorge Ángel Livraga*
+> For et par år siden publiserte jeg fra disse sidene mine tanker om behovet for å beskytte Nye Akropolis mot en trussel som ble stadig farligere: homoseksualitet og narkotikaavhengighet.
+>
+> Homoseksualitet og narkotikaavhengighet er ikke en sykdom eller en nødvendighet, men en dødelig last som enhver naturlig og anstendig person er forpliktet til å bekjempe.
+>
+> — *Almena nº 53: Til damene og herrene Hachados i hele verden. Jorge Ángel Livraga*
 
-> Atferden blir multivalent; alt er bra og har sin rettferdiggjøring. De inverterte og lesbiske proklamerer sin tilstand med store bannere på gatene i de viktigste hovedstadene i planeten, og de kriminelle som er låst i fengselene kalles "marginalisert."
-> 
-> \- *Bastion nr. 106-1: Rosa kreft. Jorge Ángel Livraga*
+> Atferden blir mangesidig; alt er bra og har sin rettferdiggjøring. De inverterte og de lesbiske proklamerer sin tilstand med store plakater i gatene i planetens viktigste hovedsteder, og de kriminelle som er innesperret i fengslene kalles «marginaliserte».
+>
+> — *Bastión nº 106-1: Den rosa kreften. Jorge Ángel Livraga*
 
-> I noen land har de gamle verden-reaksjonærene kastet sine masker av liberale bånd og bøtelagt våre plakater mens de - å slippe å gå - av lesbiske og terrorister.
-> 
-> \- *Bastion nr. 23-1: Valget. Jorge Ángel Livraga*
+> I noen land har reaksjonærene fra «gamle verden» kastet sine masker av liberale goder og bøtelegger våre plakater mens de «lar passere» plakater fra lesbiske og terrorister.
+>
+> — *Bastión nº 23-1: Valget. Jorge Ángel Livraga*
 
-> Stöld, løgn, umoralske skikker (medikamentavhengighet, alkoholisme, homoseksualitet, prostitusjon, gambling, og mange andre ofte påpekt) passer ikke våre ranger. Våre midler må være i samsvar med våre hensikter og prinsipper.
-> 
-> \- *Command No. 95: Coherence. Delia Steinberg*
+> Tyveri, løgn, umoralske skikker (narkotikamisbruk, alkoholisme, homoseksualitet, prostitusjon, spillavhengighet, og så mange andre ganger påpekt) hører ikke hjemme i våre rekker. Våre midler må være i samsvar med våre mål og prinsipper.
+>
+> — *Mando nº 95: Coherencia. Delia Steinberg*
 
-> (...) der skjøre damer finner rustikke jeans og ridestøvler... selv for å gi en pianokonsert. Og der menn som afeitter, silkeaktige massasjer, unisex-skjorter og de kommer inn i det når de danser som hawaiisk danzarines, mens de frykter å ha en pistol i hendene, og de vet ikke engang hvordan man håndterer en hammer. Alt dette har forårsaket kaos der vi må leve, med sin etterfølger av narkotika, beoduser, homofile og egoisme feiginger.
-> 
-> \- *Bastion Nr. 154-2: Mine damer og herrer, er vi de samme? Jorge Ángel Livraga*
+> (...) der skjøre damer kler seg i grove jeans og ridestøvler... selv for å gi en pianokonsert. Og der menn liker pynt, silkemyke massasjer, «unisex»-skjorter og svaier når de danser som om de var hawaiiske danserinner, samtidig som de frykter å ha et våpen i hånden og ikke engang kan håndtere en hammer. Alt dette har forårsaket det kaoset vi må leve i, med sine etterspill av narkomane, berusede, homofile og feige egoismer.
+>
+> — *Bastión nº 154-2: Damas y Caballeros, ¿Somos iguales? Jorge Ángel Livraga*
 
-> I vår bevegelse ber vi deg ikke om å være moralist; men prøv å være så moralsk som mulig. Ikke gi noen et dårlig eksempel og ikke fokuser sjelen på slammet av korrupsjon. Gå bort fra narkotika, homoseksuelle, tyver, voldelige, feiginger, haraganere, politikere, fanatikere.
-> 
-> \- *Bastion nr. 30-1: Tips til nye akropolitaner. Jorge Ángel Livraga*
+> I vår bevegelse ber vi deg ikke være en moralist; men prøv å være så moralsk som mulig. Ikke gi noen et dårlig eksempel og ikke besmett din sjel i korrupsjonens gjørme. Hold deg unna narkotika, homofile, tyver, voldelige, feiginger, late personer, småpolitikere, fanatikere.
+>
+> — *Bastión nº 30-1: Råd til nye akropolister. Jorge Ángel Livraga*

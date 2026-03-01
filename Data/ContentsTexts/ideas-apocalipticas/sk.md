@@ -1,17 +1,17 @@
 # Apokalyptické myšlienky
 
-> Odhliadnuc od apokalyptických mýtov o roku 2000 - chronológii, ktorá postihuje iba kresťanov, menšinovú skupinu na svete - skutočnosť je taká, že v polovici prvého storočia doby akvária sa vyhliadky zatmia. Astrologické pozície a vzhľad nezvyčajných slnečných škvŕn sú zdrojom vážneho rozkladu v ľudskosti, najmä na psychickej úrovni. Na mrazivých vodách Vodnár sa zastavila divoká búrka, kde boli doteraz pomerne pevné mnohé ekonomické, politické a náboženské prvky a faktory.
+> Odhliadnuc od apokalyptických mýtov týkajúcich sa roku 2000 – chronológie, ktorá sa dotýka iba kresťanov, menšinovej skupiny vo svete – pravdou je, že v polovici prvého storočia éry Vodnára sa vyhliadky zatmievajú. Astrologické postavenia a objavenie nezvyčajných slnečných škvŕn predzvestujú vážne rozvraty v ľudstve, najmä na psychickej úrovni. Nad mrazivými vodami Vodnára sa vznáša divoká búrka, pri ktorej ztroskotá mnoho ekonomických, politických a náboženských prvkov a faktorov, považovaných doteraz za relatívne pevné.
 > 
-> Malý rozhovor o šialenstve uráža ľudstvo a my musíme byť pripravení čeliť najväčším poruchám.
+> Nádych šialenstva prenasleduje ľudstvo a musíme byť pripravení čeliť najväčším nepokojom.
 > 
-> Na individuálnej úrovni budú aj étery, ktoré pokrývajú a chránia naše nižšie telá, podrobené ťažkým testom, preto odporúčam, aby ste nasmerovali absolútne protidrogové prúdy a v prípade akropolitanov zníženie spotreby tabaku a alkoholu a zvýšenie hygieny vo všetkých ohľadoch.
+> Na individuálnej úrovni budú étery, ktoré obalujú a chránia naše nižšie telá, tiež vystavené tvrdým skúškam, preto vám odporúčam, aby ste presadzovali názory absolútne protidrogového charakteru a medzi akropolistami zníženie spotreby tabaku a alkoholu a zvýšenie hygieny vo všetkých ohľadoch.
 > 
-> Obrady musia byť udržiavané, ale striedané alebo spojené s prácami a úsilím, ktoré "záhrada" nás a urobiť nás odolné proti nešťastia a útokov.
+> Ceremónie sa musia zachovať, ale mali by byť striedané alebo spojené s prácami a úsilím, ktoré nás „otvrdia“ a urobia odolnými voči nepriazni osudu a útokom.
 > 
-> Musíme tiež posilniť hospodársku časť a všetky možné prvky prežitia: blížime sa k barbarskému času, v ktorom slabí zmiznú z historického divadla. Musíme byť silní a vzdelávať našich ľudí v sile a čistote, pretože mladší ľudia budú potrebovať tieto zdroje moci, aby tento nový pokus o vytvorenie modulu šiesteho poddruhu piatej rasy nezlyhal bez toho, aby aspoň zanechali hlboké stopy, ktoré môžu nasledovať budúci cestujúci.
+> Rovnako treba posilniť ekonomickú stránku a všetky možné prvky prežitia: približujeme sa k barbarskej dobe, v ktorej slabí zmiznú z javiska dejín. Musíme byť silní a vychovávať našich ľudí v sile a čistote, lebo mladší budú potrebovať tieto zdroje moci, aby tento nový pokus o zavedenie modulu šiesteho poddruhu piatej rasy nezlyhal bez toho, aby predtým zanechal aspoň hlboké stopy, ktoré budú môcť sledovať cestovatelia budúcnosti.
 > 
-> Vidíte, že v oboch aspektoch musíme obnoviť našu intussívnosť a vnútornú silu, aby sme prekonali veľmi pravdepodobné ťažkosti, ktoré ste prekonali ako mytologický drak, nám umožnia prístup k Veku väčšieho svetla.
+> Vidíte, že v oboch aspektoch musíme obnoviť naše nadšenie a vnútornú silu, aby sme prekonali veľmi pravdepodobné ťažkosti, ktoré, keď ich premôžeme ako mýtického draka, nám umožnia prístup do ery väčšieho svetla.
 > 
-> Nemáme čas uvažovať o malých problémoch osobnosti tým, že sa na nich podieľame. Musíme hovoriť jasne a silno. Musím byť alebo nie.
+> Nemáme čas zaoberať sa malými problémami osobnosti a stávať sa ich komplicmi. Treba hovoriť jasne a nahlas. TREBA BYŤ ALEBO NEBYŤ.
 > 
-> \- *Príkaz č. 52: Pozor na zmeny a udalosti. Jorge Ángel Livraga*
+> — *Príkaz č. 52: Pozor na zmeny a udalosti. Jorge Ángel Livraga*

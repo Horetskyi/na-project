@@ -1,17 +1,17 @@
 # Idei apocaliptice
 
-> Lăsând deoparte miturile apocaliptice menţionate în anul 2000 - cronologia care afectează doar creştinii, un grup minoritar din lume - fapt este că, în mijlocul primului secol al Epocii Acvariu, perspectivele sunt întunecate. Poziţiile astrologice şi apariţia unor pete solare neobişnuite sunt o sursă de dezorganizare gravă în umanitate, în special la nivel psihic. În apele îngheţate ale Vărsătorului, o furtună aprigă este blocată, unde multe elemente şi factori economici, politici şi religioşi au fost relativ solide până acum.
-> 
-> O mică discuţie despre nebunie hărţuieşte umanitatea şi trebuie să fim pregătiţi să înfruntăm cele mai mari tulburări.
-> 
-> La nivel individual, și eterii care acoperă și protejează corpurile noastre inferioare vor fi supuși unor teste dure, așa că vă recomand să canalizați curenți de opinie antidrog absolut și, printre acropoliți, o scădere a consumului de tutun și alcool și o creștere a igienei în toate privințele.
-> 
-> Ceremoniile trebuie menţinute, dar alternate sau asociate cu lucrări şi eforturi care ne "harden" şi ne fac rezistenţi la adversitate şi atacuri.
-> 
-> Partea economică și toate elementele posibile ale supraviețuirii trebuie, de asemenea, consolidate: ne apropiem de un moment barbar în care cei slabi vor dispărea din teatrul istoriei. Trebuie să fim puternici şi să ne educăm poporul în forţă şi puritate, pentru că tinerii vor avea nevoie de aceste surse de putere astfel încât această nouă încercare de a stabili un modul al şaselea subras al celei de-a cincea rase să nu eşueze fără a lăsa cel puţin urme adânci pe care viitorii călători le pot urma.
-> 
-> Vedeți că, în ambele aspecte, trebuie să reînnoim Intusivitatea și Puterea Internă pentru a depăși dificultățile foarte probabile, pe care le depășiți ca dragon mitologic, ne va permite accesul la o Eră a Luminii Mari.
-> 
-> Nu avem timp să ne gândim la micile probleme ale personalităţii făcându-ne complici. Trebuie să vorbim clar şi puternic. Trebuie să fiu sau nu.
-> 
-> \- *Comanda nr. 52: Atenţie la schimbări şi evenimente. Jorge Ángel Livraga*
+> Lăsând deoparte miturile apocaliptice referitoare la anul 2000 – cronologia care îi privește doar pe creștini, un grup minoritar în Lume – adevărul este că, la mijlocul primului secol al Epocii Vărsătorului, perspectivele se întunecă. Pozițiile astrologice și apariția unor pete solare neobișnuite prevestesc grave dezechilibre în umanitate, în special la nivel psihic. Deasupra apelor înghețate ale Vărsătorului planează o furtună năvalnică în care se vor scufunda multe elemente și factori economici, politici și religioși considerați până acum relativ solizi.
+>
+> Un suflu de nebunie asaltează umanitatea și trebuie să fim pregătiți să înfruntăm cele mai mari tulburări.
+>
+> La nivel individual, și eterele care învelesc și protejează corpurile noastre inferioare vor fi supuse unor încercări grele, prin urmare vă recomand să canalizați curenți de opinie total împotriva drogurilor și, printre acropoliști, o reducere a consumului de tutun și alcool și o creștere a igienei în toate privințele.
+>
+> Ceremoniile trebuie păstrate, dar alternate sau asociate cu lucrări și eforturi care să ne «întărească» și să ne facă rezistenți la adversitate și atacuri.
+>
+> Trebuie de asemenea consolidată partea economică și toate elementele posibile ale supraviețuirii: ne apropiem de o epocă barbară în care cei slabi vor dispărea din teatrul Istoriei. Trebuie să fim puternici și să educăm poporul nostru în tărie și puritate, căci tinerii vor avea nevoie de aceste surse de putere pentru ca această nouă încercare de a stabili un modul al celei de-a șasea subrase a celei de-a cincea rase să nu eșueze fără a lăsa, cel puțin, urme adânci pe care călătorii viitorului să le poată urma.
+>
+> Vedeți că, în ambele aspecte, trebuie să ne reînnoim Entuziasmul și Puterea Internă pentru a depăși dificultățile foarte probabile, care, odată învinse ca dragonul mitologic, ne vor permite accesul la o Eră a Luminii Mai Mari.
+>
+> Nu ne rămâne timp să ne ocupăm de micile probleme ale personalității făcându-ne complici ai acesteia. Trebuie să vorbim clar și tare. TREBUIE SĂ FIM SAU SĂ NU FIM.
+>
+> — *Comanda nr. 52: Atenție la schimbări și evenimente. Jorge Ángel Livraga*

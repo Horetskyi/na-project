@@ -1,17 +1,17 @@
 # Apokalyptische Ideen
 
-> Abgesehen von den apokalyptischen Mythen auf das Jahr 2000 bezogen - Chronologie, die nur Christen betrifft, eine Minderheitsgruppe in der Welt - die Tatsache ist, dass in der Mitte des ersten Jahrhunderts der Aquariumzeit die Aussichten verdunkelt werden. Die astrologischen Positionen und das Erscheinungsbild ungewöhnlicher Solarspots sind eine Quelle ernsthafter Disarrangements in der Menschheit, vor allem auf psychischer Ebene. Auf den Frostgewässern von Aquarius wird ein heftiger Sturm gestoppt, wo viele ökonomische, politische und religiöse Elemente und Faktoren bisher relativ fest waren.
+> Abgesehen von den apokalyptischen Mythen, die sich auf das Jahr 2000 beziehen – eine Chronologie, die nur die Christen betrifft, eine Minderheitsgruppe in der Welt – ist die Tatsache, dass sich Mitte des ersten Jahrhunderts des Zeitalters des Wassermanns die Perspektiven verdüstern. Die astrologischen Positionen und das Auftreten ungewöhnlicher Sonnenflecken kündigen schwerwiegende Unordnungen in der Menschheit an, besonders auf psychischer Ebene. Über den frostigen Gewässern des Wassermanns zieht ein heftiger Sturm auf, in dem viele bis heute als relativ fest angesehene wirtschaftliche, politische und religiöse Elemente und Faktoren Schiffbruch erleiden werden.
 > 
-> Ein kleines Gespräch von Wahnsinn hebt die Menschheit und wir müssen bereit sein, den größten Störungen zu begegnen.
+> Ein Hauch von Wahnsinn umklammert die Menschheit und wir müssen darauf vorbereitet sein, den größten Störungen zu begegnen.
 > 
-> Auf individueller Ebene werden auch die Äther, die unsere Unterkörper abdecken und schützen, harten Tests unterzogen, so empfehle ich Ihnen, absolut anti-drug Meinungsströme und, unter Akropolitanen, eine Abnahme des Tabak- und Alkoholkonsums und eine Erhöhung der Hygiene in jeder Hinsicht zu kanalisieren.
+> Auf individueller Ebene werden auch die Äther, die unsere niederen Körper umhüllen und schützen, harten Prüfungen unterzogen, daher empfehle ich euch, Strömungen der öffentlichen Meinung zu kanalisieren, die absolut gegen Drogen gerichtet sind, und unter den Akropolisten eine Verringerung des Konsums von Tabak und Alkohol sowie eine Zunahme der Hygiene in jeder Hinsicht.
 > 
-> Die Zeremonien müssen aufrechterhalten werden, aber abwechslungsreich oder mit Werken und Bemühungen verbunden sein, die uns "härten" und uns beständig gegen Unglück und Angriffe machen.
+> Die Zeremonien müssen beibehalten werden, jedoch abwechselnd oder verbunden mit Arbeiten und Anstrengungen, die uns «härten» und uns widerstandsfähig gegen Widrigkeiten und Angriffe machen.
 > 
-> Der wirtschaftliche Teil und alle möglichen Elemente des Überlebens müssen auch gestärkt werden: Wir nähern uns einer barbarischen Zeit, in der die Schwachen aus dem Theater der Geschichte verschwinden werden. Wir müssen stark sein und unser Volk in Stärke und Reinheit erziehen, denn die jüngeren Menschen werden diese Machtquellen brauchen, damit dieser neue Versuch, ein Modul der sechsten Unterrasse des fünften Rennens zu etablieren, nicht scheitern wird, ohne zumindest tiefe Spuren zu hinterlassen, denen zukünftige Reisende folgen können.
+> Auch der wirtschaftliche Bereich und alle möglichen Überlebenselemente müssen gestärkt werden: Wir nähern uns einer barbarischen Zeit, in der die Schwachen vom Schauplatz der Geschichte verschwinden werden. Wir müssen stark sein und unser Volk in Stärke und Reinheit erziehen, denn die Jüngeren werden diese Quellen der Macht benötigen, damit dieser neue Versuch, ein Modul der sechsten Unterrasse der fünften Rasse zu etablieren, nicht scheitert, ohne zuvor zumindest tiefe Spuren zu hinterlassen, denen zukünftige Reisende folgen können.
 > 
-> Sie sehen, dass wir in beiden Aspekten unsere Intussivität und innere Macht erneuern müssen, um die sehr wahrscheinlichen Schwierigkeiten zu überwinden, die Sie als mythologischer Drache überwinden, wird uns Zugang zu einem Zeitalter des größeren Lichts ermöglichen.
+> Wie ihr seht, müssen wir in beiden Aspekten unseren Entusiasmus und unsere Innere Macht erneuern, um die sehr wahrscheinlichen Schwierigkeiten zu überwinden, die, wenn wir sie wie den mythischen Drachen besiegen, uns den Zugang zu einem Zeitalter größeren Lichts ermöglichen werden.
 > 
-> Wir haben keine Zeit, die kleinen Probleme der Persönlichkeit in Betracht zu ziehen, indem wir uns dazu zwingen. Wir müssen klar und stark reden. Ich muss sein oder nicht.
+> Uns bleibt keine Zeit, die kleinen Probleme der Persönlichkeit zu berücksichtigen, indem wir uns zu Komplizen derselben machen. Man muss klar und laut sprechen. MAN MUSS SEIN ODER NICHT SEIN.
 > 
-> \- Ja. *Befehl Nr. 52: Achtung der Änderungen und Ereignisse. Jorge Ángel Livraga*
+> — *Befehl Nr. 52: Beachtung der Veränderungen und Ereignisse. Jorge Ángel Livraga*

@@ -1,17 +1,17 @@
 # Apokaliptiskas idejas
 
-> Atstājot malā apokaliptiskos mītus, kas attiecās uz 2000. gadu - hronoloģiju, kas skar tikai kristiešus, mazākuma grupu pasaulē - fakts ir tāds, ka pirmā gadsimta vidū Akvārija laikmetā izredzes ir aptumšotas. Astroloģiskās pozīcijas un neparastu saules plankumu parādīšanās ir nopietns cilvēces sašķeltības avots, īpaši psihiskā līmenī. Ūdensvīra sala ūdeņos sīva vētra ir apstājusies, kur daudzi ekonomiskie, politiskie un reliģiskie elementi un faktori līdz šim ir bijuši samērā stabili.
+> Atstājot malā apokaliptiskos mītus, kas attiecas uz 2000. gadu – hronoloģiju, kas skar tikai kristiešus, pasaulē mazākuma grupu –, patiesība ir tāda, ka Ūdensvīra laikmeta pirmā gadsimta vidū perspektīvas aptumšojas. Astroloģiskās pozīcijas un neparastu saules plankumu rašanās paredz nopietnus traucējumus cilvēcē, īpaši psihiskajā līmenī. Pār Ūdensvīra aukstajiem ūdeņiem tuvojas nikna vētra, kurā grimstēs daudzi līdz šim par salīdzinoši noturīgiem uzskatītie ekonomiskie, politiskie un reliģiskie elementi un faktori.
 > 
-> Nedaudz runas par ārprātu uzmāc cilvēci, un mums jābūt gataviem stāties pretī lielākajiem traucējumiem.
+> Trakuma elpa nomoka cilvēci, un mums jābūt gataviem stāties pretī lielākajiem satricinājumiem.
 > 
-> Individuālā līmenī arī ēteri, kas aptver un aizsargā mūsu apakšējos ķermeņus, tiks pakļauti grūtiem testiem, tāpēc es iesaku jums novirzīt absolūti pretnarkotiku viedokļu plūsmas un, starp akropolitāņiem, tabakas un alkohola patēriņa samazināšanos un higiēnas pieaugumu visos aspektos.
+> Individuālā līmenī arī ēteri, kas aptver un aizsargā mūsu zemākos ķermeņus, tiks pakļauti smagām pārbaudēm, tāpēc es iesaku virzīt pilnīgi pretēju nostāju attiecībā uz narkotikām un, starp akropolietiem, samazināt tabakas un alkohola patēriņu un paaugstināt higiēnas līmeni visos aspektos.
 > 
-> Ceremonijas ir jāuztur, bet pārmaiņus vai saistītas ar darbiem un centieniem, kas "nocietina" mūs un padara mūs izturīgus pret nelaimēm un uzbrukumiem.
+> Ceremonijas jātur, taču tās jāmaiņā vai jāsasaista ar darbiem un pūlēm, kas mūs «nocietina» un padara izturīgus pret nelaimēm un uzbrukumiem.
 > 
-> Jāstiprina arī izdzīvošanas ekonomiskā daļa un visi iespējamie elementi: tuvojamies barbariskam laikam, kurā vājie izzudīs no vēstures teātra. Mums ir jābūt stipriem un jāizglīto savi cilvēki stipri un tīri, jo jaunākiem cilvēkiem būs vajadzīgi šie enerģijas avoti, lai šis jaunais mēģinājums izveidot piektās rases sestās apakšsacīkstes moduli neizzustu, vismaz neatstājot dziļas pēdas, kurām var sekot nākamie ceļotāji.
+> Jāstiprina arī ekonomiskā daļa un visi iespējamie izdzīvošanas elementi: mēs tuvojamies barbariskam laikam, kurā vājie izzudīs no Vēstures teātra. Mums jābūt stipriem un jāizglīto mūsu ļaudis spēkā un šķīstumā, jo jauniešiem būs nepieciešami šie varas avoti, lai šis jaunais mēģinājums izveidot piektās rases sestās apakšrases moduli neizpostītos, vismaz neatstājot dziļas pēdas, kurām nākotnes ceļotāji varētu sekot.
 > 
-> Jūs redzat, ka abos aspektos mums jāatjauno mūsu intusivitāte un iekšējā vara, lai pārvarētu ļoti iespējamās grūtības, kuras jūs pārvarat kā mitoloģiskais pūķis, ļaus mums piekļūt lielākai gaismai.
+> Jūs redzat, ka abos aspektos mums jāatjauno mūsu Entuziasmu un Iekšējo Spēku, lai pārvarētu ļoti iespējamos grūtības gadījumus, kurus, sakaujot līdzīgi mītiskajam pūķim, tie ļaus mums piekļūt Lielākas Gaismas Erai.
 > 
-> Mums nav laika pārdomāt mazās personības problēmas, liekot mums tajā piedalīties. Mums ir jārunā skaidri un spēcīgi. Man jābūt vai nē.
+> Mums nav laika apsvert personības sīkās problēmas, kļūstot tās līdzdalībniekiem. Jārunā skaidri un spēcīgi. JĀBŪT VAI NEBŪT.
 > 
-> \- *Komanda Nr. 52: Uzmanība pārmaiņām un notikumiem. Jorge Ángel Livraga*
+> — *Pavēle nº 52: Uzmanība pārmaiņām un notikumiem. Jorge Ángel Livraga*

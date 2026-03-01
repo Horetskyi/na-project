@@ -1,17 +1,17 @@
 # Apokalyptiske ideer
 
-> Bortset fra de apokalyptiske myter, der henvises til år 2000 - kronologi, der kun rammer kristne, en minoritetsgruppe i verden - er det faktum, at udsigterne i midten af det første århundrede af akvariealderen er mørkere. De astrologiske positioner og fremkomsten af usædvanlige solpletter er en kilde til alvorlig forstyrrelse i menneskeheden, især på det psykiske niveau. På Aquarius 'frostvande er der gået en voldsom storm i stå, hvor mange økonomiske, politiske og religiøse elementer og faktorer hidtil har været relativt solide.
+> Når man ser bort fra de apokalyptiske myter vedrørende år 2000 – en kronologi, der kun vedrører de kristne, en minoritetsgruppe i Verden – er det et faktum, at udsigterne i midten af det første århundrede af Vandmandens tidsalder mørkner. De astrologiske positioner og fremkomsten af usædvanlige solpletter varsler alvorlige forstyrrelser i Menneskeheden, især på det psykiske plan. Over Vandmandens iskolde vande truer en voldsom storm, hvor mange økonomiske, politiske og religiøse elementer og faktorer, hidtil anset for relativt solide, vil gå under.
 > 
-> En lille snak om vanvid chikanerer menneskeheden, og vi må være parate til at møde de største lidelser.
+> Et pust af vanvid plager Menneskeheden, og vi må være forberedte på at møde de største uroligheder.
 > 
-> På individuelt plan vil også de ætere, der dækker og beskytter vores underkroppe, blive udsat for hårde prøver, så jeg anbefaler, at du kanaliserer helt anti-narkotika opinionsstrømme og blandt Akropolitanere, et fald i tobaks- og alkoholforbrug og en stigning i hygiejnen i alle henseender.
+> På individuelt plan vil også de æter, der omslutter og beskytter vores lavere legemer, blive udsat for hårde prøver, så jeg anbefaler, at I fremmer holdninger, som er fuldstændigt imod narkotika, og blandt akropolisterne et fald i tobaks- og alkoholforbruget samt en generel forbedring af hygiejnen.
 > 
-> Ceremonien skal opretholdes, men vekslende eller forbundet med værker og bestræbelser, der "hærder" os og gør os modstandsdygtige over for modgang og angreb.
+> Ceremonierne bør opretholdes, men veksles eller forbindes med arbejder og anstrengelser, der «hærdner» os og gør os modstandsdygtige over for modgang og angreb.
 > 
-> Den økonomiske del og alle mulige overlevelseselementer skal også styrkes. Vi nærmer os en barbarisk tid, hvor de svage vil forsvinde fra historiens teater. Vi skal være stærke og uddanne vores folk i styrke og renhed, for de yngre mennesker vil have brug for disse magtkilder, så dette nye forsøg på at etablere et modul af den sjette delrace af den femte race ikke vil mislykkes uden i det mindste at efterlade dybe spor, som fremtidige rejsende kan følge.
+> Den økonomiske side og alle tænkelige overlevelseselementer bør også styrkes: vi nærmer os en barbarisk tid, hvor de svage vil forsvinde fra historiens scene. Vi skal være stærke og uddanne vores folk i styrke og renhed, for de yngste vil få brug for disse magtkilder, så dette nye forsøg på at etablere et modul af den sjette underrace af den femte race ikke mislykkes uden i det mindste at efterlade dybe spor, som fremtidens rejsende kan følge.
 > 
-> Du kan se, at vi i begge aspekter skal forny vores intusivitet og indre kraft for at overvinde de højst sandsynlige vanskeligheder, som du overvinde som den mytologiske drage, vil give os adgang til en alder af større lys.
+> Som I kan se, i begge henseender må vi forny vores Entusiasme og Indre Kraft for at overvinde de meget sandsynlige vanskeligheder, som, når de er overvundet som den mytologiske drage, vil give os adgang til en Æra af Større Lys.
 > 
-> Vi har ikke tid til at overveje de små personlighedsproblemer ved at gøre os medskyldige i det. Vi må tale klart og tydeligt. Det skal jeg være.
+> Vi har ikke tid til at beskæftige os med personlighedens små problemer ved at gøre os medskyldige i dem. Vi må tale klart og højt. MAN SKAL VÆRE ELLER IKKE VÆRE.
 > 
-> \- *Kommando nr. 52: Opmærksomhed på ændringer og begivenheder. Jorge Ángel Livraga*
+> — *Kommando nr. 52: Opmærksomhed på ændringer og begivenheder. Jorge Ángel Livraga*

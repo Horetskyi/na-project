@@ -1,31 +1,31 @@
-# Homofobie in New Acropolis
+# Homofobie in Nieuwe Akropolis
 
-> Neem de Hachado, als het een heer is, een mannelijke aanwezigheid, en als het een dame is, een vrouwelijke aanwezigheid. Het tegenovergestelde is tegen de natuur en we zijn verwant aan de onderwereld van homoseksuelen en lesbiennes.
-> 
-> \- *Acropolis hoffelijkheid handleiding*
+> Draag de Hachado, als u een heer bent, een viriele aanwezigheid, en als u een dame bent, een vrouwelijke aanwezigheid. Het tegengestelde is tegen de Natuur en plaatst ons in verwantschap met de onderwereld van homoseksuelen en lesbiennes.
+>
+> — *Handleiding voor acropolistische beleefdheid*
 
-> Een paar jaar geleden publiceerde ik, op deze pagina's, mijn ideeën over de noodzaak om New Acropolis te beschermen tegen een bedreiging die steeds gevaarlijker werd: homoseksualiteit en drugsverslaving.
-> 
-> Homoseksualiteit en drugsverslaving is geen ziekte of noodzaak, maar een sterfelijke zonde die iedere natuurlijke en fatsoenlijke persoon verplicht is te bestrijden.
-> 
-> \- *53: Aan de dames en heren van de hele wereld. Jorge Ángel Lidraga*
+> Een paar jaar geleden publiceerde ik, vanaf dezezelfde pagina's, mijn ideeën over de noodzaak om Nieuwe Akropolis te beschermen tegen een bedreiging die steeds gevaarlijker werd: homoseksualiteit en drugsverslaving.
+>
+> Homoseksualiteit en drugsverslaving zijn geen ziekte noch een noodzaak, maar een dodelijke ondeugd die iedere natuurlijke en fatsoenlijke persoon verplicht is te bestrijden.
+>
+> — *Almena nr. 53: Aan de dames en heren Hachados van over de hele wereld. Jorge Ángel Livraga*
 
-> Het gedrag wordt multivalent; alles is goed en heeft zijn rechtvaardiging. De omkeringen en lesbiennes verkondigen hun toestand met grote spandoeken op de straten van de belangrijkste hoofdsteden van de Planeet, en de criminelen die in de gevangenissen zijn opgesloten worden "gemarinaliseerd" genoemd.
-> 
-> \- *Bastion No. 106-1: Roze kanker. Jorge Ángel Lidraga*
+> Het gedrag wordt polyvalent; alles is goed en heeft zijn rechtvaardiging. De omgekeerden en de lesbiennes verkondigen hun toestand met grote spandoeken door de straten van de belangrijkste hoofdsteden van de Planeet, en de misdadigers die in de gevangenissen zijn opgesloten worden «marginalen» genoemd.
+>
+> — *Bastión nr. 106-1: De roze kanker. Jorge Ángel Livraga*
 
-> In sommige landen hebben de "oude wereld" reactionairen hun maskers van liberale obligaties afgeworpen en onze posters beboet terwijl ze lesbiennes en terroristen loslaten.
-> 
-> \- *Bastion No. 23-1: De optie. Jorge Ángel Lidraga*
+> In sommige landen hebben de reactionairen van de «oude wereld» hun maskers van liberale welvaart afgelegd en beboeten zij onze affiches terwijl ze die van lesbiennes en terroristen «doorgelaten» worden.
+>
+> — *Bastión nr. 23-1: De optie. Jorge Ángel Livraga*
 
-> Diefstal, leugen, immorele gebruiken (drugverslaving, alcoholisme, homoseksualiteit, prostitutie, gokken, en vele andere vaak genoemde) passen niet in onze gelederen. Onze middelen moeten in overeenstemming zijn met onze doelen en principes.
-> 
-> \- *Commando nr. 95: Samenhang. Delia Steinberg*
+> Diefstal, leugen, immorele gewoonten (drugsverslaving, alcoholisme, homoseksualiteit, prostitutie, speelzucht, en vele anderen die vaak worden genoemd) horen niet thuis in onze gelederen. Onze middelen moeten in overeenstemming zijn met onze doelen en principes.
+>
+> — *Mando nr. 95: Coherentie. Delia Steinberg*
 
-> (...) waar fragiele dames rustieke jeans en laarzen vinden... zelfs om een pianoconcert te geven. En waar mannen houden van afeites, de zijdeachtige massages, de "unisex" shirts en ze krijgen in het als ze dansen als Hawaïaanse danzarines, terwijl ze bang zijn met een pistool in hun handen en ze weten niet eens hoe ze met een hamer moeten omgaan. Dit alles heeft de chaos veroorzaakt waarin we moeten leven, met de gevolgen van drugs, beoduses, homoseksuelen en egoïstische lafaards.
-> 
-> \- *Dames en heren, zijn we hetzelfde? Jorge Ángel Lidraga*
+> (...) waar fragiele dametjes ruw ogende spijkerbroeken en rijlaarzen aantrekken... zelfs om een pianoconcert te geven. En waar mannen houden van make-up, zijdezachte massages, de «unisex» hemden en zich wiegen bij het dansen alsof ze Hawaïaanse danseressen zijn, terwijl ze bang zijn een wapen in de hand te hebben en niet eens weten hoe ze een hamer moeten hanteren. Dit alles heeft het chaos veroorzaakt waarin wij moeten leven, met de gevolgen van verslaafden, dronkaards, homoseksuelen en lafhartige egoïsten.
+>
+> — *Bastión nr. 154-2: Dames en Heren, zijn we gelijk? Jorge Ángel Livraga*
 
-> In onze Beweging vragen wij jullie niet om een moralist te zijn, maar proberen zo moreel mogelijk te zijn. Geef niemand een slecht voorbeeld en richt je Ziel niet op het slib van corruptie. Weg bij drugs, homoseksuelen, dieven, gewelddadige, lafaards, haragans, politici, fanatici.
-> 
-> \- *Bastion No 30-1: Tips voor de nieuwe acropolitanen. Jorge Ángel Lidraga*
+> In onze Beweging vragen wij je niet een moralist te zijn; maar probeer zo moreel mogelijk te zijn. Geef niemand een slecht voorbeeld en verontreinig je Ziel niet in de modder van de corruptie. Houd afstand van drugs, van homoseksuelen, van dieven, van gewelddadigen, van lafaards, van luiaards, van kleingeestige politici, van fanatici.
+>
+> — *Bastión nr. 30-1: Adviezen voor de nieuwe acropolisten. Jorge Ángel Livraga*

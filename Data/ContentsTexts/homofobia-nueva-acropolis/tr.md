@@ -1,31 +1,31 @@
-# New Acropolis
+# Yeni Akropolis'te Homofobi
 
-> Hachado var, eğer bir beyefendi, bir erkek olarak var ve eğer bir bayan, kadın varlığı. Aksine doğaya karşıdır ve eşcinsellerin ve lezbiyenlerin yeraltı ile ilgilidir.
+> Hachado'ya sahip olun, eğer bir beyefendiyseniz erkeksi bir duruş, ve eğer bir hanımsanız kadınsı bir duruş. Aksinin olması Doğaya aykırıdır ve bizi eşcinsellerin ve lezbiyenlerin yeraltı dünyasıyla ilişkilendirir.
 > 
-> \- *Akropolis nezaketli manuel*
+> — *Akropolist nezaket kılavuzu*
 
-> Birkaç yıl önce, bu çok sayfalardan, Yeni Akropolis'i giderek tehlikeli hale gelen bir tehditten korumak için fikirlerim: eşcinsellik ve uyuşturucu bağımlılığı.
+> Birkaç yıl önce bu sayfalardan, Yeni Akropolis'i giderek daha tehlikeli hale gelen bir tehditten koruma gerekliliği hakkındaki fikirlerimi yayınladım: eşcinsellik ve uyuşturucu bağımlılığı.
 > 
-> Eşcinsellik ve uyuşturucu bağımlılığı bir hastalık veya bir zorunluluk değildir, ancak her doğal ve iyi insanın savaşmak zorunda olduğu ölümcül bir yardımcısıdır.
+> Eşcinsellik ve uyuşturucu bağımlılığı bir hastalık ya da bir gereklilik değildir, aksine her doğal ve düzgün insanın savaşmak zorunda olduğu ölümcül bir sapkınlıktır.
 > 
-> \- *Almena hayır. 53: Bütün dünyanın bayanlara ve baylara. Jorge Ángel Livraga*
+> — *Almena nº 53: Tüm dünyanın Hachado'lu hanımefendilerine ve beyefendilerine. Jorge Ángel Livraga*
 
-> Davranış çok uygun hale gelir; her şey iyi ve onun gerekçesine sahiptir. İnverts ve lezbiyenler, Gezegenin ana başkentlerinin sokaklarındaki büyük pankartlarla durumunu ilan ederler ve hapishanelerde kilitli suçlular "evcut" olarak adlandırılır.
+> Davranış çok yönlü hale gelir; her şey iyi görülür ve bir gerekçesi vardır. Eşcinseller ve lezbiyenler durumlarını gezegenin başlıca başkentlerinin sokaklarında büyük pankartlarla ilan ederler, ve hapishanelere kapatılmış suçlulara «marginados» denir.
 > 
-> \- *Bastion No. 106-1: Pink Kanser. Jorge Ángel Livraga*
+> — *Bastión nº 106-1: Pembe kanser. Jorge Ángel Livraga*
 
-> Bazı ülkelerde, "eski dünya" tepkileri, liberal bağların maskelerini attı ve lezbiyenlerin ve teröristlerin "geri gitmesine izin verirken posterlerimizi iyileştirdi.
+> Bazı Ülkelerde, «eski dünya»nın gericileri liberal iyimserlik maskelerini attılar ve bizim pankartlarımızı cezalandırırken lezbiyenlerin ve teröristlerin pankartlarını «geçiriyorlar».
 > 
-> \- *Bastion No. 23-1: seçenek. Jorge Ángel Livraga*
+> — *Bastión nº 23-1: Seçenek. Jorge Ángel Livraga*
 
-> Hırsızlık, yalan söylemek, ahlaksız gelenekler (ilaç bağımlılığı, alkolizm, eşcinsellik, fuhuş, kumar ve diğer birçok sık işaretlendi) rütbelerimize uymaz. Bizim amacımız amaçlarımıza ve ilkelerimize uygun olmalıdır.
+> Hırsızlık, yalan, ahlaksız adetler (uyuşturucu bağımlılığı, alkolizm, eşcinsellik, fuhuş, kumar merakı ve daha sıkça işaret edilen diğer pek çok durum) saflarımıza uymaz. Araçlarımız amacımıza ve ilkelerimize uygun olmalıdır.
 > 
-> \- *Komut No. 95: Coherence. Delia Steinberg*
+> — *Mando nº 95: Tutarlılık. Delia Steinberg*
 
-> (...) kırılgan bayanlar rustik kotları ve binicilik botları nerede bulur... hatta piyano konseri vermek için. Ve erkekler bir ruh gibi nerede, ipek masajlar, "unisex" gömlekler ve Hawaiili danzarines gibi dans ettiklerinde, ellerinde bir tabancaya sahip olmaktan korkuyorlar ve bir çekiçle nasıl başa çıkacağını bile bilmiyorlar. Bütün bunlar, yaşamak zorunda olduğumuz kaosa neden oldu, uyuşturucuların geri dönüşüyle, arılar, eşcinseller ve bencillik korkakları.
+> (...) kırılgan hanımlar rustik kot pantolonlar ve binicilik çizmeleri giyiyorlar... hatta bir piyano konseri vermek için. Ve erkekler makyajları, ipeksi masajları, «unisex» gömlekleri sever ve dans ederken sanki Hawai dansçılarıymış gibi belciklerini sallarlar; aynı zamanda ellerinde bir silah tutmaktan korkar ve bir çekiç bile nasıl kullanılır bilmezler. Tüm bunlar, uyuşturucu bağımlıları, sarhoşlar, eşcinseller ve korkak bencilliklerin izlerini bırakarak yaşamak zorunda olduğumuz kaosu yarattı.
 > 
-> \- *154-2: Bayanlar ve baylar, aynı mıyız? Jorge Ángel Livraga*
+> — *Bastión nº 154-2: Bayanlar ve Baylar, Eşit miyiz? Jorge Ángel Livraga*
 
-> Hareketimizde size ahlaki birist olmayı istemiyoruz; ancak mümkün olduğunca ahlaki olmaya çalışın. Kimseye kötü bir örnek vermeyin ve Ruhunuzu yolsuzlukla ilgili yoğunlaştırmayın. Uyuşturuculardan uzak durun, eşcinseller, hırsızlar, şiddetli, korkaklar, haraganlar, politikacılar, fanatikler.
+> Hareketimizde senden bir ahlâkçı olmanı istemiyoruz; ancak mümkün olduğunca ahlaki olmaya çalış. Kimseye kötü örnek olma ve Ruhunu yozlaşmanın çamurlarına bulama. Uyuşturuculardan, eşcinsellerden, hırsızlardan, şiddet uygulayanlardan, korkaklardan, üşengeçlerden, politikacılardan, fanatiklerden uzak dur.
 > 
-> \- *30-1: Yeni akropolitanlar için ipuçları. Jorge Ángel Livraga*
+> — *Bastión nº 30-1: Yeni akropolistler için öğütler. Jorge Ángel Livraga*

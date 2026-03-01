@@ -1,31 +1,31 @@
-# Đồng tính luyến ái ở New Accrique
+# Kỳ thị đồng tính ở Tân Acropolis
 
-> Hachado, nếu đó là một quý ông, một sự hiện diện đàn ông, và nếu đó là một quý bà, một sự hiện diện của phụ nữ. Ngược lại là chống lại tự nhiên và chúng ta có liên quan đến thế giới ngầm của những người đồng tính luyến ái.
-> 
-> \- *Sổ tay phép lịch sự của Accriral*
+> Hachado, nếu đó là một quý ông, một sự hiện diện nam tính, và nếu đó là một quý bà, một sự hiện diện nữ tính. Ngược lại là đi ngược lại với Tự nhiên và gán chúng ta vào thế giới ngầm của những người đồng tính nam và đồng tính nữ.
+>
+> — *Manual de cortesía acropolitana*
 
-> Một vài năm trước, tôi xuất bản, từ những trang sách này, ý tưởng của tôi về việc cần phải bảo vệ New Accrum khỏi mối đe dọa ngày càng nguy hiểm: đồng tính luyến ái và nghiện ma túy.
-> 
-> Đồng tính luyến ái và nghiện ma túy không phải là một căn bệnh hay một điều cần thiết, mà là một thói xấu trần tục mà mỗi người tự nhiên và đứng đắn đều phải đấu tranh.
-> 
-> \- *Almena không. 53: cho các quý ông và quý bà trên toàn thế giới. Jorge Ángel Livraga*
+> Cách đây vài năm tôi đã đăng, ngay trên chính những trang này, ý kiến của mình về sự cần thiết phải bảo vệ Tân Acropolis khỏi một mối đe dọa ngày càng trở nên nguy hiểm: đồng tính luyến ái và nghiện ma túy.
+>
+> Đồng tính luyến ái và nghiện ma túy không phải là một bệnh tật hay một điều cần thiết, mà là một tật xấu chết người mà mọi người tự nhiên và đứng đắn đều có nghĩa vụ phải chiến đấu.
+>
+> — *Almena nº 53: Gửi tới các quý bà và quý ông Hachados trên toàn thế giới. Jorge Ángel Livraga*
 
-> Hành vi trở nên đa dạng; mọi thứ đều tốt và có lý do chính đáng. Những kẻ phản quốc và đồng tính luyến ái tuyên bố tình trạng của họ với những biểu ngữ lớn trên đường phố của các thủ đô chính của hành tinh, và những tên tội phạm bị nhốt trong nhà tù được gọi là "kết hôn."
-> 
-> \- *Bệnh ung thư hồng. Jorge Ángel Livraga*
+> Hành vi trở nên đa giá trị; mọi thứ đều tốt và có thể biện minh. Những người đồng tính nam và đồng tính nữ tuyên bố tình trạng của họ bằng những biểu ngữ lớn trên các đường phố của các thủ đô chính trên Hành tinh, và những tên tội phạm bị nhốt trong nhà tù lại được gọi là «marginados».
+>
+> — *Bastión nº 106-1: El cáncer rosa. Jorge Ángel Livraga*
 
-> Ở một số quốc gia, phản ứng của "thế giới cũ" đã vứt bỏ mặt nạ của trái phiếu tự do và phạt tiền áp phích của chúng tôi trong khi "bỏ đi" của đồng tính nữ và khủng bố.
-> 
-> \- *Bastian số 23-1. Jorge Ángel Livraga*
+> Ở một số Quốc gia, những phần tử phản động của «thế giới cũ» đã bỏ mặt nạ khoan dung tự do của họ và phạt các áp-phích của chúng ta trong khi «bỏ qua» của các áp-phích của phụ nữ đồng tính và khủng bố.
+>
+> — *Bastión nº 23-1: La opción. Jorge Ángel Livraga*
 
-> Những phong tục nói dối, nói dối, vô luân (ma túy, nghiện rượu, đồng tính luyến ái, mại dâm, cờ bạc và nhiều phong tục khác) không phù hợp với hàng ngũ của chúng ta. Phương tiện của chúng ta phải phù hợp với ý định và nguyên tắc của chúng ta.
-> 
-> \- *Chỉ huy số 95: Sự kết hợp. Delia Steinberg*
+> Trộm cắp, dối trá, những phong tục vô luân (nghiện ma túy, nghiện rượu, đồng tính luyến ái, mại dâm, mê cờ bạc, và còn nhiều thứ khác đã bị nêu ra nhiều lần) không chỗ đứng trong hàng ngũ của chúng ta. Phương tiện của chúng ta phải phù hợp với mục tiêu và nguyên tắc của chúng ta.
+>
+> — *Mando nº 95: Coherencia. Delia Steinberg*
 
-> (...) Nơi mà các quý cô yếu ớt tìm thấy quần jean và giày cưỡi ngựa... ngay cả để trình diễn piano. Và khi những người đàn ông thích phụ nữ, những người mát xa lụa, những chiếc áo sơ mi "unisex" và họ nhảy như những người Hawaii danzarines, trong khi họ sợ có một khẩu súng trong tay họ và họ thậm chí không biết cách cầm búa. Tất cả những điều này đã gây ra sự hỗn loạn mà chúng ta phải sống, với sự tiếp tục của ma túy, sự ích kỷ, đồng tính luyến ái và những kẻ hèn nhát ích kỷ.
-> 
-> \- *Bastian số 154-2, thưa quý vị, chúng ta có giống nhau không? Jorge Ángel Livraga*
+> (...) nơi những quý cô mỏng manh khoác lên mình quần jean thô và ủng cưỡi ngựa... ngay cả để cho một buổi hòa nhạc piano. Và nơi đàn ông ưa thích trang điểm, những liệu pháp mát-xa mượt mà, áo sơ mi «unisex» và lắc bước khi nhảy như thể họ là những vũ công người Hawaii, trong khi lại sợ cầm vũ khí trên tay và thậm chí không biết dùng một cái búa. Tất cả những điều này đã gây ra hỗn loạn mà chúng ta phải sống, với hậu quả là những kẻ nghiện, kẻ say rượu, người đồng tính và những ích kỷ hèn nhát.
+>
+> — *Bastión nº 154-2: Damas y Caballeros, ¿Somos iguales? Jorge Ángel Livraga*
 
-> Trong phong trào của chúng tôi, chúng tôi không yêu cầu bạn là một nhà đạo đức học, nhưng cố gắng để đạo đức càng tốt. Đừng cho ai một ví dụ xấu và đừng tập trung tâm hồn vào sự thối nát. Tránh xa ma túy, đồng tính luyến ái, trộm cắp, bạo lực, hèn nhát, du kích, chính trị gia, cuồng tín.
-> 
-> \- *Bastian số 30-1: Jorge Ángel Livraga*
+> Trong Phong trào của chúng ta, chúng tôi không yêu cầu bạn phải là một người khắt khe về đạo đức; nhưng hãy cố gắng trở nên càng đạo đức càng tốt. Đừng làm gương xấu cho ai và đừng vấy bẩn linh hồn của bạn trong bùn của tham nhũng. Hãy tránh xa ma túy, người đồng tính, kẻ trộm, kẻ bạo lực, kẻ hèn nhát, kẻ lười biếng, những chính trị gia tầm thường, những kẻ cuồng tín.
+>
+> — *Bastión nº 30-1: Consejos para los nuevos acropolitanos. Jorge Ángel Livraga*

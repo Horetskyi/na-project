@@ -1,17 +1,17 @@
 # Le idee apocalittiche
 
-> Lasciando da parte i miti apocalittici riferiti all'anno 2000 - cronologia che colpisce solo i cristiani, un gruppo di minoranza nel mondo - il fatto è che, alla metà del primo secolo dell'età dell'acquario, le prospettive sono oscurate. Le posizioni astrologiche e l'apparizione di luoghi solari insoliti sono una fonte di grave disordine nell'umanità, soprattutto a livello psichico. Sulle acque gelate dell'Acquario, una tempesta feroce è bloccata, dove molti elementi e fattori economici, politici e religiosi sono stati finora relativamente solidi.
-> 
-> Un piccolo discorso di follia harasse l'umanità e dobbiamo essere pronti ad affrontare i più grandi disordini.
-> 
-> A livello individuale, anche gli eteri che coprono e proteggono i nostri corpi inferiori saranno sottoposti a dure prove, quindi vi consiglio di canalizzare assolutamente correnti di opinione anti-droga e, tra gli acropolitani, una diminuzione del consumo di tabacco e alcol e un aumento dell'igiene in tutti gli aspetti.
-> 
-> Le cerimonie devono essere mantenute, ma alternate o associate a lavori e sforzi che ci "induriscono" e ci rendono resistenti alle avversità e agli attacchi.
-> 
-> Anche la parte economica e tutti i possibili elementi di sopravvivenza devono essere rafforzati: ci avviciniamo ad un tempo barbaro in cui i deboli spariranno dal teatro della storia. Dobbiamo essere forti ed educare il nostro popolo in forza e purezza, perché i giovani avranno bisogno di queste fonti di potere in modo che questo nuovo tentativo di stabilire un modulo della sesta sottorazza della quinta razza non fallisca senza almeno lasciare tracce profonde che i futuri viaggiatori possono seguire.
-> 
-> Vedete che, in entrambi gli aspetti, dobbiamo rinnovare la nostra Intussivity e il Potere Interno per superare le difficoltà molto probabili, che si superano come il drago mitologico, ci permetterà di accedere ad un'Età di Luce Più Grande.
-> 
-> Non abbiamo tempo di considerare i piccoli problemi della personalità facendoci complici. Dobbiamo parlare chiaro e forte. Devo esserlo o no.
-> 
-> \- No. *Comando n. 52: Attenzione ai cambiamenti e agli eventi. Jorge Ángel Livraga*
+> Lasciando da parte i miti apocalittici riferiti all'anno 2.000 –cronologia che solo interessa i cristiani, un gruppo minoritario nel Mondo– il fatto è che, a metà del primo secolo dell'Era dell'Acquario, le prospettive si oscurano. Le posizioni astrologiche e la comparsa di inusuali macchie solari annunciano gravi disordini nell'Umanità, specialmente a livello psichico. Sulle gelate acque dell'Acquario si profila una feroce tempesta in cui naufragheranno molti elementi e fattori economici, politici e religiosi ritenuti fino ad oggi relativamente solidi.
+>
+> Un alito di follia assale l'Umanità e dobbiamo essere preparati ad affrontare i maggiori disordini.
+>
+> A livello individuale, anche gli eteri che ricoprono e proteggono i nostri corpi inferiori saranno sottoposti a dure prove, perciò vi raccomando di incanalare correnti d'opinione assolutamente contrarie alle droghe e, tra gli acropolisti, una diminuzione del consumo di tabacco e alcol e un aumento dell'igiene in ogni senso.
+>
+> Le cerimonie devono essere mantenute, ma alternate o associate a lavori e sforzi che ci «induriscano» e ci rendano resistenti alle avversità e agli attacchi.
+>
+> Deve inoltre essere rafforzata la parte economica e tutti gli elementi di sopravvivenza possibili: ci avviciniamo a un'epoca barbarica nella quale i deboli scompariranno dal teatro della Storia. Dobbiamo essere forti ed educare la nostra gente alla forza e alla purezza, poiché i più giovani avranno bisogno di queste fonti di potere affinché questo nuovo tentativo di stabilire un modulo della sesta sottorazza della quinta razza non fallisca prima di aver lasciato, almeno, profonde tracce che i viaggiatori del futuro possano seguire.
+>
+> Vedete che, in entrambi gli aspetti, dobbiamo rinnovare il nostro Entusiasmo e il Potere Interiore per superare le molto probabili difficoltà, che, una volta sconfitte come il mitologico drago, ci permetteranno l'accesso a un'Era di Maggiore Luce.
+>
+> Non ci resta tempo per considerare i piccoli problemi della personalità facendocene complici. Bisogna parlare chiaro e forte. BISOGNA ESSERE O NON ESSERE.
+>
+> — *Comando n. 52: Attenzione ai cambiamenti e agli avvenimenti. Jorge Ángel Livraga*

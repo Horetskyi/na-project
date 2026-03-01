@@ -1,31 +1,31 @@
-# Homofóbia v novej akropole
+# Homofóbia v Novej Akropole
 
-> Hachado, ak je to gentleman, mužná prítomnosť, a ak je to dáma, prítomnosť ženy. Opak je proti prírode a my sme príbuzní podsvetia homosexuálov a lesbičiek.
-> 
-> \- *Akropola s láskavým dovolením*
+> Majte Hachado: ak ste džentlmen, mužnú prítomnosť, a ak ste dáma, ženskú prítomnosť. Opak je v rozpore s prírodou a zbližuje nás s podsvetím homosexuálov a lesbičiek.
+>
+> — *Manuál akropolitnej zdvorilosti*
 
-> Pred niekoľkými rokmi som z týchto stránok zverejnila svoje predstavy o potrebe chrániť New Akropolis pred hrozbou, ktorá sa stávala stále nebezpečnejšou: homosexualitou a drogovou závislosťou.
-> 
-> Homosexualita a drogová závislosť nie sú chorobou alebo nevyhnutnosťou, ale smrteľnou neresťou, s ktorou musí bojovať každá fyzická a slušná osoba.
-> 
-> \- *Pre dámy a páni celého sveta. Jorge Ángel Livraga*
+> Pred niekoľkými rokmi som z týchto istých stránok zverejnil svoje myšlienky o potrebe chrániť Novú Akropolu pred hrozbou, ktorá sa stáva čoraz nebezpečnejšou: homosexualitou a drogovou závislosťou.
+>
+> Homosexualita a drogová závislosť nie sú chorobou ani nevyhnutnosťou, ale smrteľnou neresťou, s ktorou je povinná bojovať každá prirodzená a slušná osoba.
+>
+> — *Almena nº 53: Dámy a páni Hachados celého sveta. Jorge Ángel Livraga*
 
-> Správanie sa stáva multivalentné; všetko je dobré a má svoje odôvodnenie. Invertory a lesbičky hlásajú svoj stav s veľkými bannermi na uliciach hlavných hlavných miest planéty, a zločinci zamknutí vo väzniciach sa nazývajú "marginalizované."
-> 
-> \- *106-1: Ružová rakovina. Jorge Ángel Livraga*
+> Správanie sa stáva polivalentné; všetko je dobré a má svoje ospravedlnenie. Odvrátení a lesbičky vyhlasujú svoj stav veľkými transparentmi na uliciach hlavných svetových metropol, a zatvoreným zločincom vo väzeniach sa hovorí „marginalizovaní“.
+>
+> — *Bastión nº 106-1: Ružový rak. Jorge Ángel Livraga*
 
-> V niektorých krajinách reakcionári "starého sveta" odvrhli masky liberálnych dlhopisov a pokutovali naše plagáty, zatiaľ čo "odchádzali" lesbičiek a teroristov.
-> 
-> \- *Bastion No. 23-1: Možnosť. Jorge Ángel Livraga*
+> V niektorých krajinách reakcionári „starého sveta“ zhodili svoje masky liberálneho blahobytu a pokutujú naše plagáty, zatiaľ čo „púšťajú“ tie od lesbičiek a teroristov.
+>
+> — *Bastión nº 23-1: Voľba. Jorge Ángel Livraga*
 
-> Krádež, lož, nemravné zvyky (drogová závislosť, alkoholizmus, homosexualita, prostitúcia, hazardné hry a mnoho ďalších často zdôraznených) nepasujú do našich radov. Naše prostriedky musia byť v súlade s našimi cieľmi a zásadami.
-> 
-> \- *95: Koherencia. Delia Steinbergová*
+> Krádež, lož, nemravné zvyky (drogová závislosť, alkoholizmus, homosexualita, prostitúcia, záľuba v hazardných hrách a mnohé ďalšie často uvádzané) nemajú miesto v našich radoch. Naše prostriedky musia byť v súlade s našimi cieľmi a princípmi.
+>
+> — *Mando nº 95: Koherencia. Delia Steinberg*
 
-> (...) kde krehké dámy nájdu rustikálne džínsy a jazdecké čižmy... dokonca aj na klavírny koncert. A tam, kde muži ako afeity, hodvábne masáže, "unisex" košele a oni sa dostať do toho, keď tancujú ako havajské danzaríny, zatiaľ čo sa obávajú, že majú zbraň v rukách a ani nevedia, ako zvládnuť kladivo. To všetko spôsobilo chaos, v ktorom musíme žiť, s následkami drog, beodusov, homosexuálov a sebeckých zbabelcov.
-> 
-> \- *Dámy a páni, sme rovnakí? Jorge Ángel Livraga*
+> (...) kde krehké dámky si oblečú rustikálne džínsy a jazdecké čižmy... dokonca aj na klavírny koncert. A kde muži majú radi líčenie, hodvábne masáže, „unisex“ košele a pri tanci sa hojdajú ako havajské tanečnice, pričom sa boja mať zbraň v ruke a ani nevedia držať kladivo. To všetko spôsobilo chaos, v ktorom musíme žiť, s následkami drogových závislých, opilcov, homosexuálov a sebeckých zbabelcov.
+>
+> — *Bastión nº 154-2: Dámy a páni, sme rovnakí? Jorge Ángel Livraga*
 
-> V našom Hnutí vás nežiadame, aby ste boli moralistom, ale aby ste boli čo najmorálnejší. Nedávajte nikomu zlý príklad a nezameriavajte svoju dušu na kal korupcie. Vypadni od drog, homosexuálov, zlodejov, násilníkov, zbabelcov, haraganov, politikov, fanatikov.
-> 
-> \- *Bastion No 30-1: Tipy pre nových akropolitanov. Jorge Ángel Livraga*
+> V našom Hnutí ťa nežiadame, aby si bol moralistom; ale snaž sa byť čo najmorálnejší. Nedávaj nikomu zlý príklad a nezamáraj svoju Dušu v blate korupcie. Drž sa bokom od drog, od homosexuálov, od zlodejov, od násilníkov, od zbabelcov, od lenivcov, od politikárov, od fanatikov.
+>
+> — *Bastión nº 30-1: Tipy pre nových akropolistov. Jorge Ángel Livraga*

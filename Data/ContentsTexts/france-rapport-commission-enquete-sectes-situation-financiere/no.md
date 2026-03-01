@@ -1,111 +1,113 @@
 (Side 51)
 
-Så det nye Akropolis var i stand til å gjenoppdage seg selv under sin kontroll av den gamle foreningen, den Paris internasjonale skole opprettet i 1883 og suspendert etter rivningen. Denne foreningen hadde en slags prestisje på slutten av 1800-tallet med berømte forskere, men under den første verdenskrig hadde det skjedd ekstreme endringer. Det er nå en kjønnsgren som tilbyr utenlandske studenter å bli.
+Slik kunne Nye Akropolis gjenopplive under sin kontroll en gammel forening, l’Ecole d’anthropologie de Paris, opprettet i 1883 og satt i bero siden frigjøringen. Det er en forening som hadde en viss prestisje på slutten av 1800-tallet ved å rekruttere anerkjente vitenskapsmenn, før den opplevde en ekstremistisk avsporing under andre verdenskrig. Gjeninnlemmet av Nye Akropolis er den nå en «filial» av sekten som gjennom dette tilbyr kurs til utenlandske studenter.
 
 ---
 
 (Side 65)
 
-Den nye Akropolis krever at sine tilhengere fra en rekke timers frivillig arbeid på skolen blir ansatt, tjeneste og sekretærjobb.
+Nye Akropolis krever av sine tilhengere et visst antall timer frivillig arbeid i sin «skole», viet til oppgaver som mottak, vedlikehold og sekretærtjeneste.
 
 ---
 
-(152-153 sider)
+(Sider 152–153)
 
-Det nye Akropolis hadde en pedagogisk virksomhet på grunn av Hermware Consults, leder av fru Isabel Ludwig, leder av sexforeningen. Registrert på SRC IldeFrance, dette selskapet, som nå er utelukket fra handelsregisteret, inkludert, ved å undervise FNSEA ansatte.
+Nye Akropolis hadde et opplæringsorgan gjennom selskapet Hermès consultants ledet av fru Isabelle Ludwig, president i moderforeningen til sekten. Registrert i SRC d’Ile-de-France, dette selskapet, i dag strøket fra handelsregisteret, har blant andre utdannet ansatte i FNSEA.
 
 ---
 
 (Side 182)
 
-Blant dem, Kṛṣṇa, som bosatte seg i slottet Bellow i Utah og i Uscille Mansion i Indie; tradisjonen av familie eiendom, som er ved assosiasjonen av -Future Culture - av hærskarene i Eryt-Loire; den nye Anropolis, eieren av Kur Petrol, det tidligere kloster i samme departementet;
+Vi kan nevne Krishna, etablert i slottet Bellevue i Jura og på godset d’Oublaisse i Indre; Tradition famille propriété som gjennom foreningen Avenir de la culture disponerer slottet Jaglu i Eure et Loir; Nye Akropolis, eier av la Cour Pétral, et tidligere kloster situert i samme departement; …
 
 ---
 
-(1992-200 sider)
+(Sider 199–200)
 
-Den nye Acropoll France Association, Kridell; Hiding tyveri; stjele i tyveri; kriminell svikt under visse omstendigheter - TG Colmard, 27 / 03 / 98... - Som Colora, 18 / 12 / 98...
+Nye Akropolis — Association Nouvelle Acropole France — Tyveri ; Mottak av tyvegods ; Medvirkning til tyveri ; Betingede trusler om lovbrudd — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
 ---
 
-(Side 305-306)
+(Sider 305–306)
 
-Jeg beklager. Jeg beklager. Second Den andre verdenskrig (skrift) ... samlet estimat elementer: Den årlige inntekten til New Aropol France Association: fra 4 til 4,6 millioner franc i henhold til regnskapsåret.
+NAVN PÅ SEKTEN : NYE AKROPOLIS
+A.– ORGANISASJON … 1°) INTERNASJONALT HOVEDKONTOR : Brussel (Belgia) …
+… 7 implantasjoner locales : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… éléments d’évaluation recueillis : Recettes annuelles de l’association Nouvelle Acropole France : entre 4 et 4,6 MF selon l’exercice.
 
 ---
 
 (Side 252)
 
-## Evaluer
+## Konklusjon
 
-Etter å ha gjort dette må Kommisjonen innrømme at sexfenomenet sannsynligvis er lenge nok i våre samfunn. Det uttrykker den uunngåelige desfunksjonen, og noen ganger er det en slags klynge, som fører til den uforståelige marginalismen. Rett til forskjell må også beskyttes. Men du kan ikke tillate denne høyre-vingen å bli truet av noen prinsipp, primært av de svake. Derfor er kampen mot sekteriske avvik, Kommisjonens mening, fortsatt et krav som krever mer midler, nye anstrengelser for å informere samfunnet og bevisstheten på internasjonalt nivå. Kommisjonen er sterkt klar over at tradisjonen for motsigelser mellom samvittighetsfriheten og den offentlige orden i sak om sekterisk aktivitet er helt ubekvem. Det handler ikke om å motvirke disse to prinsippene, men det handler også om å belyse kompleksitetene. Å redde samvittighetsfriheten kan ikke være basert på å ignorere grunnleggende individuell frihet: bevegelsesfrihet, besittelse av eiendom og bruk, omsorg for sitt eget legeme og helse, beskyttelse mot maktmisbruk, beskyttelse av suspensjon på deres moralske og materielle interesser. Arbeidet med denne friheten på siden av den sekteriske befolkningen er nærmere forfulgt og straffet, søker Kommisjonen å sikre samvittighetsfrihet og uttrykksfrihet som ligger i forhold til menneskerettighetene.
+Etter å ha fullført sine arbeider må Kommisjonen innrømme at sektefenomenet sannsynligvis vil være etablert i våre samfunn i lang tid. Det uttrykker de uunngåelige funksjonsfeilene og utgjør noen ganger avlastningsventiler gjennom hvilke en ubegripelig marginalisering finner utløp. Retten til å være annerledes må også beskyttes. Men det kan ikke aksepteres at utøvelsen av denne retten truer visse prinsipper, først og fremst retten til beskyttelse for de svakeste. Derfor forblir kampen mot sekteriske avsporinger, etter Kommisjonens syn, et krav som krever bedre tilpassede midler, en ny innsats for å øke samfunnets bevissthet og en erkjennelse på internasjonalt nivå. Kommisjonen er overbevist om at den tradisjonelt nevnte motsetningen mellom samvittighetsfrihet og offentlig orden, i spørsmål om sektaktiviteter, er helt irrelevant. Det dreier seg ikke om å sette disse to prinsippene opp mot hverandre, men tvert imot om å belyse deres komplementaritet. Bevarelsen av samvittighetsfriheten kan ikke, faktisk, baseres på en ukjennskap til de grunnleggende individuelle friheter: å bevege seg fritt, å eie og nyte eiendom, å ta vare på sin kropp og helse, å være beskyttet mot maktmisbruk, å forsvare seg mot angrep på sine moralske og materielle interesser… Ved å arbeide for at angrepene rettet mot disse frihetene av sekteriske avsporinger blir mer effektivt forfulgt og straffet, har Kommisjonen til hensikt at samvittighets- og ytringsfrihetene, som står i kjernen av respekten for menneskerettighetene, dermed skal være garantert.
 
 ---
 
 (Side 254)
 
-## MEMOSTESJONEN
+## SAMMENDRAG AV KOMMISJONENS FORSLAG
+(numrene viser til sidene i rapporten)
 
-(lisensrate)
+### 1. Endringer i foreningers status:
 
-### 1\. Foreningen endringer:
+- renforcer la démocratie à l’intérieur des associations : par l’obligation, au-delà d’un certain budget qui pourrait être fixé à 500.000 francs, de procéder à au moins une assemblée générale annuelle et d’établir un rapport moral et financier à l’intention des membres (p. 51 et 52) ;
+- soumettre les structures associatives ayant un certain poids économique – par exemple, celles dont le budget annuel est supérieur à 500.000 francs – à des obligations minimales de déclaration (compte de résultat et bilan) (p. 51 et 52) ;
+- mettre à profit le report de l’application de l’instruction du 15 septembre 1998 relative à la fiscalité des associations, pour prendre en considération les risques d’utilisation des nouvelles règles dans un sens favorable au développement du phénomène sectaire (p. 60).
 
--   styrke demokratiet inne i foreninger: ved å legge til en plikt som overveier et bestemt budsjett som kan fastsettes til 500 000 franc, minst ett års totalforsamling og opprette en rapport om virksomhet og regnskap for medlemmer (s. 51 og 52);
--   sette på organisasjonsstrukturer som har noen økonomiske konsekvenser, for eksempel de som har et årsbudsjett på over 500 000 franc, minimumsansvaret for rapportering (finansiell rapport og balanse);
--   Bruk en kort anvendelse av instruksjoner fra 15. september 1998 til skatteorganisasjoner for å inkludere risikoen for å bruke nye regler i den retningen som er egnet for utviklingen av seksjonsfenomenene (s. 60).
+### 2. Anvendelse av loven av 9. desember 1905 om adskillelse av kirke og stat:
 
-### 2\. Å anvende loven fra 9. desember 1905 for å skille kirken fra staten:
+- rappeler, par voie de circulaire à l’attention des préfets et de l’ensemble des services concernés, les principes de la séparation entre les églises et l’Etat, et les critères de l’association cultuelle définis par le Conseil d’Etat, ainsi que l’application qu’il en a faite dans le cas des Témoins de Jéhovah (p. 71) ;
+- appeler l’attention des pouvoir publics sur la nécessité de fixer désormais quelques règles générales pour l’affiliation au régime de protection sociale des cultes (p. 75).
 
--   Marker til prefektens adresse og alle passende tjenester om å skille kirken fra staten, kriteriene for den religiøse sammenslutning som er definert av statsrådet, samt å bli anvendt i tilfellet med Jehova (s. 71)
--   Fokus for statlige organer er å sette generell politikk for å bli medlem av det sosiale beskyttelsessystemet i religiøse organisasjoner (s. 75).
+### 3. Endringer i lovgivningen om finansiering av det politiske liv:
 
-### 3\. Endre til loven om finansiering for det politiske livet:
+- soumettre le bénéfice de la première fraction de l’aide budgétaire annuelle à l’obtention d’un seuil de voix aux dernières élections législatives (p. 84) ;
+- réserver l’accès à la campagne radiotélévisée aux formations politiques qui ont désigné un représentant national parrainé par un nombre minimum d’élus locaux (p. 84).
 
--   å gi den første delen av årsbudsjettomsorg ved å motta en viss stemmegrense ved det siste parlamentsvalget (C.84);
--   gi adgang til radio- og fjernsynskampanjer til politisk union, som har utnevnt en nasjonal representant, støttet av det minste antall lokale representanter.
+### 4. Organiseringen av sektoren for sosiale saker og helse:
 
-### 4\. Organisasjon av sosiale saker og helsesektoren:
+- diffuser à l’ensemble des services publics et des professionnels de santé un guide pratique identifiant les points de vulnérabilité aux sectes dans le monde médico-social (p. 128) ;
+- centraliser l’information sur les sanctions prises par les institutions ordinales des professions de santé et sur les procédures judiciaires en cours (p. 128) ;
+- faire désigner, par l’Ordre des médecins, un représentant auprès de la Mission interministérielle de lutte contre les sectes (p. 128) ;
+- étudier une éventuelle procédure d’agrément des dénominations des professions paramédicales et des auxiliaires médicaux, par une commission d’experts qui autorise l’utilisation de titres de thérapies et puisse proposer l’interdiction d’exercice de celles qui ne sont pas agréées (p. 128) ;
+- renforcer, dans les études médicales et paramédicales, l’enseignement sur :
+  - les méthodes d’accompagnement psychologique des malades (p. 129) ;
+  - la place, le rôle et les limites des professions médicales et paramédicales dans la société (p. 129) ;
+- développer, dès l’instruction primaire ou secondaire, des cours d’éducation pour la santé, l’hygiène de vie et la compréhension du schéma corporel (p. 129) ;
+- mettre en place une procédure d’agrément ou de labellisation pour les associations intervenant dans l’accompagnement et dans l’aide aux personnes hospitalisées (p. 129) ;
+- prévoir des modes de suivi thérapeutique à proposer aux anciens adeptes et les intégrer dans la formation continue des médecins (p. 129) ;
+- amplifier, notamment dans le cadre de l’éducation nationale, les campagnes de sensibilisation aux vaccins (p. 129).
 
--   spredt gjennom alle offentlige tjenester og medisinske arbeidere en praktisk manual som identifiserer sårbare steder for helsesektoren kjønn.
--   sentralisere informasjon om sanksjoner, som brukes av profesjonelle helsearbeidere, og rettsprosesser (s. 128);
--   tilordne en representant fra legens kolleger til forespørsel om sexkamp (s. 128);
--   Lære evnen til å innføre prosedyrer for parametriske arbeidsplasser og helseassistenter for ekspertkomiteen som vil tillate bruk av terapeutiske metoder og tilby et forbud mot å anvende ugodkjente (s. 128),
--   Å styrke medisinske og paramilitære opplæringsinstitusjoner med følgende disipliner:
-    -   metoder for psykologisk domstol av syke. 129;
-    -   lokalisering, rolle og arbeidsbegrensning i samfunnet (f. 129);
--   Design som starter fra grunnskolen eller videregående skole, helseopplæring, sunn livsstil og forståelse av kroppsbygging (s. 129);
--   Iverksett fremgangsmåten for akrasjon eller sertifisering for foreninger som utføres av en eskorte og med de konstruerte personer (s. 129);
--   forutsi metodene for terapeutisk overvåking av tidligere følgere og inkludere dem i programmet for kontinuerlig opplæring for leger (s. 129);
--   utvidet, inkludert nasjonal utdanning, en kampanje for å forbedre bevisstheten om vaksiner. 129.
+### 5. La réglementation de la formation professionnelle:
 
-### 5\. Opplæring ytelse:
+- confier l’agrément et le contrôle des organismes de formation professionnelle à un établissement public administratif auquel une part de la contribution des employeurs serait affectée pour financer son fonctionnement (p. 158 et 159) ;
+- mettre fin à l’automaticité de l’exonération de TVA en la réservant aux organismes dûment agréés (p. 159) ;
+- donner explicitement à l’administration le pouvoir de retirer l’immatriculation d’un organisme lorsqu’il apparaît qu’il ne rentre pas dans le cadre de la formation professionnelle ou qu’il s’est prêté à des manoeuvres frauduleuses (p. 159) ;
+- engager une campagne de sensibilisation s’adressant aux entreprises, organisée par l’Etat et les organisations professionnelles (p. 160) ;
+- mettre au point un programme de labellisation des organismes de formation (p. 161).
 
--   Instruksjoner og forvaltning av den offentlige forvaltningsinstitusjonen skal tilordnes finansiering av arbeidsgiverne (f. 158 og 159).
--   Avbryt automatisk frigivelse fra mva, etterlater det bare for riktig akkrediterte organisasjoner (s. 159).
--   Gi administrasjonen en klar myndighet til å bli kvitt organisasjonsregistreringen, hvis det viser seg at det ikke samsvarer med kravene til profesjonell utdanning eller forbundet med svindel (s. 159);
--   Start en informasjonskampanje rettet mot virksomheter organisert statlige og profesjonelle organisasjoner (s).
--   Utforme et utdanningsbevis (s. 161).
+### 6. Mesures destinées à améliorer la lutte contre les fraudes:
 
-### 6\. Kom inn for å forbedre kampen med svindel:
+a) l’aménagement des procédures pénales
 
-a) bedre straffeprosedyrer
+- engager une concertation sur l’opportunité de créer un délit de manipulation mentale (p. 216) ;
+- étudier, dans le strict respect du principe de la présomption d’innocence, la possibilité d’un renversement de la charge de la preuve pour les transferts de fonds les plus importants lorsqu’ils sont liés à des sectes (p. 218).
 
--   Start konsultasjon om formålet med å skape en mental manipulasjon (s. 216).
--   Det er vanskelig å lære, å følge prinsippene om uskyld, evnen til å transportere byrden av de mest overførte midler, hvis de er relatert til sex.
+b) la mobilisation de l’administration
 
-\= = Sync, rettet av eldre = =
+- définir, par un comité interministériel, sous l’autorité du Premier ministre et avec l’assistance technique de la Mission interministérielle de lutte contre les sectes, le cadre général de l’action de l’Etat précisée par circulaire de chaque ministère (p. 249) ;
+- prévoir la représentation des établissements financiers à la Mission interministérielle de lutte contre les sectes (p. 182) ;
+- mettre à l’étude la création de structures départementales rattachées à la Mission interministérielle de lutte contre les sectes ayant pour tâches (p. 249) :
+  - de constituer un centre d’information du public, des entreprises et des établissements financiers dans chaque préfecture ;
+  - d’orienter et de conseiller les victimes anciens adeptes et leurs familles ;
+  - de fournir aux administrations concernées les informations nécessaires à leur action ;
+  - de collecter, en retour, toutes les informations en provenance des administrations sur l’activité sectaire dans le département ;
+- réfléchir à la possibilité de créer, dans le ressort de chaque cour d’appel, un poste de magistrat spécialement formé pour traiter des questions sectaires. Cette fonction constituerait un complément utile à la fonction exercée par l’actuel correspondant sectes auprès du Parquet (p. 250 et 251) ;
+- engager une concertation au sein de l’Union européenne pour déboucher sur une convention spécifique à la lutte contre les sectes (p. 251) ;
+- engager une action diplomatique au niveau du Conseil de l’Europe sur les dangers du sectarisme, sur la présence de sectes au sein d’organisations non gouvernementales affichant une vocation humanitaire et sur les risques créés par la convention de 1986 (p. 92).
 
--   å definere, ved å bruke mellombrukerkomiteen under lederskap av statsministeren og teknisk hjelp til å samlokalisere seksuell aktivitet, den generelle grensen for statlig handling i sirkus i hvert departement (s. 249);
--   Forutsi representasjon av finansinstitusjoner ved interverse oppdrag med kjønn (s. 182);
--   Lær evnen til å skape en Department of Secrets, bundet interverse oppdrag for å bekjempe sex som å gjøre (s. 249):
-    -   skape et senter for offentlig bevissthet, virksomhet og finansinstitusjoner i alle prefekter;
-    -   Ledende konsultasjon og råd til ofrene, tidligere asducs og deres familier;
-    -   å gi passende administrative opplysninger som er nødvendige for deres virksomhet,
-    -   Bygg i sin tur all informasjon fra administrasjonen om sexaktiviteten i avdelingen;
--   Tenk på evnen til å skape i hver appell avdeling til å legge motorveiene spesielt forberedt på kult problemer. Denne funksjon vil bli et nyttig tillegg til den funksjon som utføres av den aktuelle sekvensor på lappen (f.eks. 250 og 251).
--   Start en konsultasjon i EU for å registrere en spesiell konkurranse for å bekjempe sex (s. 251).
--   Begynn diplomatisk handling ved Europarådet for kjønnsfare, tilstedeværelse av kjønn i ikke-statlige organisasjoner, bekrefte humanitær intensjon og risiko som opprettes av styret i 1986.
+### 7. Suivi des propositions:
 
-### 7\. Posisjonskontroll:
-
-Gå til regjeringen som ber om et interlevende oppdrag å bekjempe sex, forberede tiltakene for å gjøre de ovennevnte stillingene.
+demander au Gouvernement de charger la Mission interministérielle de lutte contre les sectes de préparer les mesures d’application des propositions ci-dessus.

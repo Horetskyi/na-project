@@ -1,111 +1,113 @@
 (Page 51)
 
-Bu yüzden Yeni Akropolis, eski birliğinin kontrolü altında kendini yeniden keşfedebildi, Paris International School 1883 yılında yaratıldı ve demolition'dan sonra askıya alındı. Bu birlik 19. yüzyılın sonunda ünlü bilim insanları içeren bir çeşit prestij vardı, ancak Dünya Savaşı sırasında aşırı değişiklikler gerçekleşti. Yeni Akropolis tarafından geri alındı, şimdi yabancı öğrenciler için sunulan bir seks şubesi.
+Böylece Yeni Akropolis, kendi denetimi altında, 1883’te kurulmuş ve Kurtuluştan beri faaliyeti askıya alınmış eski bir dernek olan Paris Antropoloji Okulu’nu yeniden canlandırabilmiştir. Bu, 19. yüzyılın sonunda, tanınmış bilim insanlarını bünyesine katarak belirli bir prestij kazanmış, ancak ikinci dünya savaşı sırasında aşırıcı bir kayma yaşamış bir dernektir. Yeni Akropolis tarafından ele geçirilen bu kuruluş, bugün tarikatın bir “şubesi” olup, bu yolla yabancı öğrencilere stajlar sunmaktadır.
 
 ---
 
 (Page 65)
 
-Yeni Acropolis, okuldaki belirli sayıda gönüllü işten takipçilerini işe almak, hizmet ve sekreterlik yapmak için gerektirir.
+Yeni Akropolis, müridlerinden “okulunda” belirli sayıda gönüllü çalışma saati talep etmekte, bu saatler karşılama, bakım ve sekreterlik görevlerine ayrılmaktadır.
 
 ---
 
-(152- 153 sayfa)
+(Pages 152–153)
 
-Yeni Acropolis, Hermware Danışmaları nedeniyle bir eğitim kurumu vardı, Bayan Isabel Ludwig'in başkanı, seks birliği başkanı. SRC IldeFransa'ya kaydolun, şimdi FNSEA çalışanlarını öğretmekle birlikte ticaret kaydından dışlanan bu şirket.
+Yeni Akropolis, tarikatın ana derneğinin başkanı olan Bayan Isabelle Ludwig tarafından yönetilen Hermès Consultants şirketi aracılığıyla bir eğitim kuruluşuna sahip olmuştur. Île-de-France SRC’sine tescil edilmiş olan bu şirket, bugün ticaret sicilinden silinmiş olmakla birlikte, özellikle FNSEA çalışanlarını eğitmiştir.
 
 ---
 
 (Page 182)
 
-Onlar arasında, Utah'daki Bellow kalesine ve Indie'deki Uscille Mansion'a yerleşmiş olan K thea, Eryth-Loire Armies'in "Future Culture" birliğiyle; Yeni Anropolis, aynı bölümdeki eski manastırın sahibi;
+Örnek olarak, Jura’daki Bellevue şatosunda ve Indre’deki Oublaisse arazisinde yerleşmiş Krishna’yı; Eure-et-Loir’deki Jaglu şatosunu Avenir de la culture derneği aracılığıyla elinde bulunduran Tradition famille propriété hareketini; aynı ilde bulunan eski bir manastır olan Cour Pétral’ın sahibi Yeni Akropolis’i; … zikredebiliriz.
 
 ---
 
-(1992-200 sayfa)
+(Page 199–200)
 
-Yeni Akropoll Fransa Birliği, Kridell; çalmak; hırsızlıkta çalmak; belirli koşullar altında suç başarısızlığı - TG Colmard, 27 / 03 / 98... - As Coloura, 18 / 12 / 98...
+YENİ AKROPOLİS — Association Nouvelle Acropole France — Hırsızlık; Çalıntı malı bilerek satın alma/saklama (recel de vol); Hırsızlığa yardakçılık; Şarta bağlı olarak işlenecek bir suçla tehdit — Colmar Ağır Ceza Mahkemesi (TGI de Colmar), 27/03/98 … — Colmar İstinaf Mahkemesi (CA de Colmar), 18/12/98 …
 
 ---
 
-(Pages 305-306)
+(Page 305–306)
 
-Üzgünüm. Üzgünüm. • İkinci Dünya Savaşı (Yazma) ... toplanan tahmin elementleri topladı: Yeni Aropol Fransa Birliği'nin yıllık geliri: 4 ila 4.6 milyon frank finansal yıla göre.
+TARİKATIN ADI: YENİ AKROPOLİS  
+A. – ÖRGÜTLENME … 1°) ULUSLARARASI MERKEZ: Brüksel (Belçika) …  
+… ð 7 yerel kuruluş: Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …  
+… toplanan değerlendirme unsurları: Association Nouvelle Acropole France’ın yıllık gelirleri: faaliyete göre 4 ile 4,6 milyon frank arasında.
 
 ---
 
 (Page 252)
 
-## Evaluate
+## Sonuç
 
-Bunu yaptıktan sonra, Komisyon, seks fenomeninin toplumlarımızda muhtemelen yeterince uzun olduğunu itiraf etmek zorunda. Bu kaçınılmaz bir ayrılıktır ve bazen bir tür kümedir, bu da anlaşılmaz marjinalizme yol açar. Doğru-korunma da korunmalıdır. Ancak, bu hakkın özellikle zayıf tarafından tehdit edilmesine izin veremezsiniz. Bu yüzden mezhepsel sapmalarla mücadele etmek, Komisyon'un görüşü, daha fazla anlamayı gerektiren bir zorunluluk olmaya devam ediyor, uluslararası düzeyde toplum ve farkındalığı bilgilendirmek için yeni çabalar. Komisyon, gizliliğin durumunda vicdan ve halk düzeni özgürlüğü arasındaki çelişkilerin geleneğinin kesinlikle tartışıldığının farkındadır. Bu iki ilkeye karşı çıkmakla ilgili değil, aynı zamanda komplekslerini aydınlatmakla ilgilidir. vicdan özgürlüğünü kurtarmak temel bireysel özgürlüğü göz ardı edilemez: hareket özgürlüğü, mülk sahibi ve kullanımı, kendi vücut ve sağlığı için araba kullanmak, güç kötüye kullanılmasının korunması, ahlaki ve maddi çıkarlara süspansiyonun korunması... Gizli nüfusun tarafında bu özgürlük üzerinde çalışmak daha yakından baskılandı ve cezalandırılıyor, Komisyon insan haklarına saygı duyan vicdan ve ifade özgürlüğünü garanti etmeye çalışıyor.
+Çalışmalarının sonunda Komisyon, mezhep olgusunun muhtemelen uzun süre toplumlarımızda yerleşik kalacağını kabul etmek zorundadır. Bu olgu, kaçınılmaz işleyiş bozukluklarını ifade eder ve kimi zaman da, sıkıştırılamaz bir marjinalizmin kaçış yolu bulduğu supaplar işlevi görür. Farklı olma hakkı da korunmalıdır. Ancak bu hakkın kullanılmasının bazı ilkeleri, her şeyden önce de en zayıfların korunması hakkını tehdit etmesine göz yumulamaz. Bu nedenle, mezhepsel sapmalara karşı mücadele, Komisyonun gözünde, daha uygun araçlar, toplumun duyarlılığını artırmaya dönük yeni bir çaba ve uluslararası düzeyde bir bilinçlenme gerektiren bir zorunluluk olmaya devam etmektedir. Komisyon, mezhepsel eylemler söz konusu olduğunda, vicdan özgürlüğü ile kamu düzeni arasında geleneksel olarak dile getirilen çelişkinin bütünüyle etkisiz olduğu kanaatindedir. Söz konusu olan bu iki ilkeyi karşı karşıya getirmek değil, tersine, bunların birbirini tamamlayıcılığını ortaya koymaktır. Vicdan özgürlüğünün korunması, gerçekte, temel bireysel özgürlüklerin göz ardı edilmesine dayanamaz: dolaşım özgürlüğü, mal edinme ve ondan yararlanma özgürlüğü, bedenine ve sağlığına özen gösterme özgürlüğü, yetki kötüye kullanmalarına karşı korunma, manevi ve maddi çıkarlarına yönelen saldırılara karşı kendini savunma özgürlüğü… Mezhepsel sapmalar tarafından bu özgürlüklere yöneltilen saldırıların daha etkili biçimde kovuşturulması ve cezalandırılması için çalışırken Komisyon, böylelikle vicdan ve ifade özgürlüklerinin de güvence altına alınmasını, yani İnsan Haklarına saygının özünü oluşturan hakların korunmasını amaçlamaktadır.
 
 ---
 
 (Page 254)
 
-## MEMORY'NIN
+## KOMİSYONUN ÖNERİLERİNİN ÖZETİ  
+(raporun sayfalarına işaret eden numaralar)
 
-(license oranları)
+### 1. Derneklerin statüsünde yapılacak düzenlemeler:
 
-### 1\. Ortaklık değişiklikleri:
+- Derneklerin içinde demokrasiyi güçlendirmek: örneğin 500.000 franka sabitlenebilecek belirli bir bütçeyi aşmaları halinde, en az yılda bir genel kurul yapma ve üyeler için ahlaki ve mali bir rapor hazırlama zorunluluğu getirmek (s. 51 ve 52);
+- Belirli bir ekonomik ağırlığı olan dernek yapıları – örneğin yıllık bütçesi 500.000 frankın üzerinde olanlar – için asgari beyan yükümlülükleri (gelir-gider hesabı ve bilanço) öngörmek (s. 51 ve 52);
+- Derneklerin vergilendirilmesine ilişkin 15 Eylül 1998 tarihli talimatın uygulanmasının ertelenmesinden yararlanarak, yeni kuralların mezhep olgusunun gelişimi lehine kullanılma risklerini dikkate almak (s. 60).
 
--   Sendikalar içinde demokrasiyi güçlendirin: bir görev ekleyerek, 500.000 franka ayarlanabilecek belirli bir bütçeyi genişleterek, en azından bir yıl toplam meclisine ve üyeler için etkinlikler ve finansal açıklamalar hakkında bir rapor oluşturun (s. 51 ve 52).
--   Örneğin, bazı ekonomik etkiye sahip olan dernek yapıları, yıllık bütçenin 500.000'den fazla frank olduğu, raporlamanın asgari sorumluluğu (financial raporu ve dengesi);
--   15 Eylül 1998 tarihinden itibaren, bölüm fenomenlerinin gelişimi için uygun olarak yeni kurallar kullanmanın risklerini içerecek şekilde vergi derneklerinden kısa bir uygulama kullanın ( 60).
+### 2. Kiliseler ile Devletin ayrılmasına ilişkin 9 Aralık 1905 tarihli yasanın uygulanması:
 
-### Yasayı 9 Aralık 1905'ten itibaren devletten ayırmak için uygulayın:
+- Valilerin ve ilgili tüm hizmetlerin dikkatine sunulacak bir genelgeyle, kiliseler ile Devlet arasındaki ayrılık ilkelerini, Danıştay tarafından tanımlanan dinî dernek ölçütlerini ve bu ölçütlerin Yehova Şahitleri örneğinde nasıl uygulandığını hatırlatmak (s. 71);
+- Kamu makamlarının dikkatini, bundan böyle dinlerin sosyal güvenlik rejimine tabiiyetine ilişkin bazı genel kuralların belirlenmesi gereğine çekmek (s. 75).
 
--   Mark to the prefect's address and all appropriate services about separate the Church from the state, as well as be applied in the case of the Yehova (s. 71)
--   Devlet organlarının odak noktası, dini örgütlerin sosyal koruma sistemine katılmak için genel politikalar belirlemektir (s. 75).
+### 3. Siyasi hayatın finansmanına ilişkin mevzuatta yapılacak düzenlemeler:
 
-### 3\. Siyasi yaşam için finansman yasasına değişim:
+- Yıllık bütçe yardımının ilk kısmından yararlanmayı, son milletvekili seçimlerinde belli bir oy eşiğine ulaşılması koşuluna bağlamak (s. 84);
+- Radyo ve televizyon kampanyasına erişimi, ulusal bir temsilci belirlemiş ve bu temsilcisi asgari sayıda yerel seçilmiş tarafından desteklenmiş siyasi oluşumlarla sınırlamak (s. 84).
 
--   Son parlamento seçimlerinde belirli bir oy eşiği alırken yıllık bütçe bakımının ilk bölümünü verin (C.84);
--   Ulusal bir temsilci atan siyasi sendikaya radyo ve televizyon kampanyalarına erişim sağlamak, minimum sayıda yerel milletvekili tarafından desteklenen.
+### 4. Sosyal işler ve sağlık sektörünün örgütlenmesi:
 
-### 4\. Sosyal İşler ve Sağlık Sektörü Örgütü:
+- Tüm kamu hizmetleri ve sağlık profesyonellerine, tıbbi-sosyal alanda mezheplere karşı kırılgan noktaları belirleyen bir pratik rehber dağıtmak (s. 128);
+- Sağlık mesleklerinin meslek kuruluşlarınca verilen disiplin cezaları ve devam eden yargı süreçleriyle ilgili bilgileri merkezileştirmek (s. 128);
+- Doktorlar Birliği tarafından, mezheplere karşı mücadele için kurulmuş Bakanlıklararası Görev Gücüne bir temsilci atanmasını sağlamak (s. 128);
+- Paramédikal meslekler ve tıbbi yardımcıların unvanlarının olası bir ruhsatlandırma prosedürünü incelemek; bu unvanların kullanımına izin veren ve onaylanmamış olanların uygulanmasını yasaklamayı önerebilecek bir uzmanlar komisyonu oluşturmak (s. 128);
+- Tıp ve paramedikal eğitimlerde aşağıdaki konulardaki öğretimi güçlendirmek:
+  - Hastalara psikolojik destek yöntemleri (s. 129);
+  - Tıbbi ve paramedikal mesleklerin toplumdaki yeri, rolü ve sınırları (s. 129);
+- İlkokul veya ortaokuldan itibaren sağlık eğitimi, yaşam hijyeni ve beden şemasının anlaşılmasına yönelik dersler geliştirmek (s. 129);
+- Hastanede yatan kişilere eşlik ve yardım alanında faaliyet gösteren dernekler için bir onay veya etiketleme prosedürü oluşturmak (s. 129);
+- Eski müridlere önerilecek tedavi takip yöntemleri öngörmek ve bunları hekimlerin sürekli eğitimine dahil etmek (s. 129);
+- Özellikle Milli Eğitim çerçevesinde olmak üzere aşılara ilişkin farkındalık kampanyalarını güçlendirmek (s. 129).
 
--   Tüm kamu hizmetleri ve tıbbi işçiler sağlık sektörü seks için kırılgan noktaları tanımlayan pratik bir el ile yayıldı.
--   Profesyonel sağlık çalışanları tarafından kullanılan yaptırımlarla ilgili bilgileri ve mahkeme süreçleri (s. 128);
--   Doktorların meslektaşlarından seks dövüşü için sorguya bir temsilci tayin edin (giz. 128);
--   Parametrik işler ve sağlık asistanları için tedavi yöntemlerinin kullanımına izin verecek ve onaylanmamış (s. 128);
--   Tıbbi ve paramiliter eğitim kurumlarını aşağıdaki disiplinlerle güçlendirmek:
-    -   Hastanın psikolojik mahkeme yöntemleri. 129;
-    -   Konum, toplumun rolü ve işi kısıtlaması (sec. 129);
--   birincil veya ikincil okuldan başlayarak sağlık eğitimi, sağlıklı yaşam tarzı ve vücut binasını anlamak (s. 129);
--   Bir eskort tarafından yapılan dernekler için Akreasyon veya sertifikasyon prosedürünü ve sınırlı kişilerle (s. 129);
--   Eski takipçilerin tedavi izleme yöntemlerini tahmin edin ve doktorlar için sürekli eğitim programına dahil edin (s. 129);
--   Ulusal eğitim de dahil olmak üzere, aşılar hakkında farkındalık geliştirmek için bir kampanya. 129.
+### 5. Mesleki eğitimin düzenlenmesi:
 
-### 5\. Eğitim performansı:
+- Mesleki eğitim kuruluşlarının akreditasyon ve denetimini, işverenlerin katkısının bir kısmının işleyişini finanse etmek üzere tahsis edileceği bir kamu idaresi kuruluşuna emanet etmek (s. 158 ve 159);
+- KDV muafiyetinin otomatikliğine son vererek, bu muafiyeti yalnızca usulüne uygun biçimde akredite edilmiş kuruluşlarla sınırlamak (s. 159);
+- Bir kuruluşun, mesleki eğitim çerçevesine girmediği veya hileli işlemlere karıştığı görülmesi halinde, idareye bu kuruluşun tescilini geri çekme yetkisini açıkça tanımak (s. 159);
+- Devlet ve meslek kuruluşları tarafından düzenlenecek, şirketlere yönelik bir farkındalık kampanyası başlatmak (s. 160);
+- Eğitim kuruluşları için bir etiketleme programı geliştirmek (s. 161).
 
--   Kamu yönetim kurumunun öğretim ve yönetimi, işverenleri (yaklaşık 158 ve 159) finanse etmek için görevlendirilecektir.
--   KDV'den otomatik salıverin, sadece uygun akredite kuruluşlar için bırakın (s. 159);
--   Yönetime organizasyon kaydından kurtulmanın açık bir yetkisi verin, eğer profesyonel eğitimin gerekliliklerine uymadığı veya dolandırıcılıkla ilişkili olmadığı ortaya çıkarsa (s. 159);
--   Şirketler organize devlet ve profesyonel örgütlere yönelik bir bilgi kampanyası başlat (s.).
--   Bir eğitim hizmeti sertifikası programı tasarlayın (sec. 161).
+### 6. Dolandırıcılıkla mücadeleyi iyileştirmeye yönelik önlemler:
 
-### 6\. dolandırıcılıkla mücadeleyi geliştirmek için gelin:
+a) Ceza yargılaması usullerinin düzenlenmesi
 
-a) Suçlu prosedürleri geliştirmek
+- “Zihinsel manipülasyon” suçu ihdas edilmesinin yerindeliği üzerine bir istişare başlatmak (s. 216);
+- Masumiyet karinesine sıkı sıkıya saygı göstererek, mezheplerle bağlantılı olduklarında en önemli para transferleri için ispat yükünün tersine çevrilmesi olasılığını incelemek (s. 218).
 
--   Bir "mental manipülasyon" (s. 216); yaratma amacı üzerine danışmaya başlayın.
--   Öğrenmek zor, masumiyet ilkelerini takip etmek, en transfer edilen fonların yükünü taşıma yeteneği, seksle ilgiliyse.
+b) İdarenin seferber edilmesi
 
-\= = eşit, yaşlı adam tarafından düzeltilmiş = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = senkronizasyon, correct, correct by olderman = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+- Başbakanın otoritesi altında ve mezheplerle mücadele için kurulan Bakanlıklararası Görev Gücünün teknik yardımıyla bir bakanlıklararası komite tarafından, her bakanlığın genelgesiyle somutlaştırılacak şekilde, Devlet eyleminin genel çerçevesini tanımlamak (s. 249);
+- Mali kuruluşların, mezheplerle mücadele için kurulan Bakanlıklararası Görev Gücünde temsil edilmelerini öngörmek (s. 182);
+- Mezheplerle mücadele için Bakanlıklararası Görev Gücüne bağlı il düzeyinde yapılar kurulması olasılığını incelemek; bu yapıların görevleri şunlar olacaktır (s. 249):
+  - Her il valiliğinde, halk, işletmeler ve mali kuruluşlar için bir bilgi merkezi oluşturmak;
+  - Mağdurları, eski müridleri ve ailelerini yönlendirmek ve onlara danışmanlık yapmak;
+  - İlgili idarelere, eylemleri için gerekli bilgileri sağlamak;
+  - Karşılığında, idarelerden ildeki mezhepsel faaliyetlere ilişkin tüm bilgileri toplamak;
+- Her istinaf mahkemesi yargı çevresinde, mezheplerle ilgili konularla ilgilenmek üzere özel eğitim almış bir hâkim pozisyonu oluşturulması imkânını değerlendirmek. Bu görev, hâlihazırda Savcılık nezdindeki mezhepler irtibat kişisinin işlevini yararlı biçimde tamamlayacaktır (s. 250 ve 251);
+- Avrupa Birliği içinde, mezheplerle mücadeleye özgü bir sözleşmeyle sonuçlanacak bir istişare süreci başlatmak (s. 251);
+- Mezhepçiliğin tehlikeleri, insani amaçlı olduğunu beyan eden hükümet dışı örgütler içindeki mezheplerin mevcudiyeti ve 1986 sözleşmesinin yarattığı riskler konusunda Avrupa Konseyi düzeyinde diplomatik bir girişim başlatmak (s. 92).
 
--   Her bir bakanlığın sirkinde genel devlet eyleminin (s. 249) sirkinde, Başbakan ve teknik yardımın önderliğindeki ara kullanıcı komitesini kullanarak, tanımlayın.
--   Finansal kurumların temsilini cinsiyet (gizli 182) ile ilişkilendirin;
--   Bir Sır Bölümü oluşturma yeteneği öğrenin, seks yapmak için mücadele etmek için ters görevler (s. 249):
-    -   Kamu farkındalığı, işletme ve finansal kurumlar için her bir prefect için bir merkez oluşturmak;
-    -   Kurbanlara, eski asdüslere ve ailelerine danışmanlık ve tavsiyeler;
-    -   Faaliyetlerine gerekli uygun yönetim bilgileri sağlamak;
-    -   Oluşturun, sırayla, bölümdeki cinsel aktivite hakkında yönetimden tüm bilgiler;
--   Her temyiz departmanı içinde otoyolları özel olarak yetiştirme sorunları için hazır hale getirme yeteneğini düşünün. Bu işlev, yama üzerinde mevcut dizir tarafından yapılan işleve faydalı olacaktır (sec. 250 ve 251);
--   Avrupa Birliği'nde seksle savaşmak için özel bir yarışma kaydetmek için bir danışmanlık başlatın (sec. 251);
--   Avrupa Konseyi'nde toplumsal olmayan örgütlerde cinsiyetin varlığı, insan niyetini doğrulayan ve 1986 kuralıyla yaratılan risklere başlayın.
+### 7. Önerilerin takibi:
 
-### 7\. Pozisyon kontrolü:
-
-Hükümete seksle savaşmak için Interliving görevi sormak, yukarıdaki pozisyonları yapmak için önlemleri hazırlamak.
+Yukarıdaki önerilerin uygulanmasına yönelik tedbirleri hazırlaması için Hükümetten, mezheplerle mücadele için kurulan Bakanlıklararası Görev Gücünü görevlendirmesini istemek.

@@ -1,17 +1,17 @@
-# Ide-ide apokaliptik
+# Idea-idea apokaliptik
 
-> Kesampingkan mitos - mitos apokaliptik yang mengacu pada tahun 2.000 - kronologi yang hanya mempengaruhi orang Kristen, kelompok minoritas di dunia - faktanya adalah, pada pertengahan abad pertama Zaman Akuarium, prospeknya menjadi gelap. Posisi astrologi dan kemunculan bintik-bintik matahari yang tidak biasa merupakan sumber pemisahan serius dalam kemanusiaan, terutama pada tingkat psikis. Di atas air dingin Aquarius, badai yang sengit terhambat, di mana banyak unsur ekonomi, politik, dan agama dan faktor - faktor sejauh ini relatif padat.
-> 
-> Kita harus siap menghadapi gangguan terbesar.
-> 
-> Aku sarankan agar kau menyalurkan arus opini anti narkoba dan, di antara Acropolitan, penurunan tembakau dan konsumsi alkohol dan peningkatan kebersihan dalam segala hal.
-> 
-> Upacara-upacara harus dipertahankan, tetapi di alternative atau dikaitkan dengan karya dan upaya yang "dikeraskan" kita dan membuat kita tahan terhadap kesengsaraan dan serangan.
-> 
-> Bagian ekonomi dan semua kemungkinan elemen kelangsungan hidup juga harus dikuatkan: kita mendekati waktu barbar di mana yang lemah akan menghilang dari teater sejarah. Kita harus kuat dan mendidik orang-orang kita dalam kekuatan dan kemurnian, untuk orang-orang muda akan membutuhkan sumber-sumber kekuatan ini sehingga upaya baru ini untuk membangun modul subrace keenam dari ras kelima tidak akan gagal tanpa setidaknya meninggalkan jejak mendalam yang dapat diikuti oleh penjelajah masa depan.
-> 
-> Anda lihat bahwa, dalam kedua aspek, kita harus memperbarui Intussitivitas dan Kekuatan Internal kita untuk mengatasi kesulitan yang sangat mungkin, yang Anda atasi sebagai naga mitos, akan memungkinkan kita mengakses Age of Greater Light.
-> 
-> Kita tidak punya waktu untuk mempertimbangkan masalah kecil kepribadian dengan membuat kita terlibat di dalamnya. Kita harus bicara jernih dan kuat. Aku harus atau tidak.
-> 
-> \- Tidak. *Perintah No 52: Perhatian terhadap perubahan dan peristiwa. Jorge Ángel Livraga*
+> Dengan mengetepikan mitos-mitos apokaliptik yang merujuk kepada tahun 2000 – kronologi yang hanya menyentuh orang Kristian, satu kelompok minoriti di Dunia – hakikatnya ialah, pada pertengahan abad pertama Era Akuarius, prospeknya menjadi suram. Kedudukan astrologi dan kemunculan tompok-tompok matahari yang luar biasa menandakan berlakunya ketidakteraturan yang serius dalam Kemanusiaan, khususnya pada tahap psikis. Di atas air beku Akuarius sedang mengembang satu ribut yang ganas, di mana banyak unsur dan faktor ekonomi, politik dan agama yang hingga kini dianggap agak kukuh akan karam.
+>
+> Satu hela nafas kegilaan sedang mengejar Kemanusiaan dan kita mesti bersedia untuk menghadapi kekacauan yang paling besar.
+>
+> Pada peringkat individu, eter-eter yang menyelubungi dan melindungi tubuh-tubuh rendah kita juga akan tertakluk kepada ujian yang berat, oleh itu saya sarankan kamu menyalurkan arus pendapat yang sama sekali menentang dadah dan, dalam kalangan akropolis, mengurangkan penggunaan tembakau dan alkohol serta meningkatkan tahap kebersihan dalam semua aspek.
+>
+> Upacara-upacara mesti dikekalkan, tetapi diselang-selikan atau digandingkan dengan kerja dan usaha yang dapat “menguatkan” kita dan menjadikan kita tahan terhadap kesusahan dan serangan.
+>
+> Bahagian ekonomi dan semua unsur kelangsungan hidup yang mungkin juga mesti diperkukuh: kita sedang menghampiri suatu zaman kebiadaban di mana golongan lemah akan lenyap daripada pentas Sejarah. Kita mesti kuat dan mendidik orang kita dalam kekuatan dan kesucian, kerana golongan muda akan memerlukan sumber-sumber kuasa ini supaya percubaan baharu untuk membentuk satu modul subras keenam daripada ras kelima ini tidak gagal tanpa sekurang-kurangnya meninggalkan jejak yang mendalam yang boleh diikuti oleh para pengembara masa depan.
+>
+> Seperti yang kamu lihat, dalam kedua-dua aspek tersebut, kita mesti memperbaharui Semangat dan Kuasa Dalaman kita untuk mengatasi kesukaran yang sangat mungkin berlaku, yang apabila diatasi seperti naga mitologi, akan membolehkan kita mencapai satu Era Cahaya yang Lebih Besar.
+>
+> Kita tidak mempunyai masa untuk mempertimbangkan masalah-masalah kecil keperibadian dengan menjadi komplicit dengannya. Kita mesti bercakap dengan jelas dan lantang. HARUS JADI ATAU TIDAK JADI.
+>
+> — *Perintah no. 52: Perhatian kepada perubahan dan peristiwa. Jorge Ángel Livraga*

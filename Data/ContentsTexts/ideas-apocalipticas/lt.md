@@ -1,17 +1,17 @@
 # Apokaliptinės idėjos
 
-> Nepaisant apokaliptinių mitų, minimų 2000 m. - chronologija, kuri paveikia tik krikščionis, mažumos grupę pasaulyje - faktas tas, kad pirmojo Aquarium amžiaus viduryje perspektyvos patamsėja. Astrologinės pozicijos ir neįprastų saulės dėmių atsiradimas yra rimto nepasitenkinimo žmonijoje šaltinis, ypač aiškiame lygyje. Vandens šaltuose vandenyse tvyranti audra, kur iki šiol buvo gana daug ekonominių, politinių ir religinių elementų bei faktorių.
+> Paliekant nuošalyje apokaliptinius mitus, susijusius su 2000 m. – chronologija, kuri paveikia tik krikščionis, pasaulio mažumą – tiesa ta, kad Vandenio Eros pirmojo amžiaus viduryje perspektyvos tamsėja. Astrologinės padėtys ir neįprastų saulės dėmių atsiradimas pranašauja rimtus sutrikimus Žmonijoje, ypač psichikos srityje. Vandenio šaltuose vandenyse kyla žiauri audra, kurioje nuskęs daug iki šiol laikytųsi santykinai tvirtais ekonominių, politinių ir religinių elementų ir veiksnių.
 > 
-> Truputį kalbėti apie beprotybę pažaboja žmoniją ir mes turime būti pasirengę susidurti su didžiausiais sutrikimais.
+> Beprotybės atodūsis persekioja Žmoniją ir mes turime būti pasirengę susidurti su didžiausiais sutrikimais.
 > 
-> Individualiu lygmeniu taip pat bus atliekami bandymai su eteriais, kurie apima ir saugo mūsų apatinius kūnus, todėl rekomenduoju nukreipti absoliučiai anti- narkotikų nuomonės sroves, o tarp akropolitų - tabako ir alkoholio vartojimo sumažėjimą ir higienos padidėjimą visais atžvilgiais.
+> Individualiu lygiu taip pat eteriai, kurie dengia ir saugo mūsų apatinius kūnus, bus patirti sunkių bandymų, todėl rekomenduoju jums formuoti nuomonių srautus, visiškai priešiškus narkotikams, o tarp Akropolietų — sumažinti tabako ir alkoholio vartojimą ir padidinti higieną visais atžvilgiais.
 > 
-> Ceremonijos turi būti išlaikytos, bet pakaitomis arba susijusios su darbais ir pastangomis, kurie mus "užkietino" ir padaro mus atsparius nelaimėms ir išpuoliams.
+> Ceremonijos turi būti išlaikytos, bet kaitaliojamos arba susijusios su darbais ir pastangomis, kurios mus «sutvirtintų» ir padarytų atsparius nelaimėms ir išpuoliams.
 > 
-> Taip pat turi būti sustiprinta ekonomindalis ir visi galimi išlikimo elementai: artėja barbariškas laikas, kai silpnieji išnyks iš istorijos teatro. Mes turime būti stiprūs ir šviesti savo žmones savo stiprybe ir tyrumu, jaunesniems žmonėms reikės šių galios šaltinių, kad šis naujas bandymas sukurti šeštosios penktosios rasės subrasės modulį nežlugtų nepaliekant bent jau gilių pėdsakų, kuriuos gali sekti būsimi keliautojai.
+> Taip pat turi būti stiprinama ekonominė dalis ir visi galimi išlikimo elementai: artėjame prie barbariškos epochos, kurioje silpnieji išnyks iš Istorijos teatro. Turime būti stiprūs ir auklėti savo žmones stiprybėje ir tyrume, nes jauniems reikės šių galios šaltinių, kad šis naujas bandymas įsteigti penktos rasės šeštosios subrasės modulį nesugriūtų, nepalikdamas bent jau gilių pėdsakų, kuriomis ateities keliautojai galėtų sekti.
 > 
-> Jūs matote, kad abiem aspektais mes turime atnaujinti savo Intussibility ir Vidinė galia įveikti labai tikėtinus sunkumus, kuriuos jūs įveikėte kaip mitologinis drakonas, leis mums patekti į didesnės šviesos amžių.
+> Kaip matote, abiem aspektais turime atnaujinti mūsų Entusiasmą ir Vidinę Galią, kad įveiktume labai tikėtinas sunkumus, kuriuos nugalėję, kaip mitologinį drakoną, įgisime prieigą prie Eros Didesnės Šviesos.
 > 
-> Mes neturime laiko atsižvelgti į mažas asmenybės problemas, priversdami mus prie to prisidėti. Turime kalbėti aiškiai ir tvirtai. Turiu būti ar ne.
+> Neturime laiko nagrinėti mažų asmenybės problemų ir tapti jų bendrininkais. Reikia kalbėti aiškiai ir garsiai. REIKIA BŪTI AR NEBŪTI.
 > 
-> \- *Komanda Nr. 52: Dėmesio į pokyčius ir įvykius. Jorge Ángel Livaga*
+> — *Įsakymas nº 52: Dėmesys pokyčiams ir įvykiams. Jorge Ángel Livraga*

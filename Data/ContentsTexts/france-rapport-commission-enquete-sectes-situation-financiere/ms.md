@@ -1,111 +1,113 @@
 (Halaman 51)
 
-Maka, Akropolis Baru berhasil menemukan kembali dirinya di bawah kendalinya atas asosiasi kuno, Sekolah Internasional Paris yang dibuat pada tahun 1883 dan ditangguhkan setelah pembongkaran. Asosiasi ini memiliki semacam prestise pada akhir abad ke-19 yang melibatkan ilmuwan terkenal, tetapi selama Perang Dunia II, perubahan ekstrem telah terjadi. Dipulihkan oleh Akropolis Baru, sekarang menjadi cabang cabang seks yang menawarkan mahasiswa asing untuk menjadi.
+Dengan demikian, Akropolis Baharu telah dapat menghidupkan semula di bawah kawalannya sebuah persatuan lama, iaitu Sekolah Antropologi Paris, yang ditubuhkan pada tahun 1883 dan digantung aktivitinya sejak Pembebasan. Ia merupakan sebuah persatuan yang mempunyai prestij tertentu pada penghujung abad ke‑19 dengan merekrut saintis ternama, sebelum mengalami penyelewengan berhaluan ekstrem semasa Perang Dunia Kedua. Diambil alih oleh Akropolis Baharu, ia kini menjadi sebuah “cawangan” kultus tersebut yang melalui saluran ini menawarkan kursus latihan kepada pelajar asing.
 
 ---
 
-(Page 65)
+(Halaman 65)
 
-Orang - orang Akropolis yang baru membutuhkan pengikutnya dari sejumlah jam kerja sukarela di sekolahnya untuk dipekerjakan, dinas, dan pekerjaan sekretaris.
-
----
-
-(152- 153 halaman)
-
-Keabasan baru Akropolis memiliki pendirian pendidikan karena Hermware Consults, kepala Nyonya Isabel Ludwig, kepala asosiasi seks. Ia mendaftarkan diri ke SRC IldeFrance, perusahaan ini, yang sekarang dikecualikan dari register perdagangan, termasuk, dengan mengajar karyawan FNSEA.
+Akropolis Baharu menuntut para pengikutnya memberikan sejumlah jam kerja sukarela di “sekolah”nya, yang diperuntukkan bagi tugas sambutan, penyelenggaraan dan kerja kesetiausahaan.
 
 ---
 
-(Page 182)
+(Halaman 152–153)
 
-Di antaranya, Kōa, yang menetap di kastil Bellow di Utah dan di Uscille Mansion di Indie; tradisi properti keluarga, yang oleh asosiasi "Future Culture" oleh Armies of Eryth-Loire; Anropolis Baru, pemilik Kur Petrol, bekas biara di departemen yang sama;
-
----
-
-Fuhrer (1992-200 halaman)
-
-\[ Gambar di hlm.
+Akropolis Baharu memiliki sebuah badan latihan melalui syarikat Hermès consultants yang diketuai oleh Puan Isabelle Ludwig, presiden persatuan induk kultus tersebut. Berdaftar di SRC Ile‑de‑France, syarikat ini, yang kini telah dipadamkan daripada daftar perdagangan, khususnya telah memberi latihan kepada kakitangan FNSEA.
 
 ---
 
-(Pages 305-306)
+(Halaman 182)
 
-Maafkan aku. Maafkan aku. • Perang Dunia Kedua (tulis) ... Unsur perkiraan yang dikumpulkan: Pendapatan tahunan Asosiasi Aropol Baru Prancis: dari 4 hingga 4,6 juta franc menurut tahun keuangan.
-
----
-
-(Page 252)
-
-## Evaluasi
-
-Setelah melakukan ini, Komisi harus mengakui bahwa fenomena seks mungkin cukup lama di masyarakat kita. Ini mengekspresikan ketidakfungsian yang tak terelakkan, dan kadang-kadang itu adalah semacam cluster, yang mengarah ke marginalisme yang tidak dapat dipahami. Keperdulian hak-ke-ke-ke-ke-differensi juga harus dilindungi. Tapi kau tidak bisa membiarkan sayap kanan ini terancam oleh beberapa prinsip, terutama oleh yang lemah. Itulah sebabnya mengapa memerangi penyimpangan sektarian, pendapat Komisi, tetap menjadi syarat yang memerlukan lebih banyak sarana, upaya baru untuk menginformasikan masyarakat dan kesadaran di tingkat internasional. Komisi-Komisi Medium sangat menyadari bahwa tradisi kontradiksi antara kebebasan hati nurani dan ketertiban umum dalam hal kegiatan sektarian sama sekali tidak konvenien. Ini bukan tentang melawan dua prinsip ini, tapi juga tentang menyalakan kompleksitas mereka. Kebebasan hati nurani tidak dapat didasarkan pada mengabaikan kebebasan individu dasar: kebebasan bergerak, kepemilikan properti dan penggunaan, merawat tubuh dan kesehatan sendiri, perlindungan dari penyalahgunaan kekuasaan, perlindungan suspensi pada kepentingan moral dan material mereka... Ketika bekerja pada kebebasan ini di sisi populasi sektarian lebih ditindas dan dihukum ketat, Komisi berusaha menjamin kebebasan hati nurani dan ekspresi yang terletak dalam menghormati hak asasi manusia.
+Antaranya boleh disebut Krishna yang berpangkalan di istana Bellevue di Jura dan di domain Oublaisse di Indre; Tradition Famille Propriété yang melalui persatuan Avenir de la culture memiliki istana Jaglu di Eure‑et‑Loir; Akropolis Baharu sebagai pemilik Cour Pétral, bekas biara yang terletak dalam jabatan yang sama; …
 
 ---
 
-(Page 254)
+(Halaman 199–200)
 
-## FOURSTASI MEMORI
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — Kecurian; Pelupusan barang curi; Bersubahat melakukan kecurian; Ugutan melakukan kesalahan yang dibuat bersyarat — TGI Colmar, 27/03/98 … — CA Colmar, 18/12/98 …
 
-(Nilai kecil)
+---
 
-### 1\. Perubahan Asosiasi:
+(Halaman 305–306)
 
--   fikih demokrasi memperkuat demokrasi di dalam asosiasi: dengan menambahkan tugas, membatalkan anggaran tertentu yang dapat ditetapkan menjadi 500.000 franc, setidaknya satu tahun total himpunan dan menyiapkan laporan tentang kegiatan dan pernyataan keuangan untuk anggota (s. 51 dan 52);
--   Misalnya, orang - orang yang anggaran tahunannya di atas 500.000 franc, kewajiban minimum pelaporan (laporan keuangan dan keseimbangan);
--   Using an penerapan instruksi singkat dari 15 September 1998 kepada asosiasi pajak untuk memasukkan risiko penggunaan peraturan baru ke arah yang sesuai untuk pengembangan fenomena seksial (s. 60).
+NAMA KULTUS: AKROPOLIS BAHARU  
+A. – ORGANISASI … 1°) IBU PEJABAT ANTARABANGSA: Brussel (Belgium) …  
+… ð 7 penempatan tempatan: Boissy‑lès‑Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …  
+… unsur penilaian yang diperoleh: Hasil tahunan persatuan Nouvelle Acropole France: antara 4 dan 4,6 juta franc mengikut tahun kewangan.
 
-### 2\. Menerapkan hukum dari 9 Desember 1905 untuk memisahkan gereja dari negara:
+---
 
--   Ke alamat prefek dan semua pelayanan yang sesuai tentang memisahkan gereja dari negara, kriteria Asosiasi Agama yang didefinisikan oleh Dewan Negara, serta diterapkan dalam kasus Yehuwa (s. 71)
--   Fokus organ negara adalah menetapkan kebijakan umum untuk bergabung dalam sistem perlindungan sosial organisasi keagamaan (s. 75).
+(Halaman 252)
 
-### Perubahan pada hukum pendanaan untuk kehidupan politik:
+## Kesimpulan
 
--   Luaching memberikan bagian pertama dari perawatan anggaran tahunan ketika menerima ambang batas tertentu suara pada pemilihan parlementer terakhir (C.84);
--   Ia menyediakan akses ke kampanye radio dan televisi ke serikat politik, yang telah menunjuk perwakilan nasional, yang didukung oleh jumlah minimal deputi lokal.
+Pada penghujung kerjanya, Suruhanjaya mesti mengakui bahawa fenomena sektarian mungkin untuk tempoh yang lama tertanam dalam masyarakat kita. Ia menzahirkan ketidakfungsian yang tidak dapat dielakkan dan kadangkala merupakan sejenis injap keselamatan yang membolehkan suatu marginalisme yang tidak dapat dikurangkan mencari jalan keluar. Hak kepada perbezaan juga mesti dipelihara. Namun, tidak boleh diterima bahawa pelaksanaan hak ini boleh mengancam prinsip‑prinsip tertentu, dan pertama sekali hak untuk melindungi golongan paling lemah. Atas sebab inilah, memerangi penyelewengan sektarian kekal, pada pandangan Suruhanjaya, sebagai satu kewajipan yang memerlukan cara yang lebih sesuai, satu usaha baharu untuk menyedarkan masyarakat dan satu kesedaran di peringkat antarabangsa. Suruhanjaya yakin bahawa percanggahan yang secara tradisinya dibangkitkan antara kebebasan berfikir dan ketenteraman awam, dalam hal perbuatan sektarian, adalah sama sekali tidak berkesan. Persoalannya bukan untuk mempertembungkan dua prinsip ini tetapi, sebaliknya, untuk menyerlahkan sifat saling melengkapi antara keduanya. Pemeliharaan kebebasan berfikir tidak boleh, sebenarnya, bersandar pada pengabaian kebebasan individu yang asas: untuk bergerak bebas, memiliki harta dan menikmatinya, memelihara tubuh dan kesihatan sendiri, dilindungi daripada penyalahgunaan kuasa, mempertahankan diri daripada serangan terhadap kepentingan moral dan materialnya… Dengan berusaha supaya serangan terhadap kebebasan‑kebebasan ini oleh penyelewengan sektarian dapat dikesan dan dihukum dengan lebih berkesan, Suruhanjaya berhasrat agar dengan demikian terjaminlah kebebasan berfikir dan bersuara, yang merupakan teras kepada penghormatan terhadap Hak Asasi Manusia.
 
-### 4\. Organisasi Sektor Sosial dan Kesehatan:
+---
 
--   Kekhalifahan menyebar melalui semua layanan publik dan tenaga medis Sebuah panduan praktis yang mengidentifikasi tempat rentan untuk seks sektor kesehatan.
--   Diagonalisasi informasi tentang sanksi, digunakan oleh tenaga kesehatan profesional, dan proses pengadilan (s. 128);
--   Lifía menugaskan wakil dari rekan-rekan dokter untuk melakukan interquest untuk pertempuran seks (sec. 128);
--   Mempelajari kemampuan untuk memperkenalkan prosedur untuk pekerjaan parametrik dan asisten kesehatan untuk komite ahli yang akan memungkinkan penggunaan metode terapi dan menawarkan larangan untuk menerapkan tidak disetujui (s. 128);
--   Untuk memperkuat lembaga pelatihan medis dan paramiliter dengan disiplin berikut:
-    -   Metode hukum psikologi orang sakit. 129;
-    -   lokasi, peran dan kekangan pekerjaan masyarakat (detik. 129);
--   Rancangan dari sekolah dasar atau menengah, pelatihan kesehatan, gaya hidup sehat dan pemahaman bangunan tubuh (s. 129);
--   Memulakan Accreation atau prosedur sertifikasi untuk asosiasi yang dilakukan oleh pendamping dan dengan orang yang dikonstitusikan (s. 129);
--   Metode-metode pemantauan terapeutik para pengikut terdahulu dan mencakupnya dalam program pelatihan terus menerus bagi para dokter (s. 129);
--   dikembangkan, termasuk pendidikan nasional, sebuah kampanye untuk meningkatkan kesadaran tentang vaksin. - 129.
+(Halaman 254)
 
-### Prestasi latihan:
+## RUMUSAN CADANGAN SURUHANJAYA
+(nombor merujuk kepada halaman laporan)
 
--   Instruksi dan pengelolaan lembaga administrasi publik akan ditugaskan untuk membiayai para majikan (sek. 158 dan 159);
--   Mugvance membatalkan pelepasan otomatis dari VAT, meninggalkannya hanya untuk organisasi terakreditasi yang tepat (s. 159);
--   Memberikan administrasi wewenang yang jelas untuk menyingkirkan pendaftaran organisasi, jika ternyata tidak sesuai dengan persyaratan pendidikan profesional atau terkait dengan penipuan (s. 159);
--   Züzaid memulai kampanye informasi yang ditujukan pada bisnis yang terorganisir negara dan organisasi profesional (s).
--   Politeknik Desain program sertifikat layanan pendidikan (sek. 161).
+### 1. Penyesuaian kepada statut persatuan:
 
-### 6\. Datang untuk meningkatkan perjuangan dengan penipuan:
+- mengukuhkan demokrasi di dalam persatuan: dengan mewajibkan, apabila melebihi suatu jumlah bajet yang boleh ditetapkan pada 500.000 franc, mengadakan sekurang‑kurangnya satu mesyuarat agung tahunan dan menyediakan laporan moral dan kewangan untuk perhatian para ahli (h. 51 dan 52);
+- mengenakan kepada struktur persatuan yang mempunyai berat ekonomi tertentu – sebagai contoh, yang bajet tahunannya melebihi 500.000 franc – kewajipan minimum pengisytiharan (akaun hasil dan imbangan) (h. 51 dan 52);
+- memanfaatkan penangguhan pelaksanaan arahan 15 September 1998 berhubung percukaian persatuan untuk mengambil kira risiko penggunaan peraturan baharu dalam erti kata yang menggalakkan perkembangan fenomena sektarian (h. 60).
 
-\[A\] meningkatkan prosedur pidana
+### 2. Pelaksanaan undang‑undang 9 Disember 1905 mengenai pemisahan gereja dan Negara:
 
--   (s. 216);
--   Sulit untuk belajar, mengikuti prinsip-prinsip tidak bersalah, kemampuan untuk mengangkut beban dana yang paling ditransfer, jika mereka berhubungan dengan seks.
+- mengingatkan, melalui pekeliling kepada para prefect dan semua perkhidmatan yang berkaitan, prinsip‑prinsip pemisahan antara gereja dan Negara, dan kriteria persatuan keagamaan yang ditakrifkan oleh Majlis Negara, serta aplikasi yang telah dibuatnya dalam kes Saksi‑Saksi Yehuwa (h. 71);
+- menarik perhatian pihak berkuasa awam kepada keperluan untuk kini menetapkan beberapa kaedah umum bagi penggabungan ke dalam rejim perlindungan sosial bagi golongan agama (h. 75).
 
-Diterjemahkan oleh :
+### 3. Penyesuaian kepada perundangan berkaitan pembiayaan kehidupan politik:
 
--   Dia mendefinisikan, dengan menggunakan komite interuser di bawah kepemimpinan Perdana Menteri dan bantuan teknis dari interlokasi aktivitas seksual, perbatasan umum tindakan negara di sirkus setiap kementerian (s. 249);
--   Diagnona Prediksi perwakilan lembaga keuangan pada misi interverse dengan seks (sek. 182);
--   Ketahui kemampuan untuk menciptakan sebuah Departemen Rahasia, terikat misi antar alam untuk melawan seks yang harus dilakukan (s. 249):
-    -   Buat pusat kesadaran publik, perusahaan dan lembaga keuangan di setiap prefek;
-    -   Salah satu nasihat dan nasihat bagi para korban, mantan pembantu dan keluarga mereka;
-    -   Kesusilaan menyediakan informasi administratif yang sesuai diperlukan untuk kegiatan mereka;
-    -   Selanjutnya, semua informasi dari administrasi tentang aktivitas seks di departemen;
--   Ia mempertimbangkan kemampuan untuk menciptakan dalam setiap departemen banding untuk memposting jalan raya yang dipersiapkan khusus untuk masalah kultus. Fungsi ini akan menjadi penambahan fungsi yang berguna yang dilakukan oleh pengurut urutan arus pada patch (sec. 250 dan 251);
--   Mulai konsultasi di dalam Uni Eropa dalam rangka untuk mendaftarkan kontes khusus untuk melawan seks (sek. 251);
--   Mulai aksi diplomatik di Dewan Eropa untuk bahaya gender, kehadiran gender di organisasi non-pemerintah, mengkonfirmasikan niat kemanusiaan, dan risiko yang diciptakan oleh aturan 1986.
+- mensyaratkan manfaat bahagian pertama bantuan bajet tahunan kepada pencapaian satu ambang undi pada pilihan raya perundangan yang terakhir (h. 84);
+- mengehadkan akses kepada kempen radio‑televisyen kepada formasi politik yang telah menamakan seorang wakil nasional yang ditaja oleh suatu bilangan minimum wakil rakyat tempatan (h. 84).
 
-### Posisi posisi:
+### 4. Pengaturan sektor hal ehwal sosial dan kesihatan:
 
-Pergi ke pemerintah meminta misi interliving untuk melawan seks, mempersiapkan langkah-langkah untuk melakukan posisi di atas.
+- mengedarkan kepada semua perkhidmatan awam dan para profesional kesihatan satu panduan praktikal yang mengenal pasti titik‑titik kelemahan terhadap kultus dalam dunia perubatan‑sosial (h. 128);
+- memusatkan maklumat mengenai sekatan yang diambil oleh institusi‑institusi berperaturan profesion kesihatan dan mengenai prosiding kehakiman yang sedang berjalan (h. 128);
+- meminta supaya, oleh Majlis Perubatan, dilantik seorang wakil di sisi Misi Antarkementerian Memerangi Kultus (h. 128);
+- mengkaji satu kemungkinan prosedur akreditasi penamaan profesion paramedik dan pembantu perubatan, oleh sebuah suruhanjaya pakar yang membenarkan penggunaan gelaran terapi dan boleh mencadangkan larangan mengamalkan bagi yang tidak diakreditasi (h. 128);
+- mengukuhkan, dalam pengajian perubatan dan paramedik, pengajaran tentang:
+  - kaedah pengiringan psikologi pesakit (h. 129);
+  - kedudukan, peranan dan batasan profesion perubatan dan paramedik dalam masyarakat (h. 129);
+- membangunkan, seawal pendidikan rendah atau menengah, kursus pendidikan untuk kesihatan, kebersihan hidup dan pemahaman tentang skema tubuh (h. 129);
+- mewujudkan satu prosedur akreditasi atau pelabelan bagi persatuan yang terlibat dalam pengiringan dan bantuan kepada orang yang dimasukkan ke hospital (h. 129);
+- menyediakan bentuk susulan terapeutik yang boleh dicadangkan kepada bekas pengikut dan memasukkannya dalam latihan berterusan para doktor (h. 129);
+- memperhebat, khususnya dalam rangka pendidikan kebangsaan, kempen kesedaran mengenai vaksin (h. 129).
+
+### 5. Peraturan latihan profesional:
+
+- mengamanahkan akreditasi dan kawalan badan latihan profesional kepada sebuah pertubuhan awam pentadbiran yang kepadanya sebahagian daripada sumbangan majikan akan diperuntukkan untuk membiayai operasinya (h. 158 dan 159);
+- menamatkan automatisme pengecualian VAT dengan mengehadkannya kepada badan yang benar‑benar diakreditasi (h. 159);
+- memberikan secara jelas kepada pentadbiran kuasa untuk menarik balik pendaftaran sesuatu badan apabila ternyata bahawa ia tidak termasuk dalam rangka latihan profesional atau bahawa ia terlibat dalam helah penipuan (h. 159);
+- melancarkan satu kempen kesedaran yang ditujukan kepada perusahaan, dianjurkan oleh Negara dan pertubuhan profesional (h. 160);
+- merangka satu program pelabelan bagi badan latihan (h. 161).
+
+### 6. Langkah‑langkah untuk memperbaiki memerangi penipuan:
+
+a) penyesuaian prosedur jenayah
+
+- memulakan perbincangan mengenai kewajaran mewujudkan satu kesalahan manipulasi mental (h. 216);
+- mengkaji, dengan menghormati secara ketat prinsip anggapan tidak bersalah, kemungkinan pembalikan beban pembuktian bagi pemindahan dana yang paling penting apabila ia berkaitan dengan kultus (h. 218).
+
+b) pemobilisasian pentadbiran
+
+- mentakrifkan, oleh sebuah jawatankuasa antarkementerian di bawah kuasa Perdana Menteri dan dengan bantuan teknikal Misi Antarkementerian Memerangi Kultus, kerangka umum tindakan Negara yang diperincikan oleh pekeliling setiap kementerian (h. 249);
+- merancang kehadiran wakil institusi kewangan di Misi Antarkementerian Memerangi Kultus (h. 182);
+- mengkaji kemungkinan mewujudkan struktur peringkat jabatan yang dipertanggungjawabkan kepada Misi Antarkementerian Memerangi Kultus yang bertugas (h. 249):
+  - untuk mewujudkan pusat maklumat kepada orang ramai, perusahaan dan institusi kewangan di setiap prefektur;
+  - untuk mengarahkan dan menasihati mangsa bekas pengikut dan keluarga mereka;
+  - untuk menyediakan kepada pentadbiran yang berkaitan maklumat yang diperlukan bagi tindakan mereka;
+  - untuk mengumpulkan, sebagai balasan, semua maklumat daripada pentadbiran mengenai aktiviti sektarian dalam jabatan berkenaan;
+- mempertimbangkan kemungkinan mewujudkan, dalam bidang kuasa setiap mahkamah rayuan, satu jawatan majistret yang dilatih khusus untuk menangani persoalan sektarian. Fungsi ini akan menjadi pelengkap yang berguna kepada fungsi yang kini dijalankan oleh koresponden kultus di sisi Pendakwa Raya (h. 250 dan 251);
+- memulakan perbincangan dalam Kesatuan Eropah bagi menghasilkan satu konvensyen khusus mengenai memerangi kultus (h. 251);
+- memulakan tindakan diplomatik di peringkat Majlis Eropah mengenai bahaya sektarianisme, kehadiran kultus dalam pertubuhan bukan kerajaan yang mempamerkan tujuan kemanusiaan dan risiko yang dicipta oleh konvensyen 1986 (h. 92).
+
+### 7. Susulan cadangan:
+
+meminta Kerajaan untuk menugaskan Misi Antarkementerian Memerangi Kultus menyediakan langkah‑langkah pelaksanaan bagi cadangan di atas.

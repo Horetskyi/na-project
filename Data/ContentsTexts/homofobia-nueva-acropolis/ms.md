@@ -1,31 +1,31 @@
-# Homofobia Homofobia di Akropolis Baru
+# Homofobia di Akropolis Baharu
 
-> Memiliki Hakado, jika itu adalah seorang pria, kehadiran jantan, dan jika itu seorang wanita, kehadiran wanita. Sebaliknya adalah melawan alam dan kita berhubungan dengan subdunia homoseksual dan lesbian.
-> 
-> \- Tidak. *Akropolis sopan santun manual*
+> Hendaklah para Hachado, jika lelaki, mempunyai penampilan kejantanan, dan jika perempuan, mempunyai penampilan kewanitaan. Yang sebaliknya bertentangan dengan Alam dan menghubungkan kita dengan dunia bawah para homoseksual dan lesbian.
+>
+> — *Manual de cortesía acropolitana*
 
-> Beberapa tahun yang lalu saya menerbitkan, dari halaman - halaman ini, gagasan saya tentang perlunya melindungi Akropolis Baru dari ancaman yang semakin berbahaya: homoseksualitas dan kecanduan narkoba.
-> 
-> Homoseksualitas dan kecanduan obat-obatan bukanlah penyakit atau kebutuhan, melainkan sifat buruk fana yang wajib dilawan oleh setiap orang yang alami dan layak.
-> 
-> \- Tidak. *Untuk para hadirin seluruh dunia. Jorge Ángel Livraga*
+> Beberapa tahun yang lalu saya menerbitkan, dari halaman yang sama ini, idea saya tentang keperluan untuk melindungi Akropolis Baharu daripada satu ancaman yang semakin hari semakin berbahaya: homoseksualiti dan penagihan dadah.
+>
+> Homoseksualiti dan penagihan dadah bukanlah suatu penyakit dan bukan juga suatu keperluan, tetapi satu sifat buruk yang membawa maut yang wajib diperangi oleh setiap orang yang semula jadi dan berbudi pekerti.
+>
+> — *Almena nº 53: A las damas y caballeros Hachados de todo el mundo. Jorge Ángel Livraga*
 
-> Perilakunya menjadi multivalen; semuanya baik dan memiliki pembenaran. Orang-orang invert dan lesbian mengumumkan kondisi mereka dengan panji-panji besar di jalan-jalan Ibu Kota utama Planet, dan penjahat yang terkunci di penjara disebut "marginalized."
-> 
-> \- Tidak. *Kanker pink. Jorge Ángel Livraga*
+> Tingkah laku menjadi pelbagai arah; segala-galanya dianggap baik dan mempunyai justifikasinya. Golongan songsang dan lesbian mengisytiharkan keadaan mereka dengan sepanduk besar di jalan-jalan ibu kota utama Planet ini, dan para penjenayah yang dipenjarakan dipanggil sebagai “golongan terpinggir”.
+>
+> — *Bastión nº 106-1: El cáncer rosa. Jorge Ángel Livraga*
 
-> Di beberapa negara, dunia lama" reaksioner telah melepaskan topeng mereka dari obligasi liberal dan mendenda poster kami sambil "membiarkan pergi" dari lesbian dan teroris.
-> 
-> \- Tidak. *Pilihannya. Jorge Ángel Livraga*
+> Di sesetengah Negara, golongan reaksioner daripada “dunia lama” telah menanggalkan topeng keliberalan baik hati mereka dan mengenakan denda ke atas poster kami sementara mereka “membiarkan berlalu” poster lesbian dan pengganas.
+>
+> — *Bastión nº 23-1: La opción. Jorge Ángel Livraga*
 
-> Kebohongan, kebohongan, kebiasaan amoral (ketagihan narkoba, alkoholisme, homoseksualitas, pelacuran, perjudian, dan banyak lagi yang sering menunjuk) tidak sesuai dengan kedudukan kita. Kita harus sesuai dengan tujuan dan prinsip kita.
-> 
-> \- Tidak. *Perintah No. 95: Koherensi. Alfred Steinberg*
+> Kecurian, pembohongan, kebiasaan tidak bermoral (penagihan dadah, alkoholisme, homoseksualiti, pelacuran, ketagihan judi, dan banyak lagi yang telah berkali-kali disebut) tidak mempunyai tempat dalam barisan kami. Cara-cara yang kita gunakan mestilah selaras dengan matlamat dan prinsip kita.
+>
+> — *Mando nº 95: Coherencia. Delia Steinberg*
 
-> Di mana wanita rapuh menemukan celana jeans dan sepatu bot... bahkan untuk memberikan konser piano. Dan di mana laki-laki seperti afeites, urut sutra, "unisex" kemeja dan mereka masuk ke dalamnya ketika mereka menari seperti Hawaiian danzarin, sementara mereka takut memiliki pistol di tangan mereka dan mereka bahkan tidak tahu bagaimana menangani palu. Semua ini telah menyebabkan kekacauan di mana kita harus hidup, dengan sekuelnya obat, beodus, homoseksual dan pengecut egois.
-> 
-> \- Tidak. *Tuan dan nyonya, apa kita sama? Jorge Ángel Livraga*
+> (...) di mana wanita-wanita kecil yang rapuh menyarungkan seluar jeans kasar dan but menunggang... malah untuk membuat persembahan konsert piano. Dan di mana para lelaki gemar akan alat solek, urutan lembut bak sutera, kemeja “uniseks” dan meliuk-lentik ketika menari seolah-olah mereka penari Hawaii, sementara mereka takut memegang senjata di tangan dan tidak tahu pun cara menggunakan tukul. Semua ini telah menimbulkan kekacauan yang terpaksa kita diami, dengan kesan-kesannya berupa penagih dadah, pemabuk, homoseksual dan keegoisan pengecut.
+>
+> — *Bastión nº 154-2: Damas y Caballeros, ¿Somos iguales? Jorge Ángel Livraga*
 
-> Dalam Gerakan kami kami kami tidak meminta Anda untuk menjadi seorang moralis, tetapi mencoba untuk menjadi sebagai moral mungkin. Jangan berikan contoh buruk dan jangan fokuskan jiwamu pada korupsi. Menjauh dari narkoba, homoseksual, pencuri, kekerasan, pengecut, pelacur, politisi, fanatik.
-> 
-> \- Tidak. *Ini untuk akropolitan baru. Jorge Ángel Livraga*
+> Dalam Gerakan kita, kami tidak meminta engkau menjadi seorang moralis; tetapi cubalah menjadi sebermoral yang mungkin. Jangan memberikan contoh yang buruk kepada sesiapa dan jangan mengheret Jiwa engkau ke dalam lumpur kerosakan. Jauhkan diri daripada dadah, daripada homoseksual, daripada pencuri, daripada orang ganas, daripada pengecut, daripada pemalas, daripada ahli politik picisan, daripada fanatik.
+>
+> — *Bastión nº 30-1: Consejos para los nuevos acropolitanos. Jorge Ángel Livraga*

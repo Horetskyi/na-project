@@ -1,31 +1,31 @@
 # Omofobia in Nuova Acropoli
 
-> Prendi l'Hachado, se è un gentiluomo, una presenza virile, e se è una signora, una presenza femminile. L'opposto è contro la natura e siamo legati al sottomondo di omosessuali e lesbiche.
-> 
-> \- No. *Acropolis manuale di cortesia*
+> Porti l'Hachado, se è un cavaliere, una presenza virile, e se è una dama, una presenza femminile. L'opposto è contro la Natura e ci accomuna al sottobosco degli omosessuali e delle lesbiche.
+>
+> — *Manuale di cortesia acropolista*
 
-> Un paio di anni fa ho pubblicato, da queste pagine, le mie idee sulla necessità di proteggere New Acropolis da una minaccia che stava diventando sempre più pericolosa: l'omosessualità e la tossicodipendenza.
-> 
-> L'omosessualità e la tossicodipendenza non è una malattia o una necessità, ma un vizio mortale che ogni persona naturale e decente è obbligata a combattere.
-> 
-> \- No. *Almena n. 53: Alle signore e ai signori del mondo intero. Jorge Ángel Livraga*
+> Un paio di anni fa ho pubblicato, da queste stesse pagine, le mie idee sulla necessità di proteggere Nuova Acropoli da una minaccia che si stava facendo sempre più pericolosa: l'omosessualità e la tossicodipendenza.
+>
+> L'omosessualità e la tossicodipendenza non sono una malattia né una necessità, ma un vizio mortale che ogni persona naturale e decorosa è obbligata a combattere.
+>
+> — *Almena nº 53: Alle dame e ai cavalieri Hachados di tutto il mondo. Jorge Ángel Livraga*
 
-> Il comportamento diventa multivalente; tutto è buono e ha la sua giustificazione. Gli inverts e lesbiche proclamano la loro condizione con grandi striscioni sulle strade delle principali capitali del pianeta, e i criminali rinchiusi nelle prigioni sono chiamati "marginalizzati".
-> 
-> \- No. *Bastione n. 106-1: Cancro rosa. Jorge Ángel Livraga*
+> Il comportamento diventa polivalente; tutto è buono e ha la sua giustificazione. Gli invertiti e le lesbiche proclamano la loro condizione con grandi pancarte per le strade delle principali Capitali del Pianeta, e i criminali rinchiusi nelle carceri vengono chiamati «marginalizzati».
+>
+> — *Bastión nº 106-1: Il cancro rosa. Jorge Ángel Livraga*
 
-> In alcuni paesi, i reazionari del "vecchio mondo" hanno gettato le loro maschere di legami liberali e multato i nostri manifesti mentre "lasciare andare" di lesbiche e terroristi.
-> 
-> \- No. *Bastione n. 23-1: L'opzione. Jorge Ángel Livraga*
+> In alcuni Paesi, i reazionari del «mondo vecchio» hanno scartato le loro maschere di bonanze liberali e multano i nostri manifesti mentre «fanno passare» quelli delle lesbiche e dei terroristi.
+>
+> — *Bastión nº 23-1: L'opzione. Jorge Ángel Livraga*
 
-> Furto, menzogna, costumi immorali (droga dipendenza, alcolismo, omosessualità, prostituzione, gioco d'azzardo, e molti altri spesso sottolineato) non si adattano ai nostri ranghi. I nostri mezzi devono essere conformi ai nostri scopi e principi.
-> 
-> \- No. *Comando n. 95: Coerenza. Delia Steinberg*
+> Il furto, la menzogna, costumi immorali (tossicodipendenza, alcolismo, omosessualità, prostituzione, passione per il gioco, e tante altre spesso segnalate) non hanno posto nelle nostre file. I nostri mezzi devono essere conformi ai nostri fini e principi.
+>
+> — *Mando nº 95: Coerenza. Delia Steinberg*
 
-> (...) dove le signore fragili trovano jeans rustici e stivali da cavallo... anche per dare un concerto al pianoforte. E dove gli uomini amano gli afeiti, i massaggi setosi, le camicie "unisex" e entrano in esso quando ballano come le danzarine hawaiane, mentre temono di avere una pistola nelle loro mani e non sanno nemmeno come gestire un martello. Tutto questo ha causato il caos in cui dobbiamo vivere, con le sue sequele di droghe, beoduse, omosessuali e egoismi codardi.
-> 
-> \- No. *154-2: Signore e signori, siamo uguali? Jorge Ángel Livraga*
+> (...) dove fragili signorine indossano rustici pantaloni vaqueros e stivali da equitazione... persino per tenere un concerto al pianoforte. E dove gli uomini apprezzano i cosmetici, i massaggi setosi, le camicie «unisex» e si dondolano ballando come se fossero danzatrici hawaiane, mentre temono di avere un'arma in mano e non sanno nemmeno usare un martello. Tutto ciò ha provocato il caos in cui dobbiamo vivere, con le sue conseguenze di drogati, ubriachi, omosessuali ed egoismi codardi.
+>
+> — *Bastión nº 154-2: Signore e signori, siamo uguali? Jorge Ángel Livraga*
 
-> Nel nostro Movimento non vi chiediamo di essere moralisti; ma cerchiamo di essere il più morale possibile. Non dare a nessuno un cattivo esempio e non concentrare la tua Anima sul fango della corruzione. Allontanati da droghe, omosessuali, ladri, violenti, codardi, aragani, politici, fanatici.
-> 
-> \- No. *Bastione n. 30-1: Consigli per i nuovi acropolitani. Jorge Ángel Livraga*
+> Nel nostro Movimento non ti chiediamo di essere un moralista; ma cerca di essere il più morale possibile. Non dare un cattivo esempio a nessuno e non insudiciare la tua Anima nei fanghi della corruzione. Allontanati dalle droghe, dagli omosessuali, dai ladri, dai violenti, dai codardi, dagli oziosi, dai politicanti, dai fanatici.
+>
+> — *Bastión nº 30-1: Consigli per i nuovi acropolisti. Jorge Ángel Livraga*

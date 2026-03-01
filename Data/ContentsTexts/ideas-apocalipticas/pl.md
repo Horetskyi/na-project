@@ -1,17 +1,17 @@
-# Apokaliptyczne pomysły
+# Apokaliptyczne idee
 
-> Pomijając apokaliptyczne mity odnoszące się do roku 2000 - chronologia, która dotyczy tylko chrześcijan, mniejszości na świecie - faktem jest, że w połowie pierwszego wieku ery akwarium perspektywy są zaciemnione. Astrologiczne pozycje i pojawienie się niezwykłych plam słonecznych są źródłem poważnych nieporozumień w ludzkości, zwłaszcza na poziomie psychicznym. Na mroźnych wodach Aquarius zagłusza się gwałtowny sztorm, gdzie wiele elementów i czynników gospodarczych, politycznych i religijnych było jak dotąd stosunkowo solidnych.
+> Pomijając apokaliptyczne mity odnoszące się do roku 2000 – chronologia, która dotyczy tylko chrześcijan, mniejszości na świecie – prawdą jest, że w połowie pierwszego stulecia Ery Wodnika perspektywy się zaciemniają. Pozycje astrologiczne i pojawienie się niespotykanych plam słonecznych zwiastują poważne zaburzenia w Ludzkości, zwłaszcza na poziomie psychicznym. Nad lodowatymi wodami Wodnika wisi zaś gwałtowna burza, na której zatonie wiele elementów i czynników gospodarczych, politycznych i religijnych dotąd uważanych za względnie stałe.
 > 
-> Mała rozmowa o szaleństwie nęka ludzkość i musimy być przygotowani na największe zaburzenia.
+> Powiew szaleństwa nęka Ludzkość i musimy być przygotowani, by stawić czoła największym zamieszkom.
 > 
-> Na poziomie indywidualnym, również etery, które pokrywają i chronią nasze niższe ciała, będą poddawane twardym testom, dlatego zalecam, aby kierowali Państwo absolutnie przeciwnowotworowe prądy opinii oraz, wśród Akropolitan, spadek spożycia tytoniu i alkoholu oraz wzrost higieny pod każdym względem.
+> Na poziomie indywidualnym także etery, które okrywają i chronią nasze niższe ciała, będą poddane ciężkim próbom, dlatego zalecam propagowanie prądów opinii absolutnie sprzecznych z narkotykami oraz, wśród akropolitów, zmniejszenie spożycia tytoniu i alkoholu i zwiększenie higieny we wszystkich aspektach.
 > 
-> Ceremonie muszą być utrzymane, ale na przemian lub związane z pracami i wysiłkami, które "utwardzają" nas i czynią nas odpornymi na przeciwności losu i ataki.
+> Ceremonie należy utrzymać, ale przeplatać je lub łączyć z pracami i wysiłkami, które nas «utwardzą» i uczynią odpornymi na przeciwności losu i ataki.
 > 
-> Należy również wzmocnić część gospodarczą i wszystkie możliwe elementy przetrwania: zbliżamy się do barbarzyńskiego czasu, w którym słabi znikną z teatru historii. Musimy być silni i edukować naszych ludzi w sile i czystości, gdyż młodsi ludzie będą potrzebować tych źródeł władzy, aby ta nowa próba ustanowienia modułu szóstego podwyścigu piątej rasy nie zawiodła bez pozostawienia przynajmniej głębokich śladów, które mogą podążać za przyszłymi podróżnymi.
+> Należy także wzmocnić stronę ekonomiczną oraz wszystkie możliwe elementy przetrwania: zbliżamy się do barbarzyńskiej epoki, w której słabi znikną z teatru Historii. Musimy być silni i wychować naszych ludzi w sile i czystości, gdyż młodsi będą potrzebować tych źródeł mocy, aby ta nowa próba ustanowienia modułu szóstej podrasy piątej rasy nie zakończyła się niepowodzeniem bez pozostawienia przynajmniej głębokich śladów, które podróżnicy przyszłości będą mogli śledzić.
 > 
-> Widzicie, że w obu aspektach musimy odnowić naszą integralność i wewnętrzną moc, aby przezwyciężyć bardzo prawdopodobne trudności, które pokonaliście jako mitologiczny smok, pozwolą nam na dostęp do Wieku Wielkiego Światła.
+> Widzicie, że w obu aspektach musimy odnowić nasz Entuzjazm i Moc Wewnętrzną, by przezwyciężyć bardzo prawdopodobne trudności, które, pokonane jak mityczny smok, umożliwią nam dostęp do Ery Większego Światła.
 > 
-> Nie mamy czasu, by rozważać małe problemy osobowości, zmuszając nas do udziału w tym. Musimy mówić jasno i wyraźnie. Muszę być albo nie.
+> Nie mamy czasu, by rozważać drobne problemy osobowości, czyniąc się ich wspólnikami. Trzeba mówić jasno i głośno. TRZEBA BYĆ LUB NIE BYĆ.
 > 
-> \- *Dowództwo nr 52: Uwaga na zmiany i wydarzenia. Jorge Ángel Livraga*
+> — *Rozkaz nr 52: Uwaga na zmiany i wydarzenia. Jorge Ángel Livraga*

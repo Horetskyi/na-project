@@ -1,111 +1,113 @@
 (strona 51)
 
-Nowy Akropol był w stanie ponownie odkryć się pod kontrolą starożytnego stowarzyszenia, paryskiej Międzynarodowej Szkoły utworzonej w 1883 roku i zawieszonej po rozbiórce. Stowarzyszenie to miało pewien prestiż pod koniec XIX wieku z udziałem sławnych naukowców, ale podczas II wojny światowej miały miejsce ekstremalne zmiany. Odrestaurowany przez New Acropolis, jest to gałąź, która oferuje studentów zagranicznych stać.
+W ten sposób Nowy Akropol zdołał wskrzesić pod swoją kontrolą dawne stowarzyszenie – Szkołę Antropologii w Paryżu, utworzoną w 1883 r. i zawieszoną od czasu wyzwolenia. Jest to stowarzyszenie, które pod koniec XIX wieku cieszyło się pewnym prestiżem, przyciągając znanych naukowców, zanim podczas drugiej wojny światowej nie obrało skrajnie radykalnego kursu. Przejęta przez Nowy Akropol, stanowi obecnie „filiał” sekty, która za jej pośrednictwem oferuje staże studentom zagranicznym.
 
 ---
 
 (strona 65)
 
-Nowy Akropolis wymaga, aby jego zwolennicy z pewnej liczby godzin wolontariatu w jej szkole byli zatrudniani, służby i sekretarki.
+Nowy Akropol wymaga od swoich adeptów określonej liczby godzin pracy wolontariackiej w swojej „szkole”, poświęconej zadaniom recepcyjnym, porządkowym i sekretarskim.
 
 ---
 
-(152- 153 strony)
+(strony 152–153)
 
-Nowy Acropolis miał placówkę edukacyjną z powodu Hermware Consults, szefa pani Isabel Ludwig, szefa stowarzyszenia seksualnego. Zarejestrowana na firmę SRC IldeFrance, która jest obecnie wyłączona z rejestru handlowego, w tym poprzez nauczanie pracowników FNSEA.
+Nowy Akropol dysponował podmiotem szkoleniowym za pośrednictwem spółki Hermès consultants kierowanej przez panią Isabelle Ludwig, przewodniczącą stowarzyszenia‑matki sekty. Zarejestrowana w SRC Île‑de‑France, ta spółka – dziś wykreślona z rejestru handlowego – szkoliła w szczególności pracowników FNSEA.
 
 ---
 
 (strona 182)
 
-Wśród nich, Kyoua, który osiedlił się w zamku Bellow w Utah i w rezydencji Uscille w Indiach; tradycja majątku rodzinnego, który jest przez stowarzyszenie "Przyszłej Kultury" przez Armie Eryth- Loire; New Anropolis, właściciel Kur Petrol, były klasztor w tym samym departamencie;
+Można tu przytoczyć ruch Kryszna, osiadły w zamku Bellevue w departamencie Jura oraz w posiadłości Oublaisse w departamencie Indre; Tradition Famille Propriété, która dysponuje – za pośrednictwem stowarzyszenia Avenir de la culture – zamkiem Jaglu w departamencie Eure‑et‑Loir; Nowy Akropol, właściciela La Cour Pétral, dawnego klasztoru położonego w tym samym departamencie; …
 
 ---
 
-(1992- 200 stron)
+(strony 199–200)
 
-The New Acropoll France Association, Kridell; Ukrywanie kradzieży; Kradzież w kradzieży; Niepowodzenie przestępstwa w pewnych okolicznościach - TG Colmard, 27 / 03 / 98... - Jako Coloura, 18 / 12 / 98...
+NOUVELLE ACROPOLE — Association Nouvelle Acropole France — kradzież; paserstwo rzeczy skradzionych; współudział w kradzieży; groźby popełnienia przestępstwa uzależnione od spełnienia warunku — Sąd Wielkiej Instancji (TGI) w Colmar, 27.03.1998 … — Sąd Apelacyjny (CA) w Colmar, 18.12.1998 …
 
 ---
 
-(Strony 305- 306)
+(strony 305–306)
 
-Przepraszam. Przepraszam. • • Druga wojna światowa (pisanie) ... zebrane elementy szacunkowe: roczny dochód Stowarzyszenia Nowej Aropolu we Francji: od 4 do 4,6 mln franków według roku budżetowego.
+NAZWA SEKTY: NOWY AKROPOL  
+A. – ORGANIZACJA … 1°) SIEDZIBA MIĘDZYNARODOWA: Bruksela (Belgia) …  
+… ð 7 lokalnych ośrodków: Boissy‑lès‑Perche, Bordeaux, Paryż, Rennes, Rouen, Strasburg, Villeurbanne …  
+… zebrane elementy oceny: roczne przychody stowarzyszenia Nouvelle Acropole France: między 4 a 4,6 mln franków w zależności od roku obrachunkowego.
 
 ---
 
 (strona 252)
 
-## Ocena
+## Zakończenie
 
-Po tym procesie Komisja musi przyznać, że zjawisko płci jest prawdopodobnie wystarczająco długie w naszych społeczeństwach. Wyraża nieuchronne zaburzenie, a czasami jest to rodzaj gromady, która prowadzi do niezrozumiałego marginalizmu. Należy również chronić prawo do różnicy. Ale nie możesz pozwolić, by to prawe skrzydło było zagrożone przez jakąś zasadę, głównie przez słabych. Dlatego też walka z odchyleniami sektorowymi, zdaniem Komisji, pozostaje wymogiem wymagającym większych środków, nowych wysiłków na rzecz informowania społeczeństwa i świadomości na szczeblu międzynarodowym. Komisja jest głęboko świadoma, że tradycja sprzeczności między wolnością sumienia a porządkiem publicznym w sprawie działalności sekciarskiej jest absolutnie niewygodna. Nie chodzi o przeciwdziałanie tym dwóm zasadom, ale także o podświetlenie ich złożoności. Ratowanie wolności sumienia nie może opierać się na ignorowaniu podstawowej wolności indywidualnej: wolności przemieszczania się, posiadania mienia i używania, dbaniu o własne ciało i zdrowie, ochronie przed nadużywaniem władzy, ochronie zawieszenia ich interesów moralnych i materialnych... Praca nad tą wolnością po stronie ludności sekciarskiej jest ściślej prześladowana i karana, Komisja stara się zagwarantować wolność sumienia i wypowiedzi, która leży w zakresie praw człowieka.
+Po zakończeniu swoich prac Komisja musi stwierdzić, że zjawisko sekt prawdopodobnie na długo zadomowiło się w naszych społeczeństwach. Wyraża ono nieuniknione dysfunkcje i stanowi czasem zawór bezpieczeństwa, przez który nieusuwalny margines znajduje ujście. Należy również chronić prawo do odmienności. Nie można jednak dopuścić, by wykonywanie tego prawa mogło zagrażać pewnym zasadom, a przede wszystkim prawu do ochrony osób najsłabszych. Dlatego walka z sektami i ich wykolejeniami pozostaje, w oczach Komisji, wymogiem, który domaga się lepiej dostosowanych środków, nowego wysiłku na rzecz uwrażliwienia społeczeństwa oraz podniesienia świadomości na poziomie międzynarodowym. Komisja jest przekonana, że tradycyjnie przywoływana sprzeczność między wolnością sumienia a porządkiem publicznym w kwestii działań sekt jest całkowicie nieadekwatna. Nie chodzi o przeciwstawianie sobie tych dwóch zasad, lecz przeciwnie – o ukazanie ich komplementarności. Ochrona wolności sumienia nie może bowiem opierać się na lekceważeniu podstawowych wolności jednostki: swobody poruszania się, posiadania i korzystania z majątku, dbania o własne ciało i zdrowie, bycia chronionym przed nadużyciami władzy, możliwości obrony przed naruszeniami interesów moralnych i materialnych… Dążąc do tego, by ataki na te wolności, dokonywane przez sekty i ich wykolejenia, były skuteczniej ścigane i karane, Komisja zamierza zagwarantować w ten sposób wolności sumienia i wypowiedzi, które leżą w samym sercu poszanowania praw człowieka.
 
 ---
 
 (strona 254)
 
-## ZAKOŃCZENIE PAMIĘCI
+## SYNTEZA PROPONOWANYCH PRZEZ KOMISJĘ ŚRODKÓW  
+(numery odnoszą się do stron raportu)
 
-(stawki licencyjne)
+### 1. Zmiany w statusie stowarzyszeń:
 
-### 1\. Zmiany stowarzyszenia:
+- wzmocnić demokrację wewnątrz stowarzyszeń: poprzez wprowadzenie obowiązku – powyżej określonego budżetu, który mógłby zostać ustalony na 500 000 franków – zwoływania co najmniej jednego walnego zgromadzenia rocznie oraz sporządzania sprawozdania merytorycznego i finansowego dla członków (s. 51 i 52);
+- objąć struktury stowarzyszeniowe mające określoną wagę ekonomiczną – na przykład te, których roczny budżet przekracza 500 000 franków – minimalnymi obowiązkami sprawozdawczymi (rachunek wyników i bilans) (s. 51 i 52);
+- wykorzystać odroczenie stosowania instrukcji z 15 września 1998 r. dotyczącej opodatkowania stowarzyszeń, aby uwzględnić ryzyko wykorzystania nowych zasad w sposób sprzyjający rozwojowi zjawiska sekt (s. 60).
 
--   wzmacnianie demokracji wewnątrz stowarzyszeń: poprzez dodanie obowiązku, nadpłacającego określony budżet, który może zostać ustalony na 500,000 franków, co najmniej roczne łączne zgromadzenie oraz sporządzenie sprawozdania z działalności i sprawozdań finansowych członków (51 i 52);
--   wprowadzić na struktury stowarzyszeniowe, które mają pewien wpływ gospodarczy, na przykład te, których roczny budżet przekracza 500 000 franków, minimalną odpowiedzialność sprawozdawczą (sprawozdanie finansowe i saldo);
--   Skorzystaj z krótkiego stosowania instrukcji z 15 września 1998 r. do stowarzyszeń podatkowych w celu uwzględnienia ryzyka związanego z zastosowaniem nowych zasad w kierunku właściwym dla rozwoju zjawisk sektorowych (s. 60).
+### 2. Stosowanie ustawy z 9 grudnia 1905 r. o rozdziale Kościoła od państwa:
 
-### 2\. Stosowanie prawa od dnia 9 grudnia 1905 r. w celu oddzielenia kościoła od stanu:
+- przypomnieć, w drodze okólnika skierowanego do prefektów i wszystkich zainteresowanych służb, zasady rozdziału Kościoła od państwa oraz kryteria stowarzyszenia wyznaniowego określone przez Radę Stanu, jak również sposób ich zastosowania w sprawie Świadków Jehowy (s. 71);
+- zwrócić uwagę władz publicznych na konieczność określenia odtąd kilku ogólnych zasad dotyczących włączania do systemu zabezpieczenia społecznego wyznań (s. 75).
 
--   Zaznacz na adres prefekta i wszystkie odpowiednie usługi dotyczące oddzielenia kościoła od państwa, kryteria stowarzyszenia religijnego określone przez Radę Państwa, jak również stosowane w przypadku Jehowy (71)
--   Narządy państwowe skupiają się na ustanowieniu ogólnej polityki przyłączenia się do systemu ochrony socjalnej organizacji religijnych (s. 75).
+### 3. Zmiany w ustawodawstwie dotyczącym finansowania życia politycznego:
 
-### 3\. Zmiana prawa finansowania życia politycznego:
+- uzależnić uzyskanie pierwszej części corocznej pomocy budżetowej od osiągnięcia progu głosów w ostatnich wyborach parlamentarnych (s. 84);
+- zastrzec dostęp do kampanii radiowo‑telewizyjnej dla ugrupowań politycznych, które wyznaczyły kandydata ogólnokrajowego popartego przez minimalną liczbę lokalnych wybieralnych przedstawicieli (s. 84).
 
--   przyznanie pierwszej części rocznej opieki budżetowej w przypadku otrzymania pewnego progu głosów podczas ostatnich wyborów parlamentarnych (C.84);
--   zapewnienie dostępu do kampanii radiowych i telewizyjnych unii politycznej, która wyznaczyła przedstawiciela krajowego, wspieranego przez minimalną liczbę lokalnych zastępców.
+### 4. Organizacja sektora spraw społecznych i zdrowia:
 
-### 4\. Organizacja ds. Społecznych i Zdrowia:
+- rozpowszechnić wśród wszystkich służb publicznych i profesjonalistów ochrony zdrowia praktyczny przewodnik identyfikujący punkty podatności na sekty w obszarze medyczno‑społecznym (s. 128);
+- scentralizować informacje o sankcjach nakładanych przez samorządy zawodowe pracowników służby zdrowia oraz o toczących się postępowaniach sądowych (s. 128);
+- wyznaczyć – przez Naczelną Izbę Lekarską – przedstawiciela przy Międzyresortowej Misji ds. Walki z Sektami (s. 128);
+- zbadać ewentualne wprowadzenie procedury zatwierdzania nazw zawodów paramedycznych i pomocniczych zawodów medycznych przez komisję ekspertów, która zezwalałaby na używanie określonych nazw terapii i mogłaby proponować zakaz wykonywania tych, które nie zostały zatwierdzone (s. 128);
+- wzmocnić, w programach studiów medycznych i paramedycznych, kształcenie w zakresie:
+  - metod psychologicznego towarzyszenia chorym (s. 129);
+  - miejsca, roli i granic zawodów medycznych i paramedycznych w społeczeństwie (s. 129);
+- rozwijać – już w ramach kształcenia na poziomie podstawowym i średnim – zajęcia z edukacji zdrowotnej, higieny życia i rozumienia schematu ciała (s. 129);
+- wprowadzić procedurę zatwierdzania lub nadawania znaku jakości stowarzyszeniom działającym w dziedzinie towarzyszenia i pomocy osobom hospitalizowanym (s. 129);
+- przewidzieć formy monitorowania terapeutycznego proponowanego byłym adeptom i włączyć je do systemu kształcenia ustawicznego lekarzy (s. 129);
+- nasilić – zwłaszcza w ramach systemu oświaty – kampanie informacyjne dotyczące szczepień (s. 129).
 
--   rozpowszechniać za pośrednictwem wszystkich służb publicznych i pracowników medycznych praktyczny podręcznik określający wrażliwe miejsca dla płci w sektorze zdrowia.
--   centralizacja informacji o sankcjach, stosowanych przez pracowników służby zdrowia oraz procesów sądowych (s. 128);
--   przydzielić przedstawiciela kolegów lekarzy do interquestu w sprawie walki seksualnej (s. 128);
--   zapoznanie się z możliwością wprowadzenia procedur dotyczących pracy parametrycznej i asystentów w zakresie opieki zdrowotnej dla komitetu ekspertów, które umożliwiłyby stosowanie metod terapeutycznych i oferowały zakaz stosowania niezatwierdzonych (s. 128);
--   Wzmocnienie medycznych i paramilitarnych instytucji szkoleniowych o następujących dyscyplinach:
-    -   Metody psychologicznego sądu chorych. 129;
-    -   lokalizacja, rola i ograniczenie zatrudnienia społeczeństwa (s. 129);
--   projektowanie począwszy od szkoły podstawowej lub średniej, szkolenia zdrowotne, zdrowego stylu życia i rozumienia budowy ciała (s. 129);
--   inicjowanie procedury akwizycji lub certyfikacji stowarzyszeń prowadzonych przez eskortę oraz z osobami, których dotyczy wniosek (s. 129);
--   przewidzieć metody monitorowania terapeutycznego byłych zwolenników i włączyć je do programu ciągłego szkolenia dla lekarzy (s. 129);
--   rozszerzono, w tym edukację krajową, kampanię mającą na celu poprawę świadomości na temat szczepionek. 129.
+### 5. Regulacja w zakresie kształcenia zawodowego:
 
-### 5\. Trening:
+- powierzyć zatwierdzanie i kontrolę podmiotów prowadzących kształcenie zawodowe publicznej instytucji administracyjnej, której część składki pracodawców byłaby przeznaczona na finansowanie działalności (s. 158 i 159);
+- znieść automatyzm zwolnienia z VAT, ograniczając je do podmiotów należycie zatwierdzonych (s. 159);
+- wyraźnie przyznać administracji uprawnienie do cofnięcia wpisu podmiotu, gdy okaże się, że nie mieści się on w ramach kształcenia zawodowego lub dopuścił się działań o charakterze oszukańczym (s. 159);
+- przeprowadzić – z inicjatywy państwa i organizacji zawodowych – kampanię informacyjną skierowaną do przedsiębiorstw (s. 160);
+- opracować program nadawania znaku jakości (labellisation) podmiotom szkoleniowym (s. 161).
 
--   Do finansowania pracodawców zostanie przydzielona instrukcja i zarządzanie publiczną instytucją administracyjną (s. 158 i 159);
--   Anuluj automatyczne zwolnienie z podatku VAT, pozostawiając go tylko dla odpowiednich akredytowanych organizacji (s. 159);
--   nadanie administracji wyraźnego upoważnienia do pozbycia się rejestracji organizacji, jeżeli okaże się, że nie spełnia ona wymogów kształcenia zawodowego lub związanych z oszustwami (s. 159);
--   Rozpoczęcie kampanii informacyjnej skierowanej do przedsiębiorstw zorganizowanych przez państwa i organizacje zawodowe.
--   Projektowanie programu edukacyjnego (sekcja 161).
+### 6. Środki mające na celu usprawnienie walki z oszustwami:
 
-### 6\. Zapraszamy do poprawy walki z oszustwami:
+a) dostosowanie procedur karnych
 
-a) poprawa procedur karnych
+- przeprowadzić konsultacje w sprawie zasadności wprowadzenia przestępstwa manipulacji psychicznej (s. 216);
+- zbadać, z pełnym poszanowaniem zasady domniemania niewinności, możliwość odwrócenia ciężaru dowodu w odniesieniu do największych transferów środków finansowych, gdy są one powiązane z sektami (s. 218).
 
--   rozpoczęcie konsultacji w celu stworzenia "manipulacji umysłowej" (s. 216);
--   Trudno się nauczyć, stosować się do zasad niewinności, zdolności do transportu ciężaru funduszy, jeśli są one związane z płcią.
+b) mobilizacja administracji
 
-.: GrupaHatak.pl:.
+- określić – przez komitet międzyresortowy, pod przewodnictwem premiera i przy wsparciu technicznym Międzyresortowej Misji ds. Walki z Sektami – ogólne ramy działania państwa, doprecyzowane w okólniku każdego ministerstwa (s. 249);
+- przewidzieć udział instytucji finansowych w pracach Międzyresortowej Misji ds. Walki z Sektami (s. 182);
+- rozważyć utworzenie na szczeblu departamentów struktur powiązanych z Międzyresortową Misją ds. Walki z Sektami, którym powierzono by zadania (s. 249):
+  - utworzenia w każdej prefekturze punktu informacyjnego dla obywateli, przedsiębiorstw i instytucji finansowych;
+  - kierowania i doradzania ofiarom – byłym adeptom i ich rodzinom;
+  - przekazywania zainteresowanym administracjom informacji niezbędnych do prowadzenia działań;
+  - zbierania z kolei wszelkich informacji napływających z administracji na temat działalności sekt w danym departamencie;
+- zastanowić się nad możliwością utworzenia – przy każdej apelacji (okręgu sądu apelacyjnego) – stanowiska sędziego specjalnie przeszkolonego do rozpatrywania spraw związanych z sektami. Funkcja ta stanowiłaby użyteczne uzupełnienie roli pełnionej obecnie przez prokuratorskiego „korespondenta ds. sekt” (s. 250 i 251);
+- podjąć konsultacje w ramach Unii Europejskiej, zmierzające do zawarcia konwencji szczegółowo poświęconej walce z sektami (s. 251);
+- rozwinąć działania dyplomatyczne w Radzie Europy na temat zagrożeń wynikających z sekciarstwa, obecności sekt w organizacjach pozarządowych deklarujących cele humanitarne oraz ryzyk stwarzanych przez konwencję z 1986 r. (s. 92).
 
--   określając, korzystając z komitetu interuserów pod kierownictwem premiera i pomocy technicznej w zakresie współlokowania działalności seksualnej, ogólną granicę działania państwa w cyrku każdego ministerstwa (s. 249);
--   Przewidywanie reprezentacji instytucji finansowych na międzyresortowej misji z udziałem płci (s. 182);
--   Dowiedz się, jak stworzyć Departament Tajemnic, związane misje krzyżowe do walki z seksem, z którym (s. 249):
-    -   stworzenie centrum świadomości publicznej, przedsiębiorstw i instytucji finansowych w każdym prefekcie;
-    -   Prowadzenie konsultacji i porad dla ofiar, byłych ofiar i ich rodzin;
-    -   dostarczanie odpowiednich informacji administracyjnych niezbędnych dla ich działalności;
-    -   Zbuduj z kolei wszystkie informacje z administracji na temat aktywności seksualnej w departamencie;
--   Rozważmy możliwość tworzenia w obrębie każdego departamentu apelacji, aby umieścić autostrady specjalnie przygotowane do kwestii kultowych. Funkcja ta stałaby się przydatnym dodatkiem do funkcji wykonywanych przez obecny sekwencer na plastrze (sec. 250 i 251);
--   rozpoczęcie konsultacji w Unii Europejskiej w celu podjęcia specjalnego konkursu w celu zwalczania seksu (s. 251);
--   Rozpoczęcie działań dyplomatycznych w Radzie Europy na rzecz niebezpieczeństwa związanego z płcią, obecności płci w organizacjach pozarządowych, potwierdzenie zamiarów humanitarnych oraz zagrożeń powstałych przez rządy z 1986 r.
+### 7. Monitorowanie realizacji propozycji:
 
-### 7\. Kontrola pozycji:
-
-Idź do rządu prosząc o międzyżyciową misję do walki z płcią, przygotować środki do wykonywania powyższych pozycji.
+zwrócić się do rządu o powierzenie Międzyresortowej Misji ds. Walki z Sektami przygotowania środków wykonawczych do powyższych propozycji.

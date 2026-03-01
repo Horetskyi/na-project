@@ -1,111 +1,113 @@
 (Страница 51)
 
-Таким образом, Новый Акрополь смог вновь открыть себя под своим контролем древней ассоциации, Парижской международной школы, созданной в 1883 году и приостановленной после сноса. Эта ассоциация имела своего рода престиж в конце 19-го века с участием известных ученых, но во время Первой мировой войны произошли экстремальные изменения. Восстановленный Новым Акрополем, это теперь половая ветвь, которая предлагает иностранным студентам стать.
+Таким образом, Новый Акрополь сумел под своим контролем возродить старое объединение, École d’anthropologie de Paris, созданное в 1883 году и находившееся в спячке со времён Освобождения. Речь идёт об ассоциации, пользовавшейся определённым престижем в конце XIX века, привлекавшей известных учёных, прежде чем в период Второй мировой войны она подверглась экстремистскому уклону. Восстановленная Новым Акрополем, она в настоящее время является «дочерним» образованием секты, через которое предлагаются стажировки иностранным студентам.
 
 ---
 
 (Страница 65)
 
-Новый Акрополь требует, чтобы его последователи с определенного количества часов волонтерской работы в ее школе были наняты, обслуживали и работали секретарем.
+Новый Акрополь требует от своих адептов определённого количества часов добровольной работы в своей «школе», уделяемых задачам приёма, уборки и секретарской деятельности.
 
 ---
 
-(152-153 страницы)
+(Страницы 152–153)
 
-У нового Акрополя было учебное заведение из-за Гермвэр Консалтс, главы г-жи Изабель Людвиг, главы секс-ассоциации. Зарегистрирована в SRC IldeFrance эта компания, которая сейчас исключена из торгового реестра, в том числе, путем обучения сотрудников FNSEA.
+Новый Акрополь располагал учебной организацией через компанию Hermès consultants, возглавляемую госпожой Изабель Людвиг, председательницей материнской ассоциации секты. Зарегистрированная в SRC d’Ile-de-France, эта компания, ныне исключённая из торгового реестра, в частности обучала сотрудников FNSEA.
 
 ---
 
 (Страница 182)
 
-Среди них Кришна, который поселился в замке Беллоу в Юте и в особняке Ускилле в Инди; традиция семейной собственности, которая является ассоциацией «Культура будущего» Армий Эрит-Луары; Новый Анрополис, владелец Кура Петрола, бывшего монастыря в том же отделе;
+Упомянем Кришну, обосновавшегося в château de Bellevue в Жюре и в domaine d’Oublaisse в Индр; Tradition famille propriété, располагающую через ассоциацию Avenir de la culture château de Jaglu в Эр и Луар; Новый Акрополь, владельца Cour Pétral, бывшего монастыря, расположенного в том же департаменте; …
 
 ---
 
-(1992-200 страниц)
+(Страницы 199–200)
 
-The New Acropoll France Association, Kridell; Hiding stealing; stealing in theft; crime failure under certain circumstances - TG Colmard, 27/03/98... - As Coloura, 18/12/98...
+НОВЫЙ АКРОПОЛЬ — Association Nouvelle Acropole France — Vol ; Recel de vol ; Complicité de vol ; Menaces de délit faites sous condition — TGI de Colmar, 27/03/98 … — CA de Colmar, 18/12/98 …
 
 ---
 
-(Страницы 305-306)
+(Страницы 305–306)
 
-Прости. Прости. • Вторая мировая война (письмо) Собранные расчетные элементы: Годовой доход Ассоциации «Новый Арополь Франция»: от 4 до 4,6 млн франков по итогам финансового года.
+NOM DE LA SECTE : LA NOUVELLE ACROPOLE
+A.– ORGANISATION … 1°) SIEGE INTERNATIONAL : Bruxelles (Belgique) …
+… ð 7 implantations locales : Boissy-lès-Perche, Bordeaux, Paris, Rennes, Rouen, Strasbourg, Villeurbanne …
+… éléments d’évaluation recueillis : Recettes annuelles de l’association Nouvelle Acropole France : entre 4 et 4,6 MF selon l’exercice.
 
 ---
 
 (Страница 252)
 
-## оценивать
+## Вывод
 
-После этого Комиссия должна признать, что явление секса в наших обществах, вероятно, длится достаточно долго. Она выражает неизбежную дисфункцию, а иногда и своего рода кластер, что приводит к непонятному маргинализму. Право на разногласие также должно быть защищено. Но нельзя допустить, чтобы этому правому крылу угрожал какой-то принцип, прежде всего слабые. Вот почему борьба с сектантскими отклонениями, по мнению Комиссии, остается требованием, которое требует больше средств, новых усилий по информированию общества и осведомленности на международном уровне. Комиссия твердо осознает, что традиция противоречий между свободой совести и общественным порядком в вопросе сектантской деятельности абсолютно неудобна. Речь идет не о противодействии этим двум принципам, а о освещении их сложностей. Сохранение свободы совести не может основываться на игнорировании основной индивидуальной свободы: свободы передвижения, владения имуществом и пользования им, заботы о собственном теле и здоровье, защиты от злоупотребления властью, защиты отстранения от своих моральных и материальных интересов. Работая над этой свободой на стороне сектантского населения, более строго преследуемого и наказуемого, Комиссия стремится гарантировать свободу совести и выражения мнений, которые лежат в отношении прав человека.
+По итогам своей работы Комиссия должна признать, что явление сектантства, вероятно, надолго укоренилось в наших обществах. Оно выражает неизбежные дисфункции и иногда является предохранительным клапаном, через который находит выход неустранимая маргинальность. Право на отличие также должно быть сохранено. Однако нельзя допускать, чтобы осуществление этого права могло угрожать некоторым принципам, прежде всего праву на защиту наиболее слабых. Поэтому борьба с сектантскими отклонениями остаётся, с точки зрения Комиссии, требованием, которое требует более адекватных средств, нового усилия по информированию общества и осознания на международном уровне. Комиссия убеждена, что традиционно выдвигаемое противоречие между свободой совести и общественным порядком в вопросах сектантской деятельности совершенно неэффективно. Речь не о противопоставлении этих двух принципов, а, напротив, о выявлении их взаимодополняемости. Сохранение свободы совести не может, действительно, опираться на незнание основных индивидуальных свобод: свободы передвижения, права владеть имуществом и пользоваться им, заботы о теле и здоровье, защиты от злоупотребления властью, защиты от посягательств на свои моральные и материальные интересы… Работая над тем, чтобы атаки на эти свободы со стороны сектантских отклонений преследовались и наказывались более эффективно, Комиссия намерена тем самым гарантировать свободы совести и выражения мнений, которые находятся в самом центре уважения к правам человека.
 
 ---
 
 (Страница 254)
 
-## Исход памяти
+## СИНТЕЗ ПРОПОЗИЦИЙ КОМИССИИ
+(номера отсылают к страницам доклада)
 
-(цены лицензий)
+### 1. Изменения в статусе ассоциаций:
 
-### 1.Изменения в ассоциации:
+- renforcer la démocratie à l’intérieur des associations : par l’obligation, au-delà d’un certain budget qui pourrait être fixé à 500.000 francs, de procéder à au moins une assemblée générale annuelle et d’établir un rapport moral et financier à l’intention des membres (p. 51 et 52) ;
+- soumettre les structures associatives ayant un certain poids économique – par exemple, celles dont le budget annuel est supérieur à 500.000 francs – à des obligations minimales de déclaration (compte de résultat et bilan) (p. 51 et 52) ;
+- mettre à profit le report de l’application de l’instruction du 15 septembre 1998 relative à la fiscalité des associations, pour prendre en considération les risques d’utilisation des nouvelles règles dans un sens favorable au développement du phénomène sectaire (p. 60).
 
--   укрепление демократии внутри ассоциаций: путем введения пошлины, превышения определенного бюджета, который может быть установлен в размере 500 000 франков, по крайней мере, одного года общего собрания и создания отчета о деятельности и финансовой отчетности для членов (статьи 51 и 52);
--   на структуры ассоциаций, оказывающие некоторое экономическое воздействие, например, на те, чей годовой бюджет превышает 500 000 франков, минимальную ответственность по отчетности (финансовый отчет и баланс);
--   Используйте краткое применение инструкций от 15 сентября 1998 года к налоговым ассоциациям, чтобы включить риски использования новых правил в направлении, подходящем для развития секционных явлений (ст. 60).
+### 2. Применение закона от 9 декабря 1905 года о разделении церквей и государства:
 
-### 2.Применяя с 9 декабря 1905 года закон об отделении церкви от государства:
+- rappeler, par voie de circulaire à l’attention des préfets et de l’ensemble des services concernés, les principes de la séparation entre les églises et l’Etat, et les critères de l’association cultuelle définis par le Conseil d’Etat, ainsi que l’application qu’il en a faite dans le cas des Témoins de Jéhovah (p. 71) ;
+- appeler l’attention des pouvoir publics sur la nécessité de fixer désormais quelques règles générales pour l’affiliation au régime de protection sociale des cultes (p. 75).
 
--   Отметьте в адрес префекта и все соответствующие службы об отделении церкви от государства, критерии религиозного объединения, определенные Госсоветом, а также применяемые в случае Иеговы (ст. 71).
--   В центре внимания государственных органов находится выработка общей политики присоединения к системе социальной защиты религиозных организаций (с. 75).
+### 3. Изменения в законодательстве, касающемся финансирования политической жизни:
 
-### 3\. Изменение закона о финансировании политической жизни:
+- soumettre le bénéfice de la première fraction de l’aide budgétaire annuelle à l’obtention d’un seuil de voix aux dernières élections législatives (p. 84) ;
+- réserver l’accès à la campagne radiotélévisée aux formations politiques qui ont désigné un représentant national parrainé par un nombre minimum d’élus locaux (p. 84).
 
--   предоставление первой части ежегодной бюджетной помощи при получении определенного порога голосов на последних парламентских выборах (С.84);
--   обеспечить доступ к радио- и телекампаниям политическому союзу, который назначил национального представителя, поддержанного минимальным числом местных депутатов.
+### 4. Организация сектора социальных дел и здравоохранения:
 
-### 4\. Организация социальных дел и сектор здравоохранения:
+- diffuser à l’ensemble des services publics et des professionnels de santé un guide pratique identifiant les points de vulnérabilité aux sectes dans le monde médico-social (p. 128) ;
+- centraliser l’information sur les sanctions prises par les institutions ordinales des professions de santé и sur les procédures judiciaires en cours (p. 128) ;
+- faire désigner, par l’Ordre des médecins, un représentant auprès de la Mission interministérielle de lutte contre les sectes (p. 128) ;
+- étudier une éventuelle procédure d’agrément des dénominations des professions paramédicales et des auxiliaires médicaux, par une commission d’experts qui autorise l’utilisation de titres de thérapies et puisse proposer l’interdiction d’exercice de celles qui ne sont pas agréées (p. 128) ;
+- renforcer, dans les études médicales et paramédicales, l’enseignement sur :
+  - les méthodes d’accompagnement psychologique des malades (p. 129) ;
+  - la place, le rôle et les limites des professions médicales et paramédicales dans la société (p. 129) ;
+- développer, dès l’instruction primaire ou secondaire, des cours d’éducation pour la santé, l’hygiène de vie et la compréhension du schéma corporel (p. 129) ;
+- mettre en place une procédure d’agrément ou de labellisation pour les associations intervenant dans l’accompagnement et dans l’aide aux personnes hospitalisées (p. 129) ;
+- prévoir des modes de suivi thérapeutique à proposer aux anciens adeptes et les intégrer dans la formation continue des médecins (p. 129) ;
+- amplifier, notamment dans le cadre de l’éducation nationale, les campagnes de sensibilisation aux vaccins (p. 129).
 
--   распространить через все государственные службы и медицинских работников практическое руководство, которое определяет уязвимые места для секса в секторе здравоохранения.
--   централизовать информацию о санкциях, применяемых профессиональными работниками здравоохранения, и судебных процессах (ст. 128);
--   назначить представителя от коллег врачей на поиски по борьбе с сексом (пункт 128);
--   изучение возможности введения процедур для параметрических заданий и медицинских помощников для экспертной комиссии, которые позволили бы использовать терапевтические методы и предложили бы запрет на применение неутвержденных (с. 128);
--   Укрепление медицинских и военизированных учебных заведений по следующим дисциплинам:
-    -   Методы психологического суда больного. 129;
-    -   местонахождение, роль и ограничение работы общества (ст. 129);
--   Проектирование, начиная с начальной или средней школы, медицинское обучение, здоровый образ жизни и понимание телосложения (стр. 129);
--   Инициировать процедуру аккреции или сертификации ассоциаций, проводимых эскортом и с лицами, имеющими отношение к делу (см. 129);
--   прогнозирование методов терапевтического мониторинга бывших последователей и включение их в программу непрерывного обучения врачей (с. 129);
--   \- расширение, включая национальное образование, кампании по повышению осведомленности о вакцинах; 129.
+### 5. Réglementation de la formation professionnelle:
 
-### 5\. Эффективность обучения:
+- confier l’agrément et le contrôle des organismes de formation professionnelle à un établissement public administratif auquel une part de la contribution des employeurs serait affectée pour financer son fonctionnement (p. 158 et 159) ;
+- mettre fin à l’automaticité de l’exonération de TVA en la réservant aux organismes dûment agréés (p. 159) ;
+- donner explicitement à l’administration le pouvoir de retirer l’immatriculation d’un organisme lorsqu’il apparaît qu’il ne rentre pas dans le cadre de la formation professionnelle ou qu’il s’est prêté à des manoeuvres frauduleuses (p. 159) ;
+- engager une campagne de sensibilisation s’adressant aux entreprises, organisée par l’Etat et les organisations professionnelles (p. 160) ;
+- mettre au point un programme de labellisation des organismes de formation (p. 161).
 
--   Инструкция и управление государственным административным учреждением будут поручены для финансирования работодателей (пункты 158 и 159);
--   Отменить автоматическое освобождение от НДС, оставив его только соответствующим аккредитованным организациям (ст. 159);
--   Дать администрации четкие полномочия по избавлению от регистрации организации, если окажется, что она не соответствует требованиям профессионального образования или связана с мошенничеством (ст. 159);
--   Начать информационную кампанию, направленную на предприятия, организованные государственными и профессиональными организациями.
--   Разработка программы сертификации образовательных услуг (с. 161).
+### 6. Меры, направленные на улучшение борьбы с мошенничеством:
 
-### 6.Заходите, чтобы улучшить борьбу с мошенничеством:
+a) совершенствование уголовных процедур
 
-а) совершенствование уголовных процедур
+- engager une concertation sur l’opportunité de créer un délit de manipulation mentale (p. 216) ;
+- étudier, dans le strict respect du principe de la présomption d’innocence, la possibilité d’un renversement de la charge de la preuve pour les transferts de fonds les plus importants lorsqu’ils sont liés à des sectes (p. 218).
 
--   Начните консультации с целью создания «ментальной манипуляции» (ст. 216);
--   Трудно научиться, следовать принципам невинности, умению переносить бремя самых переводимых средств, если они связаны с сексом.
+b) мобилизация администрации
 
-\== Синхронизация, исправленная старшим человеком ==
+- définir, par un comité interministériel, sous l’autorité du Premier ministre et avec l’assistance technique de la Mission interministérielle de lutte contre les sectes, le cadre général de l’action de l’Etat précisée par circulaire de chaque ministère (p. 249) ;
+- prévoir la représentation des établissements financiers à la Mission interministérielle de lutte contre les sectes (p. 182) ;
+- mettre à l’étude la création de structures départementales rattachées à la Mission interministérielle de lutte contre les sectes ayant pour tâches (p. 249) :
+  - de constituer un centre d’information du public, des entreprises et des établissements financiers dans chaque préfecture ;
+  - d’orienter et de conseiller les victimes anciens adeptes et leurs familles ;
+  - de fournir aux administrations concernées les informations nécessaires à leur action ;
+  - de collecter, en retour, toutes les informations en provenance des administrations sur l’activité sectaire dans le département ;
+- réfléchir à la possibilité de créer, dans le ressort de chaque cour d’appel, un poste de magistrat spécialement formé pour traiter des questions sectaires. Cette fonction constituerait un complément utile à la fonction exercée par l’actuel correspondant sectes auprès du Parquet (p. 250 et 251) ;
+- engager une concertation au sein de l’Union européenne pour déboucher sur une convention spécifique à la lutte contre les sectes (p. 251) ;
+- engager une action diplomatique au niveau du Conseil de l’Europe sur les dangers du sectarisme, sur la présence de sectes au sein d’organisations non gouvernementales affichant une vocation humanitaire et sur les risques créés par la convention de 1986 (p. 92).
 
--   \- определение, используя принудительный комитет под руководством Премьер-министра и техническое содействие в перемещении сексуальной активности, общей границы действия государства в цирке каждого министерства (ст. 249);
--   прогнозирование представительства финансовых учреждений в межполовых миссиях (с. 182);
--   Научитесь создавать отдел секретов, связанные между собой миссии по борьбе с сексом, с которыми можно (ст. 249):
-    -   создать в каждом префектуре центр общественной осведомленности, предпринимательства и финансовых институтов;
-    -   Ведите консультации и консультации с жертвами, бывшими учениками и их семьями;
-    -   предоставление соответствующей административной информации, необходимой для их деятельности;
-    -   Построить, в свою очередь, всю информацию от администрации о половой активности в отделе;
--   Рассмотрим возможность создания в рамках каждого апелляционного отдела постов специально подготовленных к культовым вопросам магистралей. Эта функция станет полезным дополнением к функции, выполняемой текущим секвенсором на патче (см. 250 и 251).
--   Начните консультации в Европейском Союзе, чтобы принять участие в специальном конкурсе по борьбе с сексом (ст. 251).
--   Начать дипломатические действия в Совете Европы в отношении гендерной опасности, присутствия гендерной проблематики в неправительственных организациях, подтверждения гуманитарных намерений и рисков, созданных правилом 1986 года.
+### 7. Suivi des propositions:
 
-### 7\. Контроль положения:
-
-Отправляйтесь в правительство с просьбой о пережитой миссии по борьбе с сексом, подготовьте меры для выполнения вышеуказанных позиций.
+demander au Gouvernement de charger la Mission interministérielle de lutte contre les sectes de préparer les mesures d’application des propositions ci-dessus.

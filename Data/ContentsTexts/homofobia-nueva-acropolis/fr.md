@@ -1,31 +1,31 @@
 # Homophobie dans la Nouvelle Acropole
 
-> Prenez le Hachado, si c'est un gentleman, une présence virile, et si c'est une dame, une présence féminine. Le contraire est contraire à la nature et nous sommes liés au sous-monde des homosexuels et des lesbiennes.
-> 
-> \- Oui. *Manuel de courtoisie Acropolis*
+> Ayez le Hachado, si vous êtes un chevalier, une présence virile, et si vous êtes une dame, une présence féminine. Le contraire est contraire à la Nature et nous rapproche du sous-monde des homosexuels et des lesbiennes.
+>
+> — *Manuel de courtoisie acropoliste*
 
-> Il y a quelques années, j'ai publié, à partir de ces pages, mes idées sur la nécessité de protéger la Nouvelle Acropole d'une menace de plus en plus dangereuse : l'homosexualité et la toxicomanie.
-> 
-> L'homosexualité et la toxicomanie ne sont pas une maladie ou une nécessité, mais un vice mortel que toute personne physique et décente est obligée de combattre.
-> 
-> \- Oui. *Almena n° 53: Aux Mesdames et Messieurs du monde entier. Jorge Ángel Livraga*
+> Il y a quelques années, j'ai publié, depuis ces mêmes pages, mes idées sur la nécessité de protéger la Nouvelle Acropole d'une menace qui devenait de plus en plus dangereuse : l'homosexualité et la toxicomanie.
+>
+> L'homosexualité et la toxicomanie ne sont pas une maladie ni une nécessité, mais un vice mortel que toute personne naturelle et décente est obligée de combattre.
+>
+> — *Almena nº 53: Aux dames et messieurs Hachados du monde entier. Jorge Ángel Livraga*
 
-> Le comportement devient multivalent ; tout est bon et a sa justification. Les pervers et les lesbiennes proclament leur état avec de grandes bannières dans les rues des capitales principales de la planète, et les criminels enfermés dans les prisons sont appelés "marginalized".
-> 
-> \- Oui. *Bastion no 106-1: Cancer rose. Jorge Ángel Livraga*
+> Le comportement devient polyvalent ; tout est bon et trouve sa justification. Les invertis et les lesbiennes proclament leur condition avec de grandes banderoles dans les rues des principales capitales de la planète, et les criminels enfermés dans les prisons sont appelés « marginados ».
+>
+> — *Bastión nº 106-1: Le cancer rose. Jorge Ángel Livraga*
 
-> Dans certains pays, les réactionnaires du « vieux monde » ont rejeté leurs masques de liens libéraux et infligé des amendes à nos affiches tout en « laissant tomber » les lesbiennes et les terroristes.
-> 
-> \- Oui. *Bastion no 23-1: L'option. Jorge Ángel Livraga*
+> Dans certains Pays, les réactionnaires du « vieux monde » ont abandonné leurs masques de libéralité et verbalisent nos affiches tout en « laissant passer » celles des lesbiennes et des terroristes.
+>
+> — *Bastión nº 23-1: L'option. Jorge Ángel Livraga*
 
-> Le vol, le mensonge, les coutumes immorales (la toxicomanie, l'alcoolisme, l'homosexualité, la prostitution, le jeu, et bien d'autres souvent soulignés) ne correspondent pas à nos rangs. Nos moyens doivent être conformes à nos buts et à nos principes.
-> 
-> \- Oui. *Commandement 95 : Cohérence. Delia Steinberg*
+> Le vol, le mensonge, les mœurs immorales (la toxicomanie, l'alcoolisme, l'homosexualité, la prostitution, le goût du jeu, et tant d'autres souvent signalés) n'ont pas leur place dans nos rangs. Nos moyens doivent être en accord avec nos fins et nos principes.
+>
+> — *Mando nº 95: Cohérence. Delia Steinberg*
 
-> (...) où les femmes fragiles trouvent des jeans rustiques et des bottes d'équitation... même pour donner un concert de piano. Et là où les hommes aiment les afeites, les massages soyeux, les chemises "unisexes" et ils y entrent quand ils dansent comme des danzarines hawaïennes, alors qu'ils craignent d'avoir une arme dans leurs mains et ils ne savent même pas manier un marteau. Tout cela a causé le chaos dans lequel nous devons vivre, avec ses séquelles de drogues, de mœurs, d'homosexualités et de lâches égoïstes.
-> 
-> \- Oui. *Bastion n° 154-2: Mesdames et Messieurs, sommes-nous les mêmes? Jorge Ángel Livraga*
+> (...) où de fragiles demoiselles enfilent des jeans rustiques et des bottes d'équitation... même pour donner un concert de piano. Et où les hommes apprécient les artifices, les massages soyeux, les chemises « unisexes » et se trémoussent en dansant comme s'ils étaient des danseuses hawaïennes, tout en craignant d'avoir une arme à la main et ne sachant même pas manier un marteau. Tout cela a provoqué le chaos dans lequel nous devons vivre, avec ses séquelles de drogués, d'ivrognes, d'homosexuels et d'égoïstes lâches.
+>
+> — *Bastión nº 154-2: Mesdames et Messieurs, sommes-nous égaux ? Jorge Ángel Livraga*
 
-> Dans notre Mouvement, nous ne vous demandons pas d'être moraliste, mais essayez d'être aussi moral que possible. Ne donnez à personne un mauvais exemple et ne concentrez pas votre âme sur les boues de corruption. Éloignez-vous des drogues, des homosexuels, des voleurs, des violents, des lâches, des haragans, des politiciens, des fanatiques.
-> 
-> \- Oui. *Bastion No 30-1: Conseils pour les nouveaux acropolitains. Jorge Ángel Livraga*
+> Dans notre Mouvement nous ne te demandons pas d'être un moraliste ; mais essaie d'être le plus moral possible. Ne donne le mauvais exemple à personne et n'enfouis pas ton Âme dans les boues de la corruption. Éloigne-toi des drogues, des homosexuels, des voleurs, des violents, des lâches, des paresseux, des politiciens de bas étage, des fanatiques.
+>
+> — *Bastión nº 30-1: Conseils pour les nouveaux acropolistes. Jorge Ángel Livraga*

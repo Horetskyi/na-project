@@ -1,17 +1,17 @@
 # Apokalyptické nápady
 
-> Odhlédneme-li od apokalyptických mýtů zmiňovaných v roce 2000 - chronologie, která postihuje pouze křesťany, menšinovou skupinu na světě - faktem je, že v polovině prvního století Akvária jsou vyhlídky tmavší. Astrologické pozice a výskyt neobvyklých slunečních skvrn jsou zdrojem vážného nesouladu v lidstvu, zejména na psychické úrovni. V mrazivých vodách Vodnáře se zastavuje prudká bouře, kde bylo dosud mnoho hospodářských, politických a náboženských prvků a faktorů poměrně pevné.
+> Odloživ apokalyptické mýty týkající se roku 2000 – chronologie, která postihuje pouze křesťany, menšinovou skupinu ve světě – faktem je, že v polovině prvního století Éry Vodnáře se vyhlídky zhoršují. Astrologické pozice a výskyt neobvyklých slunečních skvrn předpovídají vážné rozvraty v lidstvu, zvláště na psychické úrovni. Nad mrazivými vodami Vodnáře se vznáší zuřivá bouře, při níž se potopí mnoho ekonomických, politických a náboženských prvků a faktorů, dosud považovaných za relativně pevné.
 > 
-> Trocha řeči o šílenství obtěžuje lidstvo a my musíme být připraveni čelit největším poruchám.
+> Nádech šílenství sužuje lidstvo a musíme být připraveni čelit nejzávažnějším rozvratům.
 > 
-> Na individuální úrovni budou také ethers, kteří pokrývají a chrání naše spodní těla, podrobeni tvrdým testům, takže doporučuji, abyste se zaměřili na naprosto protidrogové názory a mezi Akropolitany na snížení spotřeby tabáku a alkoholu a zvýšení hygieny ve všech ohledech.
+> Na individuální úrovni budou také étery, které pokrývají a chrání naše nižší těla, podrobeny tvrdým zkouškám, proto vám doporučuji kanálizovat proudy veřejného mínění zcela proti drogám a mezi akropolisty snížení spotřeby tabáku a alkoholu a zvýšení hygieny ve všech ohledech.
 > 
-> Obřad musí být zachován, ale střídavě nebo spojován s prací a úsilím, které nám "ztvrdnou" a činí nás odolnými vůči nepřízni osudu a útokům.
+> Obřady musí být zachovány, ale střídány nebo spojovány s prací a úsilím, které nás «ztvrdí» a učiní odolnými vůči nepřízni osudu a útokům.
 > 
-> Ekonomická část a všechny možné prvky přežití musí být také posíleny: blížíme se barbarskému období, kdy slabí zmizí z divadla dějin. Musíme být silní a vzdělávat naše lidi v síle a čistotě, neboť mladší lidé budou tyto zdroje moci potřebovat, aby tento nový pokus o vytvoření modulu šesté podrasy páté rasy neselhal, aniž by zanechali alespoň hluboké stopy, které mohou budoucí cestovatelé sledovat.
+> Také je třeba posílit ekonomickou stránku a všechny možné prvky přežití: blížíme se k barbarskému období, v němž slabí zmizí ze scény dějin. Musíme být silní a vychovávat naše lidi v síle a čistotě, neboť mladší budou potřebovat tyto prameny moci, aby tento nový pokus o ustavení modulu šesté podrasy páté rasy nezkrachoval, aniž by alespoň zanechal hluboké stopy, které budou moci budoucí cestovatelé sledovat.
 > 
-> Vidíte, že v obou ohledech musíme obnovit naši Intusivitu a vnitřní moc, abychom překonali velmi pravděpodobné potíže, které překonáte jako mytologický drak, nám umožní přístup k věku většího světla.
+> Vidíte tedy, že v obou ohledech musíme obnovit náš Entusiasmo a Vnitřní Moc, abychom překonali velmi pravděpodobné obtíže, které, poražené jako mytologický drak, nám umožní přístup do Éry Většího Světla.
 > 
-> Nemáme čas zvažovat malé problémy osobnosti tím, že nás do ní zapojíme. Musíme mluvit jasně a silně. Musím být nebo nejsem.
+> Nemáme čas zabývat se drobnými problémy osobnosti tím, že se jim staneme komplici. Je třeba mluvit jasně a silně. JE TŘEBA BÝT NEBO NEBÝT.
 > 
-> \- *Příkaz č. 52: Pozor na změny a události. Jorge Ángel Livraga*
+> — *Příkaz č. 52: Pozor na změny a události. Jorge Ángel Livraga*
